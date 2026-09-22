@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artists — Painting Cabinet</title>
+  <style>
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      background: #11100e;
+      color: #e8dcc8;
+      font-family: Georgia, "Times New Roman", serif;
+    }
+    header, main { max-width: 720px; margin: 0 auto; padding: 24px 20px; }
+    a { color: #d4c09a; }
+    h1 { font-weight: normal; }
+    input {
+      width: 100%;
+      box-sizing: border-box;
+      margin: 0 0 1rem;
+      padding: 8px;
+      background: #2a261f;
+      color: #e8dcc8;
+      border: 1px solid #4a4338;
+      font-family: inherit;
+    }
+    ul { list-style: none; padding: 0; columns: 2; gap: 24px; }
+    li { break-inside: avoid; margin: 0 0 6px; }
+    @media (max-width: 640px) { ul { columns: 1; } }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a> ·
+      <a href="artists.html">Artists</a> ·
+      <a href="viewer.html">Viewer</a> ·
+      <a href="about.html">About</a>
+    </nav>
+    <h1 id="heading">Artists</h1>
+    <p id="meta"></p>
+    <input id="search" type="search" placeholder="Filter names">
+  </header>
+  <main>
+    <ul id="list"></ul>
+  </main>
+  <script>
+    const labels = {
+      flemish: "Flemish",
+      dutch: "Dutch",
+      french: "French",
+      spanish: "Spanish"
+    };
+    const school = new URLSearchParams(location.search).get("school") || "";
+    const heading = document.getElementById("heading");
+    const meta = document.getElementById("meta");
+    const list = document.getElementById("list");
+    const search = document.getElementById("search");
+    let names = [];
+
+    function wikiUrl(artist) {
+      return "https://en.wikipedia.org/wiki/" + encodeURIComponent(artist.name).replace(/%20/g, "_");
+    }
+
+    function render(filter) {
+      const q = (filter || "").toLowerCase();
+      list.innerHTML = "";
+      names.filter(function (artist) {
+        return !q || artist.name.toLowerCase().indexOf(q) !== -1;
+      }).forEach(function (artist) {
+        const item = document.createElement("li");
+        item.innerHTML = "<a href='" + wikiUrl(artist) + "' target='_blank' rel='noopener'>" +
+          artist.name + "</a>";
+        list.appendChild(item);
+      });
+    }
+
+    fetch("../data/artists.json")
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        names = (data.artists || []).filter(function (artist) {
+          return artist.school === school;
+        });
+        names.sort(function (a, b) {
+          return a.name.localeCompare(b.name);
+        });
+        const label = labels[school] || school || "Artists";
+        heading.textContent = label + " painters";
+        document.title = label + " — Painting Cabinet";
+        meta.textContent = names.length + " artists";
+        render("");
+      });
+
+    search.addEventListener("input", function () {
+      render(search.value);
+    });
+  </script>
+</body>
+</html>

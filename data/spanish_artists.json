@@ -1,0 +1,3358 @@
+{
+  "artists": [
+    {
+      "id": "Q2711324",
+      "name": "Alejo Fern\u00e1ndez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2711324"
+    },
+    {
+      "id": "Q8199365",
+      "name": "Andr\u00e9s Marzal de Sas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8199365"
+    },
+    {
+      "id": "Q4891945",
+      "name": "Arnau Bassa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4891945"
+    },
+    {
+      "id": "Q551241",
+      "name": "Bartolom\u00e9 Bermejo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q551241"
+    },
+    {
+      "id": "Q705421",
+      "name": "Bernat Martorell",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q705421"
+    },
+    {
+      "id": "Q3297636",
+      "name": "Blasco de Gra\u00f1\u00e9n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3297636"
+    },
+    {
+      "id": "Q5274727",
+      "name": "Diego L\u00f3pez (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5274727"
+    },
+    {
+      "id": "Q8559896",
+      "name": "Diego de la Cruz (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8559896"
+    },
+    {
+      "id": "Q970660",
+      "name": "Fernando Gallego",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q970660"
+    },
+    {
+      "id": "Q769717",
+      "name": "Ferrer Bassa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q769717"
+    },
+    {
+      "id": "Q18633127",
+      "name": "Francisco de Osona",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q18633127"
+    },
+    {
+      "id": "Q1626922",
+      "name": "Gonzalo P\u00e9rez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1626922"
+    },
+    {
+      "id": "Q11042591",
+      "name": "Jaime L\u00f3pez (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q11042591"
+    },
+    {
+      "id": "Q4888061",
+      "name": "Jaume Mateu",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4888061"
+    },
+    {
+      "id": "Q3322222",
+      "name": "Jaume Serra (artist)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3322222"
+    },
+    {
+      "id": "Q1562116",
+      "name": "Joan Daurer",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1562116"
+    },
+    {
+      "id": "Q525755",
+      "name": "Jorge Ingl\u00e9s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q525755"
+    },
+    {
+      "id": "Q16146199",
+      "name": "Juan Alfon",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16146199"
+    },
+    {
+      "id": "Q3820694",
+      "name": "Juan S\u00e1nchez de Castro",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3820694"
+    },
+    {
+      "id": "Q3781136",
+      "name": "Juan de Borgo\u00f1a",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3781136"
+    },
+    {
+      "id": "Q512863",
+      "name": "Juan de Flandes",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q512863"
+    },
+    {
+      "id": "Q16585338",
+      "name": "Juan de Nalda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16585338"
+    },
+    {
+      "id": "Q3821034",
+      "name": "Juan de la Abad\u00eda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3821034"
+    },
+    {
+      "id": "Q1393857",
+      "name": "Llu\u00eds Borrass\u00e0",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1393857"
+    },
+    {
+      "id": "Q723863",
+      "name": "Llu\u00eds Dalmau",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q723863"
+    },
+    {
+      "id": "Q1443847",
+      "name": "Lu\u00eds Alimbrot",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1443847"
+    },
+    {
+      "id": "Q3821456",
+      "name": "Mart\u00edn Bernat",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3821456"
+    },
+    {
+      "id": "Q1918643",
+      "name": "Master of 1342",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1918643"
+    },
+    {
+      "id": "Q978117",
+      "name": "Master of Arguis",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q978117"
+    },
+    {
+      "id": "Q15623404",
+      "name": "Master of La Sisla",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q15623404"
+    },
+    {
+      "id": "Q16203570",
+      "name": "Master of the Cypresses",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16203570"
+    },
+    {
+      "id": "Q16201451",
+      "name": "Master of the Retablo of the Reyes Catolicos",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16201451"
+    },
+    {
+      "id": "Q1276407",
+      "name": "Master of \u00c1vila",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1276407"
+    },
+    {
+      "id": "Q5576608",
+      "name": "Nicol\u00e1s Franc\u00e9s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5576608"
+    },
+    {
+      "id": "Q561783",
+      "name": "Pedro Berruguete",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q561783"
+    },
+    {
+      "id": "Q2661403",
+      "name": "Pere Serra",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2661403"
+    },
+    {
+      "id": "Q1762494",
+      "name": "Ram\u00f3n Destorrents",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1762494"
+    },
+    {
+      "id": "Q9070303",
+      "name": "Rodrigo de Osona",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9070303"
+    },
+    {
+      "id": "Q11287651",
+      "name": "Vicente Juan Masip",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q11287651"
+    },
+    {
+      "id": "Q1287248",
+      "name": "Vicente Masip",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1287248"
+    },
+    {
+      "id": "Q399529",
+      "name": "Agust\u00edn del Castillo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q399529"
+    },
+    {
+      "id": "Q114357",
+      "name": "Alonso Berruguete",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q114357"
+    },
+    {
+      "id": "Q24937385",
+      "name": "Alonso de Narv\u00e1ez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q24937385"
+    },
+    {
+      "id": "Q4760292",
+      "name": "Andr\u00e9s de la Concha",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4760292"
+    },
+    {
+      "id": "Q959389",
+      "name": "Antonio del Rinc\u00f3n (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q959389"
+    },
+    {
+      "id": "Q2636199",
+      "name": "Ayne Bru",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2636199"
+    },
+    {
+      "id": "Q4852622",
+      "name": "Baltasar de Echave",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4852622"
+    },
+    {
+      "id": "Q809536",
+      "name": "Bartolomeo Carducci",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q809536"
+    },
+    {
+      "id": "Q5721381",
+      "name": "Bartolom\u00e9 Gonz\u00e1lez y Serrano",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5721381"
+    },
+    {
+      "id": "Q568343",
+      "name": "Bartolom\u00e9 de C\u00e1rdenas (painter died 1628)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q568343"
+    },
+    {
+      "id": "Q5186462",
+      "name": "Crist\u00f3bal Llor\u00e9ns",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5186462"
+    },
+    {
+      "id": "Q5186532",
+      "name": "Crist\u00f3bal de Acevedo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5186532"
+    },
+    {
+      "id": "Q5274852",
+      "name": "Diego de Aguilar",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5274852"
+    },
+    {
+      "id": "Q5274857",
+      "name": "Diego de Arroyo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5274857"
+    },
+    {
+      "id": "Q301",
+      "name": "El Greco",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q301"
+    },
+    {
+      "id": "Q3059605",
+      "name": "Eugenio Cax\u00e9s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3059605"
+    },
+    {
+      "id": "Q10866591",
+      "name": "Fabrizio Castello",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q10866591"
+    },
+    {
+      "id": "Q776171",
+      "name": "Fernando Y\u00e1\u00f1ez de la Almedina",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q776171"
+    },
+    {
+      "id": "Q11922925",
+      "name": "Francesco Pagano",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q11922925"
+    },
+    {
+      "id": "Q454912",
+      "name": "Francisco Herrera the Elder",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q454912"
+    },
+    {
+      "id": "Q3820602",
+      "name": "Francisco de Amberes",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3820602"
+    },
+    {
+      "id": "Q5484124",
+      "name": "Francisco de Comontes",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5484124"
+    },
+    {
+      "id": "Q712391",
+      "name": "Gaspar Becerra",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q712391"
+    },
+    {
+      "id": "Q5690450",
+      "name": "Hernando de \u00c1vila",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5690450"
+    },
+    {
+      "id": "Q5646065",
+      "name": "Juan Correa de Vivar",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5646065"
+    },
+    {
+      "id": "Q332178",
+      "name": "Juan Rexach",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q332178"
+    },
+    {
+      "id": "Q5984509",
+      "name": "Luis de Carvajal (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5984509"
+    },
+    {
+      "id": "Q9029840",
+      "name": "Mart\u00edn de Soria",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9029840"
+    },
+    {
+      "id": "Q2882729",
+      "name": "Miguel Barroso",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2882729"
+    },
+    {
+      "id": "Q10963043",
+      "name": "Niccol\u00f2 Granello",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q10963043"
+    },
+    {
+      "id": "Q6745733",
+      "name": "Nicol\u00e1s Borr\u00e1s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6745733"
+    },
+    {
+      "id": "Q2293488",
+      "name": "Nicol\u00e1s Factor",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2293488"
+    },
+    {
+      "id": "Q3355143",
+      "name": "Orazio Cambiasi",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3355143"
+    },
+    {
+      "id": "Q707370",
+      "name": "Pablo de C\u00e9spedes",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q707370"
+    },
+    {
+      "id": "Q2066867",
+      "name": "Pedro Campa\u00f1a",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2066867"
+    },
+    {
+      "id": "Q18180885",
+      "name": "Pedro Romana",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q18180885"
+    },
+    {
+      "id": "Q3374128",
+      "name": "Pedro S\u00e1nchez de Castro",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3374128"
+    },
+    {
+      "id": "Q7160058",
+      "name": "Pedro de las Cuevas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7160058"
+    },
+    {
+      "id": "Q2165341",
+      "name": "Romulo Cincinato",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2165341"
+    },
+    {
+      "id": "Q369521",
+      "name": "Vincenzo Carducci",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q369521"
+    },
+    {
+      "id": "Q503386",
+      "name": "Alonso S\u00e1nchez Coello",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q503386"
+    },
+    {
+      "id": "Q4734490",
+      "name": "Alonso V\u00e1zquez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4734490"
+    },
+    {
+      "id": "Q4755241",
+      "name": "Andrea Ramirez (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4755241"
+    },
+    {
+      "id": "Q5675908",
+      "name": "Andr\u00e9s L\u00f3pez Polanco",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5675908"
+    },
+    {
+      "id": "Q4776810",
+      "name": "Antonio Mohedano",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4776810"
+    },
+    {
+      "id": "Q5721420",
+      "name": "Bartolom\u00e9 Rom\u00e1n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5721420"
+    },
+    {
+      "id": "Q4888108",
+      "name": "Benito Manuel Ag\u00fcero",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4888108"
+    },
+    {
+      "id": "Q3816929",
+      "name": "Blas de Prado",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3816929"
+    },
+    {
+      "id": "Q5186469",
+      "name": "Cristobal de Vera",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5186469"
+    },
+    {
+      "id": "Q100905284",
+      "name": "Crist\u00f3bal Ram\u00edrez (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q100905284"
+    },
+    {
+      "id": "Q5274773",
+      "name": "Diego Polo the Elder",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5274773"
+    },
+    {
+      "id": "Q338800",
+      "name": "Francesc Ribalta",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q338800"
+    },
+    {
+      "id": "Q5483616",
+      "name": "Francisco L\u00f3pez (16th-century painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483616"
+    },
+    {
+      "id": "Q5483612",
+      "name": "Francisco L\u00f3pez (17th-century painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483612"
+    },
+    {
+      "id": "Q5483590",
+      "name": "Francisco L\u00f3pez Caro",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483590"
+    },
+    {
+      "id": "Q365989",
+      "name": "Francisco Pacheco",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q365989"
+    },
+    {
+      "id": "Q10285193",
+      "name": "Francisco Venegas (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q10285193"
+    },
+    {
+      "id": "Q5484090",
+      "name": "Francisco de Aguirre (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5484090"
+    },
+    {
+      "id": "Q1406889",
+      "name": "Hernando de los Llanos",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1406889"
+    },
+    {
+      "id": "Q6185658",
+      "name": "Jer\u00f3nimo Rodriguez de Espinosa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6185658"
+    },
+    {
+      "id": "Q2555566",
+      "name": "Juan Bautista Ma\u00edno",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2555566"
+    },
+    {
+      "id": "Q1710465",
+      "name": "Juan Fern\u00e1ndez Navarrete",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1710465"
+    },
+    {
+      "id": "Q1380081",
+      "name": "Juan Pantoja de la Cruz",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1380081"
+    },
+    {
+      "id": "Q6300850",
+      "name": "Juan Ram\u00edrez (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6300850"
+    },
+    {
+      "id": "Q9015998",
+      "name": "Juan Soreda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9015998"
+    },
+    {
+      "id": "Q919806",
+      "name": "Juan S\u00e1nchez Cot\u00e1n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q919806"
+    },
+    {
+      "id": "Q6301174",
+      "name": "Juan Zari\u00f1ena",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6301174"
+    },
+    {
+      "id": "Q5953393",
+      "name": "Juan de Pe\u00f1alosa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5953393"
+    },
+    {
+      "id": "Q3187844",
+      "name": "Juan de Uceda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3187844"
+    },
+    {
+      "id": "Q16854387",
+      "name": "Juan de Villoldo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16854387"
+    },
+    {
+      "id": "Q961382",
+      "name": "Juan de las Roelas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q961382"
+    },
+    {
+      "id": "Q703250",
+      "name": "Luis de Morales",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q703250"
+    },
+    {
+      "id": "Q2130939",
+      "name": "Luis de Vargas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2130939"
+    },
+    {
+      "id": "Q511468",
+      "name": "Maria de Abarca",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q511468"
+    },
+    {
+      "id": "Q1337287",
+      "name": "Pedro Machuca",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1337287"
+    },
+    {
+      "id": "Q2605835",
+      "name": "Pedro Orrente",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2605835"
+    },
+    {
+      "id": "Q3081071",
+      "name": "Pedro Roviale",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3081071"
+    },
+    {
+      "id": "Q2889665",
+      "name": "Pedro de Villegas Marmolejo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2889665"
+    },
+    {
+      "id": "Q11704556",
+      "name": "Tomas de Aguiar",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q11704556"
+    },
+    {
+      "id": "Q5862054",
+      "name": "Vicente Requena the Elder",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5862054"
+    },
+    {
+      "id": "Q8183883",
+      "name": "Abd\u00f3n Casta\u00f1eda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8183883"
+    },
+    {
+      "id": "Q378783",
+      "name": "Alonso Cano",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q378783"
+    },
+    {
+      "id": "Q3847756",
+      "name": "Alonso del Arco",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3847756"
+    },
+    {
+      "id": "Q15214498",
+      "name": "Andr\u00e9s Amaya",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q15214498"
+    },
+    {
+      "id": "Q4776455",
+      "name": "Antonio Bisquert",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4776455"
+    },
+    {
+      "id": "Q4776518",
+      "name": "Antonio Castrejon",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4776518"
+    },
+    {
+      "id": "Q14944433",
+      "name": "Antonio Vela Cobo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q14944433"
+    },
+    {
+      "id": "Q519379",
+      "name": "Bartolomeo Cavarozzi",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q519379"
+    },
+    {
+      "id": "Q964235",
+      "name": "Bernab\u00e9 de Ayala",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q964235"
+    },
+    {
+      "id": "Q332466",
+      "name": "Claudio Coello",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q332466"
+    },
+    {
+      "id": "Q5483072",
+      "name": "Francisco Agullo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483072"
+    },
+    {
+      "id": "Q549438",
+      "name": "Francisco Antol\u00ednez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q549438"
+    },
+    {
+      "id": "Q2397091",
+      "name": "Francisco Barrera",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2397091"
+    },
+    {
+      "id": "Q3544233",
+      "name": "Francisco Camilo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3544233"
+    },
+    {
+      "id": "Q5483239",
+      "name": "Francisco Caro",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483239"
+    },
+    {
+      "id": "Q5484103",
+      "name": "Francisco de Artiga",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5484103"
+    },
+    {
+      "id": "Q5442161",
+      "name": "F\u00e9lix Castello",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5442161"
+    },
+    {
+      "id": "Q3816978",
+      "name": "Gabriel de la Corte",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3816978"
+    },
+    {
+      "id": "Q5552441",
+      "name": "Geronimo de Bobadilla",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5552441"
+    },
+    {
+      "id": "Q1525853",
+      "name": "Giovanni Battista Crescenzi",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1525853"
+    },
+    {
+      "id": "Q3155338",
+      "name": "Isidoro Arredondo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3155338"
+    },
+    {
+      "id": "Q2470815",
+      "name": "Jos\u00e9 Antol\u00ednez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2470815"
+    },
+    {
+      "id": "Q6294285",
+      "name": "Jos\u00e9 de Cieza",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6294285"
+    },
+    {
+      "id": "Q3394876",
+      "name": "Juan Antonio Garc\u00eda de Bouzas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3394876"
+    },
+    {
+      "id": "Q15059988",
+      "name": "Juan Bautista Bayuco",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q15059988"
+    },
+    {
+      "id": "Q9015392",
+      "name": "Juan Caro de Tavira",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9015392"
+    },
+    {
+      "id": "Q833224",
+      "name": "Juan Carre\u00f1o de Miranda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q833224"
+    },
+    {
+      "id": "Q5649176",
+      "name": "Juan Conchillos Falco",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5649176"
+    },
+    {
+      "id": "Q2388565",
+      "name": "Juan de Alfaro y G\u00e1mez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2388565"
+    },
+    {
+      "id": "Q332045",
+      "name": "Juan de Arellano",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q332045"
+    },
+    {
+      "id": "Q14944526",
+      "name": "Juan de Espinosa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q14944526"
+    },
+    {
+      "id": "Q2571060",
+      "name": "Juan de la Corte",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2571060"
+    },
+    {
+      "id": "Q6787421",
+      "name": "Mat\u00edas de Arteaga y Alfaro",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6787421"
+    },
+    {
+      "id": "Q6844523",
+      "name": "Miguel Danus",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6844523"
+    },
+    {
+      "id": "Q6844618",
+      "name": "Miguel Jer\u00f3nimo de Cieza",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6844618"
+    },
+    {
+      "id": "Q15056689",
+      "name": "Miquel Bestard",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q15056689"
+    },
+    {
+      "id": "Q9093249",
+      "name": "Mosen Vicente Bru",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9093249"
+    },
+    {
+      "id": "Q5787866",
+      "name": "Pedro Atanasio Bocanegra",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5787866"
+    },
+    {
+      "id": "Q7160029",
+      "name": "Pedro de Campolargo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7160029"
+    },
+    {
+      "id": "Q3374150",
+      "name": "Pedro de Camprob\u00edn",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3374150"
+    },
+    {
+      "id": "Q4694683",
+      "name": "Agust\u00edn Leonardo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4694683"
+    },
+    {
+      "id": "Q4734481",
+      "name": "Alonso Miguel de Tovar",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4734481"
+    },
+    {
+      "id": "Q4756122",
+      "name": "Andr\u00e9s Leyto",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4756122"
+    },
+    {
+      "id": "Q3619201",
+      "name": "Antonio Fern\u00e1ndez Arias",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3619201"
+    },
+    {
+      "id": "Q5698430",
+      "name": "Antonio Garc\u00eda Reinoso",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5698430"
+    },
+    {
+      "id": "Q4777061",
+      "name": "Antonio de Lanchares",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4777061"
+    },
+    {
+      "id": "Q4925290",
+      "name": "Blas de Ledesma",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4925290"
+    },
+    {
+      "id": "Q5806049",
+      "name": "Diego D\u00edez Ferreras",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5806049"
+    },
+    {
+      "id": "Q5274835",
+      "name": "Diego Valent\u00edn D\u00edaz",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5274835"
+    },
+    {
+      "id": "Q5274868",
+      "name": "Diego de Leyva",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5274868"
+    },
+    {
+      "id": "Q5858166",
+      "name": "Felipe Diricksen",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5858166"
+    },
+    {
+      "id": "Q5398458",
+      "name": "Felipe Gil de Mena",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5398458"
+    },
+    {
+      "id": "Q5483366",
+      "name": "Francisco Fern\u00e1ndez (artist)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483366"
+    },
+    {
+      "id": "Q732537",
+      "name": "Francisco Herrera the Younger",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q732537"
+    },
+    {
+      "id": "Q5483573",
+      "name": "Francisco Leonardoni",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483573"
+    },
+    {
+      "id": "Q5526566",
+      "name": "Gaspar de la Huerta",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5526566"
+    },
+    {
+      "id": "Q5823975",
+      "name": "Ignacio de Iriarte",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5823975"
+    },
+    {
+      "id": "Q5992489",
+      "name": "Ignacio de Le\u00f3n Salcedo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5992489"
+    },
+    {
+      "id": "Q3496858",
+      "name": "Jer\u00f3nimo Jacinto de Espinosa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3496858"
+    },
+    {
+      "id": "Q2881237",
+      "name": "Joaquim Juncosa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2881237"
+    },
+    {
+      "id": "Q11040687",
+      "name": "Jos\u00e9 Garc\u00eda Hidalgo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q11040687"
+    },
+    {
+      "id": "Q9013948",
+      "name": "Jos\u00e9 Jim\u00e9nez Donoso",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9013948"
+    },
+    {
+      "id": "Q5655766",
+      "name": "Jos\u00e9 Leonardo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5655766"
+    },
+    {
+      "id": "Q9014927",
+      "name": "Jos\u00e9 de Ledesma",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9014927"
+    },
+    {
+      "id": "Q330815",
+      "name": "Juan Bautista de Espinosa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q330815"
+    },
+    {
+      "id": "Q5949425",
+      "name": "Juan Fern\u00e1ndez el Labrador",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5949425"
+    },
+    {
+      "id": "Q5949696",
+      "name": "Juan Galv\u00e1n Jim\u00e9nez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5949696"
+    },
+    {
+      "id": "Q5952553",
+      "name": "Juan Sim\u00f3n Guti\u00e9rrez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5952553"
+    },
+    {
+      "id": "Q352944",
+      "name": "Juan de J\u00e1uregui",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q352944"
+    },
+    {
+      "id": "Q1710710",
+      "name": "Juan van der Hamen",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1710710"
+    },
+    {
+      "id": "Q5973168",
+      "name": "Leonardo Jaramillo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5973168"
+    },
+    {
+      "id": "Q6700586",
+      "name": "Luis Fern\u00e1ndez (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6700586"
+    },
+    {
+      "id": "Q6792101",
+      "name": "Mat\u00edas Jimeno",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6792101"
+    },
+    {
+      "id": "Q7121664",
+      "name": "Pablo Legote",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7121664"
+    },
+    {
+      "id": "Q3821455",
+      "name": "Pedro Duque y Cornejo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3821455"
+    },
+    {
+      "id": "Q7159601",
+      "name": "Pedro Garc\u00eda Ferrer",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7159601"
+    },
+    {
+      "id": "Q3822204",
+      "name": "Sebasti\u00e1n Herrera Barnuevo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3822204"
+    },
+    {
+      "id": "Q7520119",
+      "name": "Sim\u00f3n de Le\u00f3n Leal",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7520119"
+    },
+    {
+      "id": "Q7925162",
+      "name": "Vicente Guirri",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7925162"
+    },
+    {
+      "id": "Q6161330",
+      "name": "Vicente Salvador G\u00f3mez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6161330"
+    },
+    {
+      "id": "Q972540",
+      "name": "Alejandro de Loarte",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q972540"
+    },
+    {
+      "id": "Q4734510",
+      "name": "Alonso de Llera Zambrano",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4734510"
+    },
+    {
+      "id": "Q15060026",
+      "name": "Ambrosio Mart\u00ednez Bustos",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q15060026"
+    },
+    {
+      "id": "Q2846367",
+      "name": "Andrea L\u00f3pez Caballero",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2846367"
+    },
+    {
+      "id": "Q4760227",
+      "name": "Andr\u00e9s Marzo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4760227"
+    },
+    {
+      "id": "Q8199385",
+      "name": "Andr\u00e9s P\u00e9rez (artist)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8199385"
+    },
+    {
+      "id": "Q1152337",
+      "name": "Angelo Nardi",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1152337"
+    },
+    {
+      "id": "Q4776719",
+      "name": "Antonio L'Horfelin",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4776719"
+    },
+    {
+      "id": "Q604011",
+      "name": "Antonio Palomino",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q604011"
+    },
+    {
+      "id": "Q604088",
+      "name": "Antonio de Pereda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q604088"
+    },
+    {
+      "id": "Q192062",
+      "name": "Bartolom\u00e9 Esteban Murillo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q192062"
+    },
+    {
+      "id": "Q3555637",
+      "name": "Buonaventura Ligli",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3555637"
+    },
+    {
+      "id": "Q958941",
+      "name": "Cris\u00f3stomo Martinez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q958941"
+    },
+    {
+      "id": "Q737225",
+      "name": "Esteban March",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q737225"
+    },
+    {
+      "id": "Q5797427",
+      "name": "Esteban M\u00e1rquez de Velasco",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5797427"
+    },
+    {
+      "id": "Q5442066",
+      "name": "Felipe de Lia\u00f1o",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5442066"
+    },
+    {
+      "id": "Q16201344",
+      "name": "Fernando M\u00e1rquez Joya",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16201344"
+    },
+    {
+      "id": "Q5866550",
+      "name": "Francesco Lupicini",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5866550"
+    },
+    {
+      "id": "Q5483581",
+      "name": "Francisco Llamas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483581"
+    },
+    {
+      "id": "Q5483705",
+      "name": "Francisco Meneses Osorio",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483705"
+    },
+    {
+      "id": "Q5866985",
+      "name": "Francisco de Palacios",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5866985"
+    },
+    {
+      "id": "Q6279979",
+      "name": "Josef Lopez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6279979"
+    },
+    {
+      "id": "Q269338",
+      "name": "Josefa de \u00d3bidos",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q269338"
+    },
+    {
+      "id": "Q771658",
+      "name": "Juan Bautista Mart\u00ednez del Mazo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q771658"
+    },
+    {
+      "id": "Q6301282",
+      "name": "Juan de Licalde",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6301282"
+    },
+    {
+      "id": "Q6301286",
+      "name": "Juan de Loaysa y Giron",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6301286"
+    },
+    {
+      "id": "Q1352058",
+      "name": "Juan de Pareja",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1352058"
+    },
+    {
+      "id": "Q3190233",
+      "name": "Jusepe Mart\u00ednez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3190233"
+    },
+    {
+      "id": "Q5984696",
+      "name": "Luisa de Morales",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5984696"
+    },
+    {
+      "id": "Q59645396",
+      "name": "Mariana de la Cueva Benavides y Barradas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q59645396"
+    },
+    {
+      "id": "Q18546698",
+      "name": "Michael Cross (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q18546698"
+    },
+    {
+      "id": "Q6844659",
+      "name": "Miguel Manrique",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6844659"
+    },
+    {
+      "id": "Q16227337",
+      "name": "Pedro L\u00f3pez (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16227337"
+    },
+    {
+      "id": "Q3374104",
+      "name": "Pedro Nu\u00f1ez de Villavicencio",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3374104"
+    },
+    {
+      "id": "Q3374103",
+      "name": "Pedro N\u00fa\u00f1ez del Valle",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3374103"
+    },
+    {
+      "id": "Q5855183",
+      "name": "Pedro Perete",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5855183"
+    },
+    {
+      "id": "Q7160041",
+      "name": "Pedro de Moya",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7160041"
+    },
+    {
+      "id": "Q5688157",
+      "name": "Pedro de Obreg\u00f3n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5688157"
+    },
+    {
+      "id": "Q6122952",
+      "name": "Sebasti\u00e1n Mu\u00f1oz (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6122952"
+    },
+    {
+      "id": "Q332047",
+      "name": "Sebasti\u00e1n de Llanos y Vald\u00e9s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q332047"
+    },
+    {
+      "id": "Q2846401",
+      "name": "Andrea Procaccini",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2846401"
+    },
+    {
+      "id": "Q5494435",
+      "name": "Andr\u00e9s de Vargas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5494435"
+    },
+    {
+      "id": "Q5699387",
+      "name": "Antonio Ponce",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5699387"
+    },
+    {
+      "id": "Q5700275",
+      "name": "Antonio de Puga",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5700275"
+    },
+    {
+      "id": "Q4865553",
+      "name": "Bartolom\u00e9 P\u00e9rez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4865553"
+    },
+    {
+      "id": "Q4893942",
+      "name": "Bernardo Polo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4893942"
+    },
+    {
+      "id": "Q5772485",
+      "name": "Clemente de Torres",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5772485"
+    },
+    {
+      "id": "Q5186461",
+      "name": "Crist\u00f3bal Garc\u00eda Salmer\u00f3n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5186461"
+    },
+    {
+      "id": "Q12161371",
+      "name": "Crist\u00f3bal Hern\u00e1ndez de Quintana",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q12161371"
+    },
+    {
+      "id": "Q5791894",
+      "name": "Crist\u00f3bal Vela",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5791894"
+    },
+    {
+      "id": "Q8470988",
+      "name": "Diego Polo the Younger",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8470988"
+    },
+    {
+      "id": "Q297",
+      "name": "Diego Vel\u00e1zquez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q297"
+    },
+    {
+      "id": "Q5274841",
+      "name": "Diego Vidal de Liendo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5274841"
+    },
+    {
+      "id": "Q3774728",
+      "name": "Felipe Ram\u00edrez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3774728"
+    },
+    {
+      "id": "Q5483830",
+      "name": "Francisco P\u00e9rez Sierra",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483830"
+    },
+    {
+      "id": "Q939968",
+      "name": "Francisco Rizi",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q939968"
+    },
+    {
+      "id": "Q5483910",
+      "name": "Francisco Salmer\u00f3n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483910"
+    },
+    {
+      "id": "Q5867692",
+      "name": "Francisco Varela (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5867692"
+    },
+    {
+      "id": "Q5484027",
+      "name": "Francisco Vera Cabeza de Vaca",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5484027"
+    },
+    {
+      "id": "Q5484172",
+      "name": "Francisco de Reyna",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5484172"
+    },
+    {
+      "id": "Q3081970",
+      "name": "Francisco de Sol\u00eds",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3081970"
+    },
+    {
+      "id": "Q5484199",
+      "name": "Francisco del Plano",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5484199"
+    },
+    {
+      "id": "Q5553538",
+      "name": "Ger\u00f3nimo Ram\u00edrez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5553538"
+    },
+    {
+      "id": "Q2842736",
+      "name": "Ignacio de Ries",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2842736"
+    },
+    {
+      "id": "Q27493889",
+      "name": "Isabel de Santiago",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q27493889"
+    },
+    {
+      "id": "Q16854070",
+      "name": "Isidoro de Redondillo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16854070"
+    },
+    {
+      "id": "Q16199483",
+      "name": "Jaime Mosen Ponz",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16199483"
+    },
+    {
+      "id": "Q6279539",
+      "name": "Jose Risue\u00f1o",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6279539"
+    },
+    {
+      "id": "Q11686152",
+      "name": "Josef Ram\u00edrez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q11686152"
+    },
+    {
+      "id": "Q4886514",
+      "name": "Juan Ribalta",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4886514"
+    },
+    {
+      "id": "Q3544393",
+      "name": "Juan Rizi",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3544393"
+    },
+    {
+      "id": "Q6301096",
+      "name": "Juan Valdelmira de Leon",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6301096"
+    },
+    {
+      "id": "Q518898",
+      "name": "Juan de Vald\u00e9s Leal",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q518898"
+    },
+    {
+      "id": "Q6696366",
+      "name": "Lucas de Vald\u00e9s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6696366"
+    },
+    {
+      "id": "Q4111420",
+      "name": "Nicol\u00e1s de Villacis",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4111420"
+    },
+    {
+      "id": "Q7664723",
+      "name": "Nicol\u00e1s de la Quadra",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7664723"
+    },
+    {
+      "id": "Q967109",
+      "name": "Pablo Pontons",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q967109"
+    },
+    {
+      "id": "Q7159893",
+      "name": "Pedro Ram\u00edrez (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7159893"
+    },
+    {
+      "id": "Q7357448",
+      "name": "Rodrigo de Villandrando (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7357448"
+    },
+    {
+      "id": "Q7366797",
+      "name": "Roque Ponce",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7366797"
+    },
+    {
+      "id": "Q3544252",
+      "name": "Agust\u00edn Esteve",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3544252"
+    },
+    {
+      "id": "Q943821",
+      "name": "Alejandro Gonz\u00e1lez Vel\u00e1zquez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q943821"
+    },
+    {
+      "id": "Q4760296",
+      "name": "Andr\u00e9s de la Calleja",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4760296"
+    },
+    {
+      "id": "Q2857231",
+      "name": "Antonio Carnicero",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2857231"
+    },
+    {
+      "id": "Q533023",
+      "name": "Antonio Gonz\u00e1lez Vel\u00e1zquez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q533023"
+    },
+    {
+      "id": "Q3268501",
+      "name": "Asensio Juli\u00e0",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3268501"
+    },
+    {
+      "id": "Q37073591",
+      "name": "Asunci\u00f3n Ferrer y Cresp\u00ed",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q37073591"
+    },
+    {
+      "id": "Q4888090",
+      "name": "Benito Espin\u00f3s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4888090"
+    },
+    {
+      "id": "Q2898948",
+      "name": "Bernardo Germ\u00e1n de Ll\u00f3rente",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2898948"
+    },
+    {
+      "id": "Q16766123",
+      "name": "B\u00e1rbara Mar\u00eda Hueva",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16766123"
+    },
+    {
+      "id": "Q5186536",
+      "name": "Crist\u00f3bal de Le\u00f3n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5186536"
+    },
+    {
+      "id": "Q8561601",
+      "name": "Domingo \u00c1lvarez Enciso",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8561601"
+    },
+    {
+      "id": "Q5442065",
+      "name": "Felipe de Le\u00f3n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5442065"
+    },
+    {
+      "id": "Q3823482",
+      "name": "Francisco Agust\u00edn y Grande",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3823482"
+    },
+    {
+      "id": "Q2571452",
+      "name": "Francisco Bayeu y Sub\u00edas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2571452"
+    },
+    {
+      "id": "Q15434094",
+      "name": "Francisco Bustamante (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q15434094"
+    },
+    {
+      "id": "Q5432",
+      "name": "Francisco Goya",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5432"
+    },
+    {
+      "id": "Q209615",
+      "name": "Francisco de Zurbar\u00e1n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q209615"
+    },
+    {
+      "id": "Q5553531",
+      "name": "Ger\u00f3nimo Antonio de Ezquerra",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5553531"
+    },
+    {
+      "id": "Q6206429",
+      "name": "Joaqu\u00edn Bernardo Rubert",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6206429"
+    },
+    {
+      "id": "Q5932116",
+      "name": "Joaqu\u00edn Inza y Ainsa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5932116"
+    },
+    {
+      "id": "Q2563287",
+      "name": "Jos\u00e9 Aparicio",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2563287"
+    },
+    {
+      "id": "Q3500467",
+      "name": "Jos\u00e9 Camar\u00f3n Bonanat",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3500467"
+    },
+    {
+      "id": "Q2598238",
+      "name": "Jos\u00e9 del Castillo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2598238"
+    },
+    {
+      "id": "Q6301262",
+      "name": "Juan de Espinal",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6301262"
+    },
+    {
+      "id": "Q4446444",
+      "name": "Juan de Zurbar\u00e1n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4446444"
+    },
+    {
+      "id": "Q9025115",
+      "name": "Luis Gonz\u00e1lez Vel\u00e1zquez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9025115"
+    },
+    {
+      "id": "Q6752365",
+      "name": "Manuel Acevedo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6752365"
+    },
+    {
+      "id": "Q6753001",
+      "name": "Manuel de la Cruz (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6753001"
+    },
+    {
+      "id": "Q38065890",
+      "name": "Mar\u00eda Juana Hurtado de Mendoza",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q38065890"
+    },
+    {
+      "id": "Q39047264",
+      "name": "Mar\u00eda Luisa Carranque y Bonav\u00eda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q39047264"
+    },
+    {
+      "id": "Q6844875",
+      "name": "Miguel del Aguila (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6844875"
+    },
+    {
+      "id": "Q2890984",
+      "name": "Pasqual Calb\u00f3 i Cald\u00e9s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2890984"
+    },
+    {
+      "id": "Q922275",
+      "name": "Pedro de Calabria",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q922275"
+    },
+    {
+      "id": "Q2712054",
+      "name": "Ram\u00f3n Bayeu",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2712054"
+    },
+    {
+      "id": "Q7701077",
+      "name": "Teodoro Ardemans",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7701077"
+    },
+    {
+      "id": "Q7820530",
+      "name": "Tom\u00e1s Yepes",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7820530"
+    },
+    {
+      "id": "Q5810106",
+      "name": "Valero Iriarte",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5810106"
+    },
+    {
+      "id": "Q7925122",
+      "name": "Vicente Calder\u00f3n de la Barca",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7925122"
+    },
+    {
+      "id": "Q957210",
+      "name": "Zacar\u00edas Gonz\u00e1lez Vel\u00e1zquez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q957210"
+    },
+    {
+      "id": "Q2857411",
+      "name": "Antonio Ponz",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2857411"
+    },
+    {
+      "id": "Q4776912",
+      "name": "Antonio Richarte",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4776912"
+    },
+    {
+      "id": "Q605707",
+      "name": "Antonio Vidaurre",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q605707"
+    },
+    {
+      "id": "Q3752217",
+      "name": "Aurelio Arteta",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3752217"
+    },
+    {
+      "id": "Q4865548",
+      "name": "Bartolom\u00e9 Montalvo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4865548"
+    },
+    {
+      "id": "Q4887540",
+      "name": "Benevides Juan Ramirez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4887540"
+    },
+    {
+      "id": "Q5186463",
+      "name": "Crist\u00f3bal L\u00f3pez (18th century)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5186463"
+    },
+    {
+      "id": "Q5186533",
+      "name": "Crist\u00f3bal Valero",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5186533"
+    },
+    {
+      "id": "Q5416072",
+      "name": "Evaristo Mu\u00f1oz",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5416072"
+    },
+    {
+      "id": "Q1378117",
+      "name": "Fernando \u00c1lvarez de Sotomayor y Zaragoza",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1378117"
+    },
+    {
+      "id": "Q38437005",
+      "name": "Francisca Efigenia Mel\u00e9ndez y Durazzo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q38437005"
+    },
+    {
+      "id": "Q15803430",
+      "name": "Francisco Javier Ramos",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q15803430"
+    },
+    {
+      "id": "Q5483585",
+      "name": "Francisco Lopez y Palomino",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5483585"
+    },
+    {
+      "id": "Q3081923",
+      "name": "Francisco Preciado",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3081923"
+    },
+    {
+      "id": "Q5526563",
+      "name": "Gaspar de Molina y Zald\u00edvar",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5526563"
+    },
+    {
+      "id": "Q3761177",
+      "name": "Germ\u00e1n \u00c1lvarez Algeciras",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3761177"
+    },
+    {
+      "id": "Q428354",
+      "name": "Joaqu\u00edn Agrasot",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q428354"
+    },
+    {
+      "id": "Q60024643",
+      "name": "Jos\u00e9 Alc\u00e1zar Tejedor",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q60024643"
+    },
+    {
+      "id": "Q6291543",
+      "name": "Jos\u00e9 Antonio Zapata",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6291543"
+    },
+    {
+      "id": "Q80894",
+      "name": "Jos\u00e9 Luz\u00e1n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q80894"
+    },
+    {
+      "id": "Q6293895",
+      "name": "Jos\u00e9 Romeo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6293895"
+    },
+    {
+      "id": "Q15087814",
+      "name": "Juan Ram\u00edrez de Arellano (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q15087814"
+    },
+    {
+      "id": "Q966390",
+      "name": "Juan Vicente Ribera",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q966390"
+    },
+    {
+      "id": "Q2696989",
+      "name": "Leonardo Alenza",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2696989"
+    },
+    {
+      "id": "Q9023740",
+      "name": "Lorenzo Aguirre",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9023740"
+    },
+    {
+      "id": "Q5846389",
+      "name": "Lorenzo Quiros",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5846389"
+    },
+    {
+      "id": "Q707478",
+      "name": "Luis Egidio Mel\u00e9ndez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q707478"
+    },
+    {
+      "id": "Q283412",
+      "name": "Luis Paret y Alc\u00e1zar",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q283412"
+    },
+    {
+      "id": "Q5552554",
+      "name": "Luis \u00c1lvarez Catal\u00e1",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5552554"
+    },
+    {
+      "id": "Q3544139",
+      "name": "Manuel Aguirre y Monsalbe",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3544139"
+    },
+    {
+      "id": "Q5997471",
+      "name": "Mariana de Silva-Baz\u00e1n y Sarmiento",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5997471"
+    },
+    {
+      "id": "Q6762386",
+      "name": "Mariano Ram\u00f3n S\u00e1nchez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6762386"
+    },
+    {
+      "id": "Q662397",
+      "name": "Mariano Salvador Maella",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q662397"
+    },
+    {
+      "id": "Q6430600",
+      "name": "Miguel Posadas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6430600"
+    },
+    {
+      "id": "Q5398048",
+      "name": "Pablo Rabiella",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5398048"
+    },
+    {
+      "id": "Q7159881",
+      "name": "Pedro Pozo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7159881"
+    },
+    {
+      "id": "Q7159911",
+      "name": "Pedro Rodriguez de Miranda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7159911"
+    },
+    {
+      "id": "Q16206275",
+      "name": "Pedro de Uceda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16206275"
+    },
+    {
+      "id": "Q3823358",
+      "name": "Rafael Ximeno y Planes",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3823358"
+    },
+    {
+      "id": "Q117543",
+      "name": "Vicente L\u00f3pez Porta\u00f1a",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q117543"
+    },
+    {
+      "id": "Q603689",
+      "name": "Antoni Caba",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q603689"
+    },
+    {
+      "id": "Q2857218",
+      "name": "Antonio Brugada",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2857218"
+    },
+    {
+      "id": "Q5485139",
+      "name": "Antonio Cabral Bejarano",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5485139"
+    },
+    {
+      "id": "Q1403669",
+      "name": "Aureliano de Beruete",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1403669"
+    },
+    {
+      "id": "Q19689836",
+      "name": "Carmen Babiano M\u00e9ndez-N\u00fa\u00f1ez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q19689836"
+    },
+    {
+      "id": "Q47770649",
+      "name": "Carolina del Castillo D\u00edaz",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q47770649"
+    },
+    {
+      "id": "Q3028747",
+      "name": "Dionisio Baixeras Verdaguer",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3028747"
+    },
+    {
+      "id": "Q9250645",
+      "name": "Eduardo Balaca",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9250645"
+    },
+    {
+      "id": "Q8772252",
+      "name": "Eduardo Cano de la Pe\u00f1a",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8772252"
+    },
+    {
+      "id": "Q19420774",
+      "name": "Elena Brockmann",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q19420774"
+    },
+    {
+      "id": "Q16836507",
+      "name": "Felipe Checa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16836507"
+    },
+    {
+      "id": "Q3815381",
+      "name": "Gonzalo Bilbao",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3815381"
+    },
+    {
+      "id": "Q3544236",
+      "name": "Joan Brull",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3544236"
+    },
+    {
+      "id": "Q21296215",
+      "name": "Joaqu\u00edn B\u00e1rbara y Balza",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q21296215"
+    },
+    {
+      "id": "Q2344280",
+      "name": "Jos\u00e9 Balaca",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2344280"
+    },
+    {
+      "id": "Q2668142",
+      "name": "Jos\u00e9 Benlliure y Gil",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2668142"
+    },
+    {
+      "id": "Q1403817",
+      "name": "Jos\u00e9 Casado del Alisal",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1403817"
+    },
+    {
+      "id": "Q2329599",
+      "name": "Jos\u00e9 Denis Belgrano",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2329599"
+    },
+    {
+      "id": "Q9014337",
+      "name": "Jos\u00e9 Mar\u00eda Avrial",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9014337"
+    },
+    {
+      "id": "Q3755493",
+      "name": "Juan de Barroeta",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3755493"
+    },
+    {
+      "id": "Q3820539",
+      "name": "Laureano Barrau",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3820539"
+    },
+    {
+      "id": "Q4892860",
+      "name": "Lorenzo Casanova",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4892860"
+    },
+    {
+      "id": "Q11690558",
+      "name": "Manuel Benedito",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q11690558"
+    },
+    {
+      "id": "Q9027667",
+      "name": "Manuel Cabral Aguado-Bejarano",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9027667"
+    },
+    {
+      "id": "Q4820013",
+      "name": "Manuel Castellano (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4820013"
+    },
+    {
+      "id": "Q9028952",
+      "name": "Mariano Barbas\u00e1n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9028952"
+    },
+    {
+      "id": "Q443779",
+      "name": "Mar\u00eda Blanchard",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q443779"
+    },
+    {
+      "id": "Q6844439",
+      "name": "Miguel Arias Bardou",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6844439"
+    },
+    {
+      "id": "Q17277298",
+      "name": "Miquel Carbonell Selva",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q17277298"
+    },
+    {
+      "id": "Q10331431",
+      "name": "Modesto Brocos",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q10331431"
+    },
+    {
+      "id": "Q584235",
+      "name": "Pere Borrell del Caso",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q584235"
+    },
+    {
+      "id": "Q725681",
+      "name": "Ramon Casas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q725681"
+    },
+    {
+      "id": "Q20013190",
+      "name": "Ricardo Arredondo Calmache",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q20013190"
+    },
+    {
+      "id": "Q9068949",
+      "name": "Ricardo Balaca",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9068949"
+    },
+    {
+      "id": "Q3754176",
+      "name": "Ricardo Baroja",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3754176"
+    },
+    {
+      "id": "Q3394913",
+      "name": "Seraf\u00edn Avenda\u00f1o",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3394913"
+    },
+    {
+      "id": "Q3574278",
+      "name": "Valent\u00edn Carderera",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3574278"
+    },
+    {
+      "id": "Q3325495",
+      "name": "Valeriano B\u00e9cquer",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3325495"
+    },
+    {
+      "id": "Q3825671",
+      "name": "Vicente Castell",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3825671"
+    },
+    {
+      "id": "Q60438955",
+      "name": "Victoriano Balasanz",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q60438955"
+    },
+    {
+      "id": "Q23612680",
+      "name": "Alejandrina Gessler y Lacroix",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q23612680"
+    },
+    {
+      "id": "Q2595467",
+      "name": "Alejandro Ferrant y Fischermans",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2595467"
+    },
+    {
+      "id": "Q4776550",
+      "name": "Antonio Cortina Farin\u00f3s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4776550"
+    },
+    {
+      "id": "Q654125",
+      "name": "Antonio Fabr\u00e9s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q654125"
+    },
+    {
+      "id": "Q3817318",
+      "name": "Antonio Fillol Granell",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3817318"
+    },
+    {
+      "id": "Q2298247",
+      "name": "Antonio Gisbert",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2298247"
+    },
+    {
+      "id": "Q593642",
+      "name": "Antonio Mar\u00eda Esquivel",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q593642"
+    },
+    {
+      "id": "Q1106973",
+      "name": "Baldomer Galofre",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1106973"
+    },
+    {
+      "id": "Q3544063",
+      "name": "Bernardo Ferr\u00e1ndiz B\u00e1denes",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3544063"
+    },
+    {
+      "id": "Q13146993",
+      "name": "Dionisio Fierros",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q13146993"
+    },
+    {
+      "id": "Q981350",
+      "name": "El\u00edas Garc\u00eda Mart\u00ednez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q981350"
+    },
+    {
+      "id": "Q968513",
+      "name": "Enric Galwey",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q968513"
+    },
+    {
+      "id": "Q55979259",
+      "name": "Fernanda Frances Arribas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q55979259"
+    },
+    {
+      "id": "Q332725",
+      "name": "Francisco Domingo Marqu\u00e9s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q332725"
+    },
+    {
+      "id": "Q5442224",
+      "name": "F\u00e9lix Granda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5442224"
+    },
+    {
+      "id": "Q12176786",
+      "name": "Joan Fuster Bonnin",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q12176786"
+    },
+    {
+      "id": "Q9012182",
+      "name": "Joaquim de Mir\u00f3",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9012182"
+    },
+    {
+      "id": "Q949549",
+      "name": "Joaqu\u00edn Dom\u00ednguez B\u00e9cquer",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q949549"
+    },
+    {
+      "id": "Q3544549",
+      "name": "Jose Etxenagusia",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3544549"
+    },
+    {
+      "id": "Q11039545",
+      "name": "Josep Cusachs",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q11039545"
+    },
+    {
+      "id": "Q3743521",
+      "name": "Jos\u00e9 Dom\u00ednguez B\u00e9cquer",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3743521"
+    },
+    {
+      "id": "Q9029838",
+      "name": "Jos\u00e9 Galofr\u00e9 y Coma",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9029838"
+    },
+    {
+      "id": "Q3816000",
+      "name": "Jos\u00e9 Garnelo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3816000"
+    },
+    {
+      "id": "Q5950295",
+      "name": "Juan Jos\u00e9 G\u00e1rate",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5950295"
+    },
+    {
+      "id": "Q21453172",
+      "name": "Leandro Ram\u00f3n Garrido",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q21453172"
+    },
+    {
+      "id": "Q22984551",
+      "name": "Leopolda Gass\u00f3 y Vidal",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q22984551"
+    },
+    {
+      "id": "Q11621650",
+      "name": "Llu\u00eds Graner",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q11621650"
+    },
+    {
+      "id": "Q2744493",
+      "name": "Luis Ricardo Falero",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2744493"
+    },
+    {
+      "id": "Q9027804",
+      "name": "Manuel Garc\u00eda Hispaleto",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9027804"
+    },
+    {
+      "id": "Q5993165",
+      "name": "Manuel Gonz\u00e1lez M\u00e9ndez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5993165"
+    },
+    {
+      "id": "Q9027844",
+      "name": "Manuel G\u00f3mez-Moreno Gonz\u00e1lez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9027844"
+    },
+    {
+      "id": "Q380052",
+      "name": "Mariano Fortuny (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q380052"
+    },
+    {
+      "id": "Q456991",
+      "name": "Pablo Gargallo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q456991"
+    },
+    {
+      "id": "Q361959",
+      "name": "Pelegr\u00ed Clav\u00e9",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q361959"
+    },
+    {
+      "id": "Q16782020",
+      "name": "Pl\u00e1cido Franc\u00e9s y Pascual",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16782020"
+    },
+    {
+      "id": "Q12266450",
+      "name": "Ramon de Elorriaga",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q12266450"
+    },
+    {
+      "id": "Q20925453",
+      "name": "Rogelio de Egusquiza",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q20925453"
+    },
+    {
+      "id": "Q477106",
+      "name": "Sim\u00f3 G\u00f3mez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q477106"
+    },
+    {
+      "id": "Q2627916",
+      "name": "Ulpiano Checa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2627916"
+    },
+    {
+      "id": "Q9098333",
+      "name": "\u00c1ngel Mar\u00eda Cortellini",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9098333"
+    },
+    {
+      "id": "Q3754032",
+      "name": "Adolfo Guiard",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3754032"
+    },
+    {
+      "id": "Q799785",
+      "name": "Arcadi Mas i Fondevila",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q799785"
+    },
+    {
+      "id": "Q8207422",
+      "name": "Asterio Ma\u00f1an\u00f3s Mart\u00ednez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8207422"
+    },
+    {
+      "id": "Q3813639",
+      "name": "Bernardo L\u00f3pez Piquer",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3813639"
+    },
+    {
+      "id": "Q1043318",
+      "name": "Carlos de Haes",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1043318"
+    },
+    {
+      "id": "Q2978391",
+      "name": "Claudi Lorenzale",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2978391"
+    },
+    {
+      "id": "Q8774927",
+      "name": "Eliseu Meifr\u00e8n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8774927"
+    },
+    {
+      "id": "Q5833559",
+      "name": "Enrique Mart\u00ednez Cubells",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5833559"
+    },
+    {
+      "id": "Q690593",
+      "name": "Eugenio Lucas Vel\u00e1zquez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q690593"
+    },
+    {
+      "id": "Q72164",
+      "name": "Eugenio Lucas Villaamil",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q72164"
+    },
+    {
+      "id": "Q1345186",
+      "name": "Federico de Madrazo y Kuntz",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1345186"
+    },
+    {
+      "id": "Q1531238",
+      "name": "Francesc Masriera",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1531238"
+    },
+    {
+      "id": "Q16065566",
+      "name": "Francisco Hern\u00e1ndez Tom\u00e9",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16065566"
+    },
+    {
+      "id": "Q3543906",
+      "name": "Francisco Iturrino",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3543906"
+    },
+    {
+      "id": "Q16569085",
+      "name": "Francisco Jover y Casanova",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q16569085"
+    },
+    {
+      "id": "Q980318",
+      "name": "Francisco Lameyer",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q980318"
+    },
+    {
+      "id": "Q8963940",
+      "name": "Germ\u00e1n Hern\u00e1ndez Amores",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8963940"
+    },
+    {
+      "id": "Q17319025",
+      "name": "Joaqu\u00edn Llorens y Fern\u00e1ndez de C\u00f3rdoba",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q17319025"
+    },
+    {
+      "id": "Q59883",
+      "name": "Joaqu\u00edn Luque Rosell\u00f3",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q59883"
+    },
+    {
+      "id": "Q5932213",
+      "name": "Joaqu\u00edn Mart\u00ednez de la Vega",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5932213"
+    },
+    {
+      "id": "Q11685834",
+      "name": "Jos\u00e9 Guti\u00e9rrez de la Vega",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q11685834"
+    },
+    {
+      "id": "Q3544324",
+      "name": "Jos\u00e9 Jim\u00e9nez Aranda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3544324"
+    },
+    {
+      "id": "Q9014309",
+      "name": "Jos\u00e9 Mart\u00ed y Mons\u00f3",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9014309"
+    },
+    {
+      "id": "Q90390858",
+      "name": "Jos\u00e9 Nicolau Huguet",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q90390858"
+    },
+    {
+      "id": "Q2343934",
+      "name": "Jos\u00e9 de Madrazo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2343934"
+    },
+    {
+      "id": "Q583076",
+      "name": "Juan Mart\u00ednez Abades",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q583076"
+    },
+    {
+      "id": "Q5390248",
+      "name": "Luis L\u00f3pez Piquer",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5390248"
+    },
+    {
+      "id": "Q5196453",
+      "name": "Luis Men\u00e9ndez Pidal",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5196453"
+    },
+    {
+      "id": "Q3840426",
+      "name": "Luis de Madrazo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3840426"
+    },
+    {
+      "id": "Q17378191",
+      "name": "Narciso M\u00e9ndez Bringa",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q17378191"
+    },
+    {
+      "id": "Q6042384",
+      "name": "Nicol\u00e1s Meg\u00eda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6042384"
+    },
+    {
+      "id": "Q9056989",
+      "name": "Pau Mil\u00e0 i Fontanals",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9056989"
+    },
+    {
+      "id": "Q2506493",
+      "name": "Raimundo de Madrazo y Garreta",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2506493"
+    },
+    {
+      "id": "Q2977133",
+      "name": "Ramon Mart\u00ed Alsina",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2977133"
+    },
+    {
+      "id": "Q526615",
+      "name": "Ricardo de Madrazo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q526615"
+    },
+    {
+      "id": "Q1771035",
+      "name": "Salvador Mart\u00ednez Cubells",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1771035"
+    },
+    {
+      "id": "Q2041378",
+      "name": "Vicente March",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2041378"
+    },
+    {
+      "id": "Q537036",
+      "name": "Virgilio Mattoni",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q537036"
+    },
+    {
+      "id": "Q6165687",
+      "name": "V\u00edctor Patricio de Landaluze",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6165687"
+    },
+    {
+      "id": "Q5474494",
+      "name": "\u00c1ngel Lizcano Monedero",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5474494"
+    },
+    {
+      "id": "Q26838471",
+      "name": "Alberto Pla y Rubio",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q26838471"
+    },
+    {
+      "id": "Q4734485",
+      "name": "Alonso P\u00e9rez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4734485"
+    },
+    {
+      "id": "Q3296153",
+      "name": "Antonio Mu\u00f1oz Degrain",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3296153"
+    },
+    {
+      "id": "Q3619980",
+      "name": "Antonio Ortiz Echag\u00fce",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3619980"
+    },
+    {
+      "id": "Q8246817",
+      "name": "Bernardino Monta\u00f1\u00e9s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8246817"
+    },
+    {
+      "id": "Q8264044",
+      "name": "Carlos Luis de Ribera y Fieve",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8264044"
+    },
+    {
+      "id": "Q954344",
+      "name": "Casto Plasencia",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q954344"
+    },
+    {
+      "id": "Q5056499",
+      "name": "Cecilio Pl\u00e1",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5056499"
+    },
+    {
+      "id": "Q1837855",
+      "name": "Dar\u00edo de Regoyos",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1837855"
+    },
+    {
+      "id": "Q5812003",
+      "name": "Di\u00f3scoro Puebla",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5812003"
+    },
+    {
+      "id": "Q2885931",
+      "name": "Eugenio Oliva",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2885931"
+    },
+    {
+      "id": "Q174477",
+      "name": "Fernand Pelez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q174477"
+    },
+    {
+      "id": "Q3081026",
+      "name": "Francesc Miralles i Galaup",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3081026"
+    },
+    {
+      "id": "Q867677",
+      "name": "Francisco Peralta del Campo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q867677"
+    },
+    {
+      "id": "Q553258",
+      "name": "Francisco Pradilla y Ortiz",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q553258"
+    },
+    {
+      "id": "Q3757071",
+      "name": "Gaetano Palmaroli",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3757071"
+    },
+    {
+      "id": "Q254379",
+      "name": "Ignacio Pinazo Camarlench",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q254379"
+    },
+    {
+      "id": "Q1393742",
+      "name": "Isidre Nonell",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1393742"
+    },
+    {
+      "id": "Q10857968",
+      "name": "Jaume Morera i Gal\u00edcia",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q10857968"
+    },
+    {
+      "id": "Q71992",
+      "name": "Jenaro P\u00e9rez Villaamil",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q71992"
+    },
+    {
+      "id": "Q6185655",
+      "name": "Jer\u00f3nimo Navases",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6185655"
+    },
+    {
+      "id": "Q597124",
+      "name": "Josep Llu\u00eds Pellicer",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q597124"
+    },
+    {
+      "id": "Q9013278",
+      "name": "Josep Mompou",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q9013278"
+    },
+    {
+      "id": "Q1393648",
+      "name": "Jos\u00e9 Moreno Carbonero",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1393648"
+    },
+    {
+      "id": "Q5944263",
+      "name": "Jos\u00e9 Navarro (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5944263"
+    },
+    {
+      "id": "Q11928832",
+      "name": "Jos\u00e9 Nin y Tud\u00f3",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q11928832"
+    },
+    {
+      "id": "Q3187562",
+      "name": "Juan Antonio Ribera",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3187562"
+    },
+    {
+      "id": "Q4892234",
+      "name": "Julio Peris Brell",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4892234"
+    },
+    {
+      "id": "Q5979078",
+      "name": "Lorenzo Peric\u00e1s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5979078"
+    },
+    {
+      "id": "Q427999",
+      "name": "Mart\u00edn Rico",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q427999"
+    },
+    {
+      "id": "Q23571930",
+      "name": "Mar\u00eda Luisa de la Riva y Callol-Mu\u00f1oz",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q23571930"
+    },
+    {
+      "id": "Q21424499",
+      "name": "Mat\u00edas Moreno",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q21424499"
+    },
+    {
+      "id": "Q629003",
+      "name": "Miguel Navarro Ca\u00f1izares",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q629003"
+    },
+    {
+      "id": "Q6293453",
+      "name": "Miguel Parra Abril",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6293453"
+    },
+    {
+      "id": "Q5593",
+      "name": "Pablo Picasso",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5593"
+    },
+    {
+      "id": "Q99862138",
+      "name": "Pilar Nouvilas",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q99862138"
+    },
+    {
+      "id": "Q7272380",
+      "name": "Quintana Olleros",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7272380"
+    },
+    {
+      "id": "Q17628073",
+      "name": "Rafael Monle\u00f3n",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q17628073"
+    },
+    {
+      "id": "Q38038603",
+      "name": "Ricardo de los R\u00edos",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q38038603"
+    },
+    {
+      "id": "Q927976",
+      "name": "Vicente Palmaroli",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q927976"
+    },
+    {
+      "id": "Q4714726",
+      "name": "Alejo Vera",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4714726"
+    },
+    {
+      "id": "Q29014638",
+      "name": "Ana Gertrudis de Urrutia Garchitorena",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q29014638"
+    },
+    {
+      "id": "Q5756239",
+      "name": "Casimiro Sainz",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5756239"
+    },
+    {
+      "id": "Q5219156",
+      "name": "Daniel Zuloaga",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5219156"
+    },
+    {
+      "id": "Q5290412",
+      "name": "Domingo Valdivieso",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5290412"
+    },
+    {
+      "id": "Q615701",
+      "name": "Eduardo Rosales",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q615701"
+    },
+    {
+      "id": "Q3750944",
+      "name": "Eduardo Zamacois y Zabala",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3750944"
+    },
+    {
+      "id": "Q521733",
+      "name": "Emilio Sala (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q521733"
+    },
+    {
+      "id": "Q3052346",
+      "name": "Emilio S\u00e1nchez Perrier",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3052346"
+    },
+    {
+      "id": "Q94851",
+      "name": "Enrique Simonet",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q94851"
+    },
+    {
+      "id": "Q19689637",
+      "name": "Francesca Stuart Sindici",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q19689637"
+    },
+    {
+      "id": "Q1440851",
+      "name": "Francisco Sans Cabot",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1440851"
+    },
+    {
+      "id": "Q8962632",
+      "name": "Francisco de Paula Van Halen",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q8962632"
+    },
+    {
+      "id": "Q5895834",
+      "name": "Hermenegildo S\u00e1bat Lle\u00f3",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5895834"
+    },
+    {
+      "id": "Q5913579",
+      "name": "Ignacio Su\u00e1rez Llanos",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5913579"
+    },
+    {
+      "id": "Q460198",
+      "name": "Ignacio Zuloaga",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q460198"
+    },
+    {
+      "id": "Q4892881",
+      "name": "Joaquim Vayreda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q4892881"
+    },
+    {
+      "id": "Q1357729",
+      "name": "Joaquin Mir Trinxet",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1357729"
+    },
+    {
+      "id": "Q351746",
+      "name": "Joaqu\u00edn Sorolla",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q351746"
+    },
+    {
+      "id": "Q3185640",
+      "name": "Joseph Sint\u00e8s",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3185640"
+    },
+    {
+      "id": "Q5943469",
+      "name": "Jos\u00e9 Mar\u00eda Romero L\u00f3pez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5943469"
+    },
+    {
+      "id": "Q6293894",
+      "name": "Jos\u00e9 Roma",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6293894"
+    },
+    {
+      "id": "Q2901542",
+      "name": "Jos\u00e9 Ruiz y Blasco",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2901542"
+    },
+    {
+      "id": "Q10750312",
+      "name": "Jos\u00e9 Segrelles",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q10750312"
+    },
+    {
+      "id": "Q517574",
+      "name": "Jos\u00e9 Villegas (painter)",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q517574"
+    },
+    {
+      "id": "Q5955855",
+      "name": "Julio Vila y Prades",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5955855"
+    },
+    {
+      "id": "Q2428659",
+      "name": "Manuel Garc\u00eda y Rodr\u00edguez",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q2428659"
+    },
+    {
+      "id": "Q27431311",
+      "name": "Manuel Ruiz Guerrero",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q27431311"
+    },
+    {
+      "id": "Q5994501",
+      "name": "Manuel Ussel de Guimbarda",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5994501"
+    },
+    {
+      "id": "Q5995562",
+      "name": "Marceliano Santa Mar\u00eda Sedano",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5995562"
+    },
+    {
+      "id": "Q3573047",
+      "name": "Marcelino de Unceta",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q3573047"
+    },
+    {
+      "id": "Q1625926",
+      "name": "Modest Urgell",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q1625926"
+    },
+    {
+      "id": "Q7121778",
+      "name": "Pablo Uranga",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7121778"
+    },
+    {
+      "id": "Q5670501",
+      "name": "Rafael Romero Barros",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q5670501"
+    },
+    {
+      "id": "Q6097916",
+      "name": "Rafael Romero de Torres",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6097916"
+    },
+    {
+      "id": "Q7282339",
+      "name": "Rafael Tegeo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q7282339"
+    },
+    {
+      "id": "Q6761699",
+      "name": "Rosario Weiss Zorrilla",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6761699"
+    },
+    {
+      "id": "Q6117791",
+      "name": "Salvador S\u00e1nchez Barbudo",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q6117791"
+    },
+    {
+      "id": "Q425621",
+      "name": "Salvador Viniegra",
+      "school": "spanish",
+      "wiki": "https://www.wikidata.org/wiki/Q425621"
+    }
+  ]
+}

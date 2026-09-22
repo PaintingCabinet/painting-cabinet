@@ -1,0 +1,326 @@
+{
+  "artists": [
+    {
+      "id": "Q216999",
+      "name": "Antoine-Jean Gros",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q216999"
+    },
+    {
+      "id": "Q163543",
+      "name": "Fran\u00e7ois G\u00e9rard",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q163543"
+    },
+    {
+      "id": "Q433434",
+      "name": "Anne-Louis Girodet",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q433434"
+    },
+    {
+      "id": "Q184212",
+      "name": "Th\u00e9odore G\u00e9ricault",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q184212"
+    },
+    {
+      "id": "Q161145",
+      "name": "Horace Vernet",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q161145"
+    },
+    {
+      "id": "Q585852",
+      "name": "Carle Vernet",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q585852"
+    },
+    {
+      "id": "Q1347175",
+      "name": "Nicolas Toussaint Charlet",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q1347175"
+    },
+    {
+      "id": "Q2871385",
+      "name": "Auguste Raffet",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q2871385"
+    },
+    {
+      "id": "Q3136027",
+      "name": "Hippolyte Bellang\u00e9",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q3136027"
+    },
+    {
+      "id": "Q3164276",
+      "name": "Jean-Baptiste Mauzaisse",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q3164276"
+    },
+    {
+      "id": "Q2445657",
+      "name": "Fran\u00e7ois Bouchot",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q2445657"
+    },
+    {
+      "id": "Q2067613",
+      "name": "Auguste Couder",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q2067613"
+    },
+    {
+      "id": "Q1063426",
+      "name": "Charles-Philippe Larivi\u00e8re",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q1063426"
+    },
+    {
+      "id": "Q33477",
+      "name": "Eug\u00e8ne Delacroix",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q33477"
+    },
+    {
+      "id": "Q436726",
+      "name": "Ary Scheffer",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q436726"
+    },
+    {
+      "id": "Q1232255",
+      "name": "Jean Alaux",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q1232255"
+    },
+    {
+      "id": "Q877593",
+      "name": "Louis-Fran\u00e7ois, Baron Lejeune",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q877593"
+    },
+    {
+      "id": "Q3158924",
+      "name": "Joseph-Fran\u00e7ois Swebach",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q3158924"
+    },
+    {
+      "id": "Q3339947",
+      "name": "Nicolas-Antoine Taunay",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q3339947"
+    },
+    {
+      "id": "Q979783",
+      "name": "Charles Th\u00e9venin",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q979783"
+    },
+    {
+      "id": "Q245624",
+      "name": "Merry-Joseph Blondel",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q245624"
+    },
+    {
+      "id": "Q3131770",
+      "name": "Henri Philippoteaux",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q3131770"
+    },
+    {
+      "id": "Q365891",
+      "name": "Adolphe Yvon",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q365891"
+    },
+    {
+      "id": "Q708968",
+      "name": "Isidore Pils",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q708968"
+    },
+    {
+      "id": "Q3370449",
+      "name": "Alexandre Protais",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q3370449"
+    },
+    {
+      "id": "Q3163651",
+      "name": "Jean-Adolphe Beauc\u00e9",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q3163651"
+    },
+    {
+      "id": "Q3164668",
+      "name": "Jean-Charles Langlois",
+      "school": "french",
+      "focus": "both",
+      "wiki": "https://www.wikidata.org/wiki/Q3164668"
+    },
+    {
+      "id": "Q2335336",
+      "name": "Charles \u00c9douard Armand-Dumaresq",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q2335336"
+    },
+    {
+      "id": "Q9266143",
+      "name": "Gaspard Gobaut",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q9266143"
+    },
+    {
+      "id": "Q354786",
+      "name": "Jean-Louis-Ernest Meissonier",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q354786"
+    },
+    {
+      "id": "Q1494309",
+      "name": "Alphonse de Neuville",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q1494309"
+    },
+    {
+      "id": "Q724148",
+      "name": "\u00c9douard Detaille",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q724148"
+    },
+    {
+      "id": "Q5625716",
+      "name": "Henri Louis Dupray",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q5625716"
+    },
+    {
+      "id": "Q290072",
+      "name": "\u00c9tienne-Prosper Berne-Bellecour",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q290072"
+    },
+    {
+      "id": "Q49174552",
+      "name": "Wilfrid Constant Beauquesne",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q49174552"
+    },
+    {
+      "id": "Q405759",
+      "name": "Aim\u00e9 Morot",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q405759"
+    },
+    {
+      "id": "Q274909",
+      "name": "\u00c9mile Bayard",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q274909"
+    },
+    {
+      "id": "Q15147708",
+      "name": "Th\u00e9ophile Poilpot",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q15147708"
+    },
+    {
+      "id": "Q6697020",
+      "name": "Lucien-Pierre Sergent",
+      "school": "french",
+      "focus": "land",
+      "wiki": "https://www.wikidata.org/wiki/Q6697020"
+    },
+    {
+      "id": "Q555885",
+      "name": "Th\u00e9odore Gudin",
+      "school": "french",
+      "focus": "naval",
+      "wiki": "https://www.wikidata.org/wiki/Q555885"
+    },
+    {
+      "id": "Q524062",
+      "name": "Louis-Philippe Cr\u00e9pin",
+      "school": "french",
+      "focus": "naval",
+      "wiki": "https://www.wikidata.org/wiki/Q524062"
+    },
+    {
+      "id": "Q323144",
+      "name": "Ambroise Louis Garneray",
+      "school": "french",
+      "focus": "naval",
+      "wiki": "https://www.wikidata.org/wiki/Q323144"
+    },
+    {
+      "id": "Q2871318",
+      "name": "Auguste \u00c9tienne Fran\u00e7ois Mayer",
+      "school": "french",
+      "focus": "naval",
+      "wiki": "https://www.wikidata.org/wiki/Q2871318"
+    },
+    {
+      "id": "Q3383240",
+      "name": "Pierre-Julien Gilbert",
+      "school": "french",
+      "focus": "naval",
+      "wiki": "https://www.wikidata.org/wiki/Q3383240"
+    },
+    {
+      "id": "Q3164148",
+      "name": "Jean-Baptiste Henri Durand-Brager",
+      "school": "french",
+      "focus": "naval",
+      "wiki": "https://www.wikidata.org/wiki/Q3164148"
+    },
+    {
+      "id": "Q3271211",
+      "name": "Antoine L\u00e9on Morel-Fatio",
+      "school": "french",
+      "focus": "naval",
+      "wiki": "https://www.wikidata.org/wiki/Q3271211"
+    }
+  ]
+}

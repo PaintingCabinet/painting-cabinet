@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Viewer — Painting Cabinet</title>
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+      overflow: hidden;
+      background: #11100e;
+      color: #e8dcc8;
+      font-family: Georgia, "Times New Roman", serif;
+    }
+    body { display: flex; flex-direction: column; }
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      padding: 10px 16px;
+      font-size: 0.9rem;
+      flex: 0 0 auto;
+    }
+    header .filters { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; }
+    a { color: #d4c09a; }
+    .stage {
+      flex: 1 1 auto;
+      min-height: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 16px;
+      overflow: hidden;
+    }
+    .stage.show-label {
+      display: grid;
+      grid-template-columns: 280px minmax(0, 1fr) 280px;
+      align-items: center;
+    }
+    .frame { position: relative; width: 100%; height: 100%; min-width: 0; min-height: 0; }
+    .stage.show-label .frame {
+      grid-column: 2;
+      justify-self: stretch;
+      align-self: stretch;
+    }
+    .frame img {
+      position: absolute;
+      inset: 0;
+      margin: auto;
+      max-width: 100%;
+      max-height: 100%;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+      opacity: 0;
+      transition: opacity 1s ease;
+      cursor: zoom-in;
+    }
+    .frame img.visible { opacity: 1; }
+    .plaque {
+      display: none;
+      color: #c4b8a4;
+      font-family: var(--label-font, Georgia, "Times New Roman", serif);
+      font-size: var(--label-size, 0.92rem);
+      line-height: var(--label-leading, 1.45);
+      white-space: pre-wrap;
+      min-width: 0;
+    }
+    .stage.show-label .plaque {
+      display: block;
+      grid-column: 3;
+      width: 100%;
+      max-height: 80%;
+      overflow: auto;
+      justify-self: stretch;
+      align-self: center;
+    }
+    .plaque .missing { color: #8a7f70; }
+    .caption { text-align: center; padding: 6px 16px 8px; flex: 0 0 auto; }
+    .caption p { margin: 0.15rem 0; color: #c4b8a4; }
+    .controls, .admin {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      padding: 0 16px 10px;
+      flex: 0 0 auto;
+      flex-wrap: wrap;
+    }
+    .admin {
+      display: none;
+      border-top: 1px solid #3a342c;
+      padding-top: 10px;
+      font-size: 0.85rem;
+    }
+    body.is-admin .admin { display: flex; }
+    .admin textarea {
+      width: min(520px, 90vw);
+      height: 90px;
+      background: #2a261f;
+      color: #e8dcc8;
+      border: 1px solid #4a4338;
+      padding: 8px;
+      font-family: inherit;
+    }
+    button, select, .admin input {
+      background: #2a261f;
+      color: #e8dcc8;
+      border: 1px solid #4a4338;
+      font-family: inherit;
+    }
+    button { padding: 8px 14px; cursor: pointer; }
+    select { padding: 4px; }
+    .admin label { color: #c4b8a4; }
+    #removeBtn { border-color: #6a3a32; }
+    .panel-wrap {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(8, 7, 6, 0.55);
+      z-index: 15;
+    }
+    .panel-wrap.open { display: block; }
+    .panel {
+      position: absolute;
+      top: 56px;
+      right: 16px;
+      width: min(360px, calc(100vw - 32px));
+      max-height: calc(100vh - 80px);
+      overflow: auto;
+      background: #1a1814;
+      border: 1px solid #3a342c;
+      padding: 16px 18px 18px;
+    }
+    .panel h2 { margin: 0 0 8px; font-size: 1rem; font-weight: normal; }
+    .panel h3 { margin: 14px 0 8px; font-size: 0.85rem; color: #8a7f70; font-weight: normal; }
+    .panel label { display: block; margin: 0 0 6px; cursor: pointer; }
+    .panel .row { display: flex; gap: 8px; margin-top: 14px; }
+    #lightbox {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(8, 7, 6, 0.94);
+      z-index: 20;
+      overflow: hidden;
+    }
+    #lightbox.open { display: block; }
+    #lightbox .hint {
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      text-align: center;
+      padding: 8px;
+      font-size: 0.85rem;
+      color: #b7aa94;
+      z-index: 2;
+      pointer-events: none;
+    }
+    #zoomStage {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #zoomStage.dragging { cursor: grabbing; }
+    #lightboxPic {
+      max-width: 92vw;
+      max-height: 88vh;
+      transform-origin: center center;
+      user-select: none;
+      pointer-events: auto;
+      cursor: grab;
+      -webkit-user-drag: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a> ·
+      <a href="artists.html">Artists</a> ·
+      <a href="about.html">About</a>
+    </nav>
+    <div class="filters">
+      <label>
+        School
+        <select id="school">
+          <option value="all">All</option>
+          <option value="flemish">Flemish</option>
+          <option value="dutch">Dutch</option>
+          <option value="french">French</option>
+          <option value="spanish">Spanish</option>
+          <option value="italian">Italian</option>
+        </select>
+      </label>
+      <label>
+        Genre
+        <select id="genre">
+          <option value="all">All</option>
+          <option value="portrait">Portrait</option>
+          <option value="landscape">Landscape</option>
+          <option value="still-life">Still life</option>
+          <option value="history">History</option>
+          <option value="battle">Battle</option>
+          <option value="religious">Religious</option>
+          <option value="mythological">Mythological</option>
+          <option value="genre-scene">Genre scene</option>
+          <option value="other">Other / unknown</option>
+        </select>
+      </label>
+      <button id="filterBtn">Filters</button>
+    </div>
+  </header>
+
+  <div class="stage" id="stage">
+    <div class="frame">
+      <img id="pictureA" alt="Painting">
+      <img id="pictureB" alt="">
+    </div>
+    <aside class="plaque" id="plaque"></aside>
+  </div>
+  <div class="caption">
+    <p id="title"></p>
+    <p id="meta"></p>
+    <p><a id="more" href="#" target="_blank">About this work</a></p>
+  </div>
+  <div class="controls">
+    <button id="prev">Previous</button>
+    <button id="play">Pause</button>
+    <button id="next">Next</button>
+    <button id="labelBtn">Label</button>
+  </div>
+  <div class="admin" id="admin">
+    <textarea id="editor" placeholder="Label text for this work"></textarea>
+    <button id="boldBtn">Bold</button>
+    <button id="saveTextBtn">Save text</button>
+    <label>Font
+      <select id="fontSelect">
+        <option value='Georgia, "Times New Roman", serif'>Georgia</option>
+        <option value='"Palatino Linotype", Palatino, serif'>Palatino</option>
+        <option value='"Garamond", "Times New Roman", serif'>Garamond</option>
+        <option value='Arial, Helvetica, sans-serif'>Arial</option>
+      </select>
+    </label>
+    <label>Size
+      <input id="sizeInput" type="number" min="10" max="28" step="1" value="15">
+    </label>
+    <label>Spacing
+      <input id="leadInput" type="number" min="1.1" max="2" step="0.05" value="1.45">
+    </label>
+    <button id="saveStyleBtn">Save look</button>
+    <button id="removeBtn">Remove from cabinet</button>
+    <span id="adminStatus"></span>
+  </div>
+  <div class="panel-wrap" id="panelWrap">
+    <div class="panel" id="panel">
+      <h2>Filters</h2>
+      <h3>Schools</h3>
+      <div id="schoolBoxes"></div>
+      <h3>Genres</h3>
+      <div id="genreBoxes"></div>
+      <div class="row">
+        <button id="allFilters">All</button>
+        <button id="closeFilters">Done</button>
+      </div>
+    </div>
+  </div>
+  <div id="lightbox">
+    <div class="hint">Scroll to zoom · drag to move · click the dark edge or Esc to close</div>
+    <div id="zoomStage">
+      <img id="lightboxPic" alt="Full painting" draggable="false">
+    </div>
+  </div>
+
+  <script>
+    const SCHOOLS = [
+      ["flemish", "Flemish"],
+      ["dutch", "Dutch"],
+      ["french", "French"],
+      ["spanish", "Spanish"],
+      ["italian", "Italian"]
+    ];
+    const GENRES = [
+      ["portrait", "Portrait"],
+      ["landscape", "Landscape"],
+      ["still-life", "Still life"],
+      ["history", "History"],
+      ["battle", "Battle"],
+      ["religious", "Religious"],
+      ["mythological", "Mythological"],
+      ["genre-scene", "Genre scene"],
+      ["other", "Other / unknown"]
+    ];
+
+    let works = [];
+    let plaques = {};
+    let filtered = [];
+    let index = 0;
+    let timer = null;
+    let playing = true;
+    let showLabel = false;
+    let showingA = true;
+    const isAdmin = new URLSearchParams(location.search).get("admin") === "1";
+    let selectedSchools = SCHOOLS.map(function (row) { return row[0]; });
+    let selectedGenres = GENRES.map(function (row) { return row[0]; });
+
+    let zoom = 1, panX = 0, panY = 0, dragging = false, didDrag = false, dragStartX = 0, dragStartY = 0;
+
+    const pictureA = document.getElementById("pictureA");
+    const pictureB = document.getElementById("pictureB");
+    const title = document.getElementById("title");
+    const meta = document.getElementById("meta");
+    const more = document.getElementById("more");
+    const plaque = document.getElementById("plaque");
+    const stage = document.getElementById("stage");
+    const playBtn = document.getElementById("play");
+    const labelBtn = document.getElementById("labelBtn");
+    const editor = document.getElementById("editor");
+    const adminStatus = document.getElementById("adminStatus");
+    const fontSelect = document.getElementById("fontSelect");
+    const sizeInput = document.getElementById("sizeInput");
+    const leadInput = document.getElementById("leadInput");
+    const lightbox = document.getElementById("lightbox");
+    const zoomStage = document.getElementById("zoomStage");
+    const lightboxPic = document.getElementById("lightboxPic");
+    const panelWrap = document.getElementById("panelWrap");
+    const schoolBoxes = document.getElementById("schoolBoxes");
+    const genreBoxes = document.getElementById("genreBoxes");
+    const filterBtn = document.getElementById("filterBtn");
+    const school = document.getElementById("school");
+    const genre = document.getElementById("genre");
+
+    if (isAdmin) document.body.classList.add("is-admin");
+    lightboxPic.addEventListener("dragstart", function (event) { event.preventDefault(); });
+
+    function workId(work) { return (work.wiki || "").split("/").pop(); }
+    function currentWork() { return filtered[index]; }
+    function fullImage(url) {
+      const base = (url || "").split("?")[0];
+      if (base.indexOf("Special:FilePath/") !== -1) return base + "?width=2500";
+      return url;
+    }
+    function prettySchool(value) {
+      const found = SCHOOLS.filter(function (row) { return row[0] === value; })[0];
+      return found ? found[1] : "";
+    }
+    function prettyGenre(value) {
+      const found = GENRES.filter(function (row) { return row[0] === value; })[0];
+      return found && value !== "other" ? found[1] : "";
+    }
+    function artistWiki(name) {
+      return "https://en.wikipedia.org/wiki/" + encodeURIComponent(name).replace(/%20/g, "_");
+    }
+    function schoolCount(key) {
+      return works.filter(function (work) { return work.school === key; }).length;
+    }
+    function genreCount(key) {
+      return works.filter(function (work) { return work.genre === key; }).length;
+    }
+
+    function loadPrefs() {
+      try {
+        const raw = JSON.parse(localStorage.getItem("cabinetFilters") || "{}");
+        if (raw.schools && raw.schools.length) selectedSchools = raw.schools;
+        if (raw.genres && raw.genres.length) selectedGenres = raw.genres;
+      } catch (e) {}
+    }
+    function savePrefs() {
+      localStorage.setItem("cabinetFilters", JSON.stringify({
+        schools: selectedSchools,
+        genres: selectedGenres
+      }));
+    }
+
+    function drawBoxes() {
+      schoolBoxes.innerHTML = "";
+      SCHOOLS.forEach(function (row) {
+        const label = document.createElement("label");
+        label.innerHTML = "<input type='checkbox' data-school='" + row[0] + "'" +
+          (selectedSchools.indexOf(row[0]) !== -1 ? " checked" : "") + "> " +
+          row[1] + " (" + schoolCount(row[0]) + ")";
+        schoolBoxes.appendChild(label);
+      });
+      genreBoxes.innerHTML = "";
+      GENRES.forEach(function (row) {
+        const label = document.createElement("label");
+        label.innerHTML = "<input type='checkbox' data-genre='" + row[0] + "'" +
+          (selectedGenres.indexOf(row[0]) !== -1 ? " checked" : "") + "> " +
+          row[1] + " (" + genreCount(row[0]) + ")";
+        genreBoxes.appendChild(label);
+      });
+    }
+
+    function syncDropdowns() {
+      school.value = selectedSchools.length === 1 ? selectedSchools[0] : "all";
+      genre.value = selectedGenres.length === 1 ? selectedGenres[0] : "all";
+      school.options[0].text = "All (" + works.length + ")";
+      for (let i = 1; i < school.options.length; i++) {
+        const key = school.options[i].value;
+        const row = SCHOOLS.filter(function (item) { return item[0] === key; })[0];
+        school.options[i].text = (row ? row[1] : key) + " (" + schoolCount(key) + ")";
+      }
+      genre.options[0].text = "All (" + works.length + ")";
+      for (let i = 1; i < genre.options.length; i++) {
+        const key = genre.options[i].value;
+        const row = GENRES.filter(function (item) { return item[0] === key; })[0];
+        genre.options[i].text = (row ? row[1] : key) + " (" + genreCount(key) + ")";
+      }
+    }
+
+    function applyFilter() {
+      filtered = works.filter(function (work) {
+        return selectedSchools.indexOf(work.school) !== -1 &&
+               selectedGenres.indexOf(work.genre) !== -1;
+      });
+      shuffle(filtered);
+      showingA = true;
+      pictureA.classList.remove("visible");
+      pictureB.classList.remove("visible");
+      if (filtered.length) show(0);
+      else {
+        title.textContent = "No works for those filters yet.";
+        meta.textContent = "";
+        plaque.textContent = "";
+      }
+      syncDropdowns();
+    }
+
+    function readBoxes() {
+      selectedSchools = Array.prototype.map.call(
+        schoolBoxes.querySelectorAll("input:checked"),
+        function (box) { return box.getAttribute("data-school"); }
+      );
+      selectedGenres = Array.prototype.map.call(
+        genreBoxes.querySelectorAll("input:checked"),
+        function (box) { return box.getAttribute("data-genre"); }
+      );
+      if (!selectedSchools.length) selectedSchools = SCHOOLS.map(function (row) { return row[0]; });
+      if (!selectedGenres.length) selectedGenres = GENRES.map(function (row) { return row[0]; });
+      savePrefs();
+      applyFilter();
+    }
+
+    function applyStyle() {
+      document.documentElement.style.setProperty("--label-font", fontSelect.value);
+      document.documentElement.style.setProperty("--label-size", sizeInput.value + "px");
+      document.documentElement.style.setProperty("--label-leading", leadInput.value);
+    }
+    function setPlaqueHtml(text) {
+      if (!text) {
+        plaque.innerHTML = "<span class='missing'>No label yet for this work.</span>";
+        return;
+      }
+      const escaped = text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+      plaque.innerHTML = escaped.replace(/&lt;b&gt;/g, "<b>").replace(/&lt;\/b&gt;/g, "</b>");
+    }
+    function renderPlaque(work) {
+      const text = plaques[workId(work)] || "";
+      setPlaqueHtml(text);
+      if (isAdmin) editor.value = text;
+    }
+    function setCaption(work) {
+      title.textContent = work.title;
+      const extras = [];
+      if (work.date) extras.push(work.date);
+      const schoolName = prettySchool(work.school);
+      const genreName = prettyGenre(work.genre);
+      if (schoolName) extras.push(schoolName);
+      if (genreName) extras.push(genreName);
+      meta.innerHTML =
+        "<a href='" + artistWiki(work.artist_name) + "' target='_blank' rel='noopener'>" +
+        work.artist_name + "</a>" + (extras.length ? " · " + extras.join(" · ") : "");
+      more.href = work.wiki;
+      renderPlaque(work);
+    }
+
+    function show(i) {
+      if (!filtered.length) return;
+      index = (i + filtered.length) % filtered.length;
+      const work = filtered[index];
+      const incoming = showingA ? pictureB : pictureA;
+      const outgoing = showingA ? pictureA : pictureB;
+      function reveal() {
+        incoming.onload = null;
+        incoming.onerror = null;
+        incoming.classList.add("visible");
+        outgoing.classList.remove("visible");
+        incoming.alt = work.title;
+        setCaption(work);
+        showingA = !showingA;
+      }
+      incoming.onload = reveal;
+      incoming.onerror = reveal;
+      if (incoming.src === work.image && incoming.complete) reveal();
+      else incoming.src = work.image;
+    }
+    function shuffle(list) {
+      for (let i = list.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        const t = list[i]; list[i] = list[j]; list[j] = t;
+      }
+    }
+    function reshuffleFrom(lastWork) {
+      shuffle(filtered);
+      if (filtered.length > 1 && lastWork && filtered[0].wiki === lastWork.wiki) {
+        const swap = filtered[1];
+        filtered[1] = filtered[0];
+        filtered[0] = swap;
+      }
+    }
+    function next() {
+      if (!filtered.length) return;
+      if (index + 1 >= filtered.length) { reshuffleFrom(filtered[index]); show(0); }
+      else show(index + 1);
+    }
+    function prev() {
+      if (!filtered.length) return;
+      if (index <= 0) { reshuffleFrom(filtered[0]); show(filtered.length - 1); }
+      else show(index - 1);
+    }
+    function start() {
+      stop();
+      timer = setInterval(next, 8000);
+      playing = true;
+      playBtn.textContent = "Pause";
+    }
+    function stop() {
+      clearInterval(timer);
+      playing = false;
+      playBtn.textContent = "Play";
+    }
+
+    function applyZoom() {
+      lightboxPic.style.transform = "translate(" + panX + "px, " + panY + "px) scale(" + zoom + ")";
+    }
+    function openZoom() {
+      const work = currentWork();
+      if (!work) return;
+      stop();
+      zoom = 1; panX = 0; panY = 0; didDrag = false;
+      applyZoom();
+      lightboxPic.src = fullImage(work.image);
+      lightboxPic.alt = work.title;
+      lightbox.classList.add("open");
+    }
+    function closeZoom() {
+      lightbox.classList.remove("open");
+      lightboxPic.removeAttribute("src");
+      zoom = 1; panX = 0; panY = 0;
+    }
+
+    pictureA.onclick = openZoom;
+    pictureB.onclick = openZoom;
+    zoomStage.addEventListener("wheel", function (event) {
+      event.preventDefault();
+      zoom = Math.min(6, Math.max(1, event.deltaY < 0 ? zoom * 1.12 : zoom / 1.12));
+      if (zoom === 1) { panX = 0; panY = 0; }
+      applyZoom();
+    }, { passive: false });
+    zoomStage.addEventListener("mousedown", function (event) {
+      dragging = true;
+      didDrag = false;
+      dragStartX = event.clientX - panX;
+      dragStartY = event.clientY - panY;
+      zoomStage.classList.add("dragging");
+    });
+    window.addEventListener("mousemove", function (event) {
+      if (!dragging) return;
+      const moved = Math.abs(event.clientX - (dragStartX + panX)) > 4 ||
+                    Math.abs(event.clientY - (dragStartY + panY)) > 4;
+      if (moved) didDrag = true;
+      panX = event.clientX - dragStartX;
+      panY = event.clientY - dragStartY;
+      applyZoom();
+    });
+    window.addEventListener("mouseup", function () {
+      dragging = false;
+      zoomStage.classList.remove("dragging");
+    });
+    zoomStage.addEventListener("click", function (event) {
+      if (didDrag) { event.preventDefault(); event.stopPropagation(); return; }
+      if (event.target === zoomStage) closeZoom();
+    });
+
+    filterBtn.onclick = function () {
+      drawBoxes();
+      panelWrap.classList.add("open");
+    };
+    document.getElementById("closeFilters").onclick = function () {
+      readBoxes();
+      panelWrap.classList.remove("open");
+    };
+    document.getElementById("allFilters").onclick = function () {
+      selectedSchools = SCHOOLS.map(function (row) { return row[0]; });
+      selectedGenres = GENRES.map(function (row) { return row[0]; });
+      savePrefs();
+      drawBoxes();
+      applyFilter();
+    };
+    panelWrap.addEventListener("click", function (event) {
+      if (event.target === panelWrap) {
+        readBoxes();
+        panelWrap.classList.remove("open");
+      }
+    });
+    schoolBoxes.addEventListener("change", readBoxes);
+    genreBoxes.addEventListener("change", readBoxes);
+    school.onchange = function () {
+      selectedSchools = school.value === "all"
+        ? SCHOOLS.map(function (row) { return row[0]; })
+        : [school.value];
+      savePrefs();
+      drawBoxes();
+      applyFilter();
+    };
+    genre.onchange = function () {
+      selectedGenres = genre.value === "all"
+        ? GENRES.map(function (row) { return row[0]; })
+        : [genre.value];
+      savePrefs();
+      drawBoxes();
+      applyFilter();
+    };
+
+    document.getElementById("next").onclick = function () { next(); if (playing) start(); };
+    document.getElementById("prev").onclick = function () { prev(); if (playing) start(); };
+    playBtn.onclick = function () { if (playing) stop(); else start(); };
+    labelBtn.onclick = function () {
+      showLabel = !showLabel;
+      stage.classList.toggle("show-label", showLabel);
+      labelBtn.textContent = showLabel ? "Hide label" : "Label";
+    };
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape" && lightbox.classList.contains("open")) { closeZoom(); return; }
+      if (event.key === "Escape") panelWrap.classList.remove("open");
+      if (event.target === editor) return;
+      if (lightbox.classList.contains("open")) return;
+      if (event.key === "ArrowRight") next();
+      if (event.key === "ArrowLeft") prev();
+      if (event.key === " ") { event.preventDefault(); playBtn.click(); }
+    });
+
+    editor.addEventListener("input", function () { setPlaqueHtml(editor.value); });
+    fontSelect.onchange = applyStyle;
+    sizeInput.oninput = applyStyle;
+    leadInput.oninput = applyStyle;
+    document.getElementById("boldBtn").onclick = function () {
+      const start = editor.selectionStart;
+      const end = editor.selectionEnd;
+      const selected = editor.value.slice(start, end) || "bold";
+      editor.setRangeText("<b>" + selected + "</b>", start, end, "end");
+      setPlaqueHtml(editor.value);
+      editor.focus();
+    };
+    document.getElementById("saveTextBtn").onclick = function () {
+      const work = currentWork();
+      if (!work) return;
+      fetch("/api/plaque", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id: workId(work), text: editor.value })
+      }).then(function (r) { return r.json(); }).then(function (data) {
+        if (data.ok) { plaques[workId(work)] = editor.value; adminStatus.textContent = "Text saved"; }
+        else adminStatus.textContent = data.error || "Save failed";
+      }).catch(function () { adminStatus.textContent = "Save failed"; });
+    };
+    document.getElementById("saveStyleBtn").onclick = function () {
+      fetch("/api/label-style", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          fontFamily: fontSelect.value,
+          fontSize: sizeInput.value,
+          lineHeight: leadInput.value
+        })
+      }).then(function (r) { return r.json(); }).then(function (data) {
+        adminStatus.textContent = data.ok ? "Look saved" : "Style save failed";
+      }).catch(function () { adminStatus.textContent = "Style save failed"; });
+    };
+    document.getElementById("removeBtn").onclick = function () {
+      const work = currentWork();
+      if (!work) return;
+      if (!confirm("Remove this work from the cabinet?")) return;
+      fetch("/api/remove-work", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id: workId(work), wiki: work.wiki })
+      }).then(function (r) { return r.json(); }).then(function (data) {
+        if (!data.ok) { adminStatus.textContent = data.error || "Remove failed"; return; }
+        works = works.filter(function (item) { return item.wiki !== work.wiki; });
+        drawBoxes();
+        applyFilter();
+        adminStatus.textContent = "Removed";
+      }).catch(function () { adminStatus.textContent = "Remove failed"; });
+    };
+
+    loadPrefs();
+    Promise.all([
+      fetch("../data/works.json").then(function (r) { return r.json(); }),
+      fetch("../data/plaques.json").then(function (r) { return r.json(); }).catch(function () { return { plaques: {} }; }),
+      fetch("../data/label-style.json").then(function (r) { return r.json(); }).catch(function () { return {}; })
+    ]).then(function (results) {
+      works = results[0].works || [];
+      plaques = results[1].plaques || {};
+      const style = results[2] || {};
+      if (style.fontFamily) fontSelect.value = style.fontFamily;
+      if (style.fontSize) sizeInput.value = style.fontSize;
+      if (style.lineHeight) leadInput.value = style.lineHeight;
+      applyStyle();
+      drawBoxes();
+      applyFilter();
+      start();
+      if (isAdmin) {
+        showLabel = true;
+        stage.classList.add("show-label");
+        labelBtn.textContent = "Hide label";
+        stop();
+      }
+    });
+  </script>
+</body>
+</html>
