@@ -13,8 +13,8 @@ ARTISTS_PATH = ROOT / "data" / "artists.json"
 WORKS_PATH = ROOT / "data" / "works.json"
 REJECTED_PATH = ROOT / "data" / "rejected.json"
 
-OFFSET = 2629
-BATCH_SIZE = 5000
+OFFSET = 5197
+BATCH_SIZE = 15000
 LIMIT_EACH = 40
 
 SKIP_WORDS = (
