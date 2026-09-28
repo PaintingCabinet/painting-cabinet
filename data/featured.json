@@ -1,0 +1,100 @@
+{
+  "featured": [
+    {
+      "title": "Girl with a Pearl Earring",
+      "artist_name": "Johannes Vermeer",
+      "school": "dutch",
+      "date": "1665",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1665%20Girl%20with%20a%20Pearl%20Earring.jpg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q185372"
+    },
+    {
+      "title": "Portrait of Titus van Rijn",
+      "artist_name": "Rembrandt van Rijn",
+      "school": "dutch",
+      "date": "1657",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20102.jpg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q21402035"
+    },
+    {
+      "title": "Arnolfini Portrait",
+      "artist_name": "Jan van Eyck",
+      "school": "flemish",
+      "date": "1434",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Eyck%20-%20Arnolfini%20Portrait.jpg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q220859"
+    },
+    {
+      "title": "The Hunters in the Snow",
+      "artist_name": "Pieter Bruegel the Elder",
+      "school": "flemish",
+      "date": "1565",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Hunters%20in%20the%20Snow%20%28Winter%29%20-%20Google%20Art%20Project.jpg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q500985"
+    },
+    {
+      "title": "The Descent from the Cross",
+      "artist_name": "Peter Paul Rubens",
+      "school": "flemish",
+      "date": "1617",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Descent%20from%20the%20cross%20%281617%29.jpg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q16011124"
+    },
+    {
+      "title": "Laughing Cavalier",
+      "artist_name": "Frans Hals",
+      "school": "dutch",
+      "date": "1624",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20%E2%80%93%20The%20Laughing%20Cavalier.jpg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q965124"
+    },
+    {
+      "title": "The Starry Night",
+      "artist_name": "Vincent van Gogh",
+      "school": "dutch",
+      "date": "1889",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Starry%20Night%20-%20Google%20Art%20Project.jpg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q45585"
+    },
+    {
+      "title": "Impression, Sunrise",
+      "artist_name": "Claude Monet",
+      "school": "french",
+      "date": "1872",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Impression%2C%20Sunrise.jpg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q328523"
+    },
+    {
+      "title": "Las Meninas",
+      "artist_name": "Diego Velázquez",
+      "school": "spanish",
+      "date": "1656",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20Meninas%2C%20by%20Diego%20Vel%C3%A1zquez%2C%20from%20Prado%20in%20Google%20Earth.jpg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q208758"
+    },
+    {
+      "title": "Supper at Emmaus",
+      "artist_name": "Caravaggio",
+      "school": "italian",
+      "date": "1601",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Supper%20at%20Emmaus%20-%20National%20Gallery%20London.jpeg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q318947"
+    },
+    {
+      "title": "The Birth of Venus",
+      "artist_name": "Sandro Botticelli",
+      "school": "italian",
+      "date": "1485",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20La%20nascita%20di%20Venere%20-%20Google%20Art%20Project%20-%20edited.jpg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q151047"
+    },
+    {
+      "title": "The Fighting Temeraire Tugged to Her Last Berth to be Broken Up, 1838",
+      "artist_name": "J. M. W. Turner",
+      "school": "british",
+      "date": "1884",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20%281775-1851%29%20%28after%29%20-%20The%20Fighting%20Temeraire%20Tugged%20to%20Her%20Last%20Berth%20to%20be%20Broken%20Up%2C%201838%20-%20WAG%20416%20-%20Walker%20Art%20Gallery.jpg?width=1600",
+      "wiki": "http://www.wikidata.org/entity/Q119929660"
+    }
+  ]
+}
