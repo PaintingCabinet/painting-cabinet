@@ -1,0 +1,1528 @@
+{
+  "artists": [
+    {
+      "id": "Q937911",
+      "name": "Aleksander Or\u0142owski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q937911"
+    },
+    {
+      "id": "Q302693",
+      "name": "Alexander Kucharsky",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q302693"
+    },
+    {
+      "id": "Q500779",
+      "name": "Andrzej Stech",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q500779"
+    },
+    {
+      "id": "Q3631231",
+      "name": "Anna Rajecka",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q3631231"
+    },
+    {
+      "id": "Q597207",
+      "name": "Antoni Brodowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q597207"
+    },
+    {
+      "id": "Q3374325",
+      "name": "Augustyn Mirys",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q3374325"
+    },
+    {
+      "id": "Q580102",
+      "name": "Bartholomeus Strobel",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q580102"
+    },
+    {
+      "id": "Q4973911",
+      "name": "Bronis\u0142aw Abramowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4973911"
+    },
+    {
+      "id": "Q696720",
+      "name": "Daniel Chodowiecki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q696720"
+    },
+    {
+      "id": "Q9262661",
+      "name": "Franciszek Lekszycki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9262661"
+    },
+    {
+      "id": "Q594517",
+      "name": "Franciszek Smuglewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q594517"
+    },
+    {
+      "id": "Q822654",
+      "name": "Georg Lisiewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q822654"
+    },
+    {
+      "id": "Q10488589",
+      "name": "Hiacynt Alchimowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q10488589"
+    },
+    {
+      "id": "Q446837",
+      "name": "Isaak van den Blocke",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q446837"
+    },
+    {
+      "id": "Q73889",
+      "name": "Jan Polack",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q73889"
+    },
+    {
+      "id": "Q216018",
+      "name": "Jan Rustem",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q216018"
+    },
+    {
+      "id": "Q941569",
+      "name": "Jean-Pierre Norblin de La Gourdaine",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q941569"
+    },
+    {
+      "id": "Q2614438",
+      "name": "Jerzy Siemiginowski-Eleuter",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2614438"
+    },
+    {
+      "id": "Q1397798",
+      "name": "J\u00f3zef Peszka",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1397798"
+    },
+    {
+      "id": "Q11731155",
+      "name": "J\u00f3zef Pitschmann",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11731155"
+    },
+    {
+      "id": "Q6320792",
+      "name": "J\u00f3zefina Amalia Mniszech",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q6320792"
+    },
+    {
+      "id": "Q4122686",
+      "name": "Kazimierz Wojniakowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4122686"
+    },
+    {
+      "id": "Q6440109",
+      "name": "Krzysztof Boguszewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q6440109"
+    },
+    {
+      "id": "Q11763844",
+      "name": "Ludwik Marteau",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11763844"
+    },
+    {
+      "id": "Q380717",
+      "name": "Marcello Bacciarelli",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q380717"
+    },
+    {
+      "id": "Q559405",
+      "name": "Martin Kober",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q559405"
+    },
+    {
+      "id": "Q11782127",
+      "name": "Master Jerzy",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11782127"
+    },
+    {
+      "id": "Q11771414",
+      "name": "Mateusz Kossior",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11771414"
+    },
+    {
+      "id": "Q4441365",
+      "name": "Micha\u0142 Stachowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4441365"
+    },
+    {
+      "id": "Q1291233",
+      "name": "Stanis\u0142aw Samostrzelnik",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1291233"
+    },
+    {
+      "id": "Q1376689",
+      "name": "Szymon Czechowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1376689"
+    },
+    {
+      "id": "Q981439",
+      "name": "Tadeusz Ajdukiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q981439"
+    },
+    {
+      "id": "Q777159",
+      "name": "Tadeusz Kuntze",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q777159"
+    },
+    {
+      "id": "Q9356797",
+      "name": "Teodor Lubieniecki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9356797"
+    },
+    {
+      "id": "Q1380316",
+      "name": "Tommaso Dolabella",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1380316"
+    },
+    {
+      "id": "Q7961710",
+      "name": "Walenty \u017bebrowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q7961710"
+    },
+    {
+      "id": "Q23482609",
+      "name": "Waleria Tarnowska",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q23482609"
+    },
+    {
+      "id": "Q8023718",
+      "name": "Wincenty de Lesseur",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q8023718"
+    },
+    {
+      "id": "Q245311",
+      "name": "Zygmunt Ajdukiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q245311"
+    },
+    {
+      "id": "Q245396",
+      "name": "Zygmunt Vogel",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q245396"
+    },
+    {
+      "id": "Q4684060",
+      "name": "Adolf Behrman",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4684060"
+    },
+    {
+      "id": "Q924770",
+      "name": "Albert Chmielowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q924770"
+    },
+    {
+      "id": "Q16484968",
+      "name": "Aleksander Augustynowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q16484968"
+    },
+    {
+      "id": "Q273115",
+      "name": "Anna Bili\u0144ska",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q273115"
+    },
+    {
+      "id": "Q588346",
+      "name": "Antoni Blank",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q588346"
+    },
+    {
+      "id": "Q2909319",
+      "name": "Boles\u0142aw Biegas",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2909319"
+    },
+    {
+      "id": "Q4939210",
+      "name": "Boles\u0142aw Roman D\u0142uski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4939210"
+    },
+    {
+      "id": "Q1079053",
+      "name": "Chrystian Breslauer",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1079053"
+    },
+    {
+      "id": "Q9250396",
+      "name": "Edmund Cieczkiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9250396"
+    },
+    {
+      "id": "Q960978",
+      "name": "Feliks Brzozowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q960978"
+    },
+    {
+      "id": "Q4505752",
+      "name": "Florian Cynk",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4505752"
+    },
+    {
+      "id": "Q11708948",
+      "name": "Henryk Cieszkowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11708948"
+    },
+    {
+      "id": "Q72207",
+      "name": "Henryka Beyer",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q72207"
+    },
+    {
+      "id": "Q20028444",
+      "name": "Jan Bohuszewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q20028444"
+    },
+    {
+      "id": "Q93702",
+      "name": "Jan Che\u0142mi\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q93702"
+    },
+    {
+      "id": "Q1671969",
+      "name": "Jan Ci\u0105gli\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1671969"
+    },
+    {
+      "id": "Q558489",
+      "name": "J\u00f3zef Brandt",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q558489"
+    },
+    {
+      "id": "Q1605740",
+      "name": "J\u00f3zef Brodowski the Elder",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1605740"
+    },
+    {
+      "id": "Q11729979",
+      "name": "J\u00f3zef Brodowski the Younger",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11729979"
+    },
+    {
+      "id": "Q983949",
+      "name": "J\u00f3zef Che\u0142mo\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q983949"
+    },
+    {
+      "id": "Q367832",
+      "name": "Kazimierz Alchimowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q367832"
+    },
+    {
+      "id": "Q8860632",
+      "name": "Konstanty Brandel",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q8860632"
+    },
+    {
+      "id": "Q4083763",
+      "name": "Ludomir Benedyktowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4083763"
+    },
+    {
+      "id": "Q16574157",
+      "name": "Maximilian Cercha",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q16574157"
+    },
+    {
+      "id": "Q941468",
+      "name": "Micha\u0142 Elwiro Andriolli",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q941468"
+    },
+    {
+      "id": "Q4163627",
+      "name": "Odo Dobrowolski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4163627"
+    },
+    {
+      "id": "Q466639",
+      "name": "Olga Bozna\u0144ska",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q466639"
+    },
+    {
+      "id": "Q7458251",
+      "name": "Seweryn Bieszczad",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q7458251"
+    },
+    {
+      "id": "Q7599115",
+      "name": "Stanis\u0142aw Bergman",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q7599115"
+    },
+    {
+      "id": "Q2121507",
+      "name": "Stanis\u0142aw Chlebowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2121507"
+    },
+    {
+      "id": "Q4157350",
+      "name": "Stanis\u0142aw D\u0119bicki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4157350"
+    },
+    {
+      "id": "Q609929",
+      "name": "Stefan Baka\u0142owicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q609929"
+    },
+    {
+      "id": "Q2896764",
+      "name": "Szymon Buchbinder",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2896764"
+    },
+    {
+      "id": "Q795050",
+      "name": "Teodor Axentowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q795050"
+    },
+    {
+      "id": "Q2538626",
+      "name": "Wac\u0142aw Borowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2538626"
+    },
+    {
+      "id": "Q3787033",
+      "name": "W\u0142adys\u0142aw Baka\u0142owicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q3787033"
+    },
+    {
+      "id": "Q553665",
+      "name": "W\u0142adys\u0142aw Czach\u00f3rski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q553665"
+    },
+    {
+      "id": "Q9389971",
+      "name": "Zefiryn \u0106wikli\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9389971"
+    },
+    {
+      "id": "Q14417673",
+      "name": "Zofia Atteslander",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q14417673"
+    },
+    {
+      "id": "Q139146",
+      "name": "Zygmunt Andrychiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q139146"
+    },
+    {
+      "id": "Q9139604",
+      "name": "Adam Gorczy\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9139604"
+    },
+    {
+      "id": "Q361348",
+      "name": "Adolf Eduard Herstein",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q361348"
+    },
+    {
+      "id": "Q11684492",
+      "name": "Adrian G\u0142\u0119bocki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11684492"
+    },
+    {
+      "id": "Q958927",
+      "name": "Aleksander Gierymski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q958927"
+    },
+    {
+      "id": "Q11685029",
+      "name": "Aleksander Gryglewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11685029"
+    },
+    {
+      "id": "Q13132800",
+      "name": "Alfons Dunin-Borkowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q13132800"
+    },
+    {
+      "id": "Q9156761",
+      "name": "Antoni Gramatyka",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9156761"
+    },
+    {
+      "id": "Q4143452",
+      "name": "Apolinary Horawski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4143452"
+    },
+    {
+      "id": "Q714401",
+      "name": "Artur Grottger",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q714401"
+    },
+    {
+      "id": "Q9179990",
+      "name": "Bronis\u0142awa Janowska",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9179990"
+    },
+    {
+      "id": "Q11697037",
+      "name": "Erazm Fabija\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11697037"
+    },
+    {
+      "id": "Q9254833",
+      "name": "Erwin Elster",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9254833"
+    },
+    {
+      "id": "Q732739",
+      "name": "Gustaw Gwozdecki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q732739"
+    },
+    {
+      "id": "Q2471440",
+      "name": "Henryk Hryniewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2471440"
+    },
+    {
+      "id": "Q11711182",
+      "name": "Ignacy Gepner",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11711182"
+    },
+    {
+      "id": "Q11714964",
+      "name": "Izydor Jab\u0142o\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11714964"
+    },
+    {
+      "id": "Q390373",
+      "name": "Jan Ksawery Kaniewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q390373"
+    },
+    {
+      "id": "Q204264",
+      "name": "Jan Nepomucen G\u0142owacki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q204264"
+    },
+    {
+      "id": "Q4499032",
+      "name": "J\u00f3zef Holewi\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4499032"
+    },
+    {
+      "id": "Q4188275",
+      "name": "Konstanty G\u00f3rski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4188275"
+    },
+    {
+      "id": "Q6524726",
+      "name": "Leon Kapli\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q6524726"
+    },
+    {
+      "id": "Q591185",
+      "name": "Leopold Gottlieb",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q591185"
+    },
+    {
+      "id": "Q1886542",
+      "name": "Maksymilian Gierymski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1886542"
+    },
+    {
+      "id": "Q11767376",
+      "name": "Marceli Harasimowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11767376"
+    },
+    {
+      "id": "Q11768819",
+      "name": "Maria Dul\u0119bianka",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11768819"
+    },
+    {
+      "id": "Q20873639",
+      "name": "Maria Ga\u017cycz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q20873639"
+    },
+    {
+      "id": "Q443136",
+      "name": "Maurycy Gottlieb",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q443136"
+    },
+    {
+      "id": "Q4145937",
+      "name": "Micha\u0142 Gorstkin-Wywi\u00f3rski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4145937"
+    },
+    {
+      "id": "Q16465297",
+      "name": "Napoleon I\u0142\u0142akowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q16465297"
+    },
+    {
+      "id": "Q1380573",
+      "name": "Rafa\u0142 Hadziewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1380573"
+    },
+    {
+      "id": "Q594345",
+      "name": "Samuel Hirszenberg",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q594345"
+    },
+    {
+      "id": "Q9341983",
+      "name": "Stanis\u0142aw Grocholski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9341983"
+    },
+    {
+      "id": "Q4079439",
+      "name": "Stanis\u0142aw Kaczor-Batowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4079439"
+    },
+    {
+      "id": "Q2331329",
+      "name": "Stanis\u0142aw Kamocki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2331329"
+    },
+    {
+      "id": "Q960983",
+      "name": "Stefan Filipkiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q960983"
+    },
+    {
+      "id": "Q2387247",
+      "name": "Tadeusz Gorecki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2387247"
+    },
+    {
+      "id": "Q2356968",
+      "name": "Walery Eljasz-Radzikowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2356968"
+    },
+    {
+      "id": "Q1364258",
+      "name": "Wojciech Gerson",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1364258"
+    },
+    {
+      "id": "Q543376",
+      "name": "W\u0142adys\u0142aw Jarocki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q543376"
+    },
+    {
+      "id": "Q9389692",
+      "name": "Zdzis\u0142aw Jasi\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9389692"
+    },
+    {
+      "id": "Q4227488",
+      "name": "Aleksander Kokular",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4227488"
+    },
+    {
+      "id": "Q942477",
+      "name": "Aleksander Kotsis",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q942477"
+    },
+    {
+      "id": "Q3270591",
+      "name": "Aleksander Lesser",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q3270591"
+    },
+    {
+      "id": "Q2484602",
+      "name": "Alfons Karpi\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2484602"
+    },
+    {
+      "id": "Q358110",
+      "name": "Alfred Kowalski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q358110"
+    },
+    {
+      "id": "Q2485193",
+      "name": "Antoni Kozakiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2485193"
+    },
+    {
+      "id": "Q9158535",
+      "name": "Apolinary Kotowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9158535"
+    },
+    {
+      "id": "Q4780440",
+      "name": "Apoloniusz K\u0119dzierski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4780440"
+    },
+    {
+      "id": "Q16703014",
+      "name": "Augusta Kochanowska",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q16703014"
+    },
+    {
+      "id": "Q1737512",
+      "name": "Casimir Markievicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1737512"
+    },
+    {
+      "id": "Q531199",
+      "name": "Erich Klossowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q531199"
+    },
+    {
+      "id": "Q2348934",
+      "name": "Eugeniusz Kazimirowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2348934"
+    },
+    {
+      "id": "Q3595563",
+      "name": "Franciszek Kostrzewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q3595563"
+    },
+    {
+      "id": "Q683344",
+      "name": "Franciszek Ksawery Lampi",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q683344"
+    },
+    {
+      "id": "Q448189",
+      "name": "Jacek Malczewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q448189"
+    },
+    {
+      "id": "Q3356084",
+      "name": "Jerzy Kossak",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q3356084"
+    },
+    {
+      "id": "Q956091",
+      "name": "Juliusz Kossak",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q956091"
+    },
+    {
+      "id": "Q254524",
+      "name": "J\u00f3zef Ignacy Kraszewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q254524"
+    },
+    {
+      "id": "Q6320557",
+      "name": "J\u00f3zef Krasnowolski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q6320557"
+    },
+    {
+      "id": "Q104925818",
+      "name": "J\u00f3zefat Ignacy \u0141ukasiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q104925818"
+    },
+    {
+      "id": "Q301139",
+      "name": "Konrad Krzy\u017canowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q301139"
+    },
+    {
+      "id": "Q6430240",
+      "name": "Konstanty Laszczka",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q6430240"
+    },
+    {
+      "id": "Q708829",
+      "name": "Leopold Loeffler",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q708829"
+    },
+    {
+      "id": "Q1346343",
+      "name": "Louis Marcoussis",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1346343"
+    },
+    {
+      "id": "Q3920956",
+      "name": "Lucjan Kraszewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q3920956"
+    },
+    {
+      "id": "Q117887",
+      "name": "Ludwik de Laveaux (painter)",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q117887"
+    },
+    {
+      "id": "Q5761977",
+      "name": "Marian Kulesza",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q5761977"
+    },
+    {
+      "id": "Q5593947",
+      "name": "Micha\u0142 Hieronim Leszczyc-Sumi\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q5593947"
+    },
+    {
+      "id": "Q2615088",
+      "name": "Micha\u0142 Kulesza",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2615088"
+    },
+    {
+      "id": "Q1941065",
+      "name": "Mi\u0142osz Kotarbi\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1941065"
+    },
+    {
+      "id": "Q2164656",
+      "name": "Roman Kochanowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2164656"
+    },
+    {
+      "id": "Q2331375",
+      "name": "Stanis\u0142aw Lentz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2331375"
+    },
+    {
+      "id": "Q7599275",
+      "name": "Stanis\u0142awa de Kar\u0142owska",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q7599275"
+    },
+    {
+      "id": "Q667320",
+      "name": "Teofil Kwiatkowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q667320"
+    },
+    {
+      "id": "Q4235924",
+      "name": "Wilhelm Kotarbi\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4235924"
+    },
+    {
+      "id": "Q1350185",
+      "name": "Wilhelm Leopolski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1350185"
+    },
+    {
+      "id": "Q2583344",
+      "name": "Wincenty Kasprzycki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2583344"
+    },
+    {
+      "id": "Q727637",
+      "name": "Wojciech Kossak",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q727637"
+    },
+    {
+      "id": "Q540564",
+      "name": "W\u0142adys\u0142aw Malecki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q540564"
+    },
+    {
+      "id": "Q440896",
+      "name": "W\u0142adys\u0142aw \u0141uszczkiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q440896"
+    },
+    {
+      "id": "Q4669111",
+      "name": "Abraham Neumann",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4669111"
+    },
+    {
+      "id": "Q4684146",
+      "name": "Adolf Piwarski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4684146"
+    },
+    {
+      "id": "Q1840160",
+      "name": "Aleksander Raczy\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1840160"
+    },
+    {
+      "id": "Q1255520",
+      "name": "Alfred Izydor Romer",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1255520"
+    },
+    {
+      "id": "Q3486595",
+      "name": "Ambro\u017cy Mieroszewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q3486595"
+    },
+    {
+      "id": "Q4759619",
+      "name": "Andrzej Jerzy Mniszech",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4759619"
+    },
+    {
+      "id": "Q9154700",
+      "name": "Aniela Paj\u0105k\u00f3wna",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9154700"
+    },
+    {
+      "id": "Q597947",
+      "name": "Antoni Piotrowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q597947"
+    },
+    {
+      "id": "Q340122",
+      "name": "Cyprian Norwid",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q340122"
+    },
+    {
+      "id": "Q510539",
+      "name": "Edward Oku\u0144",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q510539"
+    },
+    {
+      "id": "Q983807",
+      "name": "Eligiusz Niewiadomski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q983807"
+    },
+    {
+      "id": "Q9262815",
+      "name": "Franciszek Pfanhauser",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9262815"
+    },
+    {
+      "id": "Q4362784",
+      "name": "Henryk Pillati",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4362784"
+    },
+    {
+      "id": "Q301435",
+      "name": "Henryk Rodakowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q301435"
+    },
+    {
+      "id": "Q1657306",
+      "name": "Ignacy Pie\u0144kowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1657306"
+    },
+    {
+      "id": "Q4362346",
+      "name": "Jan Feliks Piwarski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4362346"
+    },
+    {
+      "id": "Q4286236",
+      "name": "Jan Kanty Maszkowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4286236"
+    },
+    {
+      "id": "Q189117",
+      "name": "Jan Matejko",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q189117"
+    },
+    {
+      "id": "Q23000057",
+      "name": "Julie Mihes",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q23000057"
+    },
+    {
+      "id": "Q11730914",
+      "name": "J\u00f3zef Marszewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11730914"
+    },
+    {
+      "id": "Q1354695",
+      "name": "J\u00f3zef Mehoffer",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1354695"
+    },
+    {
+      "id": "Q7225041",
+      "name": "J\u00f3zef M\u0119cina-Krzesz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q7225041"
+    },
+    {
+      "id": "Q2034921",
+      "name": "J\u00f3zef Oleszkiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2034921"
+    },
+    {
+      "id": "Q1038450",
+      "name": "J\u00f3zef Pankiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1038450"
+    },
+    {
+      "id": "Q11731245",
+      "name": "J\u00f3zef Rapacki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11731245"
+    },
+    {
+      "id": "Q698607",
+      "name": "Kazimierz Pochwalski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q698607"
+    },
+    {
+      "id": "Q3229810",
+      "name": "Leopold Pilichowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q3229810"
+    },
+    {
+      "id": "Q18628854",
+      "name": "Ludwig von Milewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q18628854"
+    },
+    {
+      "id": "Q941622",
+      "name": "Napoleon Orda",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q941622"
+    },
+    {
+      "id": "Q2331466",
+      "name": "Paul Merwart",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2331466"
+    },
+    {
+      "id": "Q1389396",
+      "name": "Piotr Micha\u0142owski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1389396"
+    },
+    {
+      "id": "Q12151436",
+      "name": "Seweryn Obst",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q12151436"
+    },
+    {
+      "id": "Q541702",
+      "name": "Stanis\u0142aw Mas\u0142owski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q541702"
+    },
+    {
+      "id": "Q972823",
+      "name": "Stanis\u0142aw Noakowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q972823"
+    },
+    {
+      "id": "Q9354747",
+      "name": "Tadeusz Popiel",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9354747"
+    },
+    {
+      "id": "Q442239",
+      "name": "Tadeusz Pruszkowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q442239"
+    },
+    {
+      "id": "Q541762",
+      "name": "Witold Pruszkowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q541762"
+    },
+    {
+      "id": "Q11719309",
+      "name": "W\u0142adys\u0142aw Niewiarowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11719309"
+    },
+    {
+      "id": "Q4375045",
+      "name": "W\u0142adys\u0142aw Pochwalski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4375045"
+    },
+    {
+      "id": "Q2065760",
+      "name": "W\u0142adys\u0142aw Podkowi\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2065760"
+    },
+    {
+      "id": "Q9147808",
+      "name": "Alfred Schoupp\u00e9",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9147808"
+    },
+    {
+      "id": "Q1390925",
+      "name": "Edward Jan R\u00f6mer",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1390925"
+    },
+    {
+      "id": "Q5441836",
+      "name": "Feliks Sypniewski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q5441836"
+    },
+    {
+      "id": "Q1392368",
+      "name": "Ferdynand Ruszczyc",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1392368"
+    },
+    {
+      "id": "Q4455199",
+      "name": "Franciszek Tepa",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4455199"
+    },
+    {
+      "id": "Q20165889",
+      "name": "Franz Streitt",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q20165889"
+    },
+    {
+      "id": "Q11685102",
+      "name": "Helena Skirmunt",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11685102"
+    },
+    {
+      "id": "Q520581",
+      "name": "Helena Unierzyska",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q520581"
+    },
+    {
+      "id": "Q192544",
+      "name": "Henryk Siemiradzki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q192544"
+    },
+    {
+      "id": "Q1682174",
+      "name": "Jan Rosen",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1682174"
+    },
+    {
+      "id": "Q923415",
+      "name": "Jan Stanis\u0142awski (painter)",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q923415"
+    },
+    {
+      "id": "Q708238",
+      "name": "Jan Styka",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q708238"
+    },
+    {
+      "id": "Q1259182",
+      "name": "January Suchodolski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1259182"
+    },
+    {
+      "id": "Q327738",
+      "name": "J\u00f3zef Simmler",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q327738"
+    },
+    {
+      "id": "Q1715115",
+      "name": "J\u00f3zef Szermentowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1715115"
+    },
+    {
+      "id": "Q11731559",
+      "name": "J\u00f3zef Unierzyski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11731559"
+    },
+    {
+      "id": "Q1734185",
+      "name": "Karol Tichy",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1734185"
+    },
+    {
+      "id": "Q554266",
+      "name": "Kazimierz Sichulski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q554266"
+    },
+    {
+      "id": "Q368728",
+      "name": "Kazimierz Stabrowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q368728"
+    },
+    {
+      "id": "Q6699459",
+      "name": "Ludwik Stasiak",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q6699459"
+    },
+    {
+      "id": "Q11767793",
+      "name": "Marcin Samlicki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11767793"
+    },
+    {
+      "id": "Q11771798",
+      "name": "Maurycy Tr\u0119bacz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11771798"
+    },
+    {
+      "id": "Q4524055",
+      "name": "Pantaleon Szyndler",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4524055"
+    },
+    {
+      "id": "Q554644",
+      "name": "Piotr Stachiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q554644"
+    },
+    {
+      "id": "Q9342098",
+      "name": "Stanis\u0142aw Jakub Rostworowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9342098"
+    },
+    {
+      "id": "Q18521904",
+      "name": "Stanis\u0142aw Tarnowski (Bia\u0142y)",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q18521904"
+    },
+    {
+      "id": "Q554842",
+      "name": "Vladimir de Terlikowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q554842"
+    },
+    {
+      "id": "Q7958902",
+      "name": "Wac\u0142aw Szymanowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q7958902"
+    },
+    {
+      "id": "Q1795226",
+      "name": "Walenty Wa\u0144kowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1795226"
+    },
+    {
+      "id": "Q8002083",
+      "name": "Wilhelm August Stryowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q8002083"
+    },
+    {
+      "id": "Q15966593",
+      "name": "Wincenty Sle\u0144dzi\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q15966593"
+    },
+    {
+      "id": "Q4424913",
+      "name": "Wincenty Smokowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4424913"
+    },
+    {
+      "id": "Q4464075",
+      "name": "Wincenty Trojanowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q4464075"
+    },
+    {
+      "id": "Q1456412",
+      "name": "Wojciech Stattler",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1456412"
+    },
+    {
+      "id": "Q9382333",
+      "name": "W\u0142adys\u0142aw Szerner",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9382333"
+    },
+    {
+      "id": "Q9382371",
+      "name": "W\u0142adys\u0142aw Wankie",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q9382371"
+    },
+    {
+      "id": "Q568856",
+      "name": "W\u0142adys\u0142aw \u015alewi\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q568856"
+    },
+    {
+      "id": "Q353309",
+      "name": "W\u0142odzimierz Tetmajer",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q353309"
+    },
+    {
+      "id": "Q28031298",
+      "name": "Zdzis\u0142aw Suchodolski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q28031298"
+    },
+    {
+      "id": "Q23047554",
+      "name": "Zofia Szymanowska-Lenartowicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q23047554"
+    },
+    {
+      "id": "Q1400570",
+      "name": "Franciszek \u017bmurko",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1400570"
+    },
+    {
+      "id": "Q11716631",
+      "name": "Jakub Weinles",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q11716631"
+    },
+    {
+      "id": "Q15208575",
+      "name": "Karol D. Witkowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q15208575"
+    },
+    {
+      "id": "Q943537",
+      "name": "Leon Wycz\u00f3\u0142kowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q943537"
+    },
+    {
+      "id": "Q1376794",
+      "name": "Marcin Zaleski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1376794"
+    },
+    {
+      "id": "Q273923",
+      "name": "Maria Wodzi\u0144ska",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q273923"
+    },
+    {
+      "id": "Q1345943",
+      "name": "Mariusz Zaruski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q1345943"
+    },
+    {
+      "id": "Q6850132",
+      "name": "Miko\u0142aj Wisznicki",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q6850132"
+    },
+    {
+      "id": "Q684591",
+      "name": "Stanis\u0142aw Witkiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q684591"
+    },
+    {
+      "id": "Q312627",
+      "name": "Stanis\u0142aw Wyspia\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q312627"
+    },
+    {
+      "id": "Q7674549",
+      "name": "Tadeusz \u017bukoty\u0144ski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q7674549"
+    },
+    {
+      "id": "Q554222",
+      "name": "Wincenty Wodzinowski",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q554222"
+    },
+    {
+      "id": "Q2093769",
+      "name": "Witold Wojtkiewicz",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q2093769"
+    },
+    {
+      "id": "Q941359",
+      "name": "Wojciech Weiss",
+      "school": "polish",
+      "wiki": "https://www.wikidata.org/wiki/Q941359"
+    }
+  ]
+}

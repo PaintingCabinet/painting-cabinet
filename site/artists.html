@@ -5,52 +5,166 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Artists — Painting Cabinet</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:ital,wght@0,500;1,500&display=swap');
+
+    :root {
+      --bg: #0c0a08;
+      --bg-elev: #17130f;
+      --border: #382f22;
+      --border-soft: #2a2318;
+      --text: #ece1cd;
+      --text-dim: #b9ab8f;
+      --text-faint: #83765f;
+      --accent: #d9b56d;
+      --accent-dim: #a5895a;
+      --radius: 12px;
+      --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      --ease: cubic-bezier(.22, 1, .36, 1);
+    }
+
+    * { box-sizing: border-box; }
     html, body {
       margin: 0;
       min-height: 100%;
-      background: #11100e;
-      color: #e8dcc8;
-      font-family: Georgia, "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      -webkit-font-smoothing: antialiased;
     }
-    header, main { max-width: 720px; margin: 0 auto; padding: 24px 20px; }
-    a { color: #d4c09a; }
-    h1 { font-weight: normal; }
-    .schools { list-style: none; padding: 0; margin: 2rem 0; }
-    .schools li { margin: 0 0 12px; }
-    .schools a {
-      display: block;
-      padding: 16px 18px;
-      border: 1px solid #3a342c;
-      text-decoration: none;
-      color: #e8dcc8;
+
+    ::-webkit-scrollbar { width: 9px; height: 9px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 99px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--accent-dim); }
+
+    a { color: var(--accent); text-decoration: none; transition: color .2s var(--ease); }
+    a:hover { color: var(--text); }
+
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 0 28px 60px; }
+
+    .site-nav {
+      display: flex;
+      gap: 1.25rem;
+      align-items: center;
+      padding: 18px 0;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      font-size: 0.72rem;
     }
-    .schools a:hover { border-color: #d4c09a; }
-    .count { color: #8a7f70; }
+    .site-nav a { color: var(--text-dim); }
+    .site-nav a:hover, .site-nav a.here { color: var(--accent); }
+
+    header { padding: 34px 0 30px; }
+    h1 {
+      margin: 0 0 12px;
+      font-family: var(--font-serif);
+      font-style: italic;
+      font-weight: 500;
+      font-size: clamp(2rem, 4.5vw, 3.1rem);
+      letter-spacing: 0.005em;
+      line-height: 1.15;
+    }
+    .lede { margin: 0 0 6px; color: var(--text-dim); font-size: 1rem; line-height: 1.6; }
+    .meta {
+      margin: 0;
+      color: var(--text-faint);
+      font-size: 0.8rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      min-height: 1.2em;
+    }
+
+    .schools {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+      gap: 14px;
+    }
+    .school {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      padding: 20px 46px 20px 22px;
+      background: var(--bg-elev);
+      border: 1px solid var(--border-soft);
+      border-radius: var(--radius);
+      color: var(--text);
+      transition: border-color .25s var(--ease), transform .25s var(--ease), color .2s var(--ease);
+    }
+    .school .n { font-family: var(--font-serif); font-style: italic; font-size: 1.3rem; line-height: 1.2; }
+    .school .c {
+      font-size: 0.72rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--text-faint);
+      font-variant-numeric: tabular-nums;
+    }
+    .school .go {
+      position: absolute;
+      right: 20px;
+      top: 50%;
+      transform: translate(-6px, -50%);
+      opacity: 0;
+      color: var(--accent);
+      font-size: 1.1rem;
+      transition: opacity .25s var(--ease), transform .25s var(--ease);
+    }
+    .school:hover, .school:focus-visible { border-color: var(--accent-dim); transform: translateY(-2px); color: var(--accent); outline: none; }
+    .school:hover .go, .school:focus-visible .go { opacity: 1; transform: translate(0, -50%); }
+
+    .note { color: var(--text-faint); font-size: 0.9rem; padding: 20px 0; }
+
+    @media (max-width: 640px) {
+      .wrap { padding: 0 16px 50px; }
+      header { padding: 22px 0 22px; }
+    }
   </style>
 </head>
 <body>
-  <header>
-    <nav>
-      <a href="index.html">Home</a> ·
-      Artists ·
-      <a href="viewer.html">Viewer</a> ·
+  <div class="wrap">
+    <nav class="site-nav">
+      <a href="index.html">Home</a>
+      <a href="artists.html" class="here">Artists</a>
+      <a href="viewer.html">Viewer</a>
       <a href="about.html">About</a>
     </nav>
-    <h1>Artists</h1>
-    <p>Choose a school.</p>
-  </header>
-  <main>
+
+    <header>
+      <h1>Artists</h1>
+      <p class="lede">Choose a school to browse its painters.</p>
+      <p class="meta" id="meta">Loading…</p>
+    </header>
+
     <ul class="schools" id="schools"></ul>
-  </main>
+    <p class="note" id="note" hidden></p>
+  </div>
+
   <script>
     const labels = {
-      flemish: "Flemish",
-      dutch: "Dutch",
-      french: "French",
-      spanish: "Spanish",
-      italian: "Italian"
+      flemish: "Flemish", dutch: "Dutch", french: "French", spanish: "Spanish", italian: "Italian",
+      british: "British", australian: "Australian", american: "American", german: "German",
+      russian: "Russian", swiss: "Swiss", scandinavian: "Scandinavian", greek: "Greek",
+      portuguese: "Portuguese", polish: "Polish", irish: "Irish", scottish: "Scottish", europe: "Europe",
+      chinese: "Chinese", japanese: "Japanese", austrian: "Austrian", indian: "Indian",
+      norwegian: "Norwegian", mexican: "Mexican", ottoman: "Ottoman", belgian: "Belgian",
+      colombian: "Colombian", peruvian: "Peruvian", ecuadorian: "Ecuadorian", other: "Other"
     };
-    const order = ["flemish", "dutch", "french", "spanish", "italian"];
+    const order = Object.keys(labels);
+    const meta = document.getElementById("meta");
+    const list = document.getElementById("schools");
+    const note = document.getElementById("note");
+
+    function el(tag, className, text) {
+      const node = document.createElement(tag);
+      if (className) node.className = className;
+      if (text !== undefined) node.textContent = text;
+      return node;
+    }
 
     fetch("../data/artists.json")
       .then(function (r) { return r.json(); })
@@ -60,20 +174,39 @@
         artists.forEach(function (artist) {
           counts[artist.school] = (counts[artist.school] || 0) + 1;
         });
-        const list = document.getElementById("schools");
         const schools = order.slice();
         Object.keys(counts).forEach(function (key) {
           if (schools.indexOf(key) === -1) schools.push(key);
         });
+
+        const frag = document.createDocumentFragment();
+        let shown = 0;
         schools.forEach(function (key) {
           if (!counts[key]) return;
+          shown++;
           const item = document.createElement("li");
-          const label = labels[key] || key;
-          item.innerHTML =
-            "<a href='artists-school.html?school=" + encodeURIComponent(key) + "'>" +
-            label + " <span class='count'>(" + counts[key] + ")</span></a>";
-          list.appendChild(item);
+          const link = el("a", "school");
+          link.href = "artists-school.html?school=" + encodeURIComponent(key);
+          const name = labels[key] || (key ? key.charAt(0).toUpperCase() + key.slice(1) : "Unknown");
+          link.appendChild(el("span", "n", name));
+          link.appendChild(el("span", "c", counts[key].toLocaleString() + (counts[key] === 1 ? " artist" : " artists")));
+          link.appendChild(el("span", "go", "→"));
+          item.appendChild(link);
+          frag.appendChild(item);
         });
+        list.appendChild(frag);
+
+        meta.textContent = shown.toLocaleString() + (shown === 1 ? " school" : " schools") +
+          " · " + artists.length.toLocaleString() + " artists";
+        if (!shown) {
+          note.hidden = false;
+          note.textContent = "No artists found yet.";
+        }
+      })
+      .catch(function () {
+        meta.textContent = "";
+        note.hidden = false;
+        note.textContent = "The list of schools could not be loaded. Please try again in a moment.";
       });
   </script>
 </body>

@@ -1,0 +1,4660 @@
+{
+  "artists": [
+    {
+      "id": "Q3499576",
+      "name": "Abraham Wuchters",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3499576"
+    },
+    {
+      "id": "Q2595932",
+      "name": "Andreas Br\u00fcnniche",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2595932"
+    },
+    {
+      "id": "Q724639",
+      "name": "Antoine de Bosc de la Calmette",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q724639"
+    },
+    {
+      "id": "Q819197",
+      "name": "Asmus Jacob Carstens",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q819197"
+    },
+    {
+      "id": "Q12303085",
+      "name": "Bendix Grodtschilling",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12303085"
+    },
+    {
+      "id": "Q12303084",
+      "name": "Bendix Grodtschilling the Younger",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12303084"
+    },
+    {
+      "id": "Q1392460",
+      "name": "Bendix Grodtschilling the Youngest",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1392460"
+    },
+    {
+      "id": "Q259393",
+      "name": "Bernhard Keil",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q259393"
+    },
+    {
+      "id": "Q3416034",
+      "name": "Christian August Lorentzen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3416034"
+    },
+    {
+      "id": "Q4134632",
+      "name": "Christian David Gebauer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4134632"
+    },
+    {
+      "id": "Q12306201",
+      "name": "Christian Ulrik Foltmar",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12306201"
+    },
+    {
+      "id": "Q5111658",
+      "name": "Christoffer Foltmar",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5111658"
+    },
+    {
+      "id": "Q886448",
+      "name": "Cladius Detlev Fritzsch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q886448"
+    },
+    {
+      "id": "Q472749",
+      "name": "Claus Berg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q472749"
+    },
+    {
+      "id": "Q5162501",
+      "name": "Conrad Christian B\u00f8hndel",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5162501"
+    },
+    {
+      "id": "Q55048421",
+      "name": "Cornelius H\u00f8yer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q55048421"
+    },
+    {
+      "id": "Q5366452",
+      "name": "Elmelunde Master",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5366452"
+    },
+    {
+      "id": "Q12313708",
+      "name": "Georg Mathias Fuchs",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12313708"
+    },
+    {
+      "id": "Q12315331",
+      "name": "Hans Hansen (Danish painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12315331"
+    },
+    {
+      "id": "Q761985",
+      "name": "Hendrick Krock",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q761985"
+    },
+    {
+      "id": "Q5753285",
+      "name": "Hieronimo Miani",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5753285"
+    },
+    {
+      "id": "Q1674331",
+      "name": "Ismael Mengs",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1674331"
+    },
+    {
+      "id": "Q166384",
+      "name": "Jacob Coning",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q166384"
+    },
+    {
+      "id": "Q5738235",
+      "name": "Jacob Fosie",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5738235"
+    },
+    {
+      "id": "Q581361",
+      "name": "Jens Juel (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q581361"
+    },
+    {
+      "id": "Q3428448",
+      "name": "Johan Jacob Bruun",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3428448"
+    },
+    {
+      "id": "Q3365727",
+      "name": "Johan Ludwig Lund",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3365727"
+    },
+    {
+      "id": "Q4948602",
+      "name": "Johanna Marie Fosie",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4948602"
+    },
+    {
+      "id": "Q3428643",
+      "name": "Karel van Mander III",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3428643"
+    },
+    {
+      "id": "Q4941489",
+      "name": "Magdalene B\u00e4rens",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4941489"
+    },
+    {
+      "id": "Q766549",
+      "name": "Magnus Berg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q766549"
+    },
+    {
+      "id": "Q3377754",
+      "name": "Marie Jeanne Clemens",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3377754"
+    },
+    {
+      "id": "Q70893",
+      "name": "Melchior Lorck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q70893"
+    },
+    {
+      "id": "Q11990037",
+      "name": "Morten Steenwinkel",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11990037"
+    },
+    {
+      "id": "Q319854",
+      "name": "Nicolai Abildgaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q319854"
+    },
+    {
+      "id": "Q29168274",
+      "name": "Nicolaus Georg Geve",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q29168274"
+    },
+    {
+      "id": "Q3742963",
+      "name": "Odvardt Helmoldt von Lode",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3742963"
+    },
+    {
+      "id": "Q3361760",
+      "name": "Peder Als",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3361760"
+    },
+    {
+      "id": "Q3429610",
+      "name": "Reinhold Timm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3429610"
+    },
+    {
+      "id": "Q2027614",
+      "name": "Vigilius Eriksen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2027614"
+    },
+    {
+      "id": "Q490709",
+      "name": "Anders Andersen-Lundby",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q490709"
+    },
+    {
+      "id": "Q499694",
+      "name": "Andreas M\u00f8ller",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q499694"
+    },
+    {
+      "id": "Q12301589",
+      "name": "Andreas Riis Carstensen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12301589"
+    },
+    {
+      "id": "Q253446",
+      "name": "Anna Ancher",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q253446"
+    },
+    {
+      "id": "Q11958385",
+      "name": "Anthonore Christensen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11958385"
+    },
+    {
+      "id": "Q5039861",
+      "name": "Carl Baag\u00f8e",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5039861"
+    },
+    {
+      "id": "Q12305177",
+      "name": "Carl Balsgaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12305177"
+    },
+    {
+      "id": "Q547055",
+      "name": "Carl Bloch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q547055"
+    },
+    {
+      "id": "Q5600305",
+      "name": "Carl B\u00f8gh",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5600305"
+    },
+    {
+      "id": "Q643123",
+      "name": "Carl Frederik Aagaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q643123"
+    },
+    {
+      "id": "Q649390",
+      "name": "Carl Gustaf Pilo",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q649390"
+    },
+    {
+      "id": "Q479806",
+      "name": "Carl Marcus Tuscher",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q479806"
+    },
+    {
+      "id": "Q21290874",
+      "name": "Catherine Engelhart Amyot",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q21290874"
+    },
+    {
+      "id": "Q12305823",
+      "name": "Christian Albrecht von Benzon",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12305823"
+    },
+    {
+      "id": "Q5578404",
+      "name": "Christian Blache",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5578404"
+    },
+    {
+      "id": "Q2965309",
+      "name": "Christian Gottlieb Kratzenstein Stub",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2965309"
+    },
+    {
+      "id": "Q572155",
+      "name": "Ditlev Blunck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q572155"
+    },
+    {
+      "id": "Q3362182",
+      "name": "Emil B\u00e6rentzen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3362182"
+    },
+    {
+      "id": "Q3360726",
+      "name": "Erik Pauelsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3360726"
+    },
+    {
+      "id": "Q15376256",
+      "name": "Gad Frederik Clement",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q15376256"
+    },
+    {
+      "id": "Q5541909",
+      "name": "Georg Achen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5541909"
+    },
+    {
+      "id": "Q4993057",
+      "name": "Godfred Christensen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4993057"
+    },
+    {
+      "id": "Q3362163",
+      "name": "H. A. Brendekilde",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3362163"
+    },
+    {
+      "id": "Q12315949",
+      "name": "Heinrich Buntzen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12315949"
+    },
+    {
+      "id": "Q3162112",
+      "name": "Janus la Cour",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3162112"
+    },
+    {
+      "id": "Q12319233",
+      "name": "Jens Birkholm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12319233"
+    },
+    {
+      "id": "Q1309780",
+      "name": "Johann Salomon Wahl",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1309780"
+    },
+    {
+      "id": "Q12320707",
+      "name": "J\u00f8rgen Aabye",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12320707"
+    },
+    {
+      "id": "Q11986836",
+      "name": "Louis Aumont",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11986836"
+    },
+    {
+      "id": "Q29099367",
+      "name": "Marie Vilhelmine Bang",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q29099367"
+    },
+    {
+      "id": "Q468252",
+      "name": "Michael Ancher",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q468252"
+    },
+    {
+      "id": "Q2176832",
+      "name": "Mogens Ballin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2176832"
+    },
+    {
+      "id": "Q12328656",
+      "name": "Nicolai Wichmann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12328656"
+    },
+    {
+      "id": "Q17130896",
+      "name": "Niels Thaaning",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17130896"
+    },
+    {
+      "id": "Q1807597",
+      "name": "Otto Bache",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1807597"
+    },
+    {
+      "id": "Q4993024",
+      "name": "Poul Simon Christiansen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4993024"
+    },
+    {
+      "id": "Q97105315",
+      "name": "Sigurd Kielland Brandt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q97105315"
+    },
+    {
+      "id": "Q7796148",
+      "name": "Thorald Brendstrup",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7796148"
+    },
+    {
+      "id": "Q12343550",
+      "name": "Ulrich Ferdinand Beenfeldt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12343550"
+    },
+    {
+      "id": "Q981441",
+      "name": "Wilhelm Bendz",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q981441"
+    },
+    {
+      "id": "Q4661198",
+      "name": "Aage Gi\u00f8desen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4661198"
+    },
+    {
+      "id": "Q349403",
+      "name": "Adam Friedel",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q349403"
+    },
+    {
+      "id": "Q120354",
+      "name": "Albert Gottschalk",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q120354"
+    },
+    {
+      "id": "Q3363318",
+      "name": "Anton Dorph",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3363318"
+    },
+    {
+      "id": "Q12302478",
+      "name": "Augusta Dohlmann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12302478"
+    },
+    {
+      "id": "Q1036745",
+      "name": "Carl Andreas August Goos",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1036745"
+    },
+    {
+      "id": "Q3360513",
+      "name": "Carl Dahl",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3360513"
+    },
+    {
+      "id": "Q3364443",
+      "name": "Christen Dalsgaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3364443"
+    },
+    {
+      "id": "Q363823",
+      "name": "Christoffer Wilhelm Eckersberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q363823"
+    },
+    {
+      "id": "Q539474",
+      "name": "Constantin Hansen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q539474"
+    },
+    {
+      "id": "Q3365368",
+      "name": "Dankvart Dreyer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3365368"
+    },
+    {
+      "id": "Q4276822",
+      "name": "Didrik Frisch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4276822"
+    },
+    {
+      "id": "Q23612390",
+      "name": "Edma Fr\u00f8lich",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q23612390"
+    },
+    {
+      "id": "Q52150307",
+      "name": "Effie Hegermann-Lindencrone",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q52150307"
+    },
+    {
+      "id": "Q5349503",
+      "name": "Eiler Rasmussen Eilersen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5349503"
+    },
+    {
+      "id": "Q4944556",
+      "name": "Emilie Demant Hatt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4944556"
+    },
+    {
+      "id": "Q40232948",
+      "name": "Fanny Garde",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q40232948"
+    },
+    {
+      "id": "Q5650124",
+      "name": "Hans Harder",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5650124"
+    },
+    {
+      "id": "Q5650263",
+      "name": "Hans J\u00f8rgen Hammer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5650263"
+    },
+    {
+      "id": "Q13472710",
+      "name": "Heinrich Dohm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q13472710"
+    },
+    {
+      "id": "Q3362220",
+      "name": "Heinrich Eddelien",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3362220"
+    },
+    {
+      "id": "Q323867",
+      "name": "Heinrich Hansen (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q323867"
+    },
+    {
+      "id": "Q1606165",
+      "name": "Henriette Hahn-Brinckmann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1606165"
+    },
+    {
+      "id": "Q1314154",
+      "name": "Henrik Gr\u00f8nvold",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1314154"
+    },
+    {
+      "id": "Q708274",
+      "name": "Johan Vilhelm Gertner",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q708274"
+    },
+    {
+      "id": "Q12320020",
+      "name": "Johann Martin Graack",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12320020"
+    },
+    {
+      "id": "Q708543",
+      "name": "Julius Exner",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q708543"
+    },
+    {
+      "id": "Q12320495",
+      "name": "Julius Friedl\u00e6nder",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12320495"
+    },
+    {
+      "id": "Q12321377",
+      "name": "Karl Hansen Reistrup",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12321377"
+    },
+    {
+      "id": "Q373753",
+      "name": "Lorenz Fr\u00f8lich",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q373753"
+    },
+    {
+      "id": "Q466299",
+      "name": "Louis Gurlitt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q466299"
+    },
+    {
+      "id": "Q4994381",
+      "name": "Malthe Engelsted",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4994381"
+    },
+    {
+      "id": "Q5359654",
+      "name": "Otto Haslund",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5359654"
+    },
+    {
+      "id": "Q1816563",
+      "name": "Paul Gustav Fischer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1816563"
+    },
+    {
+      "id": "Q12331536",
+      "name": "Peter Gemz\u00f8e",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12331536"
+    },
+    {
+      "id": "Q4992705",
+      "name": "Peter Hansen (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4992705"
+    },
+    {
+      "id": "Q5787056",
+      "name": "Svend Hammersh\u00f8i",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5787056"
+    },
+    {
+      "id": "Q12343971",
+      "name": "Vilhelm Groth",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12343971"
+    },
+    {
+      "id": "Q380706",
+      "name": "Vilhelm Hammersh\u00f8i",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q380706"
+    },
+    {
+      "id": "Q12344168",
+      "name": "William Hammer (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12344168"
+    },
+    {
+      "id": "Q12300568",
+      "name": "Adolf Heinrich-Hansen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12300568"
+    },
+    {
+      "id": "Q12301959",
+      "name": "Anton Eduard Kieldrup",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12301959"
+    },
+    {
+      "id": "Q2857310",
+      "name": "Antonio Jacobsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2857310"
+    },
+    {
+      "id": "Q16063259",
+      "name": "Astrid Holm (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q16063259"
+    },
+    {
+      "id": "Q4820747",
+      "name": "August Jerndorff",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4820747"
+    },
+    {
+      "id": "Q4830293",
+      "name": "Axel Helsted",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4830293"
+    },
+    {
+      "id": "Q2185186",
+      "name": "Carl Hols\u00f8e",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2185186"
+    },
+    {
+      "id": "Q318945",
+      "name": "Carl Ludwig Jessen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q318945"
+    },
+    {
+      "id": "Q26197153",
+      "name": "Carsten Henrichsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q26197153"
+    },
+    {
+      "id": "Q21055",
+      "name": "Christian Albrecht Jensen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q21055"
+    },
+    {
+      "id": "Q12306010",
+      "name": "Christian Holm (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12306010"
+    },
+    {
+      "id": "Q15525837",
+      "name": "Einar Hein",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q15525837"
+    },
+    {
+      "id": "Q5350145",
+      "name": "Ejler Andreas Jorgensen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5350145"
+    },
+    {
+      "id": "Q463423",
+      "name": "Elisabeth Jerichau-Baumann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q463423"
+    },
+    {
+      "id": "Q15519191",
+      "name": "Ella Heide",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q15519191"
+    },
+    {
+      "id": "Q12310016",
+      "name": "Emmerik H\u00f8egh-Guldberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12310016"
+    },
+    {
+      "id": "Q1338170",
+      "name": "Erik Henningsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1338170"
+    },
+    {
+      "id": "Q4963091",
+      "name": "Frants Henningsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4963091"
+    },
+    {
+      "id": "Q12310825",
+      "name": "Frederik Christian Ki\u00e6rskou",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12310825"
+    },
+    {
+      "id": "Q5499277",
+      "name": "Frederik Ferdinand Helsted",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5499277"
+    },
+    {
+      "id": "Q3362241",
+      "name": "Georg Hilker",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3362241"
+    },
+    {
+      "id": "Q12315181",
+      "name": "Hanne Hellesen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12315181"
+    },
+    {
+      "id": "Q353196",
+      "name": "Harald Jerichau",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q353196"
+    },
+    {
+      "id": "Q3431541",
+      "name": "Heinrich Gustav Ferdinand Holm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3431541"
+    },
+    {
+      "id": "Q12316192",
+      "name": "Helvig Kinch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12316192"
+    },
+    {
+      "id": "Q6139023",
+      "name": "Holger H. Jerichau",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6139023"
+    },
+    {
+      "id": "Q6215199",
+      "name": "Johan Laurentz Jensen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6215199"
+    },
+    {
+      "id": "Q17276661",
+      "name": "Johannes Holbek",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17276661"
+    },
+    {
+      "id": "Q12321382",
+      "name": "Karl Jensen (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12321382"
+    },
+    {
+      "id": "Q17125687",
+      "name": "Lucie Ingemann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17125687"
+    },
+    {
+      "id": "Q12060927",
+      "name": "Ludvig Kabell",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12060927"
+    },
+    {
+      "id": "Q12326071",
+      "name": "Marie Henriques",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12326071"
+    },
+    {
+      "id": "Q12328175",
+      "name": "Niels Peter Holbech",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12328175"
+    },
+    {
+      "id": "Q1840505",
+      "name": "Peter Ilsted",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1840505"
+    },
+    {
+      "id": "Q7405162",
+      "name": "Sally Henriques",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7405162"
+    },
+    {
+      "id": "Q12335250",
+      "name": "Sigrid K\u00e4hler",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12335250"
+    },
+    {
+      "id": "Q21043078",
+      "name": "Sophie Holten",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q21043078"
+    },
+    {
+      "id": "Q8311054",
+      "name": "Suzette Skovgaard-Holten",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q8311054"
+    },
+    {
+      "id": "Q5824034",
+      "name": "Valdemar Irminger",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5824034"
+    },
+    {
+      "id": "Q2259866",
+      "name": "Viggo Johansen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2259866"
+    },
+    {
+      "id": "Q4693022",
+      "name": "Agnes Lunn",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4693022"
+    },
+    {
+      "id": "Q2086023",
+      "name": "Albert K\u00fcchler",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2086023"
+    },
+    {
+      "id": "Q4753752",
+      "name": "Anders Christian Lunde",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4753752"
+    },
+    {
+      "id": "Q3486604",
+      "name": "Anton Melbye",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3486604"
+    },
+    {
+      "id": "Q2979668",
+      "name": "Carl Locher",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2979668"
+    },
+    {
+      "id": "Q12305300",
+      "name": "Carl L\u00f8ffler",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12305300"
+    },
+    {
+      "id": "Q1067398",
+      "name": "Charlotte Christiane von Krogh",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1067398"
+    },
+    {
+      "id": "Q381458",
+      "name": "Christen K\u00f8bke",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q381458"
+    },
+    {
+      "id": "Q4962912",
+      "name": "Christine L\u00f8vmand",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4962912"
+    },
+    {
+      "id": "Q5944336",
+      "name": "Edvard Lehmann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5944336"
+    },
+    {
+      "id": "Q12309769",
+      "name": "Elise Konstantin-Hansen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12309769"
+    },
+    {
+      "id": "Q2606054",
+      "name": "Emanuel Larsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2606054"
+    },
+    {
+      "id": "Q12310011",
+      "name": "Emma Meyer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12310011"
+    },
+    {
+      "id": "Q718327",
+      "name": "Ernst Meyer (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q718327"
+    },
+    {
+      "id": "Q178852",
+      "name": "Frederik Christian Lund",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q178852"
+    },
+    {
+      "id": "Q15530808",
+      "name": "Frederik Lange",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q15530808"
+    },
+    {
+      "id": "Q5499315",
+      "name": "Frederik Theodor Kloss",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5499315"
+    },
+    {
+      "id": "Q4992964",
+      "name": "Fritz Melbye",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4992964"
+    },
+    {
+      "id": "Q5535682",
+      "name": "Georg Emil Libert",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5535682"
+    },
+    {
+      "id": "Q12313774",
+      "name": "Gerda Madvig",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12313774"
+    },
+    {
+      "id": "Q18348289",
+      "name": "Hans Knudsen (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q18348289"
+    },
+    {
+      "id": "Q3363311",
+      "name": "Jacob Kornerup",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3363311"
+    },
+    {
+      "id": "Q12319205",
+      "name": "Jenny Sophie Meyer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12319205"
+    },
+    {
+      "id": "Q17281243",
+      "name": "Jens Lund",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17281243"
+    },
+    {
+      "id": "Q921230",
+      "name": "Johan Thomas Lundbye",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q921230"
+    },
+    {
+      "id": "Q12320032",
+      "name": "Johanne Cathrine Krebs",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12320032"
+    },
+    {
+      "id": "Q4977490",
+      "name": "Johannes Larsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4977490"
+    },
+    {
+      "id": "Q12320470",
+      "name": "Julie L\u00fctken",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12320470"
+    },
+    {
+      "id": "Q3051872",
+      "name": "Karl Madsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3051872"
+    },
+    {
+      "id": "Q5936386",
+      "name": "Knud Larsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5936386"
+    },
+    {
+      "id": "Q273933",
+      "name": "Marie Kr\u00f8yer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q273933"
+    },
+    {
+      "id": "Q12326083",
+      "name": "Marie Luplau",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12326083"
+    },
+    {
+      "id": "Q8023116",
+      "name": "Niels Christian Kierkegaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q8023116"
+    },
+    {
+      "id": "Q365068",
+      "name": "Peder Severin Kr\u00f8yer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q365068"
+    },
+    {
+      "id": "Q1253832",
+      "name": "Pietro Krohn",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1253832"
+    },
+    {
+      "id": "Q12342853",
+      "name": "S\u00f8ren L\u00e6ss\u00f8e Lange",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12342853"
+    },
+    {
+      "id": "Q12343137",
+      "name": "Thorald L\u00e6ss\u00f8e",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12343137"
+    },
+    {
+      "id": "Q1781575",
+      "name": "Vilhelm Kyhn",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1781575"
+    },
+    {
+      "id": "Q3371232",
+      "name": "Vilhelm Melbye",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3371232"
+    },
+    {
+      "id": "Q358399",
+      "name": "Wilhelm Marstrand",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q358399"
+    },
+    {
+      "id": "Q1797689",
+      "name": "Adam August M\u00fcller",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1797689"
+    },
+    {
+      "id": "Q4723408",
+      "name": "Alfred Schmidt (artist)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4723408"
+    },
+    {
+      "id": "Q12301770",
+      "name": "Anna Petersen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12301770"
+    },
+    {
+      "id": "Q12302470",
+      "name": "August Schi\u00f8tt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12302470"
+    },
+    {
+      "id": "Q12304043",
+      "name": "Bolette Puggaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12304043"
+    },
+    {
+      "id": "Q134741",
+      "name": "Camille Pissarro",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q134741"
+    },
+    {
+      "id": "Q12305362",
+      "name": "Carl Rasmussen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12305362"
+    },
+    {
+      "id": "Q12306100",
+      "name": "Christian Mourier-Petersen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12306100"
+    },
+    {
+      "id": "Q5109952",
+      "name": "Christian M\u00f8lsted",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5109952"
+    },
+    {
+      "id": "Q4971036",
+      "name": "Dagmar Olrik",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4971036"
+    },
+    {
+      "id": "Q12307819",
+      "name": "David Monies",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12307819"
+    },
+    {
+      "id": "Q3426655",
+      "name": "Edvard Petersen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3426655"
+    },
+    {
+      "id": "Q148878",
+      "name": "Emilie Mundt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q148878"
+    },
+    {
+      "id": "Q12310524",
+      "name": "Ernst Schmiegelow",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12310524"
+    },
+    {
+      "id": "Q3068652",
+      "name": "Ferdinand Richardt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3068652"
+    },
+    {
+      "id": "Q6076873",
+      "name": "Frederik Rohde",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6076873"
+    },
+    {
+      "id": "Q3432084",
+      "name": "Fritz Petzholdt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3432084"
+    },
+    {
+      "id": "Q1801266",
+      "name": "Geskel Saloman",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1801266"
+    },
+    {
+      "id": "Q6083336",
+      "name": "Godtfred Rump",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6083336"
+    },
+    {
+      "id": "Q716271",
+      "name": "Harald Moltke",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q716271"
+    },
+    {
+      "id": "Q1803038",
+      "name": "Henrik Olrik",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1803038"
+    },
+    {
+      "id": "Q12316605",
+      "name": "Hermania Neergaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12316605"
+    },
+    {
+      "id": "Q4994411",
+      "name": "Holger Roed",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4994411"
+    },
+    {
+      "id": "Q12318750",
+      "name": "Johan Frederik M\u00f8ller",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12318750"
+    },
+    {
+      "id": "Q3180450",
+      "name": "Johan Rohde",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3180450"
+    },
+    {
+      "id": "Q138156",
+      "name": "J\u00f8rgen Roed",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q138156"
+    },
+    {
+      "id": "Q2199553",
+      "name": "L. A. Ring",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2199553"
+    },
+    {
+      "id": "Q1920233",
+      "name": "Louis Moe",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1920233"
+    },
+    {
+      "id": "Q12324971",
+      "name": "Louise Ravn-Hansen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12324971"
+    },
+    {
+      "id": "Q6699069",
+      "name": "Ludvig Abelin Schou",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6699069"
+    },
+    {
+      "id": "Q979541",
+      "name": "Martinus R\u00f8rbye",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q979541"
+    },
+    {
+      "id": "Q448207",
+      "name": "Peder M\u00f8rk M\u00f8nsted",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q448207"
+    },
+    {
+      "id": "Q6215298",
+      "name": "Peter Raadsig",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6215298"
+    },
+    {
+      "id": "Q1393242",
+      "name": "Theodor Philipsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1393242"
+    },
+    {
+      "id": "Q2695064",
+      "name": "Thorvald Niss",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2695064"
+    },
+    {
+      "id": "Q12340470",
+      "name": "Valdemar Sch\u00f8nheyder M\u00f8ller",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12340470"
+    },
+    {
+      "id": "Q12341042",
+      "name": "Vilhelm Pacht",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12341042"
+    },
+    {
+      "id": "Q2701496",
+      "name": "Vilhelm Pedersen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2701496"
+    },
+    {
+      "id": "Q12343974",
+      "name": "Vilhelm Petersen (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12343974"
+    },
+    {
+      "id": "Q12341046",
+      "name": "Vilhelm Rosenstand",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12341046"
+    },
+    {
+      "id": "Q4693125",
+      "name": "Agnes Slott-M\u00f8ller",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4693125"
+    },
+    {
+      "id": "Q62056395",
+      "name": "Agnes Smidt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q62056395"
+    },
+    {
+      "id": "Q62691442",
+      "name": "Albert Edvard Wang",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q62691442"
+    },
+    {
+      "id": "Q3360519",
+      "name": "Anna Syberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3360519"
+    },
+    {
+      "id": "Q827752",
+      "name": "Bertha Wegmann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q827752"
+    },
+    {
+      "id": "Q12305207",
+      "name": "Carl Christian Seydewitz",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12305207"
+    },
+    {
+      "id": "Q983353",
+      "name": "Carl Frederik S\u00f8rensen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q983353"
+    },
+    {
+      "id": "Q11963186",
+      "name": "Carl Thomsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11963186"
+    },
+    {
+      "id": "Q4981598",
+      "name": "Christine Swane",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4981598"
+    },
+    {
+      "id": "Q5341386",
+      "name": "Edvard Weie",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5341386"
+    },
+    {
+      "id": "Q11228598",
+      "name": "Eleonora Tscherning",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11228598"
+    },
+    {
+      "id": "Q25344076",
+      "name": "Elisa Marie Thornam",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q25344076"
+    },
+    {
+      "id": "Q12309762",
+      "name": "Elisabeth Wandel",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12309762"
+    },
+    {
+      "id": "Q12310014",
+      "name": "Emma Thomsen (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12310014"
+    },
+    {
+      "id": "Q28049260",
+      "name": "Emmy Thornam",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q28049260"
+    },
+    {
+      "id": "Q5499314",
+      "name": "Frederik Storch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5499314"
+    },
+    {
+      "id": "Q12312712",
+      "name": "Frederik S\u00f8dring",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12312712"
+    },
+    {
+      "id": "Q972293",
+      "name": "Frederik Vermehren",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q972293"
+    },
+    {
+      "id": "Q5505025",
+      "name": "Fritz Syberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5505025"
+    },
+    {
+      "id": "Q5650486",
+      "name": "Hans Michael Therkildsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5650486"
+    },
+    {
+      "id": "Q5650733",
+      "name": "Hans Smidth",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5650733"
+    },
+    {
+      "id": "Q4027439",
+      "name": "Harald Slott-M\u00f8ller",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4027439"
+    },
+    {
+      "id": "Q12316604",
+      "name": "Herman Siegumfeldt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12316604"
+    },
+    {
+      "id": "Q1624647",
+      "name": "Holger Topp-Pedersen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1624647"
+    },
+    {
+      "id": "Q2070040",
+      "name": "Joakim Skovgaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2070040"
+    },
+    {
+      "id": "Q2362227",
+      "name": "J\u00f8rgen Sonne (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2362227"
+    },
+    {
+      "id": "Q27047889",
+      "name": "Ludovica Thornam",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q27047889"
+    },
+    {
+      "id": "Q12323481",
+      "name": "Ludvig August Smith",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12323481"
+    },
+    {
+      "id": "Q3797069",
+      "name": "Moritz Unna",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3797069"
+    },
+    {
+      "id": "Q12328680",
+      "name": "Nicoline Tuxen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12328680"
+    },
+    {
+      "id": "Q4977505",
+      "name": "Niels Larsen Stevns",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4977505"
+    },
+    {
+      "id": "Q1670847",
+      "name": "Niels Simonsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1670847"
+    },
+    {
+      "id": "Q3426288",
+      "name": "Niels Skovgaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3426288"
+    },
+    {
+      "id": "Q4990069",
+      "name": "Olga Wagner",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4990069"
+    },
+    {
+      "id": "Q2761358",
+      "name": "P. C. Skovgaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2761358"
+    },
+    {
+      "id": "Q12331100",
+      "name": "Pauline Thomsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12331100"
+    },
+    {
+      "id": "Q13422433",
+      "name": "Peter Alfred Schou",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q13422433"
+    },
+    {
+      "id": "Q12331742",
+      "name": "Peter Tom-Petersen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12331742"
+    },
+    {
+      "id": "Q11999581",
+      "name": "Sara Ulrik",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11999581"
+    },
+    {
+      "id": "Q7513293",
+      "name": "Sigurd Swane",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7513293"
+    },
+    {
+      "id": "Q324066",
+      "name": "Amalia von K\u00f6nigsmarck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q324066"
+    },
+    {
+      "id": "Q371351",
+      "name": "Anna Maria Ehrenstrahl",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q371351"
+    },
+    {
+      "id": "Q3307858",
+      "name": "Anna Maria Thelott",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3307858"
+    },
+    {
+      "id": "Q4943854",
+      "name": "Brita von C\u00f6ln",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4943854"
+    },
+    {
+      "id": "Q2938914",
+      "name": "Carl Frederik von Breda",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2938914"
+    },
+    {
+      "id": "Q4518968",
+      "name": "Charles Boit",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4518968"
+    },
+    {
+      "id": "Q15296929",
+      "name": "Charlotta Arfwedson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q15296929"
+    },
+    {
+      "id": "Q4942374",
+      "name": "Charlotta Cedercreutz",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4942374"
+    },
+    {
+      "id": "Q2965864",
+      "name": "Charlotta Cederstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2965864"
+    },
+    {
+      "id": "Q5110293",
+      "name": "Christian Zacho",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5110293"
+    },
+    {
+      "id": "Q18556250",
+      "name": "Christian von Thum",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q18556250"
+    },
+    {
+      "id": "Q4942425",
+      "name": "Christina Elisabeth Carowsky",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4942425"
+    },
+    {
+      "id": "Q23704229",
+      "name": "David Frumerie",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q23704229"
+    },
+    {
+      "id": "Q902649",
+      "name": "David Kl\u00f6cker Ehrenstrahl",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q902649"
+    },
+    {
+      "id": "Q586719",
+      "name": "David von Krafft",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q586719"
+    },
+    {
+      "id": "Q3431614",
+      "name": "Elias Brenner",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3431614"
+    },
+    {
+      "id": "Q60762521",
+      "name": "Ernst Wilhelm Londicer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q60762521"
+    },
+    {
+      "id": "Q1458425",
+      "name": "Friedrich Bernhard Westphal",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1458425"
+    },
+    {
+      "id": "Q707378",
+      "name": "Georg Desmar\u00e9es",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q707378"
+    },
+    {
+      "id": "Q5636482",
+      "name": "Haaken Gulleson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5636482"
+    },
+    {
+      "id": "Q5650176",
+      "name": "Hans Hysing",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5650176"
+    },
+    {
+      "id": "Q4357553",
+      "name": "Helena Arnell",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4357553"
+    },
+    {
+      "id": "Q924459",
+      "name": "J. F. Willumsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q924459"
+    },
+    {
+      "id": "Q5708019",
+      "name": "Jacob Heinrich Elbfas",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5708019"
+    },
+    {
+      "id": "Q5738692",
+      "name": "Jacques Foucquet",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5738692"
+    },
+    {
+      "id": "Q3742562",
+      "name": "Jakob Bj\u00f6rck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3742562"
+    },
+    {
+      "id": "Q6220773",
+      "name": "Johan Baptista van Uther",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6220773"
+    },
+    {
+      "id": "Q3180447",
+      "name": "Johan Richter (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3180447"
+    },
+    {
+      "id": "Q6200547",
+      "name": "Johan Sylvius",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6200547"
+    },
+    {
+      "id": "Q12320133",
+      "name": "Johannes Wilhjelm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12320133"
+    },
+    {
+      "id": "Q2361850",
+      "name": "Kristian Zahrtmann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2361850"
+    },
+    {
+      "id": "Q4935295",
+      "name": "Margareta Alstr\u00f6mer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4935295"
+    },
+    {
+      "id": "Q4942050",
+      "name": "Maria Carowsky",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4942050"
+    },
+    {
+      "id": "Q2076922",
+      "name": "Martin Mijtens the Elder",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2076922"
+    },
+    {
+      "id": "Q572743",
+      "name": "Michael Dahl",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q572743"
+    },
+    {
+      "id": "Q3881911",
+      "name": "Olof Arenius",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3881911"
+    },
+    {
+      "id": "Q5610382",
+      "name": "Per Eberhard Cogell",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5610382"
+    },
+    {
+      "id": "Q3426850",
+      "name": "Ulla Adlerfelt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3426850"
+    },
+    {
+      "id": "Q3428145",
+      "name": "Urban m\u00e5lare",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3428145"
+    },
+    {
+      "id": "Q5584072",
+      "name": "Willem Boy",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5584072"
+    },
+    {
+      "id": "Q315102",
+      "name": "Alexander Roslin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q315102"
+    },
+    {
+      "id": "Q4767302",
+      "name": "Anna Maria Hilfeling",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4767302"
+    },
+    {
+      "id": "Q28650145",
+      "name": "Anton Paulsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q28650145"
+    },
+    {
+      "id": "Q1036858",
+      "name": "Carl August Ehrensv\u00e4rd",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1036858"
+    },
+    {
+      "id": "Q2938925",
+      "name": "Carl Gustav Klingstedt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2938925"
+    },
+    {
+      "id": "Q4349506",
+      "name": "Charlotta Malm-Reuterholm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4349506"
+    },
+    {
+      "id": "Q11855368",
+      "name": "Claes Lang",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11855368"
+    },
+    {
+      "id": "Q369002",
+      "name": "Elias Martin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q369002"
+    },
+    {
+      "id": "Q59829723",
+      "name": "Erik Ersson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q59829723"
+    },
+    {
+      "id": "Q4945507",
+      "name": "Fredrika Eleonora von D\u00fcben",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4945507"
+    },
+    {
+      "id": "Q1504147",
+      "name": "Georg Engelhard Schr\u00f6der",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1504147"
+    },
+    {
+      "id": "Q838499",
+      "name": "Gustaf Lundberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q838499"
+    },
+    {
+      "id": "Q18245350",
+      "name": "Gustaf Reuter",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q18245350"
+    },
+    {
+      "id": "Q130717",
+      "name": "Gustavus Hesselius",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q130717"
+    },
+    {
+      "id": "Q5977900",
+      "name": "Johan Fredrik Martin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5977900"
+    },
+    {
+      "id": "Q3361843",
+      "name": "Johan H\u00f6rner",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3361843"
+    },
+    {
+      "id": "Q6036521",
+      "name": "Johan Pasch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6036521"
+    },
+    {
+      "id": "Q5919611",
+      "name": "Johan Philip Korn",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5919611"
+    },
+    {
+      "id": "Q6080478",
+      "name": "Johan Ross the Elder",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6080478"
+    },
+    {
+      "id": "Q6194382",
+      "name": "Johan St\u00e5lbom",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6194382"
+    },
+    {
+      "id": "Q5959480",
+      "name": "Jonas Carl Linnerhielm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5959480"
+    },
+    {
+      "id": "Q5737772",
+      "name": "Jonas Forsslund",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5737772"
+    },
+    {
+      "id": "Q59878950",
+      "name": "J\u00f6ns M\u00e5nsson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q59878950"
+    },
+    {
+      "id": "Q1764750",
+      "name": "Lorens Pasch the Elder",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1764750"
+    },
+    {
+      "id": "Q725347",
+      "name": "Lorens Pasch the Younger",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q725347"
+    },
+    {
+      "id": "Q1871779",
+      "name": "Louis Jean Desprez",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1871779"
+    },
+    {
+      "id": "Q351891",
+      "name": "Louis Masreliez",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q351891"
+    },
+    {
+      "id": "Q19006898",
+      "name": "Magdalena Margareta Stenbock",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q19006898"
+    },
+    {
+      "id": "Q26240236",
+      "name": "Margareta Christina Giers",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q26240236"
+    },
+    {
+      "id": "Q923881",
+      "name": "Marianne Ehrenstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q923881"
+    },
+    {
+      "id": "Q1082324",
+      "name": "Martin van Meytens",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1082324"
+    },
+    {
+      "id": "Q3340503",
+      "name": "Niclas Lafrensen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3340503"
+    },
+    {
+      "id": "Q11884512",
+      "name": "Nils Schillmark",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11884512"
+    },
+    {
+      "id": "Q18242236",
+      "name": "Paul Hallberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q18242236"
+    },
+    {
+      "id": "Q5806045",
+      "name": "Pehr Hillestr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5806045"
+    },
+    {
+      "id": "Q351981",
+      "name": "Pehr H\u00f6rberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q351981"
+    },
+    {
+      "id": "Q927577",
+      "name": "Per Krafft the Elder",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q927577"
+    },
+    {
+      "id": "Q2747886",
+      "name": "Peter Adolf Hall",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2747886"
+    },
+    {
+      "id": "Q276459",
+      "name": "Ulrika Pasch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q276459"
+    },
+    {
+      "id": "Q4959704",
+      "name": "Wilhelmina Krafft",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4959704"
+    },
+    {
+      "id": "Q116418",
+      "name": "Adolf Ulrik Wertm\u00fcller",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q116418"
+    },
+    {
+      "id": "Q4693023",
+      "name": "Agnes B\u00f6rjesson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4693023"
+    },
+    {
+      "id": "Q4936516",
+      "name": "Alma Arnell",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4936516"
+    },
+    {
+      "id": "Q4939039",
+      "name": "Anna Billing",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4939039"
+    },
+    {
+      "id": "Q16594463",
+      "name": "Anna Cassel",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q16594463"
+    },
+    {
+      "id": "Q5019208",
+      "name": "Caleb Althin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5019208"
+    },
+    {
+      "id": "Q5542599",
+      "name": "Carl Gabriel Adelsk\u00f6ld",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5542599"
+    },
+    {
+      "id": "Q534911",
+      "name": "Carl Johan Billmark",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q534911"
+    },
+    {
+      "id": "Q5040599",
+      "name": "Carl Oscar Borg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5040599"
+    },
+    {
+      "id": "Q5572078",
+      "name": "Edward Bergh",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5572078"
+    },
+    {
+      "id": "Q5607767",
+      "name": "Elis Chiewitz",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5607767"
+    },
+    {
+      "id": "Q22668097",
+      "name": "Elisabeth Czapek",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q22668097"
+    },
+    {
+      "id": "Q4936505",
+      "name": "Elise Arnberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4936505"
+    },
+    {
+      "id": "Q6207183",
+      "name": "Emanuel Thelning",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6207183"
+    },
+    {
+      "id": "Q6254467",
+      "name": "Emil \u00c5berg (artist)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6254467"
+    },
+    {
+      "id": "Q4942488",
+      "name": "Emma Chadwick",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4942488"
+    },
+    {
+      "id": "Q11967680",
+      "name": "Eric Gustaf Tunmarck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11967680"
+    },
+    {
+      "id": "Q4935234",
+      "name": "Ester Almqvist",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4935234"
+    },
+    {
+      "id": "Q454670",
+      "name": "Eva Bonnier",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q454670"
+    },
+    {
+      "id": "Q4244039",
+      "name": "Fanny Brate",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4244039"
+    },
+    {
+      "id": "Q1453234",
+      "name": "Fredric Westin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1453234"
+    },
+    {
+      "id": "Q5616072",
+      "name": "Guillaume Taraval",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5616072"
+    },
+    {
+      "id": "Q1555416",
+      "name": "Gustaf Cederstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1555416"
+    },
+    {
+      "id": "Q3278599",
+      "name": "Hugo Birger",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3278599"
+    },
+    {
+      "id": "Q11865103",
+      "name": "Isak Wacklin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11865103"
+    },
+    {
+      "id": "Q1675511",
+      "name": "Ivan Agu\u00e9li",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1675511"
+    },
+    {
+      "id": "Q1077973",
+      "name": "Ivar Arosenius",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1077973"
+    },
+    {
+      "id": "Q5541979",
+      "name": "J. A. G. Acke",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5541979"
+    },
+    {
+      "id": "Q19422204",
+      "name": "Jeanna Bauck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q19422204"
+    },
+    {
+      "id": "Q1396614",
+      "name": "Johan Christoffer Boklund",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1396614"
+    },
+    {
+      "id": "Q5578497",
+      "name": "Johan Zacharias Blackstadius",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5578497"
+    },
+    {
+      "id": "Q4939021",
+      "name": "Johanna Emerentia von Bilang",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4939021"
+    },
+    {
+      "id": "Q5561357",
+      "name": "Karl Aspelin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5561357"
+    },
+    {
+      "id": "Q1739652",
+      "name": "Kerstin Cardon",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1739652"
+    },
+    {
+      "id": "Q5569120",
+      "name": "Louis Belanger (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5569120"
+    },
+    {
+      "id": "Q5555620",
+      "name": "Nils Andersson (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5555620"
+    },
+    {
+      "id": "Q675849",
+      "name": "Nils Blomm\u00e9r",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q675849"
+    },
+    {
+      "id": "Q282512",
+      "name": "Oscar Bj\u00f6rck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q282512"
+    },
+    {
+      "id": "Q1356488",
+      "name": "Richard Bergh",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1356488"
+    },
+    {
+      "id": "Q531174",
+      "name": "Sofia Adlersparre",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q531174"
+    },
+    {
+      "id": "Q4712453",
+      "name": "Albinus Hasselgren",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4712453"
+    },
+    {
+      "id": "Q5626144",
+      "name": "Anders Gustaf von D\u00fcben",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5626144"
+    },
+    {
+      "id": "Q4767027",
+      "name": "Anna Gardell-Ericson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4767027"
+    },
+    {
+      "id": "Q5885005",
+      "name": "Arvid Johanson (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5885005"
+    },
+    {
+      "id": "Q4946076",
+      "name": "Astri Ekengren-Larsson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4946076"
+    },
+    {
+      "id": "Q2870939",
+      "name": "August Hagborg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2870939"
+    },
+    {
+      "id": "Q762152",
+      "name": "August Jernberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q762152"
+    },
+    {
+      "id": "Q111472276",
+      "name": "B\u00e4ck Anders Hansson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q111472276"
+    },
+    {
+      "id": "Q858483",
+      "name": "Carl Fredrik Hill",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q858483"
+    },
+    {
+      "id": "Q63596",
+      "name": "Carl Gustaf Hellqvist",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q63596"
+    },
+    {
+      "id": "Q708746",
+      "name": "Carl Johan Fahlcrantz",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q708746"
+    },
+    {
+      "id": "Q1040740",
+      "name": "Carl Svante Hallbeck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1040740"
+    },
+    {
+      "id": "Q655545",
+      "name": "Carl d'Unker",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q655545"
+    },
+    {
+      "id": "Q4945896",
+      "name": "Charlotta Ehrenpohl",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4945896"
+    },
+    {
+      "id": "Q4988393",
+      "name": "Emma Ekwall",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4988393"
+    },
+    {
+      "id": "Q647473",
+      "name": "Eug\u00e8ne Jansson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q647473"
+    },
+    {
+      "id": "Q4954170",
+      "name": "Fanny Hjelm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4954170"
+    },
+    {
+      "id": "Q323700",
+      "name": "Ferdinand Fagerlin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q323700"
+    },
+    {
+      "id": "Q25929814",
+      "name": "Gerda H\u00f6glund",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q25929814"
+    },
+    {
+      "id": "Q5781792",
+      "name": "Gillis Hafstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5781792"
+    },
+    {
+      "id": "Q138623",
+      "name": "Gustaf Erik Hasselgren",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q138623"
+    },
+    {
+      "id": "Q3378634",
+      "name": "Gustaf Fj\u00e6stad",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3378634"
+    },
+    {
+      "id": "Q436803",
+      "name": "Hanna Pauli",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q436803"
+    },
+    {
+      "id": "Q5759369",
+      "name": "Jacob Axel Gillberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5759369"
+    },
+    {
+      "id": "Q3157553",
+      "name": "Jacob H\u00e4gg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3157553"
+    },
+    {
+      "id": "Q5820437",
+      "name": "Johan Fredrik H\u00f6ckert",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5820437"
+    },
+    {
+      "id": "Q4354819",
+      "name": "Karl Isakson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4354819"
+    },
+    {
+      "id": "Q709330",
+      "name": "Knut Ekwall",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q709330"
+    },
+    {
+      "id": "Q6424017",
+      "name": "Knute Heldner",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6424017"
+    },
+    {
+      "id": "Q4948197",
+      "name": "Maja Fj\u00e6stad",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4948197"
+    },
+    {
+      "id": "Q4951777",
+      "name": "Maria Johanna G\u00f6rtz",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4951777"
+    },
+    {
+      "id": "Q5736803",
+      "name": "Nils Forsberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5736803"
+    },
+    {
+      "id": "Q5802624",
+      "name": "Olof Hermelin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5802624"
+    },
+    {
+      "id": "Q5803942",
+      "name": "Otto Hesselbom",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5803942"
+    },
+    {
+      "id": "Q5810551",
+      "name": "Per Daniel Holm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5810551"
+    },
+    {
+      "id": "Q5707634",
+      "name": "Per Ekstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5707634"
+    },
+    {
+      "id": "Q5719196",
+      "name": "Peter Eskilsson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5719196"
+    },
+    {
+      "id": "Q327758",
+      "name": "Prince Eugen, Duke of N\u00e4rke",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q327758"
+    },
+    {
+      "id": "Q526915",
+      "name": "Princess Eug\u00e9nie of Sweden",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q526915"
+    },
+    {
+      "id": "Q5754400",
+      "name": "Wilhelm von Gegerfelt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5754400"
+    },
+    {
+      "id": "Q4961854",
+      "name": "Adela\u00efde Leuhusen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4961854"
+    },
+    {
+      "id": "Q452896",
+      "name": "Amalia Lindegren",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q452896"
+    },
+    {
+      "id": "Q4968400",
+      "name": "Anna Munthe-Norstedt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4968400"
+    },
+    {
+      "id": "Q4802430",
+      "name": "Arvid Mauritz Lindstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4802430"
+    },
+    {
+      "id": "Q762949",
+      "name": "August Malmstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q762949"
+    },
+    {
+      "id": "Q4960509",
+      "name": "Ava de Lagercrantz",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4960509"
+    },
+    {
+      "id": "Q4830305",
+      "name": "Axel Jungstedt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4830305"
+    },
+    {
+      "id": "Q5409026",
+      "name": "Berndt Lindholm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5409026"
+    },
+    {
+      "id": "Q730008",
+      "name": "Bruno Liljefors",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q730008"
+    },
+    {
+      "id": "Q719778",
+      "name": "Carl Axel Magnus Lindman",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q719778"
+    },
+    {
+      "id": "Q290135",
+      "name": "Carl Fredrik Ki\u00f6rboe",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q290135"
+    },
+    {
+      "id": "Q5040253",
+      "name": "Carl Gustaf L\u00f6wenhielm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5040253"
+    },
+    {
+      "id": "Q187310",
+      "name": "Carl Larsson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q187310"
+    },
+    {
+      "id": "Q5944329",
+      "name": "Carl Peter Lehmann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5944329"
+    },
+    {
+      "id": "Q5980778",
+      "name": "Carl Peter Maz\u00e9r",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5980778"
+    },
+    {
+      "id": "Q5930092",
+      "name": "Charles Lachs",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5930092"
+    },
+    {
+      "id": "Q426033",
+      "name": "Egron Lundgren",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q426033"
+    },
+    {
+      "id": "Q4958220",
+      "name": "Elisabeth Charlotta Karsten",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4958220"
+    },
+    {
+      "id": "Q4958665",
+      "name": "Elisabeth Keyser",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4958665"
+    },
+    {
+      "id": "Q4957224",
+      "name": "Ellen Jolin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4957224"
+    },
+    {
+      "id": "Q1334708",
+      "name": "Emanuel Labhardt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1334708"
+    },
+    {
+      "id": "Q4957333",
+      "name": "Erika Jonn",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4957333"
+    },
+    {
+      "id": "Q709853",
+      "name": "Ernst Josephson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q709853"
+    },
+    {
+      "id": "Q3379013",
+      "name": "Fritz Lindstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3379013"
+    },
+    {
+      "id": "Q436267",
+      "name": "Hilma af Klint",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q436267"
+    },
+    {
+      "id": "Q4968754",
+      "name": "Jeanette M\u00f6ller",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4968754"
+    },
+    {
+      "id": "Q5956449",
+      "name": "Johan Erik Lindh",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5956449"
+    },
+    {
+      "id": "Q5915971",
+      "name": "Johan Knutson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5915971"
+    },
+    {
+      "id": "Q1901235",
+      "name": "Johan Krouth\u00e9n",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1901235"
+    },
+    {
+      "id": "Q1604937",
+      "name": "Julius Kronberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1604937"
+    },
+    {
+      "id": "Q462529",
+      "name": "Karin Larsson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q462529"
+    },
+    {
+      "id": "Q5936739",
+      "name": "Marcus Larson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5936739"
+    },
+    {
+      "id": "Q24018545",
+      "name": "Marie Kinnberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q24018545"
+    },
+    {
+      "id": "Q1915758",
+      "name": "Nils Kreuger",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1915758"
+    },
+    {
+      "id": "Q927593",
+      "name": "Per Krafft the Younger",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q927593"
+    },
+    {
+      "id": "Q4960255",
+      "name": "Regina Kylberg-Bobeck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4960255"
+    },
+    {
+      "id": "Q16595779",
+      "name": "Sara Augusta Malmborg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q16595779"
+    },
+    {
+      "id": "Q3490963",
+      "name": "Sophie Karsten",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3490963"
+    },
+    {
+      "id": "Q5904533",
+      "name": "Svante Kede",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5904533"
+    },
+    {
+      "id": "Q4960539",
+      "name": "Wilhelmina Lagerholm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4960539"
+    },
+    {
+      "id": "Q4978495",
+      "name": "Amanda Sidwall",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4978495"
+    },
+    {
+      "id": "Q4969995",
+      "name": "Anna Nordgren",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4969995"
+    },
+    {
+      "id": "Q4970064",
+      "name": "Anna Nordlander",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4970064"
+    },
+    {
+      "id": "Q3631503",
+      "name": "Anna Palm de Rosa",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3631503"
+    },
+    {
+      "id": "Q6014991",
+      "name": "Axel Nordgren",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6014991"
+    },
+    {
+      "id": "Q4887829",
+      "name": "Bengt Nordenberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4887829"
+    },
+    {
+      "id": "Q5040163",
+      "name": "Carl Frederick von Saltza",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5040163"
+    },
+    {
+      "id": "Q1038477",
+      "name": "Carl Gustaf Qvarnstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1038477"
+    },
+    {
+      "id": "Q6180578",
+      "name": "Carl Sk\u00e5nberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6180578"
+    },
+    {
+      "id": "Q6015001",
+      "name": "Carl Wilhelm Nordgren",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6015001"
+    },
+    {
+      "id": "Q16602193",
+      "name": "Charlotta Skj\u00f6ldebrand",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q16602193"
+    },
+    {
+      "id": "Q6160753",
+      "name": "Edvard Pers\u00e9us",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6160753"
+    },
+    {
+      "id": "Q4979792",
+      "name": "Emma Josepha Sparre",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4979792"
+    },
+    {
+      "id": "Q330061",
+      "name": "Fredrik Wilhelm Scholander",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q330061"
+    },
+    {
+      "id": "Q1381512",
+      "name": "Georg Pauli",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1381512"
+    },
+    {
+      "id": "Q720704",
+      "name": "Georg von Rosen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q720704"
+    },
+    {
+      "id": "Q4975394",
+      "name": "Gerda Roosval-Kallstenius",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4975394"
+    },
+    {
+      "id": "Q372874",
+      "name": "Gustaf S\u00f6derberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q372874"
+    },
+    {
+      "id": "Q1555443",
+      "name": "Gustaf Wilhelm Palm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1555443"
+    },
+    {
+      "id": "Q25982627",
+      "name": "Hedvig S\u00f6derstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q25982627"
+    },
+    {
+      "id": "Q6030401",
+      "name": "Helmer Osslund",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6030401"
+    },
+    {
+      "id": "Q23989411",
+      "name": "Henriette Sj\u00f6berg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q23989411"
+    },
+    {
+      "id": "Q6176031",
+      "name": "Herman af Sill\u00e9n",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6176031"
+    },
+    {
+      "id": "Q781842",
+      "name": "Hugo Salmson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q781842"
+    },
+    {
+      "id": "Q4977618",
+      "name": "Ida von Schulzenheim",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4977618"
+    },
+    {
+      "id": "Q3100592",
+      "name": "Jenny Nystr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3100592"
+    },
+    {
+      "id": "Q3301801",
+      "name": "Johan Gustaf Sandberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3301801"
+    },
+    {
+      "id": "Q4978878",
+      "name": "Josabeth Sj\u00f6berg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4978878"
+    },
+    {
+      "id": "Q6194139",
+      "name": "Joseph Magnus St\u00e4ck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6194139"
+    },
+    {
+      "id": "Q1380734",
+      "name": "Karl Nordstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1380734"
+    },
+    {
+      "id": "Q6078176",
+      "name": "Lars Jacob von R\u00f6\u00f6k",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6078176"
+    },
+    {
+      "id": "Q4976313",
+      "name": "Lotten R\u00f6nquist",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4976313"
+    },
+    {
+      "id": "Q735994",
+      "name": "Louis Sparre",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q735994"
+    },
+    {
+      "id": "Q3307830",
+      "name": "Maria R\u00f6hl",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3307830"
+    },
+    {
+      "id": "Q62970515",
+      "name": "Mathilda Nilsson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q62970515"
+    },
+    {
+      "id": "Q6166788",
+      "name": "Olof Sager-Nelson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6166788"
+    },
+    {
+      "id": "Q6201336",
+      "name": "Pehr Arvid S\u00e4ve",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6201336"
+    },
+    {
+      "id": "Q6202192",
+      "name": "Per S\u00f6dermark",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6202192"
+    },
+    {
+      "id": "Q2367502",
+      "name": "Severin Nilsson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2367502"
+    },
+    {
+      "id": "Q4974655",
+      "name": "Sofie Ribbing",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4974655"
+    },
+    {
+      "id": "Q52156057",
+      "name": "Agnes Wieslander",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q52156057"
+    },
+    {
+      "id": "Q2644198",
+      "name": "Alfred Wahlberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2644198"
+    },
+    {
+      "id": "Q5568865",
+      "name": "Anders Been",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5568865"
+    },
+    {
+      "id": "Q206820",
+      "name": "Anders Zorn",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q206820"
+    },
+    {
+      "id": "Q4789037",
+      "name": "Arent Greve",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4789037"
+    },
+    {
+      "id": "Q7724",
+      "name": "August Strindberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7724"
+    },
+    {
+      "id": "Q6203382",
+      "name": "Axel Tallberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6203382"
+    },
+    {
+      "id": "Q5040078",
+      "name": "Carl E. Wallin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5040078"
+    },
+    {
+      "id": "Q5040895",
+      "name": "Carl Tr\u00e4g\u00e5rdh",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5040895"
+    },
+    {
+      "id": "Q445022",
+      "name": "Carl Wahlbom",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q445022"
+    },
+    {
+      "id": "Q4990097",
+      "name": "Charlotte Wahlstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4990097"
+    },
+    {
+      "id": "Q23989196",
+      "name": "Charlotte von Sch\u00e9ele",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q23989196"
+    },
+    {
+      "id": "Q5240800",
+      "name": "David Wallin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5240800"
+    },
+    {
+      "id": "Q5274239",
+      "name": "Didrik Muus",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5274239"
+    },
+    {
+      "id": "Q3048419",
+      "name": "Edvard Westman",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3048419"
+    },
+    {
+      "id": "Q5347898",
+      "name": "Eggert Munch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5347898"
+    },
+    {
+      "id": "Q17130926",
+      "name": "Elias Fiigenschoug",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17130926"
+    },
+    {
+      "id": "Q4979927",
+      "name": "Evelina Stading",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4979927"
+    },
+    {
+      "id": "Q13426743",
+      "name": "Frederik Petersen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q13426743"
+    },
+    {
+      "id": "Q22337951",
+      "name": "Gunnar Brynolf Wennerberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q22337951"
+    },
+    {
+      "id": "Q5619161",
+      "name": "Gunnar Widforss",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5619161"
+    },
+    {
+      "id": "Q3436820",
+      "name": "Hanna Winge",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3436820"
+    },
+    {
+      "id": "Q16210494",
+      "name": "Heinrich Christian Friedrich Hosenfelder",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q16210494"
+    },
+    {
+      "id": "Q4982628",
+      "name": "Hildegard Thorell",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4982628"
+    },
+    {
+      "id": "Q1805976",
+      "name": "Jacob Munch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1805976"
+    },
+    {
+      "id": "Q4571227",
+      "name": "Jakob Klukstad",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4571227"
+    },
+    {
+      "id": "Q6233485",
+      "name": "Johan Way",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6233485"
+    },
+    {
+      "id": "Q26239739",
+      "name": "Jonas Wallstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q26239739"
+    },
+    {
+      "id": "Q6230276",
+      "name": "Josef Wilhelm Wallander",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6230276"
+    },
+    {
+      "id": "Q6253555",
+      "name": "Kilian Zoll",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6253555"
+    },
+    {
+      "id": "Q983492",
+      "name": "M\u00e5rten Eskil Winge",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q983492"
+    },
+    {
+      "id": "Q6218436",
+      "name": "Nabot T\u00f6rnros",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6218436"
+    },
+    {
+      "id": "Q18530487",
+      "name": "Nicholas Byer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q18530487"
+    },
+    {
+      "id": "Q7082853",
+      "name": "Ola Hermundsen Berge",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7082853"
+    },
+    {
+      "id": "Q1226473",
+      "name": "Oscar T\u00f6rn\u00e5",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1226473"
+    },
+    {
+      "id": "Q2263671",
+      "name": "Peder Aadnes",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2263671"
+    },
+    {
+      "id": "Q7159111",
+      "name": "Peder Per Veggum",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7159111"
+    },
+    {
+      "id": "Q6239764",
+      "name": "Per Wickenberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6239764"
+    },
+    {
+      "id": "Q6207070",
+      "name": "Robert Thegerstr\u00f6m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6207070"
+    },
+    {
+      "id": "Q7651890",
+      "name": "Sveinung Svalastoga",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7651890"
+    },
+    {
+      "id": "Q4582950",
+      "name": "Alfredo Andersen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4582950"
+    },
+    {
+      "id": "Q490733",
+      "name": "Anders Askevold",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q490733"
+    },
+    {
+      "id": "Q1779589",
+      "name": "Andreas Bloch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1779589"
+    },
+    {
+      "id": "Q5622415",
+      "name": "Andreas Edvard Disen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5622415"
+    },
+    {
+      "id": "Q12713553",
+      "name": "Astri Aasen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12713553"
+    },
+    {
+      "id": "Q539239",
+      "name": "August Cappelen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q539239"
+    },
+    {
+      "id": "Q5854655",
+      "name": "Axel Ender",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5854655"
+    },
+    {
+      "id": "Q11963131",
+      "name": "Carl D\u00f8rnberger",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11963131"
+    },
+    {
+      "id": "Q5040957",
+      "name": "Carl Wilhelm B\u00f8ckmann Barth",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5040957"
+    },
+    {
+      "id": "Q4943901",
+      "name": "Cecilie Dahl (born 1858)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4943901"
+    },
+    {
+      "id": "Q4117212",
+      "name": "Dina Aschehoug",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4117212"
+    },
+    {
+      "id": "Q2228762",
+      "name": "Domenico Erdmann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2228762"
+    },
+    {
+      "id": "Q3193383",
+      "name": "Edvard Diriks",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3193383"
+    },
+    {
+      "id": "Q320844",
+      "name": "Erik Bodom",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q320844"
+    },
+    {
+      "id": "Q1796156",
+      "name": "Frants Diderik B\u00f8e",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1796156"
+    },
+    {
+      "id": "Q5499271",
+      "name": "Frederik Collett",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5499271"
+    },
+    {
+      "id": "Q4945241",
+      "name": "Gudrun L\u00f8chen Drewsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4945241"
+    },
+    {
+      "id": "Q1554716",
+      "name": "Gunnar Berg (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1554716"
+    },
+    {
+      "id": "Q2666703",
+      "name": "Halfdan Egedius",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2666703"
+    },
+    {
+      "id": "Q958258",
+      "name": "Hans Dahl",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q958258"
+    },
+    {
+      "id": "Q263025",
+      "name": "Harriet Backer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q263025"
+    },
+    {
+      "id": "Q5601154",
+      "name": "Jacob Calmeyer",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5601154"
+    },
+    {
+      "id": "Q76658506",
+      "name": "Jensine Costello",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q76658506"
+    },
+    {
+      "id": "Q1691964",
+      "name": "Johan Fredrik Eckersberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1691964"
+    },
+    {
+      "id": "Q11978833",
+      "name": "Johanna Bugge Berge",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11978833"
+    },
+    {
+      "id": "Q1508306",
+      "name": "Knud Baade",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1508306"
+    },
+    {
+      "id": "Q983663",
+      "name": "Knud Bergslien",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q983663"
+    },
+    {
+      "id": "Q1858653",
+      "name": "Knud Bull",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1858653"
+    },
+    {
+      "id": "Q13745902",
+      "name": "Kristine Aas",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q13745902"
+    },
+    {
+      "id": "Q544581",
+      "name": "Marie Aarestrup",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q544581"
+    },
+    {
+      "id": "Q17446700",
+      "name": "Martin Aagaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17446700"
+    },
+    {
+      "id": "Q958608",
+      "name": "Nikolai Astrup",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q958608"
+    },
+    {
+      "id": "Q1772952",
+      "name": "Nils Bergslien",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1772952"
+    },
+    {
+      "id": "Q3424670",
+      "name": "Ole Peter Hansen Balling",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3424670"
+    },
+    {
+      "id": "Q5604669",
+      "name": "Oscar Castberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5604669"
+    },
+    {
+      "id": "Q2272816",
+      "name": "Peder Balke",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2272816"
+    },
+    {
+      "id": "Q5619061",
+      "name": "Per Deberitz",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5619061"
+    },
+    {
+      "id": "Q4587846",
+      "name": "Peter Andreas Brandt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4587846"
+    },
+    {
+      "id": "Q353014",
+      "name": "Peter Nicolai Arbo",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q353014"
+    },
+    {
+      "id": "Q15376289",
+      "name": "Tupsy Clement",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q15376289"
+    },
+    {
+      "id": "Q303708",
+      "name": "Aasta Hansteen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q303708"
+    },
+    {
+      "id": "Q63384576",
+      "name": "Agnes Charlotte Gude",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q63384576"
+    },
+    {
+      "id": "Q421524",
+      "name": "Aksel Waldemar Johannessen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q421524"
+    },
+    {
+      "id": "Q5817693",
+      "name": "Alf Hurum",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5817693"
+    },
+    {
+      "id": "Q56306560",
+      "name": "Alfred Hauge (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q56306560"
+    },
+    {
+      "id": "Q4755108",
+      "name": "Andrea Gram",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4755108"
+    },
+    {
+      "id": "Q4794576",
+      "name": "Arne Hjersing",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4794576"
+    },
+    {
+      "id": "Q2596766",
+      "name": "Bernhard Folkestad",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2596766"
+    },
+    {
+      "id": "Q18507975",
+      "name": "Carl Frithjof Smith",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q18507975"
+    },
+    {
+      "id": "Q99941903",
+      "name": "Carl Jonnevold",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q99941903"
+    },
+    {
+      "id": "Q103402789",
+      "name": "Fanny Ingvoldstad",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q103402789"
+    },
+    {
+      "id": "Q23944668",
+      "name": "Frederick Hans Haagensen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q23944668"
+    },
+    {
+      "id": "Q3432195",
+      "name": "Gustav Christian Gj\u00f8s",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3432195"
+    },
+    {
+      "id": "Q102380083",
+      "name": "Gyda Gram",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q102380083"
+    },
+    {
+      "id": "Q10503575",
+      "name": "G\u00f8sta af Geijerstam",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q10503575"
+    },
+    {
+      "id": "Q701669",
+      "name": "Hans Gude",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q701669"
+    },
+    {
+      "id": "Q718020",
+      "name": "Hans Heyerdahl",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q718020"
+    },
+    {
+      "id": "Q100452367",
+      "name": "Henriette Homann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q100452367"
+    },
+    {
+      "id": "Q4582210",
+      "name": "Jacob Gl\u00f8ersen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4582210"
+    },
+    {
+      "id": "Q4568470",
+      "name": "Joachim Frich",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4568470"
+    },
+    {
+      "id": "Q3434119",
+      "name": "Johan G\u00f8rbitz",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3434119"
+    },
+    {
+      "id": "Q6251260",
+      "name": "John Olsen Hammerstad",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6251260"
+    },
+    {
+      "id": "Q5809643",
+      "name": "Kristen Holb\u00f8",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5809643"
+    },
+    {
+      "id": "Q11996959",
+      "name": "Lalla Hvalstad",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11996959"
+    },
+    {
+      "id": "Q1346539",
+      "name": "Lars Hertervig",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1346539"
+    },
+    {
+      "id": "Q3371322",
+      "name": "Lars Jorde",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3371322"
+    },
+    {
+      "id": "Q2576609",
+      "name": "Ludvig Karsten",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2576609"
+    },
+    {
+      "id": "Q5774795",
+      "name": "Marcus Gr\u00f8nvold",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5774795"
+    },
+    {
+      "id": "Q6762864",
+      "name": "Marie Hauge",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6762864"
+    },
+    {
+      "id": "Q11989519",
+      "name": "Mimi Falsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11989519"
+    },
+    {
+      "id": "Q4567201",
+      "name": "Nils Gude",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4567201"
+    },
+    {
+      "id": "Q7037290",
+      "name": "Nils Hansteen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7037290"
+    },
+    {
+      "id": "Q700975",
+      "name": "Olaf Gulbransson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q700975"
+    },
+    {
+      "id": "Q1789053",
+      "name": "Olaf Isaachsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1789053"
+    },
+    {
+      "id": "Q17119635",
+      "name": "Ole Fr\u00f8vig",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17119635"
+    },
+    {
+      "id": "Q11996977",
+      "name": "Ragnvald Hjerlow",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11996977"
+    },
+    {
+      "id": "Q1969461",
+      "name": "Thomas Fearnley",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1969461"
+    },
+    {
+      "id": "Q2695615",
+      "name": "Thorolf Holmboe",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2695615"
+    },
+    {
+      "id": "Q1027392",
+      "name": "Thorvald Erichsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1027392"
+    },
+    {
+      "id": "Q46428",
+      "name": "Tycho J\u00e6ger",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q46428"
+    },
+    {
+      "id": "Q355551",
+      "name": "Adelsteen Normann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q355551"
+    },
+    {
+      "id": "Q20737430",
+      "name": "Alice Pihl Salvesen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q20737430"
+    },
+    {
+      "id": "Q452733",
+      "name": "Amaldus Nielsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q452733"
+    },
+    {
+      "id": "Q4794603",
+      "name": "Arne Kavli",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4794603"
+    },
+    {
+      "id": "Q3426349",
+      "name": "Arne Lofthus",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3426349"
+    },
+    {
+      "id": "Q1778899",
+      "name": "Asta N\u00f8rregaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1778899"
+    },
+    {
+      "id": "Q4820812",
+      "name": "August Schneider",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4820812"
+    },
+    {
+      "id": "Q5965488",
+      "name": "Bernt Lund",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5965488"
+    },
+    {
+      "id": "Q5040494",
+      "name": "Carl Lorck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5040494"
+    },
+    {
+      "id": "Q3369201",
+      "name": "Catharine Hermine K\u00f8lle",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3369201"
+    },
+    {
+      "id": "Q15572721",
+      "name": "Charles Lundh",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q15572721"
+    },
+    {
+      "id": "Q334200",
+      "name": "Christian Krohg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q334200"
+    },
+    {
+      "id": "Q41406",
+      "name": "Edvard Munch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q41406"
+    },
+    {
+      "id": "Q739176",
+      "name": "Eilif Peterssen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q739176"
+    },
+    {
+      "id": "Q11040483",
+      "name": "Eivind Nielsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11040483"
+    },
+    {
+      "id": "Q1503561",
+      "name": "Georg Anton Rasmussen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1503561"
+    },
+    {
+      "id": "Q1009816",
+      "name": "Gerhard Munthe",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1009816"
+    },
+    {
+      "id": "Q62083847",
+      "name": "Hans Christian Knudsen (missionary)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q62083847"
+    },
+    {
+      "id": "Q5650910",
+      "name": "Hans \u00d8degaard",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5650910"
+    },
+    {
+      "id": "Q13426673",
+      "name": "Hedevig Lund",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q13426673"
+    },
+    {
+      "id": "Q17120159",
+      "name": "Helga Marie Ring Reusch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17120159"
+    },
+    {
+      "id": "Q4269428",
+      "name": "Henrik Lund (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4269428"
+    },
+    {
+      "id": "Q6179884",
+      "name": "Jens Zetlitz Kielland",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6179884"
+    },
+    {
+      "id": "Q1769431",
+      "name": "Johan Nordhagen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1769431"
+    },
+    {
+      "id": "Q11979953",
+      "name": "Kalle L\u00f8chen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11979953"
+    },
+    {
+      "id": "Q2596759",
+      "name": "Kitty Kielland",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2596759"
+    },
+    {
+      "id": "Q6423957",
+      "name": "Knut Mevasstaul",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6423957"
+    },
+    {
+      "id": "Q6491679",
+      "name": "Lars Osa",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6491679"
+    },
+    {
+      "id": "Q327843",
+      "name": "Ludvig Munthe",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q327843"
+    },
+    {
+      "id": "Q6702738",
+      "name": "Lul Krag",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6702738"
+    },
+    {
+      "id": "Q15997663",
+      "name": "Marie L\u00f8kke",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q15997663"
+    },
+    {
+      "id": "Q518139",
+      "name": "Morten M\u00fcller",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q518139"
+    },
+    {
+      "id": "Q271470",
+      "name": "Oda Krohg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q271470"
+    },
+    {
+      "id": "Q7082977",
+      "name": "Olaf Lange",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7082977"
+    },
+    {
+      "id": "Q16596297",
+      "name": "Signe Scheel",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q16596297"
+    },
+    {
+      "id": "Q4335002",
+      "name": "S\u00f8ren Onsager",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4335002"
+    },
+    {
+      "id": "Q380085",
+      "name": "Theodor Kittelsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q380085"
+    },
+    {
+      "id": "Q7791980",
+      "name": "Thomas Luraas",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7791980"
+    },
+    {
+      "id": "Q329507",
+      "name": "Vincent Stoltenberg Lerche",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q329507"
+    },
+    {
+      "id": "Q12010647",
+      "name": "Wilhelm Peters (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12010647"
+    },
+    {
+      "id": "Q11849678",
+      "name": "Abraham Myra",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11849678"
+    },
+    {
+      "id": "Q365544",
+      "name": "Adolph Tidemand",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q365544"
+    },
+    {
+      "id": "Q4980198",
+      "name": "Agnes Steineger",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4980198"
+    },
+    {
+      "id": "Q2846105",
+      "name": "Anders Castus Svarstad",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2846105"
+    },
+    {
+      "id": "Q4977739",
+      "name": "Anna Sch\u00f8nheyder",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4977739"
+    },
+    {
+      "id": "Q4894609",
+      "name": "Bernt Tunold",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4894609"
+    },
+    {
+      "id": "Q4583808",
+      "name": "Carl Sundt-Hansen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4583808"
+    },
+    {
+      "id": "Q2965652",
+      "name": "Christian Skredsvig",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2965652"
+    },
+    {
+      "id": "Q11903492",
+      "name": "Christiane Schreiber",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11903492"
+    },
+    {
+      "id": "Q5412478",
+      "name": "Didrik M\u00f6llerum",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5412478"
+    },
+    {
+      "id": "Q3355011",
+      "name": "Emanuel Vigeland",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3355011"
+    },
+    {
+      "id": "Q17120498",
+      "name": "Enevold Th\u00f8mt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17120498"
+    },
+    {
+      "id": "Q525092",
+      "name": "Erik Werenskiold",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q525092"
+    },
+    {
+      "id": "Q5422966",
+      "name": "Eyolf Soot",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5422966"
+    },
+    {
+      "id": "Q445891",
+      "name": "Frits Thaulow",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q445891"
+    },
+    {
+      "id": "Q1803739",
+      "name": "Gudmund Stenersen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1803739"
+    },
+    {
+      "id": "Q3114975",
+      "name": "Gustav Wentzel",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3114975"
+    },
+    {
+      "id": "Q5641867",
+      "name": "Halfdan Str\u00f8m",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5641867"
+    },
+    {
+      "id": "Q1367020",
+      "name": "Harald Sohlberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1367020"
+    },
+    {
+      "id": "Q15278707",
+      "name": "Ida Wedel-Jarlsberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q15278707"
+    },
+    {
+      "id": "Q6004583",
+      "name": "Immanuel Alm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6004583"
+    },
+    {
+      "id": "Q5487992",
+      "name": "Jochim Neiman",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5487992"
+    },
+    {
+      "id": "Q16838557",
+      "name": "Johan Georg Geitel",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q16838557"
+    },
+    {
+      "id": "Q13434144",
+      "name": "Karl Uchermann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q13434144"
+    },
+    {
+      "id": "Q43400590",
+      "name": "Kris Torne",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q43400590"
+    },
+    {
+      "id": "Q6438410",
+      "name": "Kristofer Sinding-Larsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6438410"
+    },
+    {
+      "id": "Q5397992",
+      "name": "Lars Gallenius",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5397992"
+    },
+    {
+      "id": "Q13426850",
+      "name": "Ludvig Skramstad",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q13426850"
+    },
+    {
+      "id": "Q4357400",
+      "name": "Margareta Capsia",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4357400"
+    },
+    {
+      "id": "Q22915182",
+      "name": "Marie Tann\u00e6s",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q22915182"
+    },
+    {
+      "id": "Q6514975",
+      "name": "Matthias Stoltenberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6514975"
+    },
+    {
+      "id": "Q17120568",
+      "name": "Olaf Willums",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17120568"
+    },
+    {
+      "id": "Q11993779",
+      "name": "Oluf Wold-Torne",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11993779"
+    },
+    {
+      "id": "Q4129638",
+      "name": "Oscar Wergeland",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4129638"
+    },
+    {
+      "id": "Q1387579",
+      "name": "Otto Sinding",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1387579"
+    },
+    {
+      "id": "Q6977068",
+      "name": "Otto Valstad",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6977068"
+    },
+    {
+      "id": "Q11994993",
+      "name": "Peder Cappelen Thurmann",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11994993"
+    },
+    {
+      "id": "Q7652118",
+      "name": "Svend Rasmussen Svendsen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7652118"
+    },
+    {
+      "id": "Q57821820",
+      "name": "V\u00e5g\u00e5sommeren",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q57821820"
+    },
+    {
+      "id": "Q12470073",
+      "name": "Wilhelm Wetlesen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q12470073"
+    },
+    {
+      "id": "Q4115633",
+      "name": "Adolf von Becker",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4115633"
+    },
+    {
+      "id": "Q170068",
+      "name": "Akseli Gallen-Kallela",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q170068"
+    },
+    {
+      "id": "Q356644",
+      "name": "Albert Edelfelt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q356644"
+    },
+    {
+      "id": "Q5940496",
+      "name": "Aleksander Laur\u00e9us",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5940496"
+    },
+    {
+      "id": "Q4988517",
+      "name": "Alexandra Frosterus-S\u00e5ltin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4988517"
+    },
+    {
+      "id": "Q11244592",
+      "name": "Berndt Godenhjelm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11244592"
+    },
+    {
+      "id": "Q11854963",
+      "name": "Carl Bengts",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11854963"
+    },
+    {
+      "id": "Q11856558",
+      "name": "Edla Blomm\u00e9r",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11856558"
+    },
+    {
+      "id": "Q3048418",
+      "name": "Edvard Isto",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3048418"
+    },
+    {
+      "id": "Q1390614",
+      "name": "Eero J\u00e4rnefelt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1390614"
+    },
+    {
+      "id": "Q5998690",
+      "name": "Elias Muukka",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5998690"
+    },
+    {
+      "id": "Q1827236",
+      "name": "Elin Danielson-Gambogi",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1827236"
+    },
+    {
+      "id": "Q3426198",
+      "name": "Ellen Favorin",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q3426198"
+    },
+    {
+      "id": "Q11857732",
+      "name": "Emanuel Granberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11857732"
+    },
+    {
+      "id": "Q5969439",
+      "name": "Erik Johan L\u00f6fgren",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5969439"
+    },
+    {
+      "id": "Q16854414",
+      "name": "Erik Westzynthius the Elder",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q16854414"
+    },
+    {
+      "id": "Q16854415",
+      "name": "Erik Westzynthius the Younger",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q16854415"
+    },
+    {
+      "id": "Q139836",
+      "name": "Fanny Churberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q139836"
+    },
+    {
+      "id": "Q2590486",
+      "name": "Fredrik Ahlstedt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2590486"
+    },
+    {
+      "id": "Q6197843",
+      "name": "Gabriel Gotthard Sweidel",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6197843"
+    },
+    {
+      "id": "Q4357370",
+      "name": "Gunnar Berndtson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4357370"
+    },
+    {
+      "id": "Q11860787",
+      "name": "Gustaf Erik Hedman",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11860787"
+    },
+    {
+      "id": "Q11860807",
+      "name": "Gustaf Lucander",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11860807"
+    },
+    {
+      "id": "Q5731022",
+      "name": "Gustaf Wilhelm Finnberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5731022"
+    },
+    {
+      "id": "Q4307542",
+      "name": "Hjalmar Munsterhjelm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4307542"
+    },
+    {
+      "id": "Q11866564",
+      "name": "Johan Alm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11866564"
+    },
+    {
+      "id": "Q16145970",
+      "name": "Johan Backman (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q16145970"
+    },
+    {
+      "id": "Q11866576",
+      "name": "Johan Erik Hedberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11866576"
+    },
+    {
+      "id": "Q13382231",
+      "name": "Jonas Bergman",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q13382231"
+    },
+    {
+      "id": "Q2342320",
+      "name": "Karl Emanuel Jansson",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2342320"
+    },
+    {
+      "id": "Q15610356",
+      "name": "Lars Myra",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q15610356"
+    },
+    {
+      "id": "Q6213287",
+      "name": "Mikael Toppelius",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6213287"
+    },
+    {
+      "id": "Q2688035",
+      "name": "Nina Ahlstedt",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q2688035"
+    },
+    {
+      "id": "Q1192814",
+      "name": "Pekka Halonen",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1192814"
+    },
+    {
+      "id": "Q11890655",
+      "name": "Richard Hall (painter)",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11890655"
+    },
+    {
+      "id": "Q938282",
+      "name": "Robert Wilhelm Ekman",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q938282"
+    },
+    {
+      "id": "Q11892294",
+      "name": "Samuel Elmgren",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11892294"
+    },
+    {
+      "id": "Q25742936",
+      "name": "Sigrid Lehrb\u00e4ck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q25742936"
+    },
+    {
+      "id": "Q11901153",
+      "name": "Victoria \u00c5berg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11901153"
+    },
+    {
+      "id": "Q432296",
+      "name": "Werner Holmberg",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q432296"
+    },
+    {
+      "id": "Q11851610",
+      "name": "Anna Sahlst\u00e9n",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11851610"
+    },
+    {
+      "id": "Q11854002",
+      "name": "Beda Stjernschantz",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11854002"
+    },
+    {
+      "id": "Q4990094",
+      "name": "Dora Wahlroos",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4990094"
+    },
+    {
+      "id": "Q1399223",
+      "name": "Ferdinand von Wright",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q1399223"
+    },
+    {
+      "id": "Q236985",
+      "name": "Helene Schjerfbeck",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q236985"
+    },
+    {
+      "id": "Q6083861",
+      "name": "Jalmari Ruokokoski",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q6083861"
+    },
+    {
+      "id": "Q692383",
+      "name": "Magnus von Wright",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q692383"
+    },
+    {
+      "id": "Q4110933",
+      "name": "Maria Wiik",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4110933"
+    },
+    {
+      "id": "Q11881446",
+      "name": "Mathilda Rotkirch",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q11881446"
+    },
+    {
+      "id": "Q7513302",
+      "name": "Sigurd Wettenhovi-Aspa",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q7513302"
+    },
+    {
+      "id": "Q17384822",
+      "name": "Torsten Wasastjerna",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17384822"
+    },
+    {
+      "id": "Q4411288",
+      "name": "Verner Thom\u00e9",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4411288"
+    },
+    {
+      "id": "Q29746",
+      "name": "Victor Westerholm",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q29746"
+    },
+    {
+      "id": "Q17382785",
+      "name": "Victorine Nordenswan",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q17382785"
+    },
+    {
+      "id": "Q4354059",
+      "name": "Von Wright brothers",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q4354059"
+    },
+    {
+      "id": "Q5485900",
+      "name": "Wilhelm von Wright",
+      "school": "scandinavian",
+      "wiki": "https://www.wikidata.org/wiki/Q5485900"
+    }
+  ]
+}

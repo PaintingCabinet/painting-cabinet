@@ -1,0 +1,286 @@
+{
+  "artists": [
+    {
+      "id": "Q109583130",
+      "name": "Adolfo Benar\u00fas",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q109583130"
+    },
+    {
+      "id": "Q1437304",
+      "name": "Alfredo Keil",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q1437304"
+    },
+    {
+      "id": "Q10364494",
+      "name": "Alfredo Roque Gameiro",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q10364494"
+    },
+    {
+      "id": "Q15614953",
+      "name": "Andr\u00e9 Gon\u00e7alves (painter)",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q15614953"
+    },
+    {
+      "id": "Q714598",
+      "name": "Artur Loureiro",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q714598"
+    },
+    {
+      "id": "Q47318063",
+      "name": "Cirilo Volkmar Machado",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q47318063"
+    },
+    {
+      "id": "Q1112288",
+      "name": "Columbano Bordalo Pinheiro",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q1112288"
+    },
+    {
+      "id": "Q4266772",
+      "name": "Crist\u00f3v\u00e3o Lopes",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q4266772"
+    },
+    {
+      "id": "Q5186544",
+      "name": "Crist\u00f3v\u00e3o de Morais",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q5186544"
+    },
+    {
+      "id": "Q10266620",
+      "name": "Diogo de Contreiras",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q10266620"
+    },
+    {
+      "id": "Q1234389",
+      "name": "Domingos Sequeira",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q1234389"
+    },
+    {
+      "id": "Q101399295",
+      "name": "Fanny Munr\u00f3",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q101399295"
+    },
+    {
+      "id": "Q1441879",
+      "name": "Francisco Augusto Metrass",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q1441879"
+    },
+    {
+      "id": "Q10285193",
+      "name": "Francisco Venegas (painter)",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q10285193"
+    },
+    {
+      "id": "Q2077088",
+      "name": "Garcia Fernandes",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q2077088"
+    },
+    {
+      "id": "Q5526539",
+      "name": "Gaspar Dias",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q5526539"
+    },
+    {
+      "id": "Q3847723",
+      "name": "Henrique Pous\u00e3o",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q3847723"
+    },
+    {
+      "id": "Q4180827",
+      "name": "Joaquim Rafael",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q4180827"
+    },
+    {
+      "id": "Q995269",
+      "name": "Jorge Afonso",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q995269"
+    },
+    {
+      "id": "Q2739623",
+      "name": "Jorge Cola\u00e7o",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q2739623"
+    },
+    {
+      "id": "Q269338",
+      "name": "Josefa de \u00d3bidos",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q269338"
+    },
+    {
+      "id": "Q720979",
+      "name": "Jos\u00e9 Malhoa",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q720979"
+    },
+    {
+      "id": "Q2837500",
+      "name": "Jos\u00e9 Rodrigues",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q2837500"
+    },
+    {
+      "id": "Q6294273",
+      "name": "Jos\u00e9 de Avelar Rebelo",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q6294273"
+    },
+    {
+      "id": "Q10311057",
+      "name": "Jo\u00e3o Ant\u00f3nio Correia",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q10311057"
+    },
+    {
+      "id": "Q303936",
+      "name": "Jo\u00e3o Marques de Oliveira",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q303936"
+    },
+    {
+      "id": "Q275748",
+      "name": "Leonor de Almeida Portugal, Marquise of Alorna",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q275748"
+    },
+    {
+      "id": "Q10320300",
+      "name": "Luciano Freire",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q10320300"
+    },
+    {
+      "id": "Q10321759",
+      "name": "Lu\u00eds de Meneses, 2nd Viscount of Meneses",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q10321759"
+    },
+    {
+      "id": "Q16947931",
+      "name": "Manuel Joachim de Franca",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q16947931"
+    },
+    {
+      "id": "Q94994266",
+      "name": "Maria Augusta Bordalo Pinheiro",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q94994266"
+    },
+    {
+      "id": "Q1320677",
+      "name": "Master of Lourinh\u00e3",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q1320677"
+    },
+    {
+      "id": "Q3543874",
+      "name": "Miguel \u00c2ngelo Lupi",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q3543874"
+    },
+    {
+      "id": "Q139015",
+      "name": "Nuno Gon\u00e7alves",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q139015"
+    },
+    {
+      "id": "Q610761",
+      "name": "Silva Porto (painter)",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q610761"
+    },
+    {
+      "id": "Q7820534",
+      "name": "Tom\u00e1s da Anuncia\u00e7\u00e3o",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q7820534"
+    },
+    {
+      "id": "Q1357253",
+      "name": "Vasco Fernandes (artist)",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q1357253"
+    },
+    {
+      "id": "Q10390524",
+      "name": "Vieira Lusitano",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q10390524"
+    },
+    {
+      "id": "Q1617507",
+      "name": "Vieira Portuense",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q1617507"
+    },
+    {
+      "id": "Q10395841",
+      "name": "\u00c1lvaro Pires de \u00c9vora",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q10395841"
+    },
+    {
+      "id": "Q3324919",
+      "name": "Aur\u00e9lia de Souza",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q3324919"
+    },
+    {
+      "id": "Q3186346",
+      "name": "Jos\u00e9 J\u00falio de Souza Pinto",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q3186346"
+    },
+    {
+      "id": "Q10311369",
+      "name": "Jo\u00e3o Cristino da Silva",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q10311369"
+    },
+    {
+      "id": "Q10312299",
+      "name": "Jo\u00e3o Vaz",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q10312299"
+    },
+    {
+      "id": "Q3484791",
+      "name": "Simpl\u00edcio Rodrigues de S\u00e1",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q3484791"
+    },
+    {
+      "id": "Q10372923",
+      "name": "Sofia Martins de Sousa",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q10372923"
+    },
+    {
+      "id": "Q3555368",
+      "name": "Veloso Salgado",
+      "school": "portuguese",
+      "wiki": "https://www.wikidata.org/wiki/Q3555368"
+    }
+  ]
+}

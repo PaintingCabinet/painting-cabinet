@@ -5,46 +5,145 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Viewer — Painting Cabinet</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:ital,wght@0,500;1,500&display=swap');
+
+    :root {
+      --bg: #0c0a08;
+      --bg-elev: #17130f;
+      --bg-panel: #1c1712;
+      --border: #382f22;
+      --border-soft: #2a2318;
+      --text: #ece1cd;
+      --text-dim: #b9ab8f;
+      --text-faint: #83765f;
+      --accent: #d9b56d;
+      --accent-dim: #a5895a;
+      --danger: #c96a55;
+      --radius: 12px;
+      --radius-sm: 7px;
+      --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      --ease: cubic-bezier(.22, 1, .36, 1);
+    }
+
+    * { box-sizing: border-box; }
+
     html, body {
       margin: 0;
       height: 100%;
       overflow: hidden;
-      background: #11100e;
-      color: #e8dcc8;
-      font-family: Georgia, "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      -webkit-font-smoothing: antialiased;
     }
     body { display: flex; flex-direction: column; }
+
+    ::-webkit-scrollbar { width: 9px; height: 9px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 99px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--accent-dim); }
+
     header {
       display: flex;
       justify-content: space-between;
       align-items: center;
       gap: 1rem;
-      padding: 10px 16px;
+      padding: 16px 24px;
       font-size: 0.9rem;
       flex: 0 0 auto;
+      flex-wrap: wrap;
     }
-    header .filters { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; }
-    a { color: #d4c09a; }
+    header nav {
+      display: flex;
+      gap: 1.25rem;
+      align-items: center;
+      font-family: var(--font-sans);
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      font-size: 0.72rem;
+      color: var(--text-dim);
+    }
+    header .filters { display: flex; gap: 0.65rem; align-items: center; flex-wrap: wrap; }
+    header .filters label {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.72rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--text-faint);
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      background-image: linear-gradient(var(--accent), var(--accent));
+      background-position: 0 100%;
+      background-repeat: no-repeat;
+      background-size: 0% 1px;
+      transition: background-size .25s var(--ease), color .25s var(--ease), opacity .25s var(--ease);
+      padding-bottom: 1px;
+    }
+    a:hover { background-size: 100% 1px; }
+    header nav a { color: var(--text-dim); background-image: none; }
+    header nav a:hover { color: var(--accent); }
+
+    select, button, .admin input, .admin textarea {
+      font-family: var(--font-sans);
+    }
+
+    select {
+      appearance: none;
+      -webkit-appearance: none;
+      background: var(--bg-elev)
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23b9ab8f'/%3E%3C/svg%3E")
+        no-repeat right 10px center;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 6px 26px 6px 10px;
+      font-size: 0.78rem;
+      cursor: pointer;
+      transition: border-color .2s var(--ease);
+    }
+    select:hover, select:focus { border-color: var(--accent-dim); outline: none; }
+
+    button {
+      background: var(--bg-elev);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 9px 18px;
+      font-size: 0.78rem;
+      letter-spacing: 0.02em;
+      cursor: pointer;
+      transition: border-color .2s var(--ease), color .2s var(--ease), transform .15s var(--ease), background .2s var(--ease);
+    }
+    button:hover { border-color: var(--accent-dim); color: var(--accent); transform: translateY(-1px); }
+    button:active { transform: translateY(0); }
+    #filterBtn { background: transparent; padding: 6px 14px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; }
+    #removeBtn { border-color: #5c342a; color: #d99c8d; }
+    #removeBtn:hover { border-color: var(--danger); color: var(--danger); background: rgba(201, 106, 85, 0.08); }
+
     .stage {
       flex: 1 1 auto;
       min-height: 0;
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 0 16px;
+      padding: 0 28px;
       overflow: hidden;
     }
     .stage.show-label {
       display: grid;
-      grid-template-columns: 280px minmax(0, 1fr) 280px;
+      grid-template-columns: 260px minmax(0, 1fr) 300px;
+      gap: 24px;
       align-items: center;
     }
     .frame { position: relative; width: 100%; height: 100%; min-width: 0; min-height: 0; }
-    .stage.show-label .frame {
-      grid-column: 2;
-      justify-self: stretch;
-      align-self: stretch;
-    }
+    .stage.show-label .frame { grid-column: 2; justify-self: stretch; align-self: stretch; }
     .frame img {
       position: absolute;
       inset: 0;
@@ -57,14 +156,16 @@
       opacity: 0;
       transition: opacity 1s ease;
       cursor: zoom-in;
+      filter: drop-shadow(0 18px 44px rgba(0, 0, 0, 0.55));
     }
     .frame img.visible { opacity: 1; }
+
     .plaque {
       display: none;
-      color: #c4b8a4;
-      font-family: var(--label-font, Georgia, "Times New Roman", serif);
+      color: var(--text-dim);
+      font-family: var(--label-font, var(--font-serif));
       font-size: var(--label-size, 0.92rem);
-      line-height: var(--label-leading, 1.45);
+      line-height: var(--label-leading, 1.6);
       white-space: pre-wrap;
       min-width: 0;
     }
@@ -72,89 +173,239 @@
       display: block;
       grid-column: 3;
       width: 100%;
-      max-height: 80%;
+      max-height: 82%;
       overflow: auto;
-      justify-self: stretch;
-      align-self: center;
+      background: linear-gradient(180deg, var(--bg-panel), var(--bg-elev));
+      border: 1px solid var(--border-soft);
+      border-left: 2px solid var(--accent-dim);
+      border-radius: var(--radius);
+      padding: 20px 22px;
     }
-    .plaque .missing { color: #8a7f70; }
-    .caption { text-align: center; padding: 6px 16px 8px; flex: 0 0 auto; }
-    .caption p { margin: 0.15rem 0; color: #c4b8a4; }
+    .plaque .missing { color: var(--text-faint); font-style: italic; }
+
+    .caption { text-align: center; padding: 14px 16px 10px; flex: 0 0 auto; }
+    .caption #title {
+      margin: 0 0 6px;
+      font-family: var(--font-serif);
+      font-style: italic;
+      font-size: 1.3rem;
+      font-weight: 500;
+      color: var(--text);
+      letter-spacing: 0.01em;
+    }
+    .caption #meta {
+      margin: 0 0 4px;
+      color: var(--text-faint);
+      font-size: 0.76rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+    .caption p { margin: 0.15rem 0; color: var(--text-dim); }
+    .caption #more { font-size: 0.76rem; color: var(--text-faint); }
+    .caption #more:hover { color: var(--accent); }
+
     .controls, .admin {
       display: flex;
       justify-content: center;
       align-items: center;
-      gap: 12px;
-      padding: 0 16px 10px;
-      flex: 0 0 auto;
+      gap: 10px;
+      padding: 0 16px 16px;
       flex-wrap: wrap;
     }
+
+    .year-bar {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 14px;
+      padding: 0 16px 20px;
+      font-size: 0.75rem;
+      letter-spacing: 0.03em;
+      color: var(--text-faint);
+      font-variant-numeric: tabular-nums;
+    }
+    .range-wrap {
+      position: relative;
+      width: min(360px, 55vw);
+      height: 28px;
+    }
+    .range-wrap::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 12px;
+      height: 3px;
+      background: var(--border);
+      border-radius: 2px;
+      z-index: 0;
+    }
+    .range-wrap input[type="range"] {
+      position: absolute;
+      left: 0;
+      top: 8px;
+      width: 100%;
+      margin: 0;
+      background: none;
+      pointer-events: none;
+      -webkit-appearance: none;
+      appearance: none;
+      z-index: 2;
+    }
+    .range-wrap input[type="range"]::-webkit-slider-runnable-track {
+      height: 3px;
+      background: transparent;
+      border: 0;
+    }
+    .range-wrap input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      pointer-events: auto;
+      width: 15px;
+      height: 15px;
+      margin-top: -6px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 0 3px rgba(217, 181, 109, 0.15);
+      border: 0;
+      cursor: pointer;
+      position: relative;
+      z-index: 3;
+      transition: box-shadow .2s var(--ease);
+    }
+    .range-wrap input[type="range"]:hover::-webkit-slider-thumb { box-shadow: 0 0 0 5px rgba(217, 181, 109, 0.2); }
+    .range-wrap input[type="range"]::-moz-range-track {
+      height: 3px;
+      background: transparent;
+      border: 0;
+    }
+    .range-wrap input[type="range"]::-moz-range-thumb {
+      pointer-events: auto;
+      width: 15px;
+      height: 15px;
+      border: 0;
+      border-radius: 50%;
+      background: var(--accent);
+      cursor: pointer;
+    }
+    #yearReset { padding: 5px 12px; font-size: 0.7rem; }
+
     .admin {
       display: none;
-      border-top: 1px solid #3a342c;
-      padding-top: 10px;
-      font-size: 0.85rem;
+      border-top: 1px solid var(--border-soft);
+      padding-top: 16px;
+      font-size: 0.8rem;
+      background: linear-gradient(180deg, transparent, rgba(217, 181, 109, 0.03));
     }
     body.is-admin .admin { display: flex; }
+    .admin label {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--text-faint);
+      font-size: 0.72rem;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
     .admin textarea {
-      width: min(520px, 90vw);
+      width: min(420px, 90vw);
       height: 90px;
-      background: #2a261f;
-      color: #e8dcc8;
-      border: 1px solid #4a4338;
-      padding: 8px;
-      font-family: inherit;
+      background: var(--bg-elev);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 10px;
+      font-family: var(--font-serif);
+      font-size: 0.85rem;
+      resize: vertical;
     }
-    button, select, .admin input {
-      background: #2a261f;
-      color: #e8dcc8;
-      border: 1px solid #4a4338;
-      font-family: inherit;
+    .admin textarea:focus { outline: none; border-color: var(--accent-dim); }
+    .admin input, .admin select {
+      background: var(--bg-elev);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 5px 8px;
+      font-size: 0.78rem;
     }
-    button { padding: 8px 14px; cursor: pointer; }
-    select { padding: 4px; }
-    .admin label { color: #c4b8a4; }
-    #removeBtn { border-color: #6a3a32; }
+    .admin input[type="number"] { width: 60px; }
+    #adminStatus { color: var(--accent); font-size: 0.72rem; letter-spacing: 0.03em; }
+
     .panel-wrap {
       display: none;
       position: fixed;
       inset: 0;
-      background: rgba(8, 7, 6, 0.55);
+      background: rgba(6, 5, 4, 0.6);
+      backdrop-filter: blur(3px);
+      -webkit-backdrop-filter: blur(3px);
       z-index: 15;
     }
-    .panel-wrap.open { display: block; }
+    .panel-wrap.open { display: block; animation: fadeIn .2s var(--ease); }
     .panel {
       position: absolute;
-      top: 56px;
-      right: 16px;
+      top: 64px;
+      right: 20px;
       width: min(360px, calc(100vw - 32px));
-      max-height: calc(100vh - 80px);
+      max-height: calc(100vh - 96px);
       overflow: auto;
-      background: #1a1814;
-      border: 1px solid #3a342c;
-      padding: 16px 18px 18px;
+      background: var(--bg-panel);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px 22px;
+      box-shadow: 0 24px 60px rgba(0, 0, 0, 0.5);
+      animation: slideIn .25s var(--ease);
     }
-    .panel h2 { margin: 0 0 8px; font-size: 1rem; font-weight: normal; }
-    .panel h3 { margin: 14px 0 8px; font-size: 0.85rem; color: #8a7f70; font-weight: normal; }
-    .panel label { display: block; margin: 0 0 6px; cursor: pointer; }
-    .panel .row { display: flex; gap: 8px; margin-top: 14px; }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes slideIn { from { opacity: 0; transform: translateY(-8px); } to { opacity: 1; transform: translateY(0); } }
+    .panel h2 {
+      margin: 0 0 12px;
+      font-family: var(--font-serif);
+      font-style: italic;
+      font-size: 1.15rem;
+      font-weight: 500;
+      color: var(--text);
+    }
+    .panel h3 {
+      margin: 18px 0 10px;
+      font-size: 0.7rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--accent-dim);
+      font-weight: 600;
+    }
+    .panel label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin: 0 0 8px;
+      cursor: pointer;
+      font-size: 0.82rem;
+      color: var(--text-dim);
+    }
+    .panel input[type="checkbox"] { accent-color: var(--accent); width: 14px; height: 14px; }
+    .panel .row { display: flex; gap: 10px; margin-top: 18px; }
+    .panel .row button { flex: 1; }
+    #allFilters { background: transparent; }
+    #closeFilters { border-color: var(--accent-dim); color: var(--accent); }
+
     #lightbox {
-      display: none;
       position: fixed;
       inset: 0;
-      background: rgba(8, 7, 6, 0.94);
+      background: rgba(5, 4, 3, 0.96);
       z-index: 20;
-      overflow: hidden;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity .3s var(--ease), visibility 0s linear .3s;
     }
-    #lightbox.open { display: block; }
+    #lightbox.open { opacity: 1; visibility: visible; transition: opacity .3s var(--ease); }
     #lightbox .hint {
       position: absolute;
       top: 0; left: 0; right: 0;
       text-align: center;
-      padding: 8px;
-      font-size: 0.85rem;
-      color: #b7aa94;
-      z-index: 2;
+      padding: 16px;
+      font-size: 0.72rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--text-faint);
       pointer-events: none;
     }
     #zoomStage {
@@ -165,14 +416,49 @@
       justify-content: center;
     }
     #zoomStage.dragging { cursor: grabbing; }
-    #lightboxPic {
+    #zoomStage img {
+      position: absolute;
+      inset: 0;
+      margin: auto;
       max-width: 92vw;
       max-height: 88vh;
+      width: auto;
+      height: auto;
       transform-origin: center center;
       user-select: none;
-      pointer-events: auto;
       cursor: grab;
       -webkit-user-drag: none;
+      box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 1s ease;
+    }
+    #zoomStage img.visible { opacity: 1; pointer-events: auto; }
+    .lightbox-controls {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 22px;
+      display: flex;
+      justify-content: center;
+      z-index: 5;
+    }
+    .lightbox-controls button {
+      background: rgba(23, 19, 15, 0.7);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+    }
+
+    @media (max-width: 900px) {
+      header { padding: 12px 16px; }
+      .stage { padding: 0 12px; }
+      .stage.show-label {
+        grid-template-columns: 1fr;
+        grid-template-rows: minmax(0, 1fr) auto;
+      }
+      .stage.show-label .frame { grid-column: 1; grid-row: 1; }
+      .stage.show-label .plaque { grid-column: 1; grid-row: 2; max-height: 34vh; }
+      .panel { top: 56px; right: 10px; left: 10px; width: auto; }
     }
   </style>
 </head>
@@ -184,8 +470,7 @@
       <a href="about.html">About</a>
     </nav>
     <div class="filters">
-      <label>
-        School
+      <label>School
         <select id="school">
           <option value="all">All</option>
           <option value="flemish">Flemish</option>
@@ -193,10 +478,33 @@
           <option value="french">French</option>
           <option value="spanish">Spanish</option>
           <option value="italian">Italian</option>
+          <option value="british">British</option>
+          <option value="australian">Australian</option>
+          <option value="american">American</option>
+          <option value="german">German</option>
+          <option value="russian">Russian</option>
+          <option value="swiss">Swiss</option>
+          <option value="scandinavian">Scandinavian</option>
+          <option value="greek">Greek</option>
+          <option value="portuguese">Portuguese</option>
+          <option value="polish">Polish</option>
+          <option value="irish">Irish</option>
+          <option value="scottish">Scottish</option>
+          <option value="europe">Europe</option>
+          <option value="chinese">Chinese</option>
+          <option value="japanese">Japanese</option>
+          <option value="austrian">Austrian</option>
+          <option value="indian">Indian</option>
+          <option value="norwegian">Norwegian</option>
+          <option value="mexican">Mexican</option>
+          <option value="ottoman">Ottoman</option>
+          <option value="belgian">Belgian</option>
+          <option value="colombian">Colombian</option>
+          <option value="peruvian">Peruvian</option>
+          <option value="ecuadorian">Ecuadorian</option>
         </select>
       </label>
-      <label>
-        Genre
+      <label>Genre
         <select id="genre">
           <option value="all">All</option>
           <option value="portrait">Portrait</option>
@@ -207,6 +515,11 @@
           <option value="religious">Religious</option>
           <option value="mythological">Mythological</option>
           <option value="genre-scene">Genre scene</option>
+          <option value="animal">Animals</option>
+          <option value="marine">Marine</option>
+          <option value="cityscape">Cityscape</option>
+          <option value="interior">Interior</option>
+          <option value="allegory">Allegory</option>
           <option value="other">Other / unknown</option>
         </select>
       </label>
@@ -232,9 +545,21 @@
     <button id="next">Next</button>
     <button id="labelBtn">Label</button>
   </div>
-  <div class="admin" id="admin">
+  <div class="year-bar" id="yearBar">
+    <span id="yearFromLabel">1400</span>
+    <div class="range-wrap">
+      <input id="yearFrom" type="range" min="1400" max="1900" value="1400">
+      <input id="yearTo" type="range" min="1400" max="1900" value="1900">
+    </div>
+    <span id="yearToLabel">1900</span>
+    <button id="yearReset" type="button">All years</button>
+  </div>
+  <div class="admin">
     <textarea id="editor" placeholder="Label text for this work"></textarea>
     <button id="boldBtn">Bold</button>
+    <button id="italicBtn">Italic</button>
+    <label>Genre <select id="adminGenre"></select></label>
+    <button id="saveGenreBtn">Save genre</button>
     <button id="saveTextBtn">Save text</button>
     <label>Font
       <select id="fontSelect">
@@ -244,18 +569,14 @@
         <option value='Arial, Helvetica, sans-serif'>Arial</option>
       </select>
     </label>
-    <label>Size
-      <input id="sizeInput" type="number" min="10" max="28" step="1" value="15">
-    </label>
-    <label>Spacing
-      <input id="leadInput" type="number" min="1.1" max="2" step="0.05" value="1.45">
-    </label>
+    <label>Size <input id="sizeInput" type="number" min="10" max="28" step="1" value="15"></label>
+    <label>Spacing <input id="leadInput" type="number" min="1.1" max="2" step="0.05" value="1.45"></label>
     <button id="saveStyleBtn">Save look</button>
     <button id="removeBtn">Remove from cabinet</button>
     <span id="adminStatus"></span>
   </div>
   <div class="panel-wrap" id="panelWrap">
-    <div class="panel" id="panel">
+    <div class="panel">
       <h2>Filters</h2>
       <h3>Schools</h3>
       <div id="schoolBoxes"></div>
@@ -270,43 +591,48 @@
   <div id="lightbox">
     <div class="hint">Scroll to zoom · drag to move · click the dark edge or Esc to close</div>
     <div id="zoomStage">
-      <img id="lightboxPic" alt="Full painting" draggable="false">
+      <img id="lightboxPicA" alt="Full painting" draggable="false">
+      <img id="lightboxPicB" alt="Full painting" draggable="false">
+    </div>
+    <div class="lightbox-controls">
+      <button id="lightboxPlay">Pause</button>
     </div>
   </div>
 
   <script>
     const SCHOOLS = [
-      ["flemish", "Flemish"],
-      ["dutch", "Dutch"],
-      ["french", "French"],
-      ["spanish", "Spanish"],
-      ["italian", "Italian"]
+      ["flemish", "Flemish"], ["dutch", "Dutch"], ["french", "French"],
+      ["spanish", "Spanish"], ["italian", "Italian"], ["british", "British"],
+      ["australian", "Australian"], ["american", "American"], ["german", "German"],
+      ["russian", "Russian"], ["swiss", "Swiss"], ["scandinavian", "Scandinavian"],
+      ["greek", "Greek"], ["portuguese", "Portuguese"], ["polish", "Polish"],
+      ["irish", "Irish"], ["scottish", "Scottish"], ["europe", "Europe"], ["other", "Other"], ["chinese", "Chinese"],
+      ["japanese", "Japanese"],
+      ["austrian", "Austrian"],
+      ["indian", "Indian"],
+      ["norwegian", "Norwegian"],
+      ["mexican", "Mexican"],
+      ["ottoman", "Ottoman"],
+      ["belgian", "Belgian"],
+      ["colombian", "Colombian"],
+      ["peruvian", "Peruvian"],
+      ["ecuadorian", "Ecuadorian"]
     ];
     const GENRES = [
-      ["portrait", "Portrait"],
-      ["landscape", "Landscape"],
-      ["still-life", "Still life"],
-      ["history", "History"],
-      ["battle", "Battle"],
-      ["religious", "Religious"],
-      ["mythological", "Mythological"],
-      ["genre-scene", "Genre scene"],
-      ["other", "Other / unknown"]
+      ["portrait", "Portrait"], ["landscape", "Landscape"], ["still-life", "Still life"],
+      ["history", "History"], ["battle", "Battle"], ["religious", "Religious"],
+      ["mythological", "Mythological"], ["genre-scene", "Genre scene"],
+      ["animal", "Animals"], ["marine", "Marine"], ["cityscape", "Cityscape"],
+      ["interior", "Interior"], ["allegory", "Allegory"], ["other", "Other / unknown"]
     ];
 
-    let works = [];
-    let plaques = {};
-    let filtered = [];
-    let index = 0;
-    let timer = null;
-    let playing = true;
-    let showLabel = false;
-    let showingA = true;
+    let works = [], plaques = {}, filtered = [], index = 0, timer = null;
+    let playing = true, showLabel = false, showingA = true;
     const isAdmin = new URLSearchParams(location.search).get("admin") === "1";
     let selectedSchools = SCHOOLS.map(function (row) { return row[0]; });
     let selectedGenres = GENRES.map(function (row) { return row[0]; });
-
     let zoom = 1, panX = 0, panY = 0, dragging = false, didDrag = false, dragStartX = 0, dragStartY = 0;
+    let yearMin = 1400, yearMax = 1900, dateFilterOn = false;
 
     const pictureA = document.getElementById("pictureA");
     const pictureB = document.getElementById("pictureB");
@@ -324,16 +650,31 @@
     const leadInput = document.getElementById("leadInput");
     const lightbox = document.getElementById("lightbox");
     const zoomStage = document.getElementById("zoomStage");
-    const lightboxPic = document.getElementById("lightboxPic");
+    const lightboxPicA = document.getElementById("lightboxPicA");
+    const lightboxPicB = document.getElementById("lightboxPicB");
+    let lightboxCurrent = lightboxPicA;
+    const lightboxPlay = document.getElementById("lightboxPlay");
     const panelWrap = document.getElementById("panelWrap");
     const schoolBoxes = document.getElementById("schoolBoxes");
     const genreBoxes = document.getElementById("genreBoxes");
     const filterBtn = document.getElementById("filterBtn");
+    const yearFrom = document.getElementById("yearFrom");
+    const yearTo = document.getElementById("yearTo");
+    const yearFromLabel = document.getElementById("yearFromLabel");
+    const yearToLabel = document.getElementById("yearToLabel");
     const school = document.getElementById("school");
     const genre = document.getElementById("genre");
+    const adminGenre = document.getElementById("adminGenre");
 
     if (isAdmin) document.body.classList.add("is-admin");
-    lightboxPic.addEventListener("dragstart", function (event) { event.preventDefault(); });
+    lightboxPicA.addEventListener("dragstart", function (event) { event.preventDefault(); });
+    lightboxPicB.addEventListener("dragstart", function (event) { event.preventDefault(); });
+    GENRES.forEach(function (row) {
+      const opt = document.createElement("option");
+      opt.value = row[0];
+      opt.textContent = row[1];
+      adminGenre.appendChild(opt);
+    });
 
     function workId(work) { return (work.wiki || "").split("/").pop(); }
     function currentWork() { return filtered[index]; }
@@ -353,13 +694,50 @@
     function artistWiki(name) {
       return "https://en.wikipedia.org/wiki/" + encodeURIComponent(name).replace(/%20/g, "_");
     }
+    function artistPage(work) {
+      return "artist.html?name=" + encodeURIComponent(work.artist_name || "") +
+        "&school=" + encodeURIComponent(work.school || "");
+    }
     function schoolCount(key) {
       return works.filter(function (work) { return work.school === key; }).length;
     }
     function genreCount(key) {
-      return works.filter(function (work) { return work.genre === key; }).length;
+      return works.filter(function (work) {
+        return selectedSchools.indexOf(work.school) !== -1 && work.genre === key;
+      }).length;
     }
-
+    function selectedSchoolTotal() {
+      return works.filter(function (work) {
+        return selectedSchools.indexOf(work.school) !== -1;
+      }).length;
+    }
+    function workYear(work) {
+      const text = String(work.date || "");
+      const four = text.match(/\b(1[2-9]\d{2})\b/);
+      if (four) return parseInt(four[1], 10);
+      const century = text.match(/\b(1[2-9])th/);
+      if (century) return parseInt(century[1], 10) * 100;
+      return null;
+    }
+    function setupYearBar() {
+      let minY = null;
+      let maxY = null;
+      for (let i = 0; i < works.length; i++) {
+        const y = workYear(works[i]);
+        if (!y) continue;
+        if (minY === null || y < minY) minY = y;
+        if (maxY === null || y > maxY) maxY = y;
+      }
+      if (minY === null) return;
+      yearMin = minY;
+      yearMax = maxY;
+      yearFrom.min = yearTo.min = yearMin;
+      yearFrom.max = yearTo.max = yearMax;
+      yearFrom.value = yearMin;
+      yearTo.value = yearMax;
+      yearFromLabel.textContent = yearMin;
+      yearToLabel.textContent = yearMax;
+    }
     function loadPrefs() {
       try {
         const raw = JSON.parse(localStorage.getItem("cabinetFilters") || "{}");
@@ -373,7 +751,6 @@
         genres: selectedGenres
       }));
     }
-
     function drawBoxes() {
       schoolBoxes.innerHTML = "";
       SCHOOLS.forEach(function (row) {
@@ -392,7 +769,6 @@
         genreBoxes.appendChild(label);
       });
     }
-
     function syncDropdowns() {
       school.value = selectedSchools.length === 1 ? selectedSchools[0] : "all";
       genre.value = selectedGenres.length === 1 ? selectedGenres[0] : "all";
@@ -402,18 +778,25 @@
         const row = SCHOOLS.filter(function (item) { return item[0] === key; })[0];
         school.options[i].text = (row ? row[1] : key) + " (" + schoolCount(key) + ")";
       }
-      genre.options[0].text = "All (" + works.length + ")";
+      genre.options[0].text = "All (" + selectedSchoolTotal() + ")";
       for (let i = 1; i < genre.options.length; i++) {
         const key = genre.options[i].value;
         const row = GENRES.filter(function (item) { return item[0] === key; })[0];
         genre.options[i].text = (row ? row[1] : key) + " (" + genreCount(key) + ")";
       }
     }
-
     function applyFilter() {
+      const from = parseInt(yearFrom.value, 10);
+      const to = parseInt(yearTo.value, 10);
+      const lo = Math.min(from, to);
+      const hi = Math.max(from, to);
+      dateFilterOn = !(lo === yearMin && hi === yearMax);
       filtered = works.filter(function (work) {
-        return selectedSchools.indexOf(work.school) !== -1 &&
-               selectedGenres.indexOf(work.genre) !== -1;
+        if (selectedSchools.indexOf(work.school) === -1) return false;
+        if (selectedGenres.indexOf(work.genre) === -1) return false;
+        if (!dateFilterOn) return true;
+        const y = workYear(work);
+        return y !== null && y >= lo && y <= hi;
       });
       shuffle(filtered);
       showingA = true;
@@ -427,7 +810,6 @@
       }
       syncDropdowns();
     }
-
     function readBoxes() {
       selectedSchools = Array.prototype.map.call(
         schoolBoxes.querySelectorAll("input:checked"),
@@ -442,7 +824,6 @@
       savePrefs();
       applyFilter();
     }
-
     function applyStyle() {
       document.documentElement.style.setProperty("--label-font", fontSelect.value);
       document.documentElement.style.setProperty("--label-size", sizeInput.value + "px");
@@ -454,7 +835,9 @@
         return;
       }
       const escaped = text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-      plaque.innerHTML = escaped.replace(/&lt;b&gt;/g, "<b>").replace(/&lt;\/b&gt;/g, "</b>");
+      plaque.innerHTML = escaped
+        .replace(/&lt;b&gt;/g, "<b>").replace(/&lt;\/b&gt;/g, "</b>")
+        .replace(/&lt;i&gt;/g, "<i>").replace(/&lt;\/i&gt;/g, "</i>");
     }
     function renderPlaque(work) {
       const text = plaques[workId(work)] || "";
@@ -469,13 +852,18 @@
       const genreName = prettyGenre(work.genre);
       if (schoolName) extras.push(schoolName);
       if (genreName) extras.push(genreName);
-      meta.innerHTML =
-        "<a href='" + artistWiki(work.artist_name) + "' target='_blank' rel='noopener'>" +
-        work.artist_name + "</a>" + (extras.length ? " · " + extras.join(" · ") : "");
+      meta.textContent = "";
+      const artistLink = document.createElement("a");
+      artistLink.href = artistPage(work);
+      artistLink.target = "_blank";
+      artistLink.rel = "noopener";
+      artistLink.textContent = work.artist_name;
+      meta.appendChild(artistLink);
+      if (extras.length) meta.appendChild(document.createTextNode(" · " + extras.join(" · ")));
       more.href = work.wiki;
       renderPlaque(work);
+      if (isAdmin) adminGenre.value = work.genre || "other";
     }
-
     function show(i) {
       if (!filtered.length) return;
       index = (i + filtered.length) % filtered.length;
@@ -485,11 +873,18 @@
       function reveal() {
         incoming.onload = null;
         incoming.onerror = null;
+        const wide = incoming.naturalWidth || 0;
+        const high = incoming.naturalHeight || 0;
+        if (wide && high && Math.max(wide, high) < 1000) {
+          next();
+          return;
+        }
         incoming.classList.add("visible");
         outgoing.classList.remove("visible");
         incoming.alt = work.title;
         setCaption(work);
         showingA = !showingA;
+        if (lightbox.classList.contains("open")) crossfadeLightbox(work);
       }
       incoming.onload = reveal;
       incoming.onerror = reveal;
@@ -525,29 +920,72 @@
       timer = setInterval(next, 8000);
       playing = true;
       playBtn.textContent = "Pause";
+      lightboxPlay.textContent = "Pause";
     }
     function stop() {
       clearInterval(timer);
       playing = false;
       playBtn.textContent = "Play";
+      lightboxPlay.textContent = "Play";
     }
-
     function applyZoom() {
-      lightboxPic.style.transform = "translate(" + panX + "px, " + panY + "px) scale(" + zoom + ")";
+      lightboxCurrent.style.transform = "translate(" + panX + "px, " + panY + "px) scale(" + zoom + ")";
+    }
+    function resetLightboxImages() {
+      [lightboxPicA, lightboxPicB].forEach(function (pic) {
+        pic.onload = null;
+        pic.onerror = null;
+        pic.style.transition = "none";
+        pic.classList.remove("visible");
+        pic.style.transform = "";
+        pic.removeAttribute("src");
+        void pic.offsetWidth;
+        pic.style.transition = "";
+      });
+    }
+    function crossfadeLightbox(work) {
+      const outgoing = lightboxCurrent;
+      const incoming = outgoing === lightboxPicA ? lightboxPicB : lightboxPicA;
+      let done = false;
+      function go() {
+        if (done) return;
+        done = true;
+        incoming.onload = null;
+        incoming.onerror = null;
+        zoom = 1; panX = 0; panY = 0;
+        lightboxCurrent = incoming;
+        applyZoom();
+        incoming.classList.add("visible");
+        outgoing.classList.remove("visible");
+      }
+      incoming.style.transform = "";
+      incoming.alt = work.title;
+      incoming.onload = go;
+      incoming.onerror = go;
+      const url = fullImage(work.image);
+      if (incoming.getAttribute("src") === url && incoming.complete) go();
+      else incoming.src = url;
     }
     function openZoom() {
       const work = currentWork();
       if (!work) return;
       stop();
       zoom = 1; panX = 0; panY = 0; didDrag = false;
+      resetLightboxImages();
+      lightboxCurrent = lightboxPicA;
       applyZoom();
-      lightboxPic.src = fullImage(work.image);
-      lightboxPic.alt = work.title;
+      lightboxPicA.style.transition = "none";
+      lightboxPicA.classList.add("visible");
+      void lightboxPicA.offsetWidth;
+      lightboxPicA.style.transition = "";
+      lightboxPicA.src = fullImage(work.image);
+      lightboxPicA.alt = work.title;
       lightbox.classList.add("open");
+      lightboxPlay.textContent = playing ? "Pause" : "Play";
     }
     function closeZoom() {
       lightbox.classList.remove("open");
-      lightboxPic.removeAttribute("src");
+      resetLightboxImages();
       zoom = 1; panX = 0; panY = 0;
     }
 
@@ -555,6 +993,7 @@
     pictureB.onclick = openZoom;
     zoomStage.addEventListener("wheel", function (event) {
       event.preventDefault();
+      if (playing) stop();
       zoom = Math.min(6, Math.max(1, event.deltaY < 0 ? zoom * 1.12 : zoom / 1.12));
       if (zoom === 1) { panX = 0; panY = 0; }
       applyZoom();
@@ -584,10 +1023,7 @@
       if (event.target === zoomStage) closeZoom();
     });
 
-    filterBtn.onclick = function () {
-      drawBoxes();
-      panelWrap.classList.add("open");
-    };
+    filterBtn.onclick = function () { drawBoxes(); panelWrap.classList.add("open"); };
     document.getElementById("closeFilters").onclick = function () {
       readBoxes();
       panelWrap.classList.remove("open");
@@ -608,25 +1044,36 @@
     schoolBoxes.addEventListener("change", readBoxes);
     genreBoxes.addEventListener("change", readBoxes);
     school.onchange = function () {
-      selectedSchools = school.value === "all"
-        ? SCHOOLS.map(function (row) { return row[0]; })
-        : [school.value];
+      selectedSchools = school.value === "all" ? SCHOOLS.map(function (row) { return row[0]; }) : [school.value];
       savePrefs();
       drawBoxes();
       applyFilter();
     };
     genre.onchange = function () {
-      selectedGenres = genre.value === "all"
-        ? GENRES.map(function (row) { return row[0]; })
-        : [genre.value];
+      selectedGenres = genre.value === "all" ? GENRES.map(function (row) { return row[0]; }) : [genre.value];
       savePrefs();
       drawBoxes();
+      applyFilter();
+    };
+    function paintYearLabels() {
+      yearFromLabel.textContent = yearFrom.value;
+      yearToLabel.textContent = yearTo.value;
+    }
+    yearFrom.oninput = paintYearLabels;
+    yearTo.oninput = paintYearLabels;
+    yearFrom.onchange = applyFilter;
+    yearTo.onchange = applyFilter;
+    document.getElementById("yearReset").onclick = function () {
+      yearFrom.value = yearMin;
+      yearTo.value = yearMax;
+      paintYearLabels();
       applyFilter();
     };
 
     document.getElementById("next").onclick = function () { next(); if (playing) start(); };
     document.getElementById("prev").onclick = function () { prev(); if (playing) start(); };
     playBtn.onclick = function () { if (playing) stop(); else start(); };
+    lightboxPlay.onclick = function (event) { event.stopPropagation(); playBtn.onclick(); };
     labelBtn.onclick = function () {
       showLabel = !showLabel;
       stage.classList.toggle("show-label", showLabel);
@@ -636,9 +1083,8 @@
       if (event.key === "Escape" && lightbox.classList.contains("open")) { closeZoom(); return; }
       if (event.key === "Escape") panelWrap.classList.remove("open");
       if (event.target === editor) return;
-      if (lightbox.classList.contains("open")) return;
-      if (event.key === "ArrowRight") next();
-      if (event.key === "ArrowLeft") prev();
+      if (event.key === "ArrowRight") { next(); if (playing) start(); }
+      if (event.key === "ArrowLeft") { prev(); if (playing) start(); }
       if (event.key === " ") { event.preventDefault(); playBtn.click(); }
     });
 
@@ -647,10 +1093,14 @@
     sizeInput.oninput = applyStyle;
     leadInput.oninput = applyStyle;
     document.getElementById("boldBtn").onclick = function () {
-      const start = editor.selectionStart;
-      const end = editor.selectionEnd;
-      const selected = editor.value.slice(start, end) || "bold";
-      editor.setRangeText("<b>" + selected + "</b>", start, end, "end");
+      const start = editor.selectionStart, end = editor.selectionEnd;
+      editor.setRangeText("<b>" + (editor.value.slice(start, end) || "bold") + "</b>", start, end, "end");
+      setPlaqueHtml(editor.value);
+      editor.focus();
+    };
+    document.getElementById("italicBtn").onclick = function () {
+      const start = editor.selectionStart, end = editor.selectionEnd;
+      editor.setRangeText("<i>" + (editor.value.slice(start, end) || "italic") + "</i>", start, end, "end");
       setPlaqueHtml(editor.value);
       editor.focus();
     };
@@ -665,6 +1115,25 @@
         if (data.ok) { plaques[workId(work)] = editor.value; adminStatus.textContent = "Text saved"; }
         else adminStatus.textContent = data.error || "Save failed";
       }).catch(function () { adminStatus.textContent = "Save failed"; });
+    };
+    document.getElementById("saveGenreBtn").onclick = function () {
+      const work = currentWork();
+      if (!work) return;
+      const nextGenre = adminGenre.value;
+      fetch("/api/set-genre", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ wiki: work.wiki, genre: nextGenre })
+      }).then(function (r) { return r.json(); }).then(function (data) {
+        if (!data.ok) { adminStatus.textContent = data.error || "Genre save failed"; return; }
+        work.genre = nextGenre;
+        works.forEach(function (item) {
+          if (item.wiki === work.wiki) item.genre = nextGenre;
+        });
+        drawBoxes();
+        setCaption(work);
+        adminStatus.textContent = "Genre saved";
+      }).catch(function () { adminStatus.textContent = "Genre save failed"; });
     };
     document.getElementById("saveStyleBtn").onclick = function () {
       fetch("/api/label-style", {
@@ -709,6 +1178,7 @@
       if (style.fontSize) sizeInput.value = style.fontSize;
       if (style.lineHeight) leadInput.value = style.lineHeight;
       applyStyle();
+      setupYearBar();
       drawBoxes();
       applyFilter();
       start();

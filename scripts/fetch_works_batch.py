@@ -13,9 +13,9 @@ ARTISTS_PATH = ROOT / "data" / "artists.json"
 WORKS_PATH = ROOT / "data" / "works.json"
 REJECTED_PATH = ROOT / "data" / "rejected.json"
 
-OFFSET = 5197
-BATCH_SIZE = 15000
-LIMIT_EACH = 40
+OFFSET = 6824
+BATCH_SIZE = 19000
+LIMIT_EACH = 300
 
 SKIP_WORDS = (
     "black and white", "black-and-white", "b&w", "b-w",
@@ -153,6 +153,9 @@ for artist in batch:
         found = fetch_artist(artist)
         print(f"    {len(found)} works")
         for work in found:
+            old = by_id.get(work["wiki"])
+            if old and old.get("genre") not in (None, "", "other"):
+                work["genre"] = old["genre"]
             by_id[work["wiki"]] = work
         save(by_id)
         print(f"    saved {len(by_id)} total")

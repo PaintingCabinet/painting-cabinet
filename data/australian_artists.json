@@ -1,0 +1,1138 @@
+{
+  "artists": [
+    {
+      "id": "Q108779654",
+      "name": "Alfred Clint (Australian painter)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q108779654"
+    },
+    {
+      "id": "Q4722938",
+      "name": "Alfred James Daplyn",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q4722938"
+    },
+    {
+      "id": "Q19871624",
+      "name": "Alfred Scott Broad",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19871624"
+    },
+    {
+      "id": "Q4799715",
+      "name": "Arthur Merric Boyd",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q4799715"
+    },
+    {
+      "id": "Q663092",
+      "name": "Augustus Earle",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q663092"
+    },
+    {
+      "id": "Q4888497",
+      "name": "Benjamin Duterrau",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q4888497"
+    },
+    {
+      "id": "Q1284465",
+      "name": "Charles Conder",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q1284465"
+    },
+    {
+      "id": "Q5232849",
+      "name": "David Davies (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5232849"
+    },
+    {
+      "id": "Q5338520",
+      "name": "Edith Corbet",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5338520"
+    },
+    {
+      "id": "Q16614600",
+      "name": "Edith Susan Boyd",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q16614600"
+    },
+    {
+      "id": "Q19667199",
+      "name": "Edward Davies (architect)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19667199"
+    },
+    {
+      "id": "Q125840279",
+      "name": "Edwin Dalton (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q125840279"
+    },
+    {
+      "id": "Q133015198",
+      "name": "Eliza Blyth",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q133015198"
+    },
+    {
+      "id": "Q5541062",
+      "name": "George James Coates",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5541062"
+    },
+    {
+      "id": "Q17309070",
+      "name": "Giulio Anivitti",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q17309070"
+    },
+    {
+      "id": "Q5591652",
+      "name": "Gracius Broinowski",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5591652"
+    },
+    {
+      "id": "Q6128902",
+      "name": "James Ashton (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6128902"
+    },
+    {
+      "id": "Q100905873",
+      "name": "James Hazel Adamson",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q100905873"
+    },
+    {
+      "id": "Q22277068",
+      "name": "James Hesketh Biggs",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q22277068"
+    },
+    {
+      "id": "Q6136316",
+      "name": "James Howe Carse",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6136316"
+    },
+    {
+      "id": "Q20856277",
+      "name": "James Waltham Curtis",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q20856277"
+    },
+    {
+      "id": "Q16066062",
+      "name": "Jane Cannan",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q16066062"
+    },
+    {
+      "id": "Q16153246",
+      "name": "Joseph Backler",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q16153246"
+    },
+    {
+      "id": "Q6306955",
+      "name": "Julian Ashton",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6306955"
+    },
+    {
+      "id": "Q1858653",
+      "name": "Knud Bull",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q1858653"
+    },
+    {
+      "id": "Q56072976",
+      "name": "Louis Abrahams (art patron)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q56072976"
+    },
+    {
+      "id": "Q3030006",
+      "name": "Louis Buvelot",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q3030006"
+    },
+    {
+      "id": "Q6688489",
+      "name": "Louisa Atkinson",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6688489"
+    },
+    {
+      "id": "Q50437792",
+      "name": "Martha Berkeley",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q50437792"
+    },
+    {
+      "id": "Q6914817",
+      "name": "Morton Allport",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6914817"
+    },
+    {
+      "id": "Q7004713",
+      "name": "Neville Henry Cayley",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q7004713"
+    },
+    {
+      "id": "Q7025198",
+      "name": "Nicholas Chevalier",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q7025198"
+    },
+    {
+      "id": "Q81002874",
+      "name": "R. Sidney Cocks",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q81002874"
+    },
+    {
+      "id": "Q22094698",
+      "name": "Robert Burnard (painter)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q22094698"
+    },
+    {
+      "id": "Q7345324",
+      "name": "Robert Hawker Dowling",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q7345324"
+    },
+    {
+      "id": "Q3056806",
+      "name": "Rupert Bunny",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q3056806"
+    },
+    {
+      "id": "Q7516901",
+      "name": "Silvester Diggles",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q7516901"
+    },
+    {
+      "id": "Q126942314",
+      "name": "Thomas Tyrwhitt Balcombe",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q126942314"
+    },
+    {
+      "id": "Q28709753",
+      "name": "Walter Armiger Bowring",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q28709753"
+    },
+    {
+      "id": "Q16066312",
+      "name": "William Duke (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q16066312"
+    },
+    {
+      "id": "Q108779668",
+      "name": "A. C. Habbe",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q108779668"
+    },
+    {
+      "id": "Q4681705",
+      "name": "Adelaide Ironside",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q4681705"
+    },
+    {
+      "id": "Q4693045",
+      "name": "Agnes Goodsir",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q4693045"
+    },
+    {
+      "id": "Q4710452",
+      "name": "Albert Henry Fullwood",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q4710452"
+    },
+    {
+      "id": "Q4710535",
+      "name": "Albert J. Hanson",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q4710535"
+    },
+    {
+      "id": "Q19662764",
+      "name": "Allan C. Glover",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19662764"
+    },
+    {
+      "id": "Q19664511",
+      "name": "C. Harrie Gooden",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19664511"
+    },
+    {
+      "id": "Q19874196",
+      "name": "Charles Hill (painter)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19874196"
+    },
+    {
+      "id": "Q5321831",
+      "name": "E. E. Gostelow",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5321831"
+    },
+    {
+      "id": "Q2379882",
+      "name": "E. Phillips Fox",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q2379882"
+    },
+    {
+      "id": "Q19793450",
+      "name": "Edmund Gouldsmith",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19793450"
+    },
+    {
+      "id": "Q107106409",
+      "name": "Edmund Walpole Brooke",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q107106409"
+    },
+    {
+      "id": "Q507521",
+      "name": "Eugene von Guerard",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q507521"
+    },
+    {
+      "id": "Q15401514",
+      "name": "Florence Fuller",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q15401514"
+    },
+    {
+      "id": "Q21537867",
+      "name": "Frederick Garling Jr.",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q21537867"
+    },
+    {
+      "id": "Q81100274",
+      "name": "Gerald Fitzgerald (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q81100274"
+    },
+    {
+      "id": "Q108556482",
+      "name": "Gladstone Eyre",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q108556482"
+    },
+    {
+      "id": "Q19668571",
+      "name": "Harry Glover (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19668571"
+    },
+    {
+      "id": "Q16031020",
+      "name": "Haughton Forrest",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q16031020"
+    },
+    {
+      "id": "Q51583981",
+      "name": "Henrietta Maria Gulliver",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q51583981"
+    },
+    {
+      "id": "Q19668722",
+      "name": "Henry H. Glover",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19668722"
+    },
+    {
+      "id": "Q21460090",
+      "name": "John Alexander Gilfillan",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q21460090"
+    },
+    {
+      "id": "Q6232132",
+      "name": "John Eyre (painter)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6232132"
+    },
+    {
+      "id": "Q3181600",
+      "name": "John Glover (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q3181600"
+    },
+    {
+      "id": "Q24250302",
+      "name": "John Hennings",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q24250302"
+    },
+    {
+      "id": "Q43132158",
+      "name": "John Llewellyn Jones",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q43132158"
+    },
+    {
+      "id": "Q654756",
+      "name": "John Longstaff",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q654756"
+    },
+    {
+      "id": "Q21535900",
+      "name": "Joseph Fowles",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q21535900"
+    },
+    {
+      "id": "Q15461047",
+      "name": "Lindsay Bernard Hall",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q15461047"
+    },
+    {
+      "id": "Q3265543",
+      "name": "Lucien Henry",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q3265543"
+    },
+    {
+      "id": "Q100561559",
+      "name": "Madeline Lewellin",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q100561559"
+    },
+    {
+      "id": "Q6759412",
+      "name": "Margaret Flockton",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6759412"
+    },
+    {
+      "id": "Q6759420",
+      "name": "Margaret Forrest",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6759420"
+    },
+    {
+      "id": "Q98915764",
+      "name": "Mary Gedye",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q98915764"
+    },
+    {
+      "id": "Q19666150",
+      "name": "Oscar Fristrom",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19666150"
+    },
+    {
+      "id": "Q21537647",
+      "name": "Rosa Fiveash",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q21537647"
+    },
+    {
+      "id": "Q7387938",
+      "name": "S. T. Gill",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q7387938"
+    },
+    {
+      "id": "Q21996070",
+      "name": "Tom Humphrey (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q21996070"
+    },
+    {
+      "id": "Q100724243",
+      "name": "W. K. Gold",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q100724243"
+    },
+    {
+      "id": "Q2579743",
+      "name": "W. Lister Lister",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q2579743"
+    },
+    {
+      "id": "Q21535475",
+      "name": "Alice Jane Muskett",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q21535475"
+    },
+    {
+      "id": "Q19875339",
+      "name": "Andrew MacCormac",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19875339"
+    },
+    {
+      "id": "Q17627008",
+      "name": "Augustus Baker Peirce",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q17627008"
+    },
+    {
+      "id": "Q4888507",
+      "name": "Benjamin Edwin Minns",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q4888507"
+    },
+    {
+      "id": "Q51586444",
+      "name": "Bertha Merfield",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q51586444"
+    },
+    {
+      "id": "Q1126926",
+      "name": "Conrad Martens",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q1126926"
+    },
+    {
+      "id": "Q5297435",
+      "name": "Dora Meeson",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5297435"
+    },
+    {
+      "id": "Q20903202",
+      "name": "Dora Serle",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q20903202"
+    },
+    {
+      "id": "Q5344474",
+      "name": "Edward Minchen",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5344474"
+    },
+    {
+      "id": "Q5365986",
+      "name": "Ellis Rowan",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5365986"
+    },
+    {
+      "id": "Q5488845",
+      "name": "Frank P. Mahony",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5488845"
+    },
+    {
+      "id": "Q965809",
+      "name": "Frederick McCubbin",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q965809"
+    },
+    {
+      "id": "Q19665860",
+      "name": "G. A. Reynolds",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19665860"
+    },
+    {
+      "id": "Q43135084",
+      "name": "George Edwards Peacock",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q43135084"
+    },
+    {
+      "id": "Q5542958",
+      "name": "George O'Brien (painter)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5542958"
+    },
+    {
+      "id": "Q5543457",
+      "name": "George Pitt Morison",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5543457"
+    },
+    {
+      "id": "Q1509334",
+      "name": "Georgiana McCrae",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q1509334"
+    },
+    {
+      "id": "Q5587848",
+      "name": "Gother Victor Fyers Mann",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5587848"
+    },
+    {
+      "id": "Q105622849",
+      "name": "Herbert Edward Powell",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q105622849"
+    },
+    {
+      "id": "Q16856738",
+      "name": "Iso Rae",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q16856738"
+    },
+    {
+      "id": "Q6141185",
+      "name": "James Peter Quinn",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6141185"
+    },
+    {
+      "id": "Q6143028",
+      "name": "James Shaw (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6143028"
+    },
+    {
+      "id": "Q21289182",
+      "name": "Jan Hendrik Scheltema",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q21289182"
+    },
+    {
+      "id": "Q19875401",
+      "name": "John Baxter Mather",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19875401"
+    },
+    {
+      "id": "Q6247137",
+      "name": "John Mather (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6247137"
+    },
+    {
+      "id": "Q6254084",
+      "name": "John Radecki",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6254084"
+    },
+    {
+      "id": "Q1365633",
+      "name": "John Russell (Australian painter)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q1365633"
+    },
+    {
+      "id": "Q6258102",
+      "name": "John Skinner Prout",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6258102"
+    },
+    {
+      "id": "Q21329146",
+      "name": "Leon Pole",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q21329146"
+    },
+    {
+      "id": "Q124168318",
+      "name": "Lilla Reidy",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q124168318"
+    },
+    {
+      "id": "Q531358",
+      "name": "Louisa Anne Meredith",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q531358"
+    },
+    {
+      "id": "Q21779004",
+      "name": "Mary Meyer (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q21779004"
+    },
+    {
+      "id": "Q6904146",
+      "name": "Montague Scott",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6904146"
+    },
+    {
+      "id": "Q7117617",
+      "name": "P. W. Marony",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q7117617"
+    },
+    {
+      "id": "Q19667836",
+      "name": "R. E. Minchin",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19667836"
+    },
+    {
+      "id": "Q61040418",
+      "name": "Thomas Peerless",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q61040418"
+    },
+    {
+      "id": "Q1291901",
+      "name": "Tom Roberts",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q1291901"
+    },
+    {
+      "id": "Q8015010",
+      "name": "William Macleod",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q8015010"
+    },
+    {
+      "id": "Q8016899",
+      "name": "William Piguenit",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q8016899"
+    },
+    {
+      "id": "Q66025065",
+      "name": "Wolla Meranda",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q66025065"
+    },
+    {
+      "id": "Q4723528",
+      "name": "Alfred Tipper",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q4723528"
+    },
+    {
+      "id": "Q86620516",
+      "name": "Anna Frances Walker",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q86620516"
+    },
+    {
+      "id": "Q709280",
+      "name": "Arthur Streeton",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q709280"
+    },
+    {
+      "id": "Q4924735",
+      "name": "Blamire Young",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q4924735"
+    },
+    {
+      "id": "Q17308733",
+      "name": "Caroline Abraham",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q17308733"
+    },
+    {
+      "id": "Q64742648",
+      "name": "Catherine Wright Burcher",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q64742648"
+    },
+    {
+      "id": "Q5076806",
+      "name": "Charles Decimus Barraud",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5076806"
+    },
+    {
+      "id": "Q5126049",
+      "name": "Clara Southern",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5126049"
+    },
+    {
+      "id": "Q64755702",
+      "name": "Danforth Greenwood",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q64755702"
+    },
+    {
+      "id": "Q27924436",
+      "name": "Elizabeth Donald (painter)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q27924436"
+    },
+    {
+      "id": "Q56681762",
+      "name": "Ellen Cheeseman",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q56681762"
+    },
+    {
+      "id": "Q5372127",
+      "name": "Emily Harris (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5372127"
+    },
+    {
+      "id": "Q53876080",
+      "name": "Emma Cheeseman",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q53876080"
+    },
+    {
+      "id": "Q49094319",
+      "name": "Fanny Arden",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q49094319"
+    },
+    {
+      "id": "Q65032507",
+      "name": "Fanny Good",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q65032507"
+    },
+    {
+      "id": "Q16059932",
+      "name": "George Strafford",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q16059932"
+    },
+    {
+      "id": "Q110704990",
+      "name": "H. J. Woodhouse",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q110704990"
+    },
+    {
+      "id": "Q23612739",
+      "name": "Helen Gibson (teacher)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q23612739"
+    },
+    {
+      "id": "Q56813942",
+      "name": "Isabel Field",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q56813942"
+    },
+    {
+      "id": "Q20908794",
+      "name": "J. S. Watkins",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q20908794"
+    },
+    {
+      "id": "Q16023325",
+      "name": "J. W. Tristram",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q16023325"
+    },
+    {
+      "id": "Q6128589",
+      "name": "James Alfred Turner",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6128589"
+    },
+    {
+      "id": "Q16199033",
+      "name": "James Stuart (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q16199033"
+    },
+    {
+      "id": "Q12057765",
+      "name": "John Nugent Fitch",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q12057765"
+    },
+    {
+      "id": "Q19668796",
+      "name": "John White (South Australian painter)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19668796"
+    },
+    {
+      "id": "Q37771691",
+      "name": "Julie Vieusseux",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q37771691"
+    },
+    {
+      "id": "Q6759960",
+      "name": "Margaret Thomas",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6759960"
+    },
+    {
+      "id": "Q21536510",
+      "name": "Marie Tuck",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q21536510"
+    },
+    {
+      "id": "Q27924672",
+      "name": "Maude Burge",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q27924672"
+    },
+    {
+      "id": "Q21536713",
+      "name": "May Vale",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q21536713"
+    },
+    {
+      "id": "Q7167588",
+      "name": "Percy Spence",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q7167588"
+    },
+    {
+      "id": "Q76345877",
+      "name": "Richmond Beetham",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q76345877"
+    },
+    {
+      "id": "Q51652852",
+      "name": "Rose A. Walker",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q51652852"
+    },
+    {
+      "id": "Q24040960",
+      "name": "Sophie Steffanoni",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q24040960"
+    },
+    {
+      "id": "Q6233179",
+      "name": "Thomas Watling",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6233179"
+    },
+    {
+      "id": "Q106242386",
+      "name": "W. J. Wilson",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q106242386"
+    },
+    {
+      "id": "Q7966442",
+      "name": "Walter Withers",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q7966442"
+    },
+    {
+      "id": "Q19871133",
+      "name": "William Beetham",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19871133"
+    },
+    {
+      "id": "Q8010214",
+      "name": "William Griffin (painter)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q8010214"
+    },
+    {
+      "id": "Q1644986",
+      "name": "William Strutt (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q1644986"
+    },
+    {
+      "id": "Q57845545",
+      "name": "Annie Julia White",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q57845545"
+    },
+    {
+      "id": "Q65054793",
+      "name": "Beatrice Partridge",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q65054793"
+    },
+    {
+      "id": "Q64731332",
+      "name": "Bessie Hocken",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q64731332"
+    },
+    {
+      "id": "Q98842345",
+      "name": "Caroline Lush",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q98842345"
+    },
+    {
+      "id": "Q27924050",
+      "name": "Charles Howorth",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q27924050"
+    },
+    {
+      "id": "Q5079619",
+      "name": "Charles Rae",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5079619"
+    },
+    {
+      "id": "Q3915962",
+      "name": "Dorothy Kate Richmond",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q3915962"
+    },
+    {
+      "id": "Q5364976",
+      "name": "Ellen Jeffreys",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5364976"
+    },
+    {
+      "id": "Q27924439",
+      "name": "Ellen von Meyern",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q27924439"
+    },
+    {
+      "id": "Q38613420",
+      "name": "Emma Maria Walrond",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q38613420"
+    },
+    {
+      "id": "Q5434054",
+      "name": "Fanny Osborne",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q5434054"
+    },
+    {
+      "id": "Q1264271",
+      "name": "Frances Hodgkins",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q1264271"
+    },
+    {
+      "id": "Q141352757",
+      "name": "Frank Wright (artist)",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q141352757"
+    },
+    {
+      "id": "Q1539348",
+      "name": "Gottfried Lindauer",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q1539348"
+    },
+    {
+      "id": "Q27701608",
+      "name": "H. Bullock Webster",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q27701608"
+    },
+    {
+      "id": "Q6131984",
+      "name": "James Crowe Richmond",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6131984"
+    },
+    {
+      "id": "Q6140272",
+      "name": "James Nairn",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6140272"
+    },
+    {
+      "id": "Q6224779",
+      "name": "John Calcott St Quentin",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6224779"
+    },
+    {
+      "id": "Q125523559",
+      "name": "John Moultray",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q125523559"
+    },
+    {
+      "id": "Q64764412",
+      "name": "Kate Ogston",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q64764412"
+    },
+    {
+      "id": "Q27924104",
+      "name": "Kate Sperrey",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q27924104"
+    },
+    {
+      "id": "Q64744752",
+      "name": "Katherine McLean Holmes",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q64744752"
+    },
+    {
+      "id": "Q6721450",
+      "name": "Mabel Hill",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q6721450"
+    },
+    {
+      "id": "Q19364181",
+      "name": "Mary Young Hunter",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19364181"
+    },
+    {
+      "id": "Q63134786",
+      "name": "Nina Jones",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q63134786"
+    },
+    {
+      "id": "Q19876259",
+      "name": "Philip Robert Presants",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q19876259"
+    },
+    {
+      "id": "Q7610260",
+      "name": "Ponsonby Peacocke",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q7610260"
+    },
+    {
+      "id": "Q76017166",
+      "name": "Sophia Augusta Moore",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q76017166"
+    },
+    {
+      "id": "Q7945813",
+      "name": "W. M. Hodgkins",
+      "school": "australian",
+      "wiki": "https://www.wikidata.org/wiki/Q7945813"
+    }
+  ]
+}

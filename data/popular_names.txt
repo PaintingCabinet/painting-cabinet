@@ -1,0 +1,609 @@
+Rembrandt | dutch
+Johannes Vermeer | dutch
+Frans Hals | dutch
+Peter Paul Rubens | flemish
+Anthony van Dyck | flemish
+Jan van Eyck | flemish
+Hubert van Eyck | flemish
+Hieronymus Bosch | flemish
+Pieter Bruegel the Elder | flemish
+Pieter Brueghel the Younger | flemish
+Hans Memling | flemish
+Hugo van der Goes | flemish
+Petrus Christus | flemish
+Dirk Bouts | flemish
+Dieric Bouts | flemish
+Gerard David | flemish
+Quentin Massys | flemish
+Jan Gossaert | flemish
+Joachim Patinir | flemish
+Jan van Scorel | dutch
+Bernard van Orley | flemish
+Jan Brueghel the Elder | flemish
+Jan Brueghel the Younger | flemish
+Jacob Jordaens | flemish
+Frans Snyders | flemish
+David Teniers the Elder | flemish
+David Teniers the Younger | flemish
+Cornelis de Vos | flemish
+Gaspar de Crayer | flemish
+Theodoor Boeyermans | flemish
+Abraham van Diepenbeeck | flemish
+Jan van den Hoecke | flemish
+Thomas Willeboirts Bosschaert | flemish
+Erasmus Quellinus II | flemish
+Pieter Snayers | flemish
+Adam Frans van der Meulen | flemish
+David Teniers | flemish
+Jan Davidsz. de Heem | dutch
+Pieter Claesz | dutch
+Willem Heda | dutch
+Rachel Ruysch | dutch
+Maria van Oosterwijck | dutch
+Willem Kalf | dutch
+Abraham van Beijeren | dutch
+Willem van de Velde the Elder | dutch
+Willem van de Velde the Younger | dutch
+Ludolf Bakhuizen | dutch
+Jan Porcellis | dutch
+Jacob van Ruisdael | dutch
+Salomon van Ruysdael | dutch
+Meindert Hobbema | dutch
+Aelbert Cuyp | dutch
+Philips Koninck | dutch
+Judith Leyster | dutch
+Michiel van Mierevelt | dutch
+Bartholomeus van der Helst | dutch
+Ferdinand Bol | dutch
+Govert Flinck | dutch
+Carel Fabritius | dutch
+Nicolaes Maes | dutch
+Aert de Gelder | dutch
+Jan Lievens | dutch
+Gabriel Metsu | dutch
+Pieter de Hooch | dutch
+Gerard ter Borch | dutch
+Jan Steen | dutch
+Adriaen van Ostade | dutch
+Isaac van Ostade | dutch
+Caspar Netscher | dutch
+Philips Wouwerman | dutch
+Anton Mauve | dutch
+Johan Barthold Jongkind | dutch
+Jacob Maris | dutch
+Willem Roelofs | dutch
+George Hendrik Breitner | dutch
+Isaac Israëls | dutch
+Jozef Israëls | dutch
+Hendrik Willem Mesdag | dutch
+Willem Witsen | dutch
+Leonardo da Vinci | italian
+Michelangelo | italian
+Raphael | italian
+Titian | italian
+Giorgione | italian
+Sandro Botticelli | italian
+Giotto | italian
+Cimabue | italian
+Duccio | italian
+Pietro Cavallini | italian
+Simone Martini | italian
+Ambrogio Lorenzetti | italian
+Pietro Lorenzetti | italian
+Masaccio | italian
+Fra Angelico | italian
+Fra Filippo Lippi | italian
+Filippo Lippi | italian
+Filippino Lippi | italian
+Paolo Uccello | italian
+Domenico Veneziano | italian
+Benozzo Gozzoli | italian
+Andrea del Castagno | italian
+Piero della Francesca | italian
+Domenico Ghirlandaio | italian
+Cosimo Rosselli | italian
+Perugino | italian
+Luca Signorelli | italian
+Andrea del Sarto | italian
+Correggio | italian
+Giovanni Bellini | italian
+Gentile Bellini | italian
+Vittore Carpaccio | italian
+Cima da Conegliano | italian
+Lorenzo Lotto | italian
+Sebastiano del Piombo | italian
+Palma Vecchio | italian
+Giovanni Antonio Bazzi (Sodoma) | italian
+Dosso Dossi | italian
+Garofalo | italian
+Andrea del Brescianino | italian
+Moretto da Brescia | italian
+Romanino | italian
+Tintoretto | italian
+Paolo Veronese | italian
+Veronese | italian
+Giulio Romano | italian
+Parmigianino | italian
+Pontormo | italian
+Rosso Fiorentino | italian
+Bronzino | italian
+Jacopo Bassano | italian
+Federico Barocci | italian
+Giuseppe Arcimboldo | italian
+Alessandro Allori | italian
+Santi di Tito | italian
+Francesco Salviati | italian
+Giorgio Vasari | italian
+Pellegrino Tibaldi | italian
+Caravaggio | italian
+Artemisia Gentileschi | italian
+Annibale Carracci | italian
+Agostino Carracci | italian
+Ludovico Carracci | italian
+Guido Reni | italian
+Guercino | italian
+Domenichino | italian
+Orazio Gentileschi | italian
+Pietro da Cortona | italian
+Giovanni Lanfranco | italian
+Salvator Rosa | italian
+Mattia Preti | italian
+Luca Giordano | italian
+Carlo Maratta | italian
+Bartolomeo Manfredi | italian
+Orazio Borgianni | italian
+Valentin de Boulogne | italian
+Jacques Courtois | italian
+Nicolas Lancret | french
+Claude Lorrain | french
+Canaletto | italian
+Francesco Guardi | italian
+Bernardo Bellotto | italian
+Giovanni Battista Tiepolo | italian
+Giovanni Domenico Tiepolo | italian
+Pietro Longhi | italian
+Rosalba Carriera | italian
+Antonio Canova | italian
+Andrea Appiani | italian
+Vincenzo Camuccini | italian
+Felice Giani | italian
+Francesco Hayez | italian
+Massimo d'Azeglio | italian
+Giovanni Carnevali | italian
+Pelagio Palagi | italian
+Giovanni Fattori | italian
+Silvestro Lega | italian
+Telemaco Signorini | italian
+Giovanni Boldini | italian
+Cristiano Banti | italian
+Raffaello Sernesi | italian
+Odoardo Borrani | italian
+Giuseppe Abbati | italian
+Domenico Morelli | italian
+Antonio Mancini | italian
+Cesare Maccari | italian
+Eleuterio Pagliano | italian
+El Greco | spanish
+Diego Velázquez | spanish
+Francisco de Zurbarán | spanish
+Bartolomé Esteban Murillo | spanish
+Jusepe de Ribera | spanish
+Juan Carreño de Miranda | spanish
+Claudio Coello | spanish
+Juan Bautista Martínez del Mazo | spanish
+Alonso Cano | spanish
+Francisco Rizi | spanish
+Juan van der Hamen | spanish
+Antonio de Pereda | spanish
+Juan de Valdés Leal | spanish
+Juan Pantoja de la Cruz | spanish
+Alonso Sánchez Coello | spanish
+Diego Polo | spanish
+Juan Bautista Maíno | spanish
+Francisco Herrera the Elder | spanish
+Francisco Herrera the Younger | spanish
+Vicente López Portaña | spanish
+José de Madrazo | spanish
+Federico de Madrazo | spanish
+Mariano Fortuny | spanish
+Eduardo Rosales | spanish
+Joaquín Sorolla | spanish
+Raimundo de Madrazo | spanish
+Martín Rico | spanish
+Carlos de Haes | spanish
+José Casado del Alisal | spanish
+Antonio Gisbert | spanish
+Francisco Pradilla | spanish
+Emilio Sala | spanish
+José Benlliure | spanish
+Francisco Goya | spanish
+Luis Meléndez | spanish
+Luis Paret | spanish
+Saturnino Herrán | mexican
+José María Velasco | mexican
+Albrecht Dürer | german
+Hans Holbein the Elder | german
+Hans Holbein the Younger | german
+Lucas Cranach the Elder | german
+Lucas Cranach the Younger | german
+Matthias Grünewald | german
+Hans Baldung | german
+Albrecht Altdorfer | german
+Martin Schongauer | german
+Jörg Breu the Elder | german
+Hans Burgkmair | german
+Martin Schongauer | german
+Caspar David Friedrich | german
+Philipp Otto Runge | german
+Carl Blechen | german
+Adolph Menzel | german
+Wilhelm von Kaulbach | german
+Anselm Feuerbach | german
+Arnold Böcklin | swiss
+Hans Thoma | german
+Wilhelm Leibl | german
+Max Liebermann | german
+Franz von Lenbach | german
+Wilhelm Trübner | german
+Ludwig Richter | german
+Moritz von Schwind | german
+Peter von Cornelius | german
+Julius Schnorr von Carolsfeld | german
+Johann Friedrich Overbeck | german
+Friedrich Overbeck | german
+Eduard Bendemann | german
+Franz Xaver Winterhalter | german
+Carl Spitzweg | german
+Hans Makart | austrian
+Gustav Klimt | austrian
+Koloman Moser | austrian
+Carl Moll | austrian
+Joseph Maria Olbrich | austrian
+Nicolas Poussin | french
+Georges de La Tour | french
+Philippe de Champaigne | french
+Laurent de La Hyre | french
+Simon Vouet | french
+Eustache Le Sueur | french
+Charles Le Brun | french
+Hyacinthe Rigaud | french
+Nicolas de Largillière | french
+Jean-Antoine Watteau | french
+François Boucher | french
+Jean-Honoré Fragonard | french
+Jean-Baptiste Pater | french
+Jean-Baptiste-Siméon Chardin | french
+Maurice Quentin de La Tour | french
+Jean-Baptiste Greuze | french
+Jacques-Louis David | french
+Jean-Auguste-Dominique Ingres | french
+Anton Raphael Mengs | german
+Angelica Kauffman | swiss
+Gavin Hamilton | scottish
+Pompeo Batoni | italian
+Joseph-Marie Vien | french
+Jacques-Antoine Vallin | french
+François Gérard | french
+Anne-Louis Girodet | french
+Antoine-Jean Gros | french
+Jean-Baptiste Regnault | french
+Pierre-Narcisse Guérin | french
+Jean-Auguste-Dominique Ingres | french
+Eugène Delacroix | french
+Théodore Géricault | french
+Théodore Chassériau | french
+Eugène Isabey | french
+Paul Delaroche | french
+Ary Scheffer | french
+Léon Cogniet | french
+Horace Vernet | french
+Jean-Louis-Ernest Meissonier | french
+Édouard Detaille | french
+Alphonse de Neuville | french
+Gustave Courbet | french
+Jean-François Millet | french
+Honoré Daumier | french
+Rosa Bonheur | french
+Jules Breton | french
+Jules Bastien-Lepage | french
+Léon Augustin Lhermitte | french
+Jean-Baptiste-Camille Corot | french
+Théodore Rousseau | french
+Constant Troyon | french
+Narcisse Virgilio Díaz | french
+Charles-François Daubigny | french
+Henri Fantin-Latour | french
+William-Adolphe Bouguereau | french
+Alexandre Cabanel | french
+Jean-Léon Gérôme | french
+Paul Baudry | french
+Thomas Couture | french
+Jean-Paul Laurens | french
+Jules Lefebvre | french
+Émile Munier | french
+Léon Bonnat | french
+Carolus-Duran | french
+Jean-Jacques Henner | french
+Gustave Moreau | french
+Alexandre-Gabriel Decamps | french
+Eugène Fromentin | french
+Ludwig Deutsch | austrian
+Jean-Joseph Benjamin-Constant | french
+Paul Signac | french
+Émile Bernard | french
+Henri-Edmond Cross | french
+Charles Angrand | french
+Maximilien Luce | french
+Odilon Redon | french
+Maurice Denis | french
+Frédéric Bazille | french
+Armand Guillaumin | french
+Eva Gonzalès | french
+Marie Bracquemond | french
+Stanislas Lépine | french
+Claude Monet | french
+Pierre-Auguste Renoir | french
+Edgar Degas | french
+Édouard Manet | french
+Camille Pissarro | french
+Alfred Sisley | french
+Berthe Morisot | french
+Gustave Caillebotte | french
+Henri de Toulouse-Lautrec | french
+J. M. W. Turner | british
+John Constable | british
+William Hogarth | british
+Joshua Reynolds | british
+Thomas Gainsborough | british
+George Romney | british
+Allan Ramsay | british
+Benjamin West | british-american
+John Singleton Copley | american
+Joseph Wright of Derby | british
+George Stubbs | british
+Richard Wilson | british
+Nathaniel Dance-Holland | british
+Henry Raeburn | scottish
+Thomas Lawrence | british
+William Blake | british
+Samuel Palmer | british
+John Martin | british
+Dante Gabriel Rossetti | british
+John Everett Millais | british
+William Holman Hunt | british
+Edward Burne-Jones | british
+Ford Madox Brown | british
+John William Waterhouse | british
+Frederic Leighton | british
+Lawrence Alma-Tadema | british-dutch
+Evelyn De Morgan | british
+John Collier | british
+Arthur Hughes | british
+Frederick Sandys | british
+Thomas Cole | american
+Asher Durand | american
+Frederic Edwin Church | american
+Albert Bierstadt | american
+Thomas Moran | american
+Jasper Francis Cropsey | american
+Sanford Robinson Gifford | american
+Worthington Whittredge | american
+George Inness | american
+Winslow Homer | american
+Thomas Eakins | american
+Eastman Johnson | american
+William Merritt Chase | american
+Mary Cassatt | american
+Gilbert Stuart | american
+Charles Willson Peale | american
+Rembrandt Peale | american
+Thomas Sully | american
+John Trumbull | american
+Emanuel Leutze | american
+Washington Allston | american
+James McNeill Whistler | american
+John Singer Sargent | american
+Frederic Edwin Church | american
+Rupert Bunny | australian
+E. Phillips Fox | australian
+George Lambert | australian
+John Glover | australian
+Conrad Martens | australian
+Eugene von Guérard | australian
+Nicholas Chevalier | australian
+Tom Roberts | australian
+Arthur Streeton | australian
+Charles Conder | australian
+Frederick McCubbin | australian
+Hans Heysen | australian
+Walter Withers | australian
+Ilya Repin | russian
+Ivan Aivazovsky | russian
+Vasily Surikov | russian
+Ivan Shishkin | russian
+Isaac Levitan | russian
+Vasily Vereshchagin | russian
+Vasily Perov | russian
+Ivan Kramskoi | russian
+Nikolai Ge | russian
+Arkhip Kuindzhi | russian
+Vasily Polenov | russian
+Nikolai Yaroshenko | russian
+Konstantin Savitsky | russian
+Nikolai Kasatkin | russian
+Viktor Vasnetsov | russian
+Apollinary Vasnetsov | russian
+Mikhail Nesterov | russian
+Mikhail Vrubel | russian
+Karl Briullov | russian
+Alexander Ivanov | russian
+Orest Kiprensky | russian
+Vasily Tropinin | russian
+Alexey Venetsianov | russian
+Sylvester Shchedrin | russian
+Henryk Siemiradzki | polish-russian
+Edvard Munch | norwegian
+Christian Krohg | norwegian
+Frits Thaulow | norwegian
+Johan Christian Dahl | norwegian
+Hans Gude | norwegian
+Harriet Backer | norwegian
+Eilif Peterssen | norwegian
+Anders Zorn | swedish
+Carl Larsson | swedish
+Bruno Liljefors | swedish
+Ernst Josephson | swedish
+Richard Bergh | swedish
+Christoffer Wilhelm Eckersberg | danish
+Christen Købke | danish
+Johan Thomas Lundbye | danish
+Peder Severin Krøyer | danish
+Vilhelm Hammershøi | danish
+Michael Ancher | danish
+Anna Ancher | danish
+Hokusai | japanese
+Hiroshige | japanese
+Katsushika Hokusai | japanese
+Utagawa Hiroshige | japanese
+Kitagawa Utamaro | japanese
+Utagawa Kuniyoshi | japanese
+Tōshūsai Sharaku | japanese
+Hishikawa Moronobu | japanese
+Sesshū Tōyō | japanese
+Tawaraya Sōtatsu | japanese
+Hon'ami Kōetsu | japanese
+Ogata Kōrin | japanese
+Maruyama Ōkyo | japanese
+Itō Jakuchū | japanese
+Kawanabe Kyōsai | japanese
+Hashimoto Gahō | japanese
+Kuroda Seiki | japanese
+Gu Kaizhi | chinese
+Wu Daozi | chinese
+Wang Wei | chinese
+Fan Kuan | chinese
+Guo Xi | chinese
+Li Tang | chinese
+Ma Yuan | chinese
+Xia Gui | chinese
+Zhao Mengfu | chinese
+Huang Gongwang | chinese
+Ni Zan | chinese
+Wang Meng | chinese
+Dong Qichang | chinese
+Bada Shanren | chinese
+Shitao | chinese
+Yun Shouping | chinese
+Zheng Xie | chinese
+An Gyeon | korean
+Jeong Seon | korean
+Kim Hong-do | korean
+Shin Yun-bok | korean
+Jang Seung-eop | korean
+Basawan | indian
+Daswanth | indian
+Govardhan | indian
+Abu'l Hasan | indian
+Bichitr | indian
+Manaku | indian
+Nainsukh | indian
+Raja Ravi Varma | indian
+Abanindranath Tagore | indian
+Gregorio Vásquez de Arce y Ceballos | colombian
+Miguel de Santiago | ecuadorian
+Bernardo de Legarda | ecuadorian
+Basilio Santa Cruz Pumacallao | peruvian
+Diego Quispe Tito | peruvian
+Juan Correa | mexican
+Cristóbal de Villalpando | mexican
+Miguel Cabrera | mexican
+José de Ibarra | mexican
+Polygnotus | greek
+Zeuxis | greek
+Parrhasius | greek
+Apelles | greek
+Protogenes | greek
+Antiphilus | greek
+Apollodorus of Athens | greek
+Fabius Pictor | roman
+Studius | roman
+Famulus | roman
+Iaia of Cyzicus | roman
+Andrei Rublev | russian
+Theophanes the Greek | russian
+Dionysius | russian
+Manuel Panselinos | greek
+Michael Astrapas | byzantine
+Eutychios | byzantine
+Gentile da Fabriano | italian
+Pisanello | italian
+Lorenzo Monaco | italian
+Masolino | italian
+Stefan Lochner | german
+Conrad von Soest | german
+Konrad Witz | german
+Hans Multscher | german
+Master of the Karlsruhe Passion | german
+William-Adolphe Bouguereau | french
+Alexandre Cabanel | french
+Jean-Léon Gérôme | french
+Jean-Jacques Henner | french
+Osman Hamdi Bey | ottoman
+Constantin Meunier | belgian
+Alfred Stevens | belgian
+Henri Evenepoel | belgian
+Guillaume Vogels | belgian
+Félicien Rops | belgian
+Léon Spilliaert | belgian
+James Ensor | belgian
+Fernand Khnopff | belgian
+Gustave Klimt | austrian
+Koloman Moser | austrian
+Carl Moll | austrian
+Joseph Maria Olbrich | austrian
+Vincent van Gogh | dutch
+Paul Cézanne | french
+Paul Gauguin | french
+Georges Seurat | french
+Henri de Toulouse-Lautrec | french
+Paul Signac | french
+Émile Bernard | french
+Henri-Edmond Cross | french
+Charles Angrand | french
+Maximilien Luce | french
+Odilon Redon | french
+Maurice Denis | french
+Frédéric Bazille | french
+Armand Guillaumin | french
+Eva Gonzalès | french
+Marie Bracquemond | french
+Stanislas Lépine | french
+Theodoor Boeyermans | flemish
+Abraham van Diepenbeeck | flemish
+Thomas Willeboirts Bosschaert | flemish
+Erasmus Quellinus II | flemish
+Philips Wouwerman | dutch
+Jacques Courtois | italian
+Salvator Rosa | italian
+Pieter Snayers | flemish
+John Frederick Lewis | british
+David Roberts | british
+Jean-Baptiste-Camille Corot | french
+Theodore Rousseau | french
+Raimundo de Madrazo | spanish
+Martín Rico | spanish
+Carlos de Haes | spanish
+José Casado del Alisal | spanish
+Antonio Gisbert | spanish
+Francisco Pradilla | spanish
+Emilio Sala | spanish
+José Benlliure | spanish
+Tom Roberts | australian
+Arthur Streeton | australian
+Charles Conder | australian
+Frederick McCubbin | australian
+Hans Heysen | australian
+Walter Withers | australian
+Rupert Bunny | australian
+E. Phillips Fox | australian
+George Lambert | australian

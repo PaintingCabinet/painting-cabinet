@@ -5,75 +5,270 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Artists — Painting Cabinet</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:ital,wght@0,500;1,500&display=swap');
+
+    :root {
+      --bg: #0c0a08;
+      --bg-elev: #17130f;
+      --border: #382f22;
+      --border-soft: #2a2318;
+      --text: #ece1cd;
+      --text-dim: #b9ab8f;
+      --text-faint: #83765f;
+      --accent: #d9b56d;
+      --accent-dim: #a5895a;
+      --radius-sm: 7px;
+      --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      --ease: cubic-bezier(.22, 1, .36, 1);
+    }
+
+    * { box-sizing: border-box; }
     html, body {
       margin: 0;
       min-height: 100%;
-      background: #11100e;
-      color: #e8dcc8;
-      font-family: Georgia, "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      -webkit-font-smoothing: antialiased;
     }
-    header, main { max-width: 720px; margin: 0 auto; padding: 24px 20px; }
-    a { color: #d4c09a; }
-    h1 { font-weight: normal; }
-    input {
+
+    ::-webkit-scrollbar { width: 9px; height: 9px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 99px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--accent-dim); }
+
+    a { color: var(--accent); text-decoration: none; transition: color .2s var(--ease); }
+    a:hover { color: var(--text); }
+
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 0 28px 60px; }
+
+    .site-nav {
+      display: flex;
+      gap: 1.25rem;
+      align-items: center;
+      padding: 18px 0;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      font-size: 0.72rem;
+    }
+    .site-nav a { color: var(--text-dim); }
+    .site-nav a:hover, .site-nav a.here { color: var(--accent); }
+
+    .crumbs {
+      font-size: 0.72rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--text-faint);
+      margin: 18px 0 14px;
+    }
+    .crumbs a { color: var(--text-faint); }
+    .crumbs a:hover { color: var(--accent); }
+    .crumbs .sep { margin: 0 8px; opacity: .6; }
+
+    h1 {
+      margin: 0 0 10px;
+      font-family: var(--font-serif);
+      font-style: italic;
+      font-weight: 500;
+      font-size: clamp(2rem, 4.5vw, 3.1rem);
+      letter-spacing: 0.005em;
+      line-height: 1.15;
+    }
+    .meta {
+      margin: 0 0 26px;
+      color: var(--text-faint);
+      font-size: 0.8rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      min-height: 1.2em;
+    }
+
+    .search {
+      display: block;
       width: 100%;
-      box-sizing: border-box;
-      margin: 0 0 1rem;
-      padding: 8px;
-      background: #2a261f;
-      color: #e8dcc8;
-      border: 1px solid #4a4338;
-      font-family: inherit;
+      margin: 0 0 26px;
+      padding: 11px 16px;
+      background: var(--bg-elev);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-family: var(--font-sans);
+      font-size: 0.9rem;
+      transition: border-color .2s var(--ease);
     }
-    ul { list-style: none; padding: 0; columns: 2; gap: 24px; }
-    li { break-inside: avoid; margin: 0 0 6px; }
-    @media (max-width: 640px) { ul { columns: 1; } }
+    .search::placeholder { color: var(--text-faint); }
+    .search:hover, .search:focus { border-color: var(--accent-dim); outline: none; }
+
+    .list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      column-width: 300px;
+      column-gap: 28px;
+    }
+    .list li { break-inside: avoid; margin: 0 0 8px; }
+    .row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 11px 14px;
+      background: var(--bg-elev);
+      border: 1px solid var(--border-soft);
+      border-radius: var(--radius-sm);
+      color: var(--text);
+      transition: border-color .25s var(--ease), transform .25s var(--ease), color .2s var(--ease);
+    }
+    .row:hover, .row:focus-visible { border-color: var(--accent-dim); transform: translateY(-1px); color: var(--accent); outline: none; }
+    .row .n { font-family: var(--font-serif); font-size: 0.98rem; line-height: 1.3; overflow-wrap: anywhere; }
+    .row .c {
+      flex: none;
+      min-width: 2.4em;
+      text-align: center;
+      padding: 2px 9px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      color: var(--accent);
+      font-size: 0.72rem;
+      letter-spacing: 0.04em;
+      font-variant-numeric: tabular-nums;
+    }
+    .row .c.loading { color: var(--text-faint); border-color: var(--border-soft); }
+    .row.none .n { color: var(--text-faint); }
+    .row.none .c { color: var(--text-faint); border-color: var(--border-soft); }
+
+    .note { color: var(--text-faint); font-size: 0.9rem; padding: 20px 0; }
+
+    @media (max-width: 640px) {
+      .wrap { padding: 0 16px 50px; }
+    }
   </style>
 </head>
 <body>
-  <header>
-    <nav>
-      <a href="index.html">Home</a> ·
-      <a href="artists.html">Artists</a> ·
-      <a href="viewer.html">Viewer</a> ·
+  <div class="wrap">
+    <nav class="site-nav">
+      <a href="index.html">Home</a>
+      <a href="artists.html" class="here">Artists</a>
+      <a href="viewer.html">Viewer</a>
       <a href="about.html">About</a>
     </nav>
+
+    <div class="crumbs" id="crumbs"></div>
     <h1 id="heading">Artists</h1>
-    <p id="meta"></p>
-    <input id="search" type="search" placeholder="Filter names">
-  </header>
-  <main>
-    <ul id="list"></ul>
-  </main>
+    <p class="meta" id="meta"></p>
+    <input class="search" id="search" type="search" placeholder="Filter names" aria-label="Filter artist names" autocomplete="off">
+
+    <ul class="list" id="list"></ul>
+    <p class="note" id="note" hidden></p>
+  </div>
+
   <script>
     const labels = {
-      flemish: "Flemish",
-      dutch: "Dutch",
-      french: "French",
-      spanish: "Spanish"
+      flemish: "Flemish", dutch: "Dutch", french: "French", spanish: "Spanish", italian: "Italian",
+      british: "British", australian: "Australian", american: "American", german: "German",
+      russian: "Russian", swiss: "Swiss", scandinavian: "Scandinavian", greek: "Greek",
+      portuguese: "Portuguese", polish: "Polish", irish: "Irish", scottish: "Scottish", europe: "Europe",
+      other: "Other", chinese: "Chinese", japanese: "Japanese", austrian: "Austrian", indian: "Indian",
+      norwegian: "Norwegian", mexican: "Mexican", ottoman: "Ottoman", belgian: "Belgian",
+      colombian: "Colombian", peruvian: "Peruvian", ecuadorian: "Ecuadorian"
     };
     const school = new URLSearchParams(location.search).get("school") || "";
     const heading = document.getElementById("heading");
     const meta = document.getElementById("meta");
+    const crumbs = document.getElementById("crumbs");
     const list = document.getElementById("list");
+    const note = document.getElementById("note");
     const search = document.getElementById("search");
-    let names = [];
 
-    function wikiUrl(artist) {
-      return "https://en.wikipedia.org/wiki/" + encodeURIComponent(artist.name).replace(/%20/g, "_");
+    let names = [];
+    let counts = new Map();        // lower-case artist name -> number of works
+    let countsState = "loading";   // "loading" | "ready" | "failed"
+    let label = "";
+
+    function norm(text) { return String(text || "").trim().toLowerCase(); }
+    function el(tag, className, text) {
+      const node = document.createElement(tag);
+      if (className) node.className = className;
+      if (text !== undefined) node.textContent = text;
+      return node;
+    }
+    function artistUrl(artist) {
+      return "artist.html?name=" + encodeURIComponent(artist.name) +
+        "&school=" + encodeURIComponent(school);
+    }
+
+    function drawCrumbs() {
+      crumbs.innerHTML = "";
+      const back = el("a", "", "Artists");
+      back.href = "artists.html";
+      crumbs.appendChild(back);
+      crumbs.appendChild(el("span", "sep", "›"));
+      crumbs.appendChild(document.createTextNode(label));
+    }
+
+    function drawMeta() {
+      let text = names.length.toLocaleString() + (names.length === 1 ? " artist" : " artists");
+      if (countsState === "ready") {
+        let total = 0;
+        counts.forEach(function (n) { total += n; });
+        text += " · " + total.toLocaleString() + (total === 1 ? " work" : " works");
+      }
+      meta.textContent = text;
     }
 
     function render(filter) {
-      const q = (filter || "").toLowerCase();
-      list.innerHTML = "";
-      names.filter(function (artist) {
-        return !q || artist.name.toLowerCase().indexOf(q) !== -1;
-      }).forEach(function (artist) {
+      const q = norm(filter);
+      const frag = document.createDocumentFragment();
+      let shown = 0;
+      names.forEach(function (artist) {
+        if (q && artist.name.toLowerCase().indexOf(q) === -1) return;
+        shown++;
         const item = document.createElement("li");
-        item.innerHTML = "<a href='" + wikiUrl(artist) + "' target='_blank' rel='noopener'>" +
-          artist.name + "</a>";
-        list.appendChild(item);
+        const link = el("a", "row");
+        link.href = artistUrl(artist);
+        link.appendChild(el("span", "n", artist.name));
+        if (countsState === "loading") {
+          const pill = el("span", "c loading", "…");
+          link.appendChild(pill);
+        } else if (countsState === "ready") {
+          const n = counts.get(norm(artist.name)) || 0;
+          const pill = el("span", "c", n.toLocaleString());
+          pill.title = n + (n === 1 ? " work" : " works");
+          if (n === 0) link.classList.add("none");
+          link.appendChild(pill);
+        }
+        item.appendChild(link);
+        frag.appendChild(item);
       });
+      list.innerHTML = "";
+      list.appendChild(frag);
+      note.hidden = shown > 0;
+      if (!shown) {
+        note.textContent = names.length ? "No artists match that filter." : "No artists found for this school.";
+      }
+    }
+
+    function loadCounts() {
+      fetch("../data/works.json")
+        .then(function (r) { return r.json(); })
+        .then(function (data) {
+          const tally = new Map();
+          names.forEach(function (artist) { tally.set(norm(artist.name), 0); });
+          (data.works || []).forEach(function (work) {
+            const key = norm(work.artist_name);
+            if (tally.has(key)) tally.set(key, tally.get(key) + 1);
+          });
+          counts = tally;
+          countsState = "ready";
+          drawMeta();
+          render(search.value);
+        })
+        .catch(function () {
+          countsState = "failed";
+          render(search.value);
+        });
     }
 
     fetch("../data/artists.json")
@@ -82,14 +277,19 @@
         names = (data.artists || []).filter(function (artist) {
           return artist.school === school;
         });
-        names.sort(function (a, b) {
-          return a.name.localeCompare(b.name);
-        });
-        const label = labels[school] || school || "Artists";
-        heading.textContent = label + " painters";
+        names.sort(function (a, b) { return a.name.localeCompare(b.name); });
+        label = labels[school] || (school ? school.charAt(0).toUpperCase() + school.slice(1) : "Artists");
+        heading.textContent = school ? label + " painters" : "Artists";
         document.title = label + " — Painting Cabinet";
-        meta.textContent = names.length + " artists";
+        drawCrumbs();
+        drawMeta();
         render("");
+        if (names.length) loadCounts();
+      })
+      .catch(function () {
+        meta.textContent = "";
+        note.hidden = false;
+        note.textContent = "The artist list could not be loaded. Please try again in a moment.";
       });
 
     search.addEventListener("input", function () {

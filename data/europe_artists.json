@@ -1,0 +1,4288 @@
+{
+  "artists": [
+    {
+      "id": "Q16853428",
+      "name": "Adamo Chiusole",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q16853428"
+    },
+    {
+      "id": "Q78856",
+      "name": "Antonio Beduzzi",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q78856"
+    },
+    {
+      "id": "Q679722",
+      "name": "Bartolomeo Altomonte",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q679722"
+    },
+    {
+      "id": "Q1085076",
+      "name": "Christoph Haizmann",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1085076"
+    },
+    {
+      "id": "Q79012",
+      "name": "Ferdinand Bauer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q79012"
+    },
+    {
+      "id": "Q3083090",
+      "name": "Franz Caucig",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3083090"
+    },
+    {
+      "id": "Q698936",
+      "name": "Friedrich August Brand",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q698936"
+    },
+    {
+      "id": "Q5535782",
+      "name": "Georg Pachmann",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5535782"
+    },
+    {
+      "id": "Q88124",
+      "name": "Hans Adam Weissenkircher",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q88124"
+    },
+    {
+      "id": "Q1479444",
+      "name": "Hans Bocksberger der \u00c4ltere",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1479444"
+    },
+    {
+      "id": "Q5650886",
+      "name": "Hans von Judenburg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5650886"
+    },
+    {
+      "id": "Q1583547",
+      "name": "Hans von T\u00fcbingen",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1583547"
+    },
+    {
+      "id": "Q21168722",
+      "name": "Heinrich Carl Brandt",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21168722"
+    },
+    {
+      "id": "Q5753311",
+      "name": "Hieronymus Joachims",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5753311"
+    },
+    {
+      "id": "Q3792295",
+      "name": "Ignazio Stern",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3792295"
+    },
+    {
+      "id": "Q617467",
+      "name": "Jakob Seisenegger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q617467"
+    },
+    {
+      "id": "Q685519",
+      "name": "Johann Christian Brand",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q685519"
+    },
+    {
+      "id": "Q1694076",
+      "name": "Johann Gottfried Auerbach",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1694076"
+    },
+    {
+      "id": "Q6216041",
+      "name": "Johann Karl Auerbach",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6216041"
+    },
+    {
+      "id": "Q674772",
+      "name": "Johann Michael Rottmayr",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q674772"
+    },
+    {
+      "id": "Q261859",
+      "name": "Johann Wolfgang Baumgartner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q261859"
+    },
+    {
+      "id": "Q3180753",
+      "name": "Johannes Gumpp",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3180753"
+    },
+    {
+      "id": "Q700345",
+      "name": "Josef Abel",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q700345"
+    },
+    {
+      "id": "Q13360642",
+      "name": "Joseph Antony Adolph",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q13360642"
+    },
+    {
+      "id": "Q1706609",
+      "name": "Joseph Bergler",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1706609"
+    },
+    {
+      "id": "Q3189880",
+      "name": "Julius von Blaas",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3189880"
+    },
+    {
+      "id": "Q1036697",
+      "name": "Karl Aigen",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1036697"
+    },
+    {
+      "id": "Q1918689",
+      "name": "Master of Heiligenkreuz",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1918689"
+    },
+    {
+      "id": "Q1918718",
+      "name": "Master of Schloss Lichtenstein",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1918718"
+    },
+    {
+      "id": "Q1918437",
+      "name": "Master of the Saint Lambrecht Votive Altarpiece",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1918437"
+    },
+    {
+      "id": "Q1327497",
+      "name": "Matthias Rauchmiller",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1327497"
+    },
+    {
+      "id": "Q463922",
+      "name": "Michael Pacher",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q463922"
+    },
+    {
+      "id": "Q7150179",
+      "name": "Paul Dax",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7150179"
+    },
+    {
+      "id": "Q872213",
+      "name": "Paul Strudel",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q872213"
+    },
+    {
+      "id": "Q321520",
+      "name": "Peter Strudel",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q321520"
+    },
+    {
+      "id": "Q1666637",
+      "name": "Rueland Frueauf the Elder",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1666637"
+    },
+    {
+      "id": "Q2437867",
+      "name": "Tobias Kracker",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2437867"
+    },
+    {
+      "id": "Q2437960",
+      "name": "Tobias Pock",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2437960"
+    },
+    {
+      "id": "Q602382",
+      "name": "V\u00e1clav Bernard Ambrosi",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q602382"
+    },
+    {
+      "id": "Q610556",
+      "name": "Wolf Huber",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q610556"
+    },
+    {
+      "id": "Q590275",
+      "name": "Anton Hickel",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q590275"
+    },
+    {
+      "id": "Q596339",
+      "name": "Anton von Maron",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q596339"
+    },
+    {
+      "id": "Q170186",
+      "name": "Archduchess Maria Anna of Austria (born 1738)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q170186"
+    },
+    {
+      "id": "Q274815",
+      "name": "Barbara Krafft",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q274815"
+    },
+    {
+      "id": "Q690624",
+      "name": "Daniel Gran",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q690624"
+    },
+    {
+      "id": "Q700187",
+      "name": "Felix Ivo Leicher",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q700187"
+    },
+    {
+      "id": "Q683344",
+      "name": "Franciszek Ksawery Lampi",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q683344"
+    },
+    {
+      "id": "Q689388",
+      "name": "Franz Anton Maulbertsch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q689388"
+    },
+    {
+      "id": "Q1446477",
+      "name": "Franz Christoph Janneck",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1446477"
+    },
+    {
+      "id": "Q5493033",
+      "name": "Franz de Paula Ferg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5493033"
+    },
+    {
+      "id": "Q372889",
+      "name": "Gaetano Fanti",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q372889"
+    },
+    {
+      "id": "Q872049",
+      "name": "Hubert Maurer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q872049"
+    },
+    {
+      "id": "Q75838607",
+      "name": "Joakim Markovi\u0107",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q75838607"
+    },
+    {
+      "id": "Q429092",
+      "name": "Johann Baptist Drechsler",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q429092"
+    },
+    {
+      "id": "Q699740",
+      "name": "Johann Baptist von Lampi the Elder",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q699740"
+    },
+    {
+      "id": "Q698097",
+      "name": "Johann Baptist von Lampi the Younger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q698097"
+    },
+    {
+      "id": "Q6215745",
+      "name": "Johann Dallinger von Dalling",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6215745"
+    },
+    {
+      "id": "Q877923",
+      "name": "Johann Evangelist Holzer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q877923"
+    },
+    {
+      "id": "Q874569",
+      "name": "Johann Georg Edlinger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q874569"
+    },
+    {
+      "id": "Q16826850",
+      "name": "Johann Ignaz Cimbal",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q16826850"
+    },
+    {
+      "id": "Q6216153",
+      "name": "Johann Nepomuk della Croce",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6216153"
+    },
+    {
+      "id": "Q324683",
+      "name": "Johann Peter Krafft",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q324683"
+    },
+    {
+      "id": "Q215257",
+      "name": "Johann Zacharias Frey",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q215257"
+    },
+    {
+      "id": "Q320683",
+      "name": "Josef Grassi",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q320683"
+    },
+    {
+      "id": "Q263569",
+      "name": "Joseph Anton Koch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q263569"
+    },
+    {
+      "id": "Q6283227",
+      "name": "Joseph Franz von Goez",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6283227"
+    },
+    {
+      "id": "Q1256360",
+      "name": "Joseph Hickel",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1256360"
+    },
+    {
+      "id": "Q1707334",
+      "name": "Joseph Johann Kauffmann",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1707334"
+    },
+    {
+      "id": "Q106166980",
+      "name": "Joseph Kranzinger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q106166980"
+    },
+    {
+      "id": "Q1705056",
+      "name": "Joseph Kreutzinger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1705056"
+    },
+    {
+      "id": "Q999920",
+      "name": "Joseph Lange",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q999920"
+    },
+    {
+      "id": "Q13604451",
+      "name": "Laurenz Janscha",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q13604451"
+    },
+    {
+      "id": "Q12034239",
+      "name": "Ludv\u00edk Kohl",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q12034239"
+    },
+    {
+      "id": "Q3266227",
+      "name": "Ludwig Guttenbrunn",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3266227"
+    },
+    {
+      "id": "Q872310",
+      "name": "Martin Knoller",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q872310"
+    },
+    {
+      "id": "Q1082324",
+      "name": "Martin van Meytens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1082324"
+    },
+    {
+      "id": "Q7176819",
+      "name": "Peter Schubart von Ehrenberg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7176819"
+    },
+    {
+      "id": "Q2094332",
+      "name": "Pietro Antonio Lorenzoni",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2094332"
+    },
+    {
+      "id": "Q1564187",
+      "name": "Valentin Metzinger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1564187"
+    },
+    {
+      "id": "Q7932963",
+      "name": "Vinzenz Fischer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7932963"
+    },
+    {
+      "id": "Q1661116",
+      "name": "Alfred Basel",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1661116"
+    },
+    {
+      "id": "Q2650148",
+      "name": "Alois Arnegger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2650148"
+    },
+    {
+      "id": "Q87659",
+      "name": "Anton Altmann",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q87659"
+    },
+    {
+      "id": "Q3618862",
+      "name": "Anton Joseph von Prenner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3618862"
+    },
+    {
+      "id": "Q593128",
+      "name": "Anton Radl",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q593128"
+    },
+    {
+      "id": "Q763488",
+      "name": "August Querfurt",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q763488"
+    },
+    {
+      "id": "Q89312",
+      "name": "Eduard Bitterlich",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q89312"
+    },
+    {
+      "id": "Q1288132",
+      "name": "Eduard Charlemont",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1288132"
+    },
+    {
+      "id": "Q26207548",
+      "name": "Eugenie Breithut-Munk",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q26207548"
+    },
+    {
+      "id": "Q1405149",
+      "name": "Ferdinand Brunner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1405149"
+    },
+    {
+      "id": "Q1405729",
+      "name": "Ferdinand Runk",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1405729"
+    },
+    {
+      "id": "Q698321",
+      "name": "Franz Ci\u017eek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q698321"
+    },
+    {
+      "id": "Q1446612",
+      "name": "Franz Edmund Weirotter",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1446612"
+    },
+    {
+      "id": "Q875307",
+      "name": "Franz Xaver Wagensch\u00f6n",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q875307"
+    },
+    {
+      "id": "Q673664",
+      "name": "Hans Canon",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q673664"
+    },
+    {
+      "id": "Q175980",
+      "name": "Hugo Charlemont",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q175980"
+    },
+    {
+      "id": "Q1677705",
+      "name": "Jacob van Schuppen",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1677705"
+    },
+    {
+      "id": "Q85265",
+      "name": "Johann Georg Platzer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q85265"
+    },
+    {
+      "id": "Q1693951",
+      "name": "Johann Georg Schmidt (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1693951"
+    },
+    {
+      "id": "Q84845",
+      "name": "Johann Jakob Zeiller",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q84845"
+    },
+    {
+      "id": "Q6216318",
+      "name": "Johann Ziegler",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6216318"
+    },
+    {
+      "id": "Q53506493",
+      "name": "Johannes Scharf",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q53506493"
+    },
+    {
+      "id": "Q1704890",
+      "name": "Josef Ignaz Mildorfer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1704890"
+    },
+    {
+      "id": "Q1705206",
+      "name": "Josef Maria Auchentaller",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1705206"
+    },
+    {
+      "id": "Q874595",
+      "name": "Joseph Matth\u00e4us Aigner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q874595"
+    },
+    {
+      "id": "Q19569505",
+      "name": "Joseph Pichler (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19569505"
+    },
+    {
+      "id": "Q1713039",
+      "name": "Julius Victor Berger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1713039"
+    },
+    {
+      "id": "Q11731155",
+      "name": "J\u00f3zef Pitschmann",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q11731155"
+    },
+    {
+      "id": "Q265340",
+      "name": "Karl von Blaas",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q265340"
+    },
+    {
+      "id": "Q19569538",
+      "name": "Lorenz Adolf Sch\u00f6nberger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19569538"
+    },
+    {
+      "id": "Q1897539",
+      "name": "Marie von Augustin",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1897539"
+    },
+    {
+      "id": "Q301665",
+      "name": "Martin Ferdinand Quadal",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q301665"
+    },
+    {
+      "id": "Q570251",
+      "name": "Martin Johann Schmidt",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q570251"
+    },
+    {
+      "id": "Q6831336",
+      "name": "Michael Ignaz Mildorfer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6831336"
+    },
+    {
+      "id": "Q1929905",
+      "name": "Michael Wutky",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1929905"
+    },
+    {
+      "id": "Q875576",
+      "name": "Michelangelo Unterberger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q875576"
+    },
+    {
+      "id": "Q687059",
+      "name": "Paul Troger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q687059"
+    },
+    {
+      "id": "Q547655",
+      "name": "Tina Blau",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q547655"
+    },
+    {
+      "id": "Q7982318",
+      "name": "Wenceslaus Werlin",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7982318"
+    },
+    {
+      "id": "Q1112901",
+      "name": "Wendelin Moosbrugger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1112901"
+    },
+    {
+      "id": "Q4684110",
+      "name": "Adolf Humborg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4684110"
+    },
+    {
+      "id": "Q639706",
+      "name": "Albin Egger-Lienz",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q639706"
+    },
+    {
+      "id": "Q574201",
+      "name": "Alexander Demetrius Goltz",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q574201"
+    },
+    {
+      "id": "Q875027",
+      "name": "Alois Delug",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q875027"
+    },
+    {
+      "id": "Q589135",
+      "name": "Anton Einsle",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q589135"
+    },
+    {
+      "id": "Q590054",
+      "name": "Anton Hansch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q590054"
+    },
+    {
+      "id": "Q761169",
+      "name": "August Eisenmenger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q761169"
+    },
+    {
+      "id": "Q15430496",
+      "name": "August Hoffmann von Vestenhof",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q15430496"
+    },
+    {
+      "id": "Q24081309",
+      "name": "Bertha von Grab",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q24081309"
+    },
+    {
+      "id": "Q26202496",
+      "name": "Camilla Friedl\u00e4nder",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q26202496"
+    },
+    {
+      "id": "Q26203144",
+      "name": "Carl Haunold",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q26203144"
+    },
+    {
+      "id": "Q1039975",
+      "name": "Carl Otto Czeschka",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1039975"
+    },
+    {
+      "id": "Q872086",
+      "name": "Eduard Gurk",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q872086"
+    },
+    {
+      "id": "Q349751",
+      "name": "Eduard von Engerth",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q349751"
+    },
+    {
+      "id": "Q1348038",
+      "name": "Erasmus Engert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1348038"
+    },
+    {
+      "id": "Q323578",
+      "name": "Eugen Felix",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q323578"
+    },
+    {
+      "id": "Q78711",
+      "name": "Franz Defregger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q78711"
+    },
+    {
+      "id": "Q772701",
+      "name": "Friedrich Ritter von Friedl\u00e4nder-Malheim",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q772701"
+    },
+    {
+      "id": "Q833358",
+      "name": "Gabriel von Hackl",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q833358"
+    },
+    {
+      "id": "Q1490501",
+      "name": "Gabriele Maria Deininger-Arnhard",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1490501"
+    },
+    {
+      "id": "Q876420",
+      "name": "Georg Decker",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q876420"
+    },
+    {
+      "id": "Q1241091",
+      "name": "Hans von Hayek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1241091"
+    },
+    {
+      "id": "Q46481608",
+      "name": "Hedwig Friedl\u00e4nder",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q46481608"
+    },
+    {
+      "id": "Q1634945",
+      "name": "Hugo Darnaut",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1634945"
+    },
+    {
+      "id": "Q1672974",
+      "name": "Irma von Duczynska",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1672974"
+    },
+    {
+      "id": "Q1695657",
+      "name": "Johann Nepomuk Hoechle",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1695657"
+    },
+    {
+      "id": "Q11341851",
+      "name": "John Fery",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q11341851"
+    },
+    {
+      "id": "Q1704725",
+      "name": "Josef Hafner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1704725"
+    },
+    {
+      "id": "Q324318",
+      "name": "Joseph von F\u00fchrich",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q324318"
+    },
+    {
+      "id": "Q4133128",
+      "name": "Karl Hampeln",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4133128"
+    },
+    {
+      "id": "Q6699210",
+      "name": "Ludwig Deutsch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6699210"
+    },
+    {
+      "id": "Q6699233",
+      "name": "Ludwig Hans Fischer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6699233"
+    },
+    {
+      "id": "Q28569388",
+      "name": "Marianne von Eschenburg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q28569388"
+    },
+    {
+      "id": "Q1265384",
+      "name": "Marie Egner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1265384"
+    },
+    {
+      "id": "Q453650",
+      "name": "Peter Fendi",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q453650"
+    },
+    {
+      "id": "Q85325",
+      "name": "Reinhold Hanisch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q85325"
+    },
+    {
+      "id": "Q129113",
+      "name": "Richard Gerstl",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q129113"
+    },
+    {
+      "id": "Q2172327",
+      "name": "Rudolf Alfred H\u00f6ger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2172327"
+    },
+    {
+      "id": "Q872134",
+      "name": "Theodor von H\u00f6rmann",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q872134"
+    },
+    {
+      "id": "Q55852507",
+      "name": "Therese Holbein von Holbeinsberg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q55852507"
+    },
+    {
+      "id": "Q362901",
+      "name": "Adolf Kaufmann",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q362901"
+    },
+    {
+      "id": "Q2642387",
+      "name": "Alexander Kaiser",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2642387"
+    },
+    {
+      "id": "Q1748033",
+      "name": "Alexander Kircher",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1748033"
+    },
+    {
+      "id": "Q181926",
+      "name": "Alois Kolb",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q181926"
+    },
+    {
+      "id": "Q4269552",
+      "name": "Alois Lunzer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4269552"
+    },
+    {
+      "id": "Q88602",
+      "name": "Bertold L\u00f6ffler",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q88602"
+    },
+    {
+      "id": "Q927192",
+      "name": "Broncia Koller-Pinell",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q927192"
+    },
+    {
+      "id": "Q4994282",
+      "name": "Carl Kronberger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4994282"
+    },
+    {
+      "id": "Q1288945",
+      "name": "Eduard Kaiser",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1288945"
+    },
+    {
+      "id": "Q18508145",
+      "name": "Emilie Mediz-Pelikan",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18508145"
+    },
+    {
+      "id": "Q1356643",
+      "name": "Ernestine von Kirchsberg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1356643"
+    },
+    {
+      "id": "Q1358994",
+      "name": "Ernst Klimt",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1358994"
+    },
+    {
+      "id": "Q1372645",
+      "name": "Eugen Jettel",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1372645"
+    },
+    {
+      "id": "Q1395759",
+      "name": "Fanny Inama von Sternegg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1395759"
+    },
+    {
+      "id": "Q874720",
+      "name": "Franz von Matsch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q874720"
+    },
+    {
+      "id": "Q18356440",
+      "name": "Friedrich K\u00f6nig (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18356440"
+    },
+    {
+      "id": "Q1460806",
+      "name": "Friedrich Loos",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1460806"
+    },
+    {
+      "id": "Q655778",
+      "name": "Gabriel von Max",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q655778"
+    },
+    {
+      "id": "Q15734493",
+      "name": "Georg Janny",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q15734493"
+    },
+    {
+      "id": "Q34661",
+      "name": "Gustav Klimt",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q34661"
+    },
+    {
+      "id": "Q1610563",
+      "name": "Hermann Kern",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1610563"
+    },
+    {
+      "id": "Q1613253",
+      "name": "Hermann von K\u00f6nigsbrunn",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1613253"
+    },
+    {
+      "id": "Q58175724",
+      "name": "Irma Komlosy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q58175724"
+    },
+    {
+      "id": "Q29168911",
+      "name": "Josef Jungwirth",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q29168911"
+    },
+    {
+      "id": "Q93804",
+      "name": "Josef Kriehuber",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q93804"
+    },
+    {
+      "id": "Q1705246",
+      "name": "Josef Mayburger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1705246"
+    },
+    {
+      "id": "Q874338",
+      "name": "Julius Klinger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q874338"
+    },
+    {
+      "id": "Q1731891",
+      "name": "Karl Kaufmann (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1731891"
+    },
+    {
+      "id": "Q19287669",
+      "name": "Karl Mediz",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19287669"
+    },
+    {
+      "id": "Q670611",
+      "name": "Leopold Kupelwieser",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q670611"
+    },
+    {
+      "id": "Q94666",
+      "name": "Ludwig Koch (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q94666"
+    },
+    {
+      "id": "Q317883",
+      "name": "Max Kurzweil",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q317883"
+    },
+    {
+      "id": "Q1914015",
+      "name": "Maximilian Lenz",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1914015"
+    },
+    {
+      "id": "Q1914019",
+      "name": "Maximilian Liebenwein",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1914019"
+    },
+    {
+      "id": "Q12286799",
+      "name": "Mina Karad\u017ei\u0107",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q12286799"
+    },
+    {
+      "id": "Q700506",
+      "name": "Raphael Kirchner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q700506"
+    },
+    {
+      "id": "Q89520",
+      "name": "Rosa Mayreder",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q89520"
+    },
+    {
+      "id": "Q698929",
+      "name": "Rudolf Jettmar",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q698929"
+    },
+    {
+      "id": "Q2284105",
+      "name": "Siegmund L'Allemand",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2284105"
+    },
+    {
+      "id": "Q39159011",
+      "name": "Wilhelm Legler",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q39159011"
+    },
+    {
+      "id": "Q58304952",
+      "name": "Adrienne von P\u00f6tting",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q58304952"
+    },
+    {
+      "id": "Q79098",
+      "name": "Albert Schickedanz",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q79098"
+    },
+    {
+      "id": "Q78981",
+      "name": "Alfred Roller",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q78981"
+    },
+    {
+      "id": "Q18639100",
+      "name": "Anton Nowak",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18639100"
+    },
+    {
+      "id": "Q763741",
+      "name": "August Schaeffer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q763741"
+    },
+    {
+      "id": "Q19747594",
+      "name": "Bertha M\u00fcller",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19747594"
+    },
+    {
+      "id": "Q697780",
+      "name": "Carl Moll",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q697780"
+    },
+    {
+      "id": "Q2907846",
+      "name": "Constantin Daniel Rosenthal",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2907846"
+    },
+    {
+      "id": "Q1284048",
+      "name": "Edgar Meyer (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1284048"
+    },
+    {
+      "id": "Q23013986",
+      "name": "Elise Ransonnet-Villez",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q23013986"
+    },
+    {
+      "id": "Q670922",
+      "name": "Emil Jakob Schindler",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q670922"
+    },
+    {
+      "id": "Q1363343",
+      "name": "Erwin Puchinger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1363343"
+    },
+    {
+      "id": "Q1403041",
+      "name": "Felician Myrbach",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1403041"
+    },
+    {
+      "id": "Q896210",
+      "name": "Ferdinand von \u0158ezn\u00ed\u010dek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q896210"
+    },
+    {
+      "id": "Q5492812",
+      "name": "Franz Ignaz Pollinger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5492812"
+    },
+    {
+      "id": "Q328283",
+      "name": "Franz Rumpler",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q328283"
+    },
+    {
+      "id": "Q1468189",
+      "name": "Fritz Schider",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1468189"
+    },
+    {
+      "id": "Q1396356",
+      "name": "Georg Pezolt",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1396356"
+    },
+    {
+      "id": "Q1633386",
+      "name": "Hubert Sattler (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1633386"
+    },
+    {
+      "id": "Q4528247",
+      "name": "Johann Nepomuk Sch\u00f6dlberger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4528247"
+    },
+    {
+      "id": "Q21459940",
+      "name": "Johann Sch\u00f6nberg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21459940"
+    },
+    {
+      "id": "Q6279922",
+      "name": "Josef Karl R\u00e4dler",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6279922"
+    },
+    {
+      "id": "Q871911",
+      "name": "Josef Moroder-Lusenberg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q871911"
+    },
+    {
+      "id": "Q1707710",
+      "name": "Joseph Nigg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1707710"
+    },
+    {
+      "id": "Q1712951",
+      "name": "Julius Schmid (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1712951"
+    },
+    {
+      "id": "Q1039988",
+      "name": "Karl O'Lynch von Town",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1039988"
+    },
+    {
+      "id": "Q27506894",
+      "name": "Ladislav Eugen Petrovits",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q27506894"
+    },
+    {
+      "id": "Q1330647",
+      "name": "Leander Russ",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1330647"
+    },
+    {
+      "id": "Q4297899",
+      "name": "Ludwig Michalek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4297899"
+    },
+    {
+      "id": "Q19990516",
+      "name": "Marie M\u00fcller (artist)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19990516"
+    },
+    {
+      "id": "Q1804490",
+      "name": "Mathias Schmid",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1804490"
+    },
+    {
+      "id": "Q1544487",
+      "name": "Max Edler von Poosch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1544487"
+    },
+    {
+      "id": "Q216480",
+      "name": "Max Oppenheimer (artist)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q216480"
+    },
+    {
+      "id": "Q1316220",
+      "name": "Max Sch\u00f6dl",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1316220"
+    },
+    {
+      "id": "Q874376",
+      "name": "Michael Rieser",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q874376"
+    },
+    {
+      "id": "Q1727816",
+      "name": "Olga Milles",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1727816"
+    },
+    {
+      "id": "Q2032921",
+      "name": "Oscar Rex",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2032921"
+    },
+    {
+      "id": "Q1169604",
+      "name": "Robert Russ (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1169604"
+    },
+    {
+      "id": "Q2173448",
+      "name": "Rudolf Moroder-Len\u00e8rt",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2173448"
+    },
+    {
+      "id": "Q31943571",
+      "name": "Rudolf R\u00f6ssler (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q31943571"
+    },
+    {
+      "id": "Q168542",
+      "name": "Adalbert Stifter",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q168542"
+    },
+    {
+      "id": "Q20752923",
+      "name": "Adolf Theer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q20752923"
+    },
+    {
+      "id": "Q680053",
+      "name": "Alexander von Wagner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q680053"
+    },
+    {
+      "id": "Q1310271",
+      "name": "Alfred Zoff",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1310271"
+    },
+    {
+      "id": "Q500772",
+      "name": "Andreas Staub",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q500772"
+    },
+    {
+      "id": "Q4755657",
+      "name": "Andreas Untersberger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4755657"
+    },
+    {
+      "id": "Q563363",
+      "name": "Anna Stainer-Knittel",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q563363"
+    },
+    {
+      "id": "Q26001154",
+      "name": "Bertha von Tarn\u00f3czy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q26001154"
+    },
+    {
+      "id": "Q317482",
+      "name": "Carl Schuch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q317482"
+    },
+    {
+      "id": "Q1041016",
+      "name": "Carl Wenzel Zajicek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1041016"
+    },
+    {
+      "id": "Q1066423",
+      "name": "Charles Wilda",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1066423"
+    },
+    {
+      "id": "Q1287080",
+      "name": "Edmund von W\u00f6rndle",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1287080"
+    },
+    {
+      "id": "Q85077",
+      "name": "Eduard von Steinle",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q85077"
+    },
+    {
+      "id": "Q1334784",
+      "name": "Emanuel St\u00f6ckler",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1334784"
+    },
+    {
+      "id": "Q1360325",
+      "name": "Ernst St\u00f6hr",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1360325"
+    },
+    {
+      "id": "Q1448969",
+      "name": "Franz Schrotzberg",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1448969"
+    },
+    {
+      "id": "Q5503915",
+      "name": "Friedrich Strasser",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5503915"
+    },
+    {
+      "id": "Q19917548",
+      "name": "Gustav Wertheimer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19917548"
+    },
+    {
+      "id": "Q516321",
+      "name": "Gyula Aggh\u00e1zy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q516321"
+    },
+    {
+      "id": "Q791170",
+      "name": "Gyula Basch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q791170"
+    },
+    {
+      "id": "Q632046",
+      "name": "Gyula Bencz\u00far",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q632046"
+    },
+    {
+      "id": "Q1582771",
+      "name": "Hans Tichy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1582771"
+    },
+    {
+      "id": "Q42178102",
+      "name": "Heinrich Carl Schubert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q42178102"
+    },
+    {
+      "id": "Q33461967",
+      "name": "Ignaz Sch\u00f6nbrunner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q33461967"
+    },
+    {
+      "id": "Q873357",
+      "name": "Josef Eduard Teltscher",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q873357"
+    },
+    {
+      "id": "Q4462409",
+      "name": "Josef Maty\u00e1\u0161 Trenkwald",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4462409"
+    },
+    {
+      "id": "Q30308619",
+      "name": "Josef Schwemminger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q30308619"
+    },
+    {
+      "id": "Q27487434",
+      "name": "Josefine Swoboda",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q27487434"
+    },
+    {
+      "id": "Q768860",
+      "name": "Man\u00f3 Andr\u00e1ssy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q768860"
+    },
+    {
+      "id": "Q446382",
+      "name": "Marianne Stokes",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q446382"
+    },
+    {
+      "id": "Q668440",
+      "name": "Mathias Zdarsky",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q668440"
+    },
+    {
+      "id": "Q790148",
+      "name": "Mikl\u00f3s Barab\u00e1s",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q790148"
+    },
+    {
+      "id": "Q722934",
+      "name": "Ott\u00f3 Baditz",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q722934"
+    },
+    {
+      "id": "Q7264026",
+      "name": "P\u00e1l Balkay",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7264026"
+    },
+    {
+      "id": "Q7367124",
+      "name": "Rosa Schweninger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7367124"
+    },
+    {
+      "id": "Q872914",
+      "name": "Rudolf Swoboda",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q872914"
+    },
+    {
+      "id": "Q27436679",
+      "name": "Rudolf Swoboda the Elder",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q27436679"
+    },
+    {
+      "id": "Q13502110",
+      "name": "Theodor Sockl",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q13502110"
+    },
+    {
+      "id": "Q768862",
+      "name": "Tivadar Andr\u00e1ssy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q768862"
+    },
+    {
+      "id": "Q29252107",
+      "name": "Viktor Sieger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q29252107"
+    },
+    {
+      "id": "Q833433",
+      "name": "Adolf F\u00e9nyes",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q833433"
+    },
+    {
+      "id": "Q331047",
+      "name": "Adolf Hir\u00e9my-Hirschl",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q331047"
+    },
+    {
+      "id": "Q570773",
+      "name": "Antal Ligeti",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q570773"
+    },
+    {
+      "id": "Q4134224",
+      "name": "Art\u00far Lajos Halmi",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4134224"
+    },
+    {
+      "id": "Q1104895",
+      "name": "Bertalan Karlovszky",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1104895"
+    },
+    {
+      "id": "Q1111591",
+      "name": "B\u00e1lint Kiss",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1111591"
+    },
+    {
+      "id": "Q1098790",
+      "name": "B\u00e9la Iv\u00e1nyi-Gr\u00fcnwald",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1098790"
+    },
+    {
+      "id": "Q329326",
+      "name": "Guszt\u00e1v Kelety",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q329326"
+    },
+    {
+      "id": "Q1161404",
+      "name": "Gyula Madar\u00e1sz",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1161404"
+    },
+    {
+      "id": "Q960321",
+      "name": "G\u00e9za D\u00f3sa",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q960321"
+    },
+    {
+      "id": "Q266415",
+      "name": "Isidor Kaufmann",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q266415"
+    },
+    {
+      "id": "Q3155758",
+      "name": "Istv\u00e1n Burchard-B\u00e9lav\u00e1ry",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3155758"
+    },
+    {
+      "id": "Q876170",
+      "name": "Istv\u00e1n Cs\u00f3k",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q876170"
+    },
+    {
+      "id": "Q1029985",
+      "name": "Jen\u0151 Gy\u00e1rf\u00e1s",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1029985"
+    },
+    {
+      "id": "Q6180077",
+      "name": "Jen\u0151 Jendrassik",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6180077"
+    },
+    {
+      "id": "Q723952",
+      "name": "J\u00e1nos Don\u00e1t",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q723952"
+    },
+    {
+      "id": "Q1028148",
+      "name": "J\u00e1nos Greguss",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1028148"
+    },
+    {
+      "id": "Q1099796",
+      "name": "J\u00e1nos Jank\u00f3",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1099796"
+    },
+    {
+      "id": "Q743451",
+      "name": "J\u00f3zsef Borsos",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q743451"
+    },
+    {
+      "id": "Q1119767",
+      "name": "J\u00f3zsef Koszta",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1119767"
+    },
+    {
+      "id": "Q1704224",
+      "name": "J\u00f3zsef \u00c1rp\u00e1d Koppay",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1704224"
+    },
+    {
+      "id": "Q752085",
+      "name": "Katarina Ivanovi\u0107",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q752085"
+    },
+    {
+      "id": "Q833138",
+      "name": "K\u00e1roly Brocky",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q833138"
+    },
+    {
+      "id": "Q701504",
+      "name": "K\u00e1roly Ferenczy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q701504"
+    },
+    {
+      "id": "Q1113798",
+      "name": "K\u00e1roly Klette",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1113798"
+    },
+    {
+      "id": "Q850136",
+      "name": "Lajos Bruck",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q850136"
+    },
+    {
+      "id": "Q6474379",
+      "name": "Lajos Csord\u00e1k",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6474379"
+    },
+    {
+      "id": "Q6474382",
+      "name": "Lajos De\u00e1k \u00c9bner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6474382"
+    },
+    {
+      "id": "Q1212317",
+      "name": "Lajos M\u00e1rk",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1212317"
+    },
+    {
+      "id": "Q1105615",
+      "name": "N\u00e1ndor Katona",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1105615"
+    },
+    {
+      "id": "Q855047",
+      "name": "P\u00e1l B\u00f6hm",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q855047"
+    },
+    {
+      "id": "Q165756",
+      "name": "Simon Holl\u00f3sy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q165756"
+    },
+    {
+      "id": "Q794812",
+      "name": "S\u00e1ndor Bihari",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q794812"
+    },
+    {
+      "id": "Q7665260",
+      "name": "S\u00e1ndor Brodszky",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7665260"
+    },
+    {
+      "id": "Q881367",
+      "name": "S\u00e1ndor Liezen-Mayer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q881367"
+    },
+    {
+      "id": "Q1165093",
+      "name": "Tiham\u00e9r Margitay",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1165093"
+    },
+    {
+      "id": "Q613125",
+      "name": "Tivadar Csontv\u00e1ry Kosztka",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q613125"
+    },
+    {
+      "id": "Q178279",
+      "name": "Viktor Madar\u00e1sz",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q178279"
+    },
+    {
+      "id": "Q527774",
+      "name": "Vilma Lwoff-Parlaghy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q527774"
+    },
+    {
+      "id": "Q926831",
+      "name": "\u00c1rp\u00e1d Feszty",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q926831"
+    },
+    {
+      "id": "Q16203494",
+      "name": "Andr\u00e1s Mark\u00f3",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q16203494"
+    },
+    {
+      "id": "Q4776072",
+      "name": "Anton Zilzer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4776072"
+    },
+    {
+      "id": "Q25994259",
+      "name": "Arthur von Ferraris",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q25994259"
+    },
+    {
+      "id": "Q1327638",
+      "name": "Art\u00far T\u00f6lgyessy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1327638"
+    },
+    {
+      "id": "Q15525117",
+      "name": "August Schoefft",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q15525117"
+    },
+    {
+      "id": "Q41321572",
+      "name": "Bruno Beran",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q41321572"
+    },
+    {
+      "id": "Q1242172",
+      "name": "B\u00e9la P\u00e1llik",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1242172"
+    },
+    {
+      "id": "Q15277865",
+      "name": "B\u00e9la Sp\u00e1nyi",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q15277865"
+    },
+    {
+      "id": "Q2949794",
+      "name": "Ferenc \u00dajh\u00e1zy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2949794"
+    },
+    {
+      "id": "Q941648",
+      "name": "Gustav Morelli",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q941648"
+    },
+    {
+      "id": "Q5625600",
+      "name": "Gyula Tornai",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5625600"
+    },
+    {
+      "id": "Q940735",
+      "name": "Gy\u00f6rgy Vastagh",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q940735"
+    },
+    {
+      "id": "Q37448426",
+      "name": "G\u00e1bor Melegh",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q37448426"
+    },
+    {
+      "id": "Q606482",
+      "name": "G\u00e9za M\u00e9sz\u00f6ly (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q606482"
+    },
+    {
+      "id": "Q1233347",
+      "name": "G\u00e9za Peske",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1233347"
+    },
+    {
+      "id": "Q12173779",
+      "name": "Johann Rombauer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q12173779"
+    },
+    {
+      "id": "Q6279713",
+      "name": "Josef Bos\u00e1\u010dek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6279713"
+    },
+    {
+      "id": "Q1323045",
+      "name": "J\u00e1nos Tornyai",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1323045"
+    },
+    {
+      "id": "Q1401192",
+      "name": "J\u00e1nos Valentiny",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1401192"
+    },
+    {
+      "id": "Q829892",
+      "name": "J\u00e1nos Vaszary",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q829892"
+    },
+    {
+      "id": "Q569369",
+      "name": "J\u00f3zsef Rippl-R\u00f3nai",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q569369"
+    },
+    {
+      "id": "Q938311",
+      "name": "K\u00e1roly Mark\u00f3 the Elder",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q938311"
+    },
+    {
+      "id": "Q12351071",
+      "name": "K\u00e1roly Sterio",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q12351071"
+    },
+    {
+      "id": "Q1317761",
+      "name": "K\u00e1roly Telepy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1317761"
+    },
+    {
+      "id": "Q652975",
+      "name": "L\u00e1szl\u00f3 Medny\u00e1nszky",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q652975"
+    },
+    {
+      "id": "Q6710731",
+      "name": "L\u00e1szl\u00f3 Ney",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6710731"
+    },
+    {
+      "id": "Q920009",
+      "name": "L\u00e1szl\u00f3 Pa\u00e1l",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q920009"
+    },
+    {
+      "id": "Q551652",
+      "name": "Mih\u00e1ly Munk\u00e1csy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q551652"
+    },
+    {
+      "id": "Q742959",
+      "name": "Mih\u00e1ly Zichy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q742959"
+    },
+    {
+      "id": "Q446948",
+      "name": "Mikol\u00e1\u0161 Ale\u0161",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q446948"
+    },
+    {
+      "id": "Q728712",
+      "name": "M\u00f3r Than",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q728712"
+    },
+    {
+      "id": "Q742322",
+      "name": "P\u00e1l Szinyei Merse",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q742322"
+    },
+    {
+      "id": "Q1461574",
+      "name": "P\u00e1l V\u00e1g\u00f3",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1461574"
+    },
+    {
+      "id": "Q714876",
+      "name": "Soma Orlai Petrich",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q714876"
+    },
+    {
+      "id": "Q1414035",
+      "name": "S\u00e1ndor Ziffer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1414035"
+    },
+    {
+      "id": "Q7810390",
+      "name": "Tivadar Zempl\u00e9nyi",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7810390"
+    },
+    {
+      "id": "Q7929644",
+      "name": "Viktor Barvitius",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7929644"
+    },
+    {
+      "id": "Q6351760",
+      "name": "Vojt\u011bch Barton\u011bk",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6351760"
+    },
+    {
+      "id": "Q740396",
+      "name": "V\u00e1clav Bro\u017e\u00edk",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q740396"
+    },
+    {
+      "id": "Q7940542",
+      "name": "Zdenka Braunerov\u00e1",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7940542"
+    },
+    {
+      "id": "Q363012",
+      "name": "Adolf Kos\u00e1rek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q363012"
+    },
+    {
+      "id": "Q4260905",
+      "name": "Adolf Liebscher",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4260905"
+    },
+    {
+      "id": "Q2650308",
+      "name": "Alois Kirnig",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2650308"
+    },
+    {
+      "id": "Q608308",
+      "name": "Anton\u00edn Chittussi",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q608308"
+    },
+    {
+      "id": "Q10853893",
+      "name": "Anton\u00edn Hude\u010dek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q10853893"
+    },
+    {
+      "id": "Q326090",
+      "name": "Anton\u00edn Langweil",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q326090"
+    },
+    {
+      "id": "Q4829143",
+      "name": "Anton\u00edn Lhota",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4829143"
+    },
+    {
+      "id": "Q338768",
+      "name": "Anton\u00edn Machek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q338768"
+    },
+    {
+      "id": "Q608589",
+      "name": "Anton\u00edn M\u00e1nes",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q608589"
+    },
+    {
+      "id": "Q813963",
+      "name": "Bed\u0159ich Havr\u00e1nek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q813963"
+    },
+    {
+      "id": "Q11220135",
+      "name": "Bohum\u00edr Jaron\u011bk",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q11220135"
+    },
+    {
+      "id": "Q11878440",
+      "name": "Emanuel Krescenc Li\u0161ka",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q11878440"
+    },
+    {
+      "id": "Q11878467",
+      "name": "Emanuel Salomon Friedberg-M\u00edrohorsk\u00fd",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q11878467"
+    },
+    {
+      "id": "Q12016954",
+      "name": "Franti\u0161ek Chalupa",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q12016954"
+    },
+    {
+      "id": "Q14506842",
+      "name": "Franti\u0161ek Dvo\u0159\u00e1k (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q14506842"
+    },
+    {
+      "id": "Q5492529",
+      "name": "Franti\u0161ek Hor\u010di\u010dka",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5492529"
+    },
+    {
+      "id": "Q716254",
+      "name": "Franti\u0161ek Kav\u00e1n",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q716254"
+    },
+    {
+      "id": "Q24003227",
+      "name": "Franti\u0161ek \u010cerm\u00e1k (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q24003227"
+    },
+    {
+      "id": "Q1539348",
+      "name": "Gottfried Lindauer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1539348"
+    },
+    {
+      "id": "Q24003239",
+      "name": "Helena Emingerov\u00e1",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q24003239"
+    },
+    {
+      "id": "Q19420805",
+      "name": "Herm\u00edna Laukotov\u00e1",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19420805"
+    },
+    {
+      "id": "Q554082",
+      "name": "Hugo Anton Fisher",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q554082"
+    },
+    {
+      "id": "Q1679670",
+      "name": "Jakub Husn\u00edk",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1679670"
+    },
+    {
+      "id": "Q12023497",
+      "name": "Jano K\u00f6hler",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q12023497"
+    },
+    {
+      "id": "Q15821312",
+      "name": "Johann Kautsky",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q15821312"
+    },
+    {
+      "id": "Q955415",
+      "name": "Josef M\u00e1nes",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q955415"
+    },
+    {
+      "id": "Q10816489",
+      "name": "Josef Vojt\u011bch Hellich",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q10816489"
+    },
+    {
+      "id": "Q1670334",
+      "name": "Karel Hlav\u00e1\u010dek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1670334"
+    },
+    {
+      "id": "Q325467",
+      "name": "Karel Kl\u00ed\u010d",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q325467"
+    },
+    {
+      "id": "Q3504241",
+      "name": "Karel Liebscher",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3504241"
+    },
+    {
+      "id": "Q164703",
+      "name": "Ludv\u00edk Kuba",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q164703"
+    },
+    {
+      "id": "Q50912559",
+      "name": "Luma von Flesch-Brunningen",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q50912559"
+    },
+    {
+      "id": "Q1717368",
+      "name": "Mary Louisa Kirschner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1717368"
+    },
+    {
+      "id": "Q12037556",
+      "name": "Milo\u0161 Jir\u00e1nek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q12037556"
+    },
+    {
+      "id": "Q1248344",
+      "name": "Otakar Lebeda",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1248344"
+    },
+    {
+      "id": "Q7929683",
+      "name": "Viktor Foerster",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7929683"
+    },
+    {
+      "id": "Q11925845",
+      "name": "Vojt\u011bch Benedikt Juhn",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q11925845"
+    },
+    {
+      "id": "Q1554305",
+      "name": "V\u00e1clav Jansa",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1554305"
+    },
+    {
+      "id": "Q650946",
+      "name": "V\u011bnceslav \u010cern\u00fd",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q650946"
+    },
+    {
+      "id": "Q4825985",
+      "name": "Wilhelm Kandler",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4825985"
+    },
+    {
+      "id": "Q146691",
+      "name": "Alphonse Mucha",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q146691"
+    },
+    {
+      "id": "Q608745",
+      "name": "Anton\u00edn Slav\u00ed\u010dek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q608745"
+    },
+    {
+      "id": "Q10858735",
+      "name": "Artu\u0161 Scheiner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q10858735"
+    },
+    {
+      "id": "Q763422",
+      "name": "August Piepenhagen",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q763422"
+    },
+    {
+      "id": "Q10859119",
+      "name": "Augustin N\u011bmejc",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q10859119"
+    },
+    {
+      "id": "Q4879486",
+      "name": "Bed\u0159ich Wachsmann",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4879486"
+    },
+    {
+      "id": "Q5086094",
+      "name": "Charlotte Piepenhagen",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5086094"
+    },
+    {
+      "id": "Q379150",
+      "name": "Emil Orlik",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q379150"
+    },
+    {
+      "id": "Q7940722",
+      "name": "Franti\u0161ek Sequens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7940722"
+    },
+    {
+      "id": "Q725492",
+      "name": "Franti\u0161ek Tkadl\u00edk",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q725492"
+    },
+    {
+      "id": "Q1584048",
+      "name": "Hanu\u0161 Schwaiger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1584048"
+    },
+    {
+      "id": "Q42960558",
+      "name": "Heinrich Hans Schlimarski",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q42960558"
+    },
+    {
+      "id": "Q4309439",
+      "name": "Ivan Mrkvi\u010dka",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4309439"
+    },
+    {
+      "id": "Q1376646",
+      "name": "Jakub Schikaneder",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1376646"
+    },
+    {
+      "id": "Q12022909",
+      "name": "Jan Nowopack\u00fd",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q12022909"
+    },
+    {
+      "id": "Q939204",
+      "name": "Jan Vil\u00edmek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q939204"
+    },
+    {
+      "id": "Q2635824",
+      "name": "Jaroslav V\u011b\u0161\u00edn",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2635824"
+    },
+    {
+      "id": "Q1586911",
+      "name": "Jaroslav \u0160pillar",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1586911"
+    },
+    {
+      "id": "Q20755610",
+      "name": "Johanna Salm-Reifferscheid",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q20755610"
+    },
+    {
+      "id": "Q4285106",
+      "name": "Josef Mathauser",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4285106"
+    },
+    {
+      "id": "Q1369852",
+      "name": "Josef Mat\u011bj Navr\u00e1til",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1369852"
+    },
+    {
+      "id": "Q4306756",
+      "name": "Josef Muka\u0159ovsk\u00fd",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4306756"
+    },
+    {
+      "id": "Q6280263",
+      "name": "Josef Zelen\u00fd",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6280263"
+    },
+    {
+      "id": "Q20428113",
+      "name": "Josefina Ma\u0159\u00e1kov\u00e1",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q20428113"
+    },
+    {
+      "id": "Q12027136",
+      "name": "Jo\u017ea Uprka",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q12027136"
+    },
+    {
+      "id": "Q531210",
+      "name": "Julius Ma\u0159\u00e1k",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q531210"
+    },
+    {
+      "id": "Q1729185",
+      "name": "Karel Postl",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1729185"
+    },
+    {
+      "id": "Q3505153",
+      "name": "Karel Purkyn\u011b",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3505153"
+    },
+    {
+      "id": "Q12028545",
+      "name": "Karel Svoboda (artist)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q12028545"
+    },
+    {
+      "id": "Q15360515",
+      "name": "Karel \u0160pillar",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q15360515"
+    },
+    {
+      "id": "Q13389662",
+      "name": "Karl W\u00fcrbs",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q13389662"
+    },
+    {
+      "id": "Q25932375",
+      "name": "Louisa Piepenhagen",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q25932375"
+    },
+    {
+      "id": "Q957474",
+      "name": "Lud\u011bk Marold",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q957474"
+    },
+    {
+      "id": "Q1648193",
+      "name": "Maximilian Pirner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1648193"
+    },
+    {
+      "id": "Q357864",
+      "name": "Quido M\u00e1nes",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q357864"
+    },
+    {
+      "id": "Q4832689",
+      "name": "Sob\u011bslav Pinkas",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4832689"
+    },
+    {
+      "id": "Q1469764",
+      "name": "Viktor Oliva",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1469764"
+    },
+    {
+      "id": "Q1646853",
+      "name": "Vincenc Morstadt",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1646853"
+    },
+    {
+      "id": "Q7944137",
+      "name": "V\u00e1clav M\u00e1nes",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7944137"
+    },
+    {
+      "id": "Q17317320",
+      "name": "V\u00e1clav Radimsk\u00fd",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q17317320"
+    },
+    {
+      "id": "Q2830938",
+      "name": "Albert Baertsoen",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2830938"
+    },
+    {
+      "id": "Q19901875",
+      "name": "Am\u00e9lie van Assche",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19901875"
+    },
+    {
+      "id": "Q466668",
+      "name": "Anna Boch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q466668"
+    },
+    {
+      "id": "Q2853726",
+      "name": "Antoine-F\u00e9lix Bour\u00e9",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2853726"
+    },
+    {
+      "id": "Q2853739",
+      "name": "Antoine Brice",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2853739"
+    },
+    {
+      "id": "Q1846225",
+      "name": "Berthe Art",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1846225"
+    },
+    {
+      "id": "Q2957574",
+      "name": "Charles Baugniet",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2957574"
+    },
+    {
+      "id": "Q18508029",
+      "name": "Charles Le Clercq",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18508029"
+    },
+    {
+      "id": "Q1066638",
+      "name": "Charles Van Beveren",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1066638"
+    },
+    {
+      "id": "Q794197",
+      "name": "Edouard Agneessens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q794197"
+    },
+    {
+      "id": "Q18603392",
+      "name": "Eug\u00e8ne-Fran\u00e7ois de Block",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18603392"
+    },
+    {
+      "id": "Q1373445",
+      "name": "Eug\u00e8ne Boch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1373445"
+    },
+    {
+      "id": "Q2058289",
+      "name": "Euphrosine Beernaert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2058289"
+    },
+    {
+      "id": "Q2285269",
+      "name": "Firmin Baes",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2285269"
+    },
+    {
+      "id": "Q5492486",
+      "name": "Franti\u0161ek Bohum\u00edr Zv\u011b\u0159ina",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5492486"
+    },
+    {
+      "id": "Q2566174",
+      "name": "Franti\u0161ek \u017den\u00ed\u0161ek",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2566174"
+    },
+    {
+      "id": "Q3083286",
+      "name": "Fran\u00e7ois-Antoine Bossuet",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3083286"
+    },
+    {
+      "id": "Q21646564",
+      "name": "Fran\u00e7oise-Jeanne Ridderbosch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21646564"
+    },
+    {
+      "id": "Q3127252",
+      "name": "G\u00e9o Bernier",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3127252"
+    },
+    {
+      "id": "Q972402",
+      "name": "Herman Baltia",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q972402"
+    },
+    {
+      "id": "Q1620022",
+      "name": "Hippolyte Boulenger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1620022"
+    },
+    {
+      "id": "Q1682309",
+      "name": "Jan van Beers (artist)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1682309"
+    },
+    {
+      "id": "Q12059431",
+      "name": "Johann Georg de Hamilton",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q12059431"
+    },
+    {
+      "id": "Q6282083",
+      "name": "Joseph Charles Cogels",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6282083"
+    },
+    {
+      "id": "Q545005",
+      "name": "Louis Artan",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q545005"
+    },
+    {
+      "id": "Q2196401",
+      "name": "L\u00e9on Abry",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2196401"
+    },
+    {
+      "id": "Q3270717",
+      "name": "L\u00e9on Becker",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3270717"
+    },
+    {
+      "id": "Q33171822",
+      "name": "Marianne de Bellem",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q33171822"
+    },
+    {
+      "id": "Q28777273",
+      "name": "Marie-Elisabeth Simons",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q28777273"
+    },
+    {
+      "id": "Q1847672",
+      "name": "Marie de Bi\u00e8vre",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1847672"
+    },
+    {
+      "id": "Q21396068",
+      "name": "Marie de Latour",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21396068"
+    },
+    {
+      "id": "Q3377696",
+      "name": "Petrus Johannes van Regemorter",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3377696"
+    },
+    {
+      "id": "Q3379112",
+      "name": "Philipp Ferdinand de Hamilton",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3379112"
+    },
+    {
+      "id": "Q3382227",
+      "name": "Piat Joseph Sauvage",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3382227"
+    },
+    {
+      "id": "Q11309879",
+      "name": "Pierre Abattucci",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q11309879"
+    },
+    {
+      "id": "Q2166424",
+      "name": "Polydore Beaufaux",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2166424"
+    },
+    {
+      "id": "Q3338779",
+      "name": "Th\u00e9odore Baron",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3338779"
+    },
+    {
+      "id": "Q7938860",
+      "name": "Vladim\u00edr \u017dupansk\u00fd",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7938860"
+    },
+    {
+      "id": "Q3568325",
+      "name": "Willem Albracht",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3568325"
+    },
+    {
+      "id": "Q19951784",
+      "name": "\u00c9mile Baes",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19951784"
+    },
+    {
+      "id": "Q2610498",
+      "name": "Albert Ciamberlani",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2610498"
+    },
+    {
+      "id": "Q2546674",
+      "name": "Alfred Cluysenaar",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2546674"
+    },
+    {
+      "id": "Q3060744",
+      "name": "Alo\u00efs Boudry",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3060744"
+    },
+    {
+      "id": "Q4763123",
+      "name": "Angelus de Baets",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4763123"
+    },
+    {
+      "id": "Q580528",
+      "name": "Auguste Chauvin",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q580528"
+    },
+    {
+      "id": "Q2604346",
+      "name": "Camille van Camp",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2604346"
+    },
+    {
+      "id": "Q18645728",
+      "name": "Charles Picqu\u00e9 (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18645728"
+    },
+    {
+      "id": "Q2583433",
+      "name": "David Col",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2583433"
+    },
+    {
+      "id": "Q18508119",
+      "name": "Diana Coomans",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18508119"
+    },
+    {
+      "id": "Q733002",
+      "name": "Emile Claus",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q733002"
+    },
+    {
+      "id": "Q5371590",
+      "name": "Emile Pierre Joseph De Cauwer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5371590"
+    },
+    {
+      "id": "Q2449075",
+      "name": "Eug\u00e8ne Broerman",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2449075"
+    },
+    {
+      "id": "Q474120",
+      "name": "Ferdinand de Braekeleer the Elder",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q474120"
+    },
+    {
+      "id": "Q19753663",
+      "name": "Florent Crabeels",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19753663"
+    },
+    {
+      "id": "Q663721",
+      "name": "Franz Courtens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q663721"
+    },
+    {
+      "id": "Q2265410",
+      "name": "Fran\u00e7ois Cautaerts",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2265410"
+    },
+    {
+      "id": "Q3979368",
+      "name": "Georges Croegaert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3979368"
+    },
+    {
+      "id": "Q3106043",
+      "name": "Gilles-Fran\u00e7ois Closson",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3106043"
+    },
+    {
+      "id": "Q2097997",
+      "name": "Gisbert Combaz",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2097997"
+    },
+    {
+      "id": "Q2604669",
+      "name": "Henri de Braekeleer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2604669"
+    },
+    {
+      "id": "Q18508300",
+      "name": "Heva Coomans",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18508300"
+    },
+    {
+      "id": "Q2420244",
+      "name": "Ignace Brice",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2420244"
+    },
+    {
+      "id": "Q556508",
+      "name": "Jean-Baptiste Capronnier",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q556508"
+    },
+    {
+      "id": "Q18600110",
+      "name": "Jean-Michel Cels",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18600110"
+    },
+    {
+      "id": "Q16059758",
+      "name": "Jean Carolus",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q16059758"
+    },
+    {
+      "id": "Q952820",
+      "name": "Jean Henri De Coene",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q952820"
+    },
+    {
+      "id": "Q15511718",
+      "name": "Joseph De Cauwer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q15511718"
+    },
+    {
+      "id": "Q19594855",
+      "name": "Louise Danse",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19594855"
+    },
+    {
+      "id": "Q110226054",
+      "name": "L\u00e9on Corthals",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q110226054"
+    },
+    {
+      "id": "Q19755067",
+      "name": "Marie-Lambertine Coclers",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19755067"
+    },
+    {
+      "id": "Q21345058",
+      "name": "Marie Collart",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21345058"
+    },
+    {
+      "id": "Q19594890",
+      "name": "Marie Danse",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19594890"
+    },
+    {
+      "id": "Q3317899",
+      "name": "Modeste Carlier",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3317899"
+    },
+    {
+      "id": "Q2959082",
+      "name": "Paul Jean Clays",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2959082"
+    },
+    {
+      "id": "Q2259183",
+      "name": "Pierre Olivier Joseph Coomans",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2259183"
+    },
+    {
+      "id": "Q3456131",
+      "name": "R\u00e9my Cogghe",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3456131"
+    },
+    {
+      "id": "Q7934740",
+      "name": "Virginie Bovie",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7934740"
+    },
+    {
+      "id": "Q17329348",
+      "name": "Xavier De Cock",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q17329348"
+    },
+    {
+      "id": "Q679002",
+      "name": "\u00c9douard De Bi\u00e8fve",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q679002"
+    },
+    {
+      "id": "Q1110203",
+      "name": "\u00c9variste Carpentier",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1110203"
+    },
+    {
+      "id": "Q361268",
+      "name": "Adolf Alexander Dillens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q361268"
+    },
+    {
+      "id": "Q18603256",
+      "name": "Ad\u00e8le Evrard",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18603256"
+    },
+    {
+      "id": "Q2793195",
+      "name": "Albrecht De Vriendt",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2793195"
+    },
+    {
+      "id": "Q914211",
+      "name": "Alfred William Finch",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q914211"
+    },
+    {
+      "id": "Q61799593",
+      "name": "August De Wilde",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q61799593"
+    },
+    {
+      "id": "Q2960755",
+      "name": "Charles van den Eycken",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2960755"
+    },
+    {
+      "id": "Q22812536",
+      "name": "Dominicus Franciscus du Bois",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q22812536"
+    },
+    {
+      "id": "Q1255763",
+      "name": "Draner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1255763"
+    },
+    {
+      "id": "Q3047522",
+      "name": "Edgard Farasyn",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3047522"
+    },
+    {
+      "id": "Q1285772",
+      "name": "Edmond De Schampheleer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1285772"
+    },
+    {
+      "id": "Q2195065",
+      "name": "Edward Dujardin",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2195065"
+    },
+    {
+      "id": "Q2456437",
+      "name": "Ernest Faut",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2456437"
+    },
+    {
+      "id": "Q2067274",
+      "name": "Fanny Geefs",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2067274"
+    },
+    {
+      "id": "Q18811736",
+      "name": "Frans Geerts",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18811736"
+    },
+    {
+      "id": "Q5506724",
+      "name": "Fr\u00e9d\u00e9ric Th\u00e9odore Faber",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5506724"
+    },
+    {
+      "id": "Q2749909",
+      "name": "F\u00e9lix De Vigne",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2749909"
+    },
+    {
+      "id": "Q582079",
+      "name": "Georges Gaudy",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q582079"
+    },
+    {
+      "id": "Q2708003",
+      "name": "Gustave Den Duyts",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2708003"
+    },
+    {
+      "id": "Q1286290",
+      "name": "Gustave L\u00e9onard de Jonghe",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1286290"
+    },
+    {
+      "id": "Q5713708",
+      "name": "Hendrick Joseph Dillens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5713708"
+    },
+    {
+      "id": "Q3132241",
+      "name": "Henri Decaisne",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3132241"
+    },
+    {
+      "id": "Q2980574",
+      "name": "Henri Evenepoel",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2980574"
+    },
+    {
+      "id": "Q3136162",
+      "name": "Hippolyte de la Charlerie",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3136162"
+    },
+    {
+      "id": "Q158840",
+      "name": "James Ensor",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q158840"
+    },
+    {
+      "id": "Q21345506",
+      "name": "Jan Geeraerts",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21345506"
+    },
+    {
+      "id": "Q1395469",
+      "name": "Jean Delville",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1395469"
+    },
+    {
+      "id": "Q2499246",
+      "name": "Jean Delvin",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2499246"
+    },
+    {
+      "id": "Q1697789",
+      "name": "Johannes Joseph Destr\u00e9e",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1697789"
+    },
+    {
+      "id": "Q1530842",
+      "name": "Josephus Laurentius Dyckmans",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1530842"
+    },
+    {
+      "id": "Q707662",
+      "name": "Louis Dubois (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q707662"
+    },
+    {
+      "id": "Q538173",
+      "name": "Louis Gallait",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q538173"
+    },
+    {
+      "id": "Q939381",
+      "name": "Louise De Hem",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q939381"
+    },
+    {
+      "id": "Q1361500",
+      "name": "L\u00e9on Fr\u00e9d\u00e9ric",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1361500"
+    },
+    {
+      "id": "Q55770716",
+      "name": "Marie De Keyser",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q55770716"
+    },
+    {
+      "id": "Q721260",
+      "name": "Th\u00e9odore Fourmois",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q721260"
+    },
+    {
+      "id": "Q7925882",
+      "name": "Victor Eeckhout",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7925882"
+    },
+    {
+      "id": "Q1049510",
+      "name": "William Degouve de Nuncques",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1049510"
+    },
+    {
+      "id": "Q3579806",
+      "name": "\u00c9douard Delvaux",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3579806"
+    },
+    {
+      "id": "Q21645446",
+      "name": "\u00c9lisa de Gamond",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21645446"
+    },
+    {
+      "id": "Q3588447",
+      "name": "\u00c9mile Deckers",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3588447"
+    },
+    {
+      "id": "Q2343540",
+      "name": "Adriaan Jozef Heymans",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2343540"
+    },
+    {
+      "id": "Q2825435",
+      "name": "Ad\u00e8le Kindt",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2825435"
+    },
+    {
+      "id": "Q519977",
+      "name": "Andr\u00e9 Jolly",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q519977"
+    },
+    {
+      "id": "Q2871292",
+      "name": "Auguste Lev\u00eaque",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2871292"
+    },
+    {
+      "id": "Q2262696",
+      "name": "Charles Hermans",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2262696"
+    },
+    {
+      "id": "Q1065323",
+      "name": "Charles Leickert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1065323"
+    },
+    {
+      "id": "Q2657971",
+      "name": "Charles de Groux",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2657971"
+    },
+    {
+      "id": "Q1287584",
+      "name": "Edouard Hamman",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1287584"
+    },
+    {
+      "id": "Q3579889",
+      "name": "Edouard Huberti",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3579889"
+    },
+    {
+      "id": "Q2581243",
+      "name": "Edouard de Jans",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2581243"
+    },
+    {
+      "id": "Q21395976",
+      "name": "Egide Fran\u00e7ois Leemans",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21395976"
+    },
+    {
+      "id": "Q15875036",
+      "name": "Eug\u00e8ne Joors",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q15875036"
+    },
+    {
+      "id": "Q598897",
+      "name": "Eug\u00e8ne Laermans",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q598897"
+    },
+    {
+      "id": "Q2128932",
+      "name": "Evert Larock",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2128932"
+    },
+    {
+      "id": "Q559559",
+      "name": "Fernand Khnopff",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q559559"
+    },
+    {
+      "id": "Q3082993",
+      "name": "Frans Hens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3082993"
+    },
+    {
+      "id": "Q18508181",
+      "name": "Frans Van Leemputten",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18508181"
+    },
+    {
+      "id": "Q323902",
+      "name": "Godfried Guffens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q323902"
+    },
+    {
+      "id": "Q21231803",
+      "name": "Guillaume Van der Hecht",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21231803"
+    },
+    {
+      "id": "Q2333658",
+      "name": "Henri Houben",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2333658"
+    },
+    {
+      "id": "Q450114",
+      "name": "Henry de Groux",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q450114"
+    },
+    {
+      "id": "Q1678885",
+      "name": "Jacob Jacobs (artist)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1678885"
+    },
+    {
+      "id": "Q2130178",
+      "name": "Jacques de Lalaing (artist)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2130178"
+    },
+    {
+      "id": "Q3161602",
+      "name": "Jan-Baptist Huysmans",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3161602"
+    },
+    {
+      "id": "Q959521",
+      "name": "Jan August Hendrik Leys",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q959521"
+    },
+    {
+      "id": "Q1311225",
+      "name": "Jan Baptist van der Hulst",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1311225"
+    },
+    {
+      "id": "Q21345605",
+      "name": "Jean Gouweloos",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21345605"
+    },
+    {
+      "id": "Q326082",
+      "name": "Jean Pierre Fran\u00e7ois Lamorini\u00e8re",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q326082"
+    },
+    {
+      "id": "Q6305444",
+      "name": "Jef Leempoels",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6305444"
+    },
+    {
+      "id": "Q3186090",
+      "name": "Josse Impens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3186090"
+    },
+    {
+      "id": "Q1863471",
+      "name": "Jules Victor G\u00e9nisson",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1863471"
+    },
+    {
+      "id": "Q2599482",
+      "name": "Ketty Gilsoul-Hoppe",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2599482"
+    },
+    {
+      "id": "Q2677040",
+      "name": "Louis Van Kuyck",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2677040"
+    },
+    {
+      "id": "Q16217145",
+      "name": "Louise Heger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q16217145"
+    },
+    {
+      "id": "Q97582440",
+      "name": "L\u00e9o Jo",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q97582440"
+    },
+    {
+      "id": "Q569045",
+      "name": "Nicaise de Keyser",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q569045"
+    },
+    {
+      "id": "Q528373",
+      "name": "Paul Lauters",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q528373"
+    },
+    {
+      "id": "Q3385620",
+      "name": "Pierre-Joseph Lafontaine",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3385620"
+    },
+    {
+      "id": "Q2539498",
+      "name": "Victor Gilsoul",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2539498"
+    },
+    {
+      "id": "Q4988717",
+      "name": "Victor Lagye",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4988717"
+    },
+    {
+      "id": "Q4669304",
+      "name": "Abraham van der Waeyen Pieterszen",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4669304"
+    },
+    {
+      "id": "Q2844682",
+      "name": "Am\u00e9d\u00e9e Lynen",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2844682"
+    },
+    {
+      "id": "Q2720231",
+      "name": "Auguste de Peellaert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2720231"
+    },
+    {
+      "id": "Q69438975",
+      "name": "Camille van Mulders",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q69438975"
+    },
+    {
+      "id": "Q2242842",
+      "name": "Charles Mertens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2242842"
+    },
+    {
+      "id": "Q21750203",
+      "name": "Cl\u00e9mence Michel",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21750203"
+    },
+    {
+      "id": "Q2994899",
+      "name": "Constant Montald",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2994899"
+    },
+    {
+      "id": "Q552440",
+      "name": "Constantin Meunier",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q552440"
+    },
+    {
+      "id": "Q18338159",
+      "name": "Edouard Manduau",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18338159"
+    },
+    {
+      "id": "Q987879",
+      "name": "Egide Linnig",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q987879"
+    },
+    {
+      "id": "Q21638339",
+      "name": "Emmanuel Noterman",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21638339"
+    },
+    {
+      "id": "Q21646420",
+      "name": "Fanny Paelinck-Horgnies",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21646420"
+    },
+    {
+      "id": "Q2180971",
+      "name": "Ferdinand Marinus",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2180971"
+    },
+    {
+      "id": "Q55433156",
+      "name": "Fernande de Mertens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q55433156"
+    },
+    {
+      "id": "Q2111630",
+      "name": "Florent Mols",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2111630"
+    },
+    {
+      "id": "Q1445460",
+      "name": "Frans Mortelmans",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1445460"
+    },
+    {
+      "id": "Q20021809",
+      "name": "Franz Meerts",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q20021809"
+    },
+    {
+      "id": "Q647641",
+      "name": "Fran\u00e7ois-Joseph Navez",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q647641"
+    },
+    {
+      "id": "Q1977323",
+      "name": "Fran\u00e7ois Musin",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1977323"
+    },
+    {
+      "id": "Q3101776",
+      "name": "George Morren",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3101776"
+    },
+    {
+      "id": "Q19464447",
+      "name": "Georgette Meunier",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19464447"
+    },
+    {
+      "id": "Q2326773",
+      "name": "Gerard Portielje",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2326773"
+    },
+    {
+      "id": "Q2602763",
+      "name": "Henri Privat-Livemont",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2602763"
+    },
+    {
+      "id": "Q1384245",
+      "name": "Jean-Baptiste Madou",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1384245"
+    },
+    {
+      "id": "Q919158",
+      "name": "Jean-Fran\u00e7ois Portaels",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q919158"
+    },
+    {
+      "id": "Q18421731",
+      "name": "Joseph Lies",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18421731"
+    },
+    {
+      "id": "Q21638241",
+      "name": "Joseph Middeleer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21638241"
+    },
+    {
+      "id": "Q1403499",
+      "name": "Joseph Quinaux",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1403499"
+    },
+    {
+      "id": "Q21031589",
+      "name": "Jozef Linnig",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21031589"
+    },
+    {
+      "id": "Q1729177",
+      "name": "Karel Ooms",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1729177"
+    },
+    {
+      "id": "Q2284155",
+      "name": "Louis Van den Eynde",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2284155"
+    },
+    {
+      "id": "Q3295199",
+      "name": "Marthe Massin",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3295199"
+    },
+    {
+      "id": "Q4387736",
+      "name": "Paul Parmentier",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q4387736"
+    },
+    {
+      "id": "Q11816648",
+      "name": "Pierre Jean van der Ouderaa",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q11816648"
+    },
+    {
+      "id": "Q3526669",
+      "name": "Th\u00e9ophile Lybaert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3526669"
+    },
+    {
+      "id": "Q20856161",
+      "name": "Willem Linnig the Elder",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q20856161"
+    },
+    {
+      "id": "Q17651285",
+      "name": "Willem Linnig the Younger",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q17651285"
+    },
+    {
+      "id": "Q1041605",
+      "name": "Xavier Mellery",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1041605"
+    },
+    {
+      "id": "Q21932196",
+      "name": "Zacharie Noterman",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21932196"
+    },
+    {
+      "id": "Q3588674",
+      "name": "\u00c9mile Motte",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3588674"
+    },
+    {
+      "id": "Q20973397",
+      "name": "Adolphe Pierre Sunaert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q20973397"
+    },
+    {
+      "id": "Q2153108",
+      "name": "Agapit Stevens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2153108"
+    },
+    {
+      "id": "Q16164141",
+      "name": "Alexander Struys",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q16164141"
+    },
+    {
+      "id": "Q3000454",
+      "name": "Alexis Van Hamme",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3000454"
+    },
+    {
+      "id": "Q2791300",
+      "name": "Alfred Ronner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2791300"
+    },
+    {
+      "id": "Q773855",
+      "name": "Alfred Stevens (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q773855"
+    },
+    {
+      "id": "Q2836650",
+      "name": "Alice Ronner",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2836650"
+    },
+    {
+      "id": "Q506019",
+      "name": "Armand Rassenfosse",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q506019"
+    },
+    {
+      "id": "Q13461816",
+      "name": "Charles-Philog\u00e8ne Tschaggeny",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q13461816"
+    },
+    {
+      "id": "Q2960249",
+      "name": "Charles Soubre",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2960249"
+    },
+    {
+      "id": "Q21463741",
+      "name": "Charles Van Havermaet",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21463741"
+    },
+    {
+      "id": "Q3378782",
+      "name": "Cornelius Van Leemputten",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3378782"
+    },
+    {
+      "id": "Q2659148",
+      "name": "Ernest Slingeneyer",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2659148"
+    },
+    {
+      "id": "Q18202016",
+      "name": "Eug\u00e8ne Siberdt",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q18202016"
+    },
+    {
+      "id": "Q3060172",
+      "name": "Eug\u00e8ne Smits",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3060172"
+    },
+    {
+      "id": "Q2803460",
+      "name": "Frans Van Damme",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2803460"
+    },
+    {
+      "id": "Q3295542",
+      "name": "Frans Van Kuyck",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3295542"
+    },
+    {
+      "id": "Q1975238",
+      "name": "Fran\u00e7ois Roffiaen",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1975238"
+    },
+    {
+      "id": "Q1451201",
+      "name": "Fran\u00e7ois Stroobant",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1451201"
+    },
+    {
+      "id": "Q378129",
+      "name": "F\u00e9licien Rops",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q378129"
+    },
+    {
+      "id": "Q2868321",
+      "name": "Guillaume Van Strydonck",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2868321"
+    },
+    {
+      "id": "Q19953359",
+      "name": "Hendrik Frans Schaefels",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q19953359"
+    },
+    {
+      "id": "Q21396057",
+      "name": "Henri Adolphe Schaep",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21396057"
+    },
+    {
+      "id": "Q208833",
+      "name": "Henri van der Haert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q208833"
+    },
+    {
+      "id": "Q454470",
+      "name": "Henri\u00ebtte Ronner-Knip",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q454470"
+    },
+    {
+      "id": "Q14848247",
+      "name": "Ignatius Josephus van Regemorter",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q14848247"
+    },
+    {
+      "id": "Q21396050",
+      "name": "Jan Michiel Ruyten",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21396050"
+    },
+    {
+      "id": "Q1619290",
+      "name": "Jan Stobbaerts",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1619290"
+    },
+    {
+      "id": "Q325285",
+      "name": "Jan Swerts",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q325285"
+    },
+    {
+      "id": "Q3174364",
+      "name": "Jean-Baptiste Robie",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3174364"
+    },
+    {
+      "id": "Q15442650",
+      "name": "Jean Baptiste van Eycken",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q15442650"
+    },
+    {
+      "id": "Q6216530",
+      "name": "Johannes Baptista van Acker",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6216530"
+    },
+    {
+      "id": "Q645601",
+      "name": "Joseph Stallaert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q645601"
+    },
+    {
+      "id": "Q1708044",
+      "name": "Joseph Stevens (painter)",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1708044"
+    },
+    {
+      "id": "Q1600620",
+      "name": "Jozef Van Lerius",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1600620"
+    },
+    {
+      "id": "Q21396056",
+      "name": "Lucas Victor Schaefels",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21396056"
+    },
+    {
+      "id": "Q3309751",
+      "name": "Michel Ghislain Stapleaux",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3309751"
+    },
+    {
+      "id": "Q551638",
+      "name": "Pierre-Joseph Redout\u00e9",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q551638"
+    },
+    {
+      "id": "Q21289683",
+      "name": "Pieter Van Havermaet",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21289683"
+    },
+    {
+      "id": "Q7818636",
+      "name": "\u00c9mile Sacr\u00e9",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q7818636"
+    },
+    {
+      "id": "Q2179133",
+      "name": "Alfred Verhaeren",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2179133"
+    },
+    {
+      "id": "Q2835508",
+      "name": "Alfred Verwee",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2835508"
+    },
+    {
+      "id": "Q1821051",
+      "name": "Anna De Weert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1821051"
+    },
+    {
+      "id": "Q352978",
+      "name": "Antoine Wiertz",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q352978"
+    },
+    {
+      "id": "Q1826320",
+      "name": "Antoon Van Ysendyck",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1826320"
+    },
+    {
+      "id": "Q21396168",
+      "name": "Camille Wauters",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21396168"
+    },
+    {
+      "id": "Q5306359",
+      "name": "Charles-Louis Verboeckhoven",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q5306359"
+    },
+    {
+      "id": "Q37111371",
+      "name": "Charles Augustin Wauters",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q37111371"
+    },
+    {
+      "id": "Q13102096",
+      "name": "Charles Venneman",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q13102096"
+    },
+    {
+      "id": "Q175257",
+      "name": "Charles Verlat",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q175257"
+    },
+    {
+      "id": "Q2516981",
+      "name": "Eduard Wallays",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2516981"
+    },
+    {
+      "id": "Q21455797",
+      "name": "Edward Woutermaertens",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21455797"
+    },
+    {
+      "id": "Q466319",
+      "name": "Emile Wauters",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q466319"
+    },
+    {
+      "id": "Q44070448",
+      "name": "Ernest Welvaert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q44070448"
+    },
+    {
+      "id": "Q1353771",
+      "name": "Eug\u00e8ne Verboeckhoven",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1353771"
+    },
+    {
+      "id": "Q324315",
+      "name": "Florent Willems",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q324315"
+    },
+    {
+      "id": "Q21396143",
+      "name": "Frans Verhas",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q21396143"
+    },
+    {
+      "id": "Q3533962",
+      "name": "Franz Vinck",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3533962"
+    },
+    {
+      "id": "Q1553930",
+      "name": "Guillaume Vogels",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1553930"
+    },
+    {
+      "id": "Q727869",
+      "name": "Gustaaf Wappers",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q727869"
+    },
+    {
+      "id": "Q3121341",
+      "name": "Gustave Vanaise",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3121341"
+    },
+    {
+      "id": "Q1895117",
+      "name": "Henry Voordecker",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q1895117"
+    },
+    {
+      "id": "Q154083",
+      "name": "Henry van de Velde",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q154083"
+    },
+    {
+      "id": "Q2018445",
+      "name": "Isidore Verheyden",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2018445"
+    },
+    {
+      "id": "Q2036536",
+      "name": "Jan Verhas",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2036536"
+    },
+    {
+      "id": "Q713128",
+      "name": "Li\u00e9vin De Winne",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q713128"
+    },
+    {
+      "id": "Q2465857",
+      "name": "Louis-Charles Verwee",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2465857"
+    },
+    {
+      "id": "Q2440081",
+      "name": "Louis-Pierre Verwee",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2440081"
+    },
+    {
+      "id": "Q2064550",
+      "name": "Marguerite Verboeckhoven",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2064550"
+    },
+    {
+      "id": "Q2081028",
+      "name": "Petrus Vertenten",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2081028"
+    },
+    {
+      "id": "Q3383224",
+      "name": "Pierre-Joseph Witdoeck",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q3383224"
+    },
+    {
+      "id": "Q981091",
+      "name": "Piet Verhaert",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q981091"
+    },
+    {
+      "id": "Q2537391",
+      "name": "Theodoor Verstraete",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q2537391"
+    },
+    {
+      "id": "Q6276088",
+      "name": "Vincent De Vos",
+      "school": "europe",
+      "wiki": "https://www.wikidata.org/wiki/Q6276088"
+    }
+  ]
+}

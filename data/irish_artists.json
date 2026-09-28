@@ -1,0 +1,1324 @@
+{
+  "artists": [
+    {
+      "id": "Q4678798",
+      "name": "Adam Buck",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4678798"
+    },
+    {
+      "id": "Q2842660",
+      "name": "Amelia Curran (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q2842660"
+    },
+    {
+      "id": "Q4757259",
+      "name": "Andrew Doyle (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4757259"
+    },
+    {
+      "id": "Q107261483",
+      "name": "Charles Byrne (Irish artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q107261483"
+    },
+    {
+      "id": "Q2543048",
+      "name": "Charles Collins (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q2543048"
+    },
+    {
+      "id": "Q5077470",
+      "name": "Charles Exshaw",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5077470"
+    },
+    {
+      "id": "Q728482",
+      "name": "Charles Jervas",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q728482"
+    },
+    {
+      "id": "Q5339487",
+      "name": "Edmund Garvey",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5339487"
+    },
+    {
+      "id": "Q20653758",
+      "name": "Frances Anne Edgeworth",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20653758"
+    },
+    {
+      "id": "Q5480232",
+      "name": "Francis Bindon",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5480232"
+    },
+    {
+      "id": "Q17899046",
+      "name": "Gabriel Beranger",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q17899046"
+    },
+    {
+      "id": "Q5523841",
+      "name": "Garret Morphy",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5523841"
+    },
+    {
+      "id": "Q5536751",
+      "name": "George Barret Sr.",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5536751"
+    },
+    {
+      "id": "Q5621557",
+      "name": "Gustavus Hamilton (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5621557"
+    },
+    {
+      "id": "Q15434322",
+      "name": "Henry Brocas",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q15434322"
+    },
+    {
+      "id": "Q5718682",
+      "name": "Henry Brooke (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5718682"
+    },
+    {
+      "id": "Q1634291",
+      "name": "Hugh Douglas Hamilton",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q1634291"
+    },
+    {
+      "id": "Q5931171",
+      "name": "Hugh Howard (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5931171"
+    },
+    {
+      "id": "Q16853475",
+      "name": "Jacob Ennis",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q16853475"
+    },
+    {
+      "id": "Q1042892",
+      "name": "James Barry (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q1042892"
+    },
+    {
+      "id": "Q5040676",
+      "name": "John Boyne (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5040676"
+    },
+    {
+      "id": "Q6224175",
+      "name": "John Butts (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6224175"
+    },
+    {
+      "id": "Q16853434",
+      "name": "John Comerford",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q16853434"
+    },
+    {
+      "id": "Q20641736",
+      "name": "John Henry Campbell (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20641736"
+    },
+    {
+      "id": "Q6241511",
+      "name": "John James Barralet",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6241511"
+    },
+    {
+      "id": "Q4485189",
+      "name": "Jonathan Fisher (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4485189"
+    },
+    {
+      "id": "Q2719102",
+      "name": "Laurence Dermott",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q2719102"
+    },
+    {
+      "id": "Q20540979",
+      "name": "Marianne-Caroline Hamilton",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20540979"
+    },
+    {
+      "id": "Q6969642",
+      "name": "Nathaniel Grogan",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6969642"
+    },
+    {
+      "id": "Q1386241",
+      "name": "Robert Barker (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q1386241"
+    },
+    {
+      "id": "Q7342810",
+      "name": "Robert Carver (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7342810"
+    },
+    {
+      "id": "Q7343205",
+      "name": "Robert Crone (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7343205"
+    },
+    {
+      "id": "Q18672175",
+      "name": "Robert Healy (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18672175"
+    },
+    {
+      "id": "Q18559867",
+      "name": "Solomon Delane",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18559867"
+    },
+    {
+      "id": "Q7648656",
+      "name": "Susanna Drury",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7648656"
+    },
+    {
+      "id": "Q3990592",
+      "name": "Thomas Burke (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q3990592"
+    },
+    {
+      "id": "Q18529025",
+      "name": "Thomas Clarke (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18529025"
+    },
+    {
+      "id": "Q3893676",
+      "name": "Thomas Frye",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q3893676"
+    },
+    {
+      "id": "Q3568399",
+      "name": "William Ashford",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q3568399"
+    },
+    {
+      "id": "Q8007363",
+      "name": "William Cuming",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q8007363"
+    },
+    {
+      "id": "Q4719870",
+      "name": "Alexander Pope (actor)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4719870"
+    },
+    {
+      "id": "Q17672",
+      "name": "Anne Elizabeth Ball",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q17672"
+    },
+    {
+      "id": "Q16155835",
+      "name": "Edith Blake",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q16155835"
+    },
+    {
+      "id": "Q18671051",
+      "name": "Edward Hodgson (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18671051"
+    },
+    {
+      "id": "Q18730225",
+      "name": "Edward John Newell",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18730225"
+    },
+    {
+      "id": "Q18671212",
+      "name": "Francis Robert West",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18671212"
+    },
+    {
+      "id": "Q5542685",
+      "name": "George Mullins (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5542685"
+    },
+    {
+      "id": "Q5717228",
+      "name": "Henry Allan (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5717228"
+    },
+    {
+      "id": "Q5729304",
+      "name": "Henry Tresham",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5729304"
+    },
+    {
+      "id": "Q16734771",
+      "name": "Herbert Pugh",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q16734771"
+    },
+    {
+      "id": "Q6130204",
+      "name": "James Brenan",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6130204"
+    },
+    {
+      "id": "Q12061104",
+      "name": "James Latham (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q12061104"
+    },
+    {
+      "id": "Q6138854",
+      "name": "James Malton",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6138854"
+    },
+    {
+      "id": "Q18529891",
+      "name": "James Mannin",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18529891"
+    },
+    {
+      "id": "Q6141116",
+      "name": "James Pearson (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6141116"
+    },
+    {
+      "id": "Q6254141",
+      "name": "John Ramage (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6254141"
+    },
+    {
+      "id": "Q126708215",
+      "name": "Joseph Tudor",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q126708215"
+    },
+    {
+      "id": "Q123479631",
+      "name": "Margaret Allen (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q123479631"
+    },
+    {
+      "id": "Q3850027",
+      "name": "Martin Archer Shee",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q3850027"
+    },
+    {
+      "id": "Q20725197",
+      "name": "Mary Alment",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20725197"
+    },
+    {
+      "id": "Q18674230",
+      "name": "Michael Kean",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18674230"
+    },
+    {
+      "id": "Q56600439",
+      "name": "Molly Barton",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q56600439"
+    },
+    {
+      "id": "Q13537178",
+      "name": "Nathaniel Hone the Elder",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q13537178"
+    },
+    {
+      "id": "Q7183794",
+      "name": "Philip Hussey",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7183794"
+    },
+    {
+      "id": "Q1233896",
+      "name": "Richard Brydges Beechey",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q1233896"
+    },
+    {
+      "id": "Q7345719",
+      "name": "Robert Hunter (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7345719"
+    },
+    {
+      "id": "Q4252018",
+      "name": "Robert West (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4252018"
+    },
+    {
+      "id": "Q7367857",
+      "name": "Rose Maynard Barton",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7367857"
+    },
+    {
+      "id": "Q7410252",
+      "name": "Sampson Towgood Roch",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7410252"
+    },
+    {
+      "id": "Q21457493",
+      "name": "Solomon Williams",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q21457493"
+    },
+    {
+      "id": "Q21459921",
+      "name": "Thomas Alfred Jones (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q21459921"
+    },
+    {
+      "id": "Q776481",
+      "name": "Thomas Hickey (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q776481"
+    },
+    {
+      "id": "Q16203060",
+      "name": "Thomas Lawranson",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q16203060"
+    },
+    {
+      "id": "Q7793586",
+      "name": "Thomas Roberts (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7793586"
+    },
+    {
+      "id": "Q18508686",
+      "name": "Thomas Sautelle Roberts",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18508686"
+    },
+    {
+      "id": "Q19810780",
+      "name": "Timothy Collopy",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q19810780"
+    },
+    {
+      "id": "Q18715924",
+      "name": "Vincenzo Valdr\u00e8",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18715924"
+    },
+    {
+      "id": "Q8009825",
+      "name": "William Gerard Barry",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q8009825"
+    },
+    {
+      "id": "Q18535046",
+      "name": "William Sherlock (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18535046"
+    },
+    {
+      "id": "Q18880386",
+      "name": "William Thompson (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18880386"
+    },
+    {
+      "id": "Q2644937",
+      "name": "Alfred Elmore",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q2644937"
+    },
+    {
+      "id": "Q4821506",
+      "name": "Augustus Nicholas Burke",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4821506"
+    },
+    {
+      "id": "Q4877152",
+      "name": "Beatrice Gubbins",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4877152"
+    },
+    {
+      "id": "Q19962950",
+      "name": "Catherine Gage",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q19962950"
+    },
+    {
+      "id": "Q20657123",
+      "name": "Diana Conyngham Ellis",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20657123"
+    },
+    {
+      "id": "Q536003",
+      "name": "Edward Dodwell",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q536003"
+    },
+    {
+      "id": "Q5347770",
+      "name": "Egerton Coghill",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5347770"
+    },
+    {
+      "id": "Q5361141",
+      "name": "Elinor Darwin",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5361141"
+    },
+    {
+      "id": "Q5362185",
+      "name": "Eliza Pratt Greatorex",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5362185"
+    },
+    {
+      "id": "Q5415071",
+      "name": "Eva Henrietta Hamilton",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5415071"
+    },
+    {
+      "id": "Q20085715",
+      "name": "Fanny Currey",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20085715"
+    },
+    {
+      "id": "Q1217590",
+      "name": "Frederic William Burton",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q1217590"
+    },
+    {
+      "id": "Q19282380",
+      "name": "Gaspare Gabrielli",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q19282380"
+    },
+    {
+      "id": "Q21463446",
+      "name": "George Mounsey Wheatley Atkinson",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q21463446"
+    },
+    {
+      "id": "Q5545495",
+      "name": "George Victor Du Noyer",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5545495"
+    },
+    {
+      "id": "Q5120507",
+      "name": "Henry Edward Doyle",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5120507"
+    },
+    {
+      "id": "Q12058075",
+      "name": "Hugh Frazer (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q12058075"
+    },
+    {
+      "id": "Q111530946",
+      "name": "Jessie O. Douglas",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q111530946"
+    },
+    {
+      "id": "Q6225483",
+      "name": "John Cassidy (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6225483"
+    },
+    {
+      "id": "Q5091957",
+      "name": "John Doyle (Irish artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5091957"
+    },
+    {
+      "id": "Q6375465",
+      "name": "Kate Dobbin",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6375465"
+    },
+    {
+      "id": "Q6533418",
+      "name": "Letitia Marion Hamilton",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6533418"
+    },
+    {
+      "id": "Q20652454",
+      "name": "Marianne Fannin",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20652454"
+    },
+    {
+      "id": "Q6775226",
+      "name": "Martin Cregan",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6775226"
+    },
+    {
+      "id": "Q6850934",
+      "name": "Mildred Anne Butler",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6850934"
+    },
+    {
+      "id": "Q131573974",
+      "name": "Minnie Cormack",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q131573974"
+    },
+    {
+      "id": "Q7025683",
+      "name": "Nicholas Joseph Crowley",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7025683"
+    },
+    {
+      "id": "Q1740505",
+      "name": "Norman Garstin",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q1740505"
+    },
+    {
+      "id": "Q56649267",
+      "name": "Olivia Charlotte Guinness, Baroness Ardilaun",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q56649267"
+    },
+    {
+      "id": "Q7147791",
+      "name": "Patrick Vincent Duffy",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7147791"
+    },
+    {
+      "id": "Q3051854",
+      "name": "Percy French",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q3051854"
+    },
+    {
+      "id": "Q7342874",
+      "name": "Robert Charles Goff",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7342874"
+    },
+    {
+      "id": "Q7411395",
+      "name": "Samuel Forde",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7411395"
+    },
+    {
+      "id": "Q360724",
+      "name": "Stanhope Forbes",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q360724"
+    },
+    {
+      "id": "Q52672866",
+      "name": "Thomas Cooley (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q52672866"
+    },
+    {
+      "id": "Q7789744",
+      "name": "Thomas Foster (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7789744"
+    },
+    {
+      "id": "Q45359731",
+      "name": "William Brocas",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q45359731"
+    },
+    {
+      "id": "Q15997341",
+      "name": "William Crampton Gore",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q15997341"
+    },
+    {
+      "id": "Q8007651",
+      "name": "William Davis (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q8007651"
+    },
+    {
+      "id": "Q4703224",
+      "name": "William Henry Brooke",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4703224"
+    },
+    {
+      "id": "Q12062055",
+      "name": "Albert Morrow",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q12062055"
+    },
+    {
+      "id": "Q20650385",
+      "name": "Alice Jacob",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20650385"
+    },
+    {
+      "id": "Q4893456",
+      "name": "Bernard Mulrenin",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4893456"
+    },
+    {
+      "id": "Q5076001",
+      "name": "Charles C. Ingham",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5076001"
+    },
+    {
+      "id": "Q1161631",
+      "name": "Daniel Maclise",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q1161631"
+    },
+    {
+      "id": "Q18671071",
+      "name": "Edward Daniel Leahy",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18671071"
+    },
+    {
+      "id": "Q5346503",
+      "name": "Edwin Hayes",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5346503"
+    },
+    {
+      "id": "Q20644869",
+      "name": "Elish Lamont",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20644869"
+    },
+    {
+      "id": "Q5539415",
+      "name": "George Francis Mulvany",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5539415"
+    },
+    {
+      "id": "Q5542648",
+      "name": "George Morrow (illustrator)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5542648"
+    },
+    {
+      "id": "Q5553325",
+      "name": "Gertrude Hartland",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5553325"
+    },
+    {
+      "id": "Q20671211",
+      "name": "Harriet Kavanagh",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20671211"
+    },
+    {
+      "id": "Q5717166",
+      "name": "Henry Albert Hartland",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5717166"
+    },
+    {
+      "id": "Q5725346",
+      "name": "Henry MacManus",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5725346"
+    },
+    {
+      "id": "Q6114204",
+      "name": "Jack Morrow",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6114204"
+    },
+    {
+      "id": "Q21458272",
+      "name": "Jane Morgan (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q21458272"
+    },
+    {
+      "id": "Q18671934",
+      "name": "John Duncan King",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18671934"
+    },
+    {
+      "id": "Q609328",
+      "name": "John Lavery",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q609328"
+    },
+    {
+      "id": "Q17421676",
+      "name": "John Mulvany",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q17421676"
+    },
+    {
+      "id": "Q6285249",
+      "name": "Joseph Malachy Kavanagh",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6285249"
+    },
+    {
+      "id": "Q6286113",
+      "name": "Joseph Patrick Haverty",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6286113"
+    },
+    {
+      "id": "Q15995942",
+      "name": "Kathleen Marescaux",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q15995942"
+    },
+    {
+      "id": "Q6778998",
+      "name": "Mary Balfour Herbert",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6778998"
+    },
+    {
+      "id": "Q67190835",
+      "name": "Mary Fox-Strangways, Countess of Ilchester",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q67190835"
+    },
+    {
+      "id": "Q20668882",
+      "name": "Mary Manning (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20668882"
+    },
+    {
+      "id": "Q18674227",
+      "name": "Michael Angelo Hayes",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18674227"
+    },
+    {
+      "id": "Q16027038",
+      "name": "Nathaniel Hill (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q16027038"
+    },
+    {
+      "id": "Q6969684",
+      "name": "Nathaniel Hone the Younger",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6969684"
+    },
+    {
+      "id": "Q7151247",
+      "name": "Paul Henry (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7151247"
+    },
+    {
+      "id": "Q506000",
+      "name": "Paul Kane",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q506000"
+    },
+    {
+      "id": "Q7327929",
+      "name": "Richard Moynan",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7327929"
+    },
+    {
+      "id": "Q3946632",
+      "name": "Samuel Lover",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q3946632"
+    },
+    {
+      "id": "Q7412144",
+      "name": "Samuel McCloy",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7412144"
+    },
+    {
+      "id": "Q7422172",
+      "name": "Sarah Cecilia Harrison",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7422172"
+    },
+    {
+      "id": "Q92312543",
+      "name": "Susan Lecky",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q92312543"
+    },
+    {
+      "id": "Q3525211",
+      "name": "Thomas Hovenden",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q3525211"
+    },
+    {
+      "id": "Q56728862",
+      "name": "William Burke Kirwan",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q56728862"
+    },
+    {
+      "id": "Q78088180",
+      "name": "William Howis",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q78088180"
+    },
+    {
+      "id": "Q2579174",
+      "name": "William John Hennessy",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q2579174"
+    },
+    {
+      "id": "Q1230745",
+      "name": "William Mulready",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q1230745"
+    },
+    {
+      "id": "Q4734709",
+      "name": "Aloysius O'Kelly",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4734709"
+    },
+    {
+      "id": "Q4758122",
+      "name": "Andrew Nicholl",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4758122"
+    },
+    {
+      "id": "Q21457419",
+      "name": "Anne Marjorie Robinson",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q21457419"
+    },
+    {
+      "id": "Q52149461",
+      "name": "Cecilia Margaret Nairn",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q52149461"
+    },
+    {
+      "id": "Q20119904",
+      "name": "Charles Robertson (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20119904"
+    },
+    {
+      "id": "Q5083748",
+      "name": "Charles Wynne Nicholls",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5083748"
+    },
+    {
+      "id": "Q18527660",
+      "name": "Denis Brownell Murphy",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18527660"
+    },
+    {
+      "id": "Q5262733",
+      "name": "Dermod O'Brien",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5262733"
+    },
+    {
+      "id": "Q1564832",
+      "name": "Edith Somerville",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q1564832"
+    },
+    {
+      "id": "Q23834170",
+      "name": "Edward Henry Murphy",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q23834170"
+    },
+    {
+      "id": "Q5488759",
+      "name": "Frank O'Meara",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5488759"
+    },
+    {
+      "id": "Q27150217",
+      "name": "Frederica Plunket",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q27150217"
+    },
+    {
+      "id": "Q2593685",
+      "name": "George Bernard O'Neill",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q2593685"
+    },
+    {
+      "id": "Q982108",
+      "name": "George Petrie (antiquarian)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q982108"
+    },
+    {
+      "id": "Q366070",
+      "name": "George William Russell",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q366070"
+    },
+    {
+      "id": "Q20735718",
+      "name": "Harriet Osborne O'Hagan",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20735718"
+    },
+    {
+      "id": "Q20727548",
+      "name": "Helen Sophia O'Hara",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20727548"
+    },
+    {
+      "id": "Q5726462",
+      "name": "Henry O'Neill (illustrator)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5726462"
+    },
+    {
+      "id": "Q15093618",
+      "name": "J. Doyle Penrose",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q15093618"
+    },
+    {
+      "id": "Q6128880",
+      "name": "James Arthur O'Connor",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6128880"
+    },
+    {
+      "id": "Q6143275",
+      "name": "James Sleator",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6143275"
+    },
+    {
+      "id": "Q6250820",
+      "name": "John O'Connor (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6250820"
+    },
+    {
+      "id": "Q6250927",
+      "name": "John O'Keeffe (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q6250927"
+    },
+    {
+      "id": "Q1421977",
+      "name": "Katherine Plunket",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q1421977"
+    },
+    {
+      "id": "Q16058874",
+      "name": "Lydia Shackleton",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q16058874"
+    },
+    {
+      "id": "Q20756536",
+      "name": "Nelly O'Brien",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20756536"
+    },
+    {
+      "id": "Q27177927",
+      "name": "Pauline Prochazka",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q27177927"
+    },
+    {
+      "id": "Q75563094",
+      "name": "Richard Orpen",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q75563094"
+    },
+    {
+      "id": "Q2150488",
+      "name": "Richard Rothwell (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q2150488"
+    },
+    {
+      "id": "Q7349265",
+      "name": "Robert Richard Scanlan",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7349265"
+    },
+    {
+      "id": "Q7356577",
+      "name": "Roderic O'Conor",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7356577"
+    },
+    {
+      "id": "Q15966722",
+      "name": "Saint George Hare",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q15966722"
+    },
+    {
+      "id": "Q7422719",
+      "name": "Sarah Purser",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7422719"
+    },
+    {
+      "id": "Q16065562",
+      "name": "Stephen Catterson Smith",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q16065562"
+    },
+    {
+      "id": "Q7788346",
+      "name": "Thomas Charles Leeson Rowbotham",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7788346"
+    },
+    {
+      "id": "Q18577093",
+      "name": "Thomas James Mulvany",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q18577093"
+    },
+    {
+      "id": "Q7965751",
+      "name": "Walter Osborne",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7965751"
+    },
+    {
+      "id": "Q922483",
+      "name": "William Orpen",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q922483"
+    },
+    {
+      "id": "Q5015030",
+      "name": "William Sadler (painter)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5015030"
+    },
+    {
+      "id": "Q4720386",
+      "name": "Alexander Williams (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q4720386"
+    },
+    {
+      "id": "Q21459597",
+      "name": "Bartholomew Colles Watkins",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q21459597"
+    },
+    {
+      "id": "Q5085797",
+      "name": "Charlotte Isabel Wheeler-Cuffe",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5085797"
+    },
+    {
+      "id": "Q94888341",
+      "name": "David Wilson (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q94888341"
+    },
+    {
+      "id": "Q5346983",
+      "name": "Edyth Starkie",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5346983"
+    },
+    {
+      "id": "Q5191686",
+      "name": "Elizabeth Yeats",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5191686"
+    },
+    {
+      "id": "Q5482374",
+      "name": "Francis S. Walker",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5482374"
+    },
+    {
+      "id": "Q5566474",
+      "name": "Gladys Wynne",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q5566474"
+    },
+    {
+      "id": "Q20683672",
+      "name": "Helen Mabel Trevor",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q20683672"
+    },
+    {
+      "id": "Q15505469",
+      "name": "Henry Jones Thaddeus",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q15505469"
+    },
+    {
+      "id": "Q560488",
+      "name": "Jack B. Yeats",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q560488"
+    },
+    {
+      "id": "Q2356757",
+      "name": "John Butler Yeats",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q2356757"
+    },
+    {
+      "id": "Q106317862",
+      "name": "Josephine Webb (artist)",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q106317862"
+    },
+    {
+      "id": "Q17417526",
+      "name": "Lewis Strange Wingfield",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q17417526"
+    },
+    {
+      "id": "Q7147867",
+      "name": "Patrick Wybrant",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7147867"
+    },
+    {
+      "id": "Q7186650",
+      "name": "Phoebe Anna Traquair",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7186650"
+    },
+    {
+      "id": "Q91315373",
+      "name": "Robert Lucius West",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q91315373"
+    },
+    {
+      "id": "Q7660033",
+      "name": "Sydney Mary Thompson",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7660033"
+    },
+    {
+      "id": "Q7787741",
+      "name": "Thomas Bond Walker",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q7787741"
+    },
+    {
+      "id": "Q21460108",
+      "name": "Thomas Clement Thompson",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q21460108"
+    },
+    {
+      "id": "Q2579000",
+      "name": "W. G. Wills",
+      "school": "irish",
+      "wiki": "https://www.wikidata.org/wiki/Q2579000"
+    }
+  ]
+}

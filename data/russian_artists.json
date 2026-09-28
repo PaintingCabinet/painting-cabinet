@@ -1,0 +1,2092 @@
+{
+  "artists": [
+    {
+      "id": "Q22918416",
+      "name": "Aleksa Petrov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q22918416"
+    },
+    {
+      "id": "Q937911",
+      "name": "Aleksander Or\u0142owski",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q937911"
+    },
+    {
+      "id": "Q1298354",
+      "name": "Aleksey Antropov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1298354"
+    },
+    {
+      "id": "Q838",
+      "name": "Andrei Rublev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q838"
+    },
+    {
+      "id": "Q2189722",
+      "name": "Anton Losenko",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2189722"
+    },
+    {
+      "id": "Q4346880",
+      "name": "Benjamin Patersen",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4346880"
+    },
+    {
+      "id": "Q4406006",
+      "name": "Bogdan Saltanov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4406006"
+    },
+    {
+      "id": "Q4501477",
+      "name": "Carl-Ludwig Christinek",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4501477"
+    },
+    {
+      "id": "Q901946",
+      "name": "Daniel Chorny",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q901946"
+    },
+    {
+      "id": "Q920111",
+      "name": "Dionisius",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q920111"
+    },
+    {
+      "id": "Q556681",
+      "name": "Dmitry Levitzky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q556681"
+    },
+    {
+      "id": "Q641253",
+      "name": "Feodor Iwanowitsch Kalmyk",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q641253"
+    },
+    {
+      "id": "Q539363",
+      "name": "Fyodor Alekseyev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q539363"
+    },
+    {
+      "id": "Q5511255",
+      "name": "Fyodor Gavrilov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q5511255"
+    },
+    {
+      "id": "Q372393",
+      "name": "Fyodor Rokotov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q372393"
+    },
+    {
+      "id": "Q133269067",
+      "name": "Fyodor Rozhnov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q133269067"
+    },
+    {
+      "id": "Q4194385",
+      "name": "Fyodor Zubov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4194385"
+    },
+    {
+      "id": "Q5609078",
+      "name": "Grigory Musikiysky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q5609078"
+    },
+    {
+      "id": "Q4339017",
+      "name": "Grigory Ostrovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4339017"
+    },
+    {
+      "id": "Q4152377",
+      "name": "Gury Nikitin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4152377"
+    },
+    {
+      "id": "Q4059515",
+      "name": "Ivan Akimov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4059515"
+    },
+    {
+      "id": "Q948370",
+      "name": "Ivan Argunov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q948370"
+    },
+    {
+      "id": "Q4485005",
+      "name": "Ivan Firsov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4485005"
+    },
+    {
+      "id": "Q3156162",
+      "name": "Ivan Nikitin (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3156162"
+    },
+    {
+      "id": "Q7269645",
+      "name": "Ivan Zarudny",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q7269645"
+    },
+    {
+      "id": "Q4202900",
+      "name": "Joseph Vladimirov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4202900"
+    },
+    {
+      "id": "Q4193141",
+      "name": "Karp Zolotaryov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4193141"
+    },
+    {
+      "id": "Q2625578",
+      "name": "Louis Caravaque",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2625578"
+    },
+    {
+      "id": "Q2622516",
+      "name": "Macarius, Metropolitan of Moscow",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2622516"
+    },
+    {
+      "id": "Q56750840",
+      "name": "Mikhail Ivanovich Belsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q56750840"
+    },
+    {
+      "id": "Q58720",
+      "name": "Mikhail Lomonosov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q58720"
+    },
+    {
+      "id": "Q4228270",
+      "name": "Mina Kolokolnikov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4228270"
+    },
+    {
+      "id": "Q4333922",
+      "name": "Olisey Grechin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4333922"
+    },
+    {
+      "id": "Q833389",
+      "name": "Prokhor of Gorodets",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q833389"
+    },
+    {
+      "id": "Q4168388",
+      "name": "Pyotr Drozhdin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4168388"
+    },
+    {
+      "id": "Q1188303",
+      "name": "Simon Ushakov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1188303"
+    },
+    {
+      "id": "Q467438",
+      "name": "Stephen of Perm",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q467438"
+    },
+    {
+      "id": "Q319403",
+      "name": "Theophanes the Greek",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q319403"
+    },
+    {
+      "id": "Q7916802",
+      "name": "Vasily Rodchev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q7916802"
+    },
+    {
+      "id": "Q262098",
+      "name": "Vladimir Borovikovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q262098"
+    },
+    {
+      "id": "Q80588",
+      "name": "Abram Arkhipov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q80588"
+    },
+    {
+      "id": "Q762344",
+      "name": "Aleksandr Borisov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q762344"
+    },
+    {
+      "id": "Q4080457",
+      "name": "Alexander Beggrov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4080457"
+    },
+    {
+      "id": "Q4394205",
+      "name": "Alexandra Rzevskaya",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4394205"
+    },
+    {
+      "id": "Q319861",
+      "name": "Alexandre Benois",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q319861"
+    },
+    {
+      "id": "Q372277",
+      "name": "Alexey Bogolyubov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q372277"
+    },
+    {
+      "id": "Q4082108",
+      "name": "Andrei Belloli",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4082108"
+    },
+    {
+      "id": "Q529975",
+      "name": "Angelina Beloff",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q529975"
+    },
+    {
+      "id": "Q273115",
+      "name": "Anna Bili\u0144ska",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q273115"
+    },
+    {
+      "id": "Q7305235",
+      "name": "Dmytro Bezperchy",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q7305235"
+    },
+    {
+      "id": "Q4101592",
+      "name": "Elisabeth Boehm",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4101592"
+    },
+    {
+      "id": "Q84530185",
+      "name": "Giuseppe Bernasconi",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q84530185"
+    },
+    {
+      "id": "Q2059573",
+      "name": "Grigory Ugryumov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2059573"
+    },
+    {
+      "id": "Q75465",
+      "name": "Harald Julius von Bosse",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q75465"
+    },
+    {
+      "id": "Q4071314",
+      "name": "Isaak Asknaziy",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4071314"
+    },
+    {
+      "id": "Q181568",
+      "name": "Ivan Aivazovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q181568"
+    },
+    {
+      "id": "Q312024",
+      "name": "Ivan Bilibin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q312024"
+    },
+    {
+      "id": "Q4089242",
+      "name": "Ivan Bogdanov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4089242"
+    },
+    {
+      "id": "Q4112790",
+      "name": "Ivan Vishnyakov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4112790"
+    },
+    {
+      "id": "Q21096959",
+      "name": "Ivan Yermenyov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q21096959"
+    },
+    {
+      "id": "Q214666",
+      "name": "L\u00e9on Bakst",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q214666"
+    },
+    {
+      "id": "Q255253",
+      "name": "Marie Bashkirtseff",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q255253"
+    },
+    {
+      "id": "Q4095169",
+      "name": "Mikhail Botkin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4095169"
+    },
+    {
+      "id": "Q3624859",
+      "name": "Mikhail Shibanov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3624859"
+    },
+    {
+      "id": "Q4089952",
+      "name": "Nikolai Bodarevsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4089952"
+    },
+    {
+      "id": "Q7036178",
+      "name": "Nikolay Bekryashev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q7036178"
+    },
+    {
+      "id": "Q965013",
+      "name": "Nikolay Bogdanov-Belsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q965013"
+    },
+    {
+      "id": "Q36538626",
+      "name": "Olga Beggrow-Hartmann",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q36538626"
+    },
+    {
+      "id": "Q4078998",
+      "name": "Pyotr Basin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4078998"
+    },
+    {
+      "id": "Q4093552",
+      "name": "Pyotr Borel",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4093552"
+    },
+    {
+      "id": "Q4088316",
+      "name": "Seraphima Blonskaya",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4088316"
+    },
+    {
+      "id": "Q4061437",
+      "name": "Stepan Alexandrovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4061437"
+    },
+    {
+      "id": "Q2343041",
+      "name": "Stepan Shchukin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2343041"
+    },
+    {
+      "id": "Q85393253",
+      "name": "Vasilije Romanovich and Jov Vasilijevich",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q85393253"
+    },
+    {
+      "id": "Q434561",
+      "name": "Vasily Tropinin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q434561"
+    },
+    {
+      "id": "Q1095289",
+      "name": "Victor Borisov-Musatov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1095289"
+    },
+    {
+      "id": "Q4088741",
+      "name": "Viktor Bobrov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4088741"
+    },
+    {
+      "id": "Q56750819",
+      "name": "Yevdokiya Bakunina",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q56750819"
+    },
+    {
+      "id": "Q8061778",
+      "name": "Yury Artsybushev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q8061778"
+    },
+    {
+      "id": "Q139146",
+      "name": "Zygmunt Andrychiewicz",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q139146"
+    },
+    {
+      "id": "Q15061209",
+      "name": "Adolf Charlemagne",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15061209"
+    },
+    {
+      "id": "Q958927",
+      "name": "Aleksander Gierymski",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q958927"
+    },
+    {
+      "id": "Q620766",
+      "name": "Alexander Brullov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q620766"
+    },
+    {
+      "id": "Q2645764",
+      "name": "Alfred Eberling",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2645764"
+    },
+    {
+      "id": "Q4483294",
+      "name": "Arshak Fetvadjian",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4483294"
+    },
+    {
+      "id": "Q3642602",
+      "name": "Boris Chorikov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3642602"
+    },
+    {
+      "id": "Q4491275",
+      "name": "Boris Fogel",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4491275"
+    },
+    {
+      "id": "Q3695226",
+      "name": "Cosroe Dusi",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3695226"
+    },
+    {
+      "id": "Q1330008",
+      "name": "Elisabeth Epstein",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1330008"
+    },
+    {
+      "id": "Q20732449",
+      "name": "Emmanuil Dmitriev-Mamonov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q20732449"
+    },
+    {
+      "id": "Q4097027",
+      "name": "Fyodor Bronnikov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4097027"
+    },
+    {
+      "id": "Q983223",
+      "name": "Fyodor Bruni",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q983223"
+    },
+    {
+      "id": "Q1507231",
+      "name": "George Dawe",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1507231"
+    },
+    {
+      "id": "Q2655639",
+      "name": "Gigo Gabashvili",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2655639"
+    },
+    {
+      "id": "Q4513429",
+      "name": "Grigory Chernetsov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4513429"
+    },
+    {
+      "id": "Q887801",
+      "name": "Grigory Gagarin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q887801"
+    },
+    {
+      "id": "Q15061324",
+      "name": "Ivan Chmutov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15061324"
+    },
+    {
+      "id": "Q18639543",
+      "name": "Ivan Fedorovich Choults\u00e9",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q18639543"
+    },
+    {
+      "id": "Q4768",
+      "name": "Karl Bryullov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4768"
+    },
+    {
+      "id": "Q777821",
+      "name": "Konstantin Flavitsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q777821"
+    },
+    {
+      "id": "Q19060745",
+      "name": "Longin Frikke",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q19060745"
+    },
+    {
+      "id": "Q26243889",
+      "name": "Maria Chambers-Bilibin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q26243889"
+    },
+    {
+      "id": "Q20873639",
+      "name": "Maria Ga\u017cycz",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q20873639"
+    },
+    {
+      "id": "Q562374",
+      "name": "Mikhail Clodt von J\u00fcrgensburg",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q562374"
+    },
+    {
+      "id": "Q59112815",
+      "name": "Mikhail Erassi",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q59112815"
+    },
+    {
+      "id": "Q7025198",
+      "name": "Nicholas Chevalier",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q7025198"
+    },
+    {
+      "id": "Q15080902",
+      "name": "Nikanor Chernetsov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15080902"
+    },
+    {
+      "id": "Q21817236",
+      "name": "Nikolai Clodt von J\u00fcrgensburg",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q21817236"
+    },
+    {
+      "id": "Q2030263",
+      "name": "Nikolai Dmitriev-Orenburgsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2030263"
+    },
+    {
+      "id": "Q457976",
+      "name": "Nikolai Ge",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q457976"
+    },
+    {
+      "id": "Q4167144",
+      "name": "Nikolay Dosekin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4167144"
+    },
+    {
+      "id": "Q4157087",
+      "name": "Olga Della-Vos-Kardovskaya",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4157087"
+    },
+    {
+      "id": "Q4248304",
+      "name": "Pauline Couriard",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4248304"
+    },
+    {
+      "id": "Q4097426",
+      "name": "Pavel Brullov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4097426"
+    },
+    {
+      "id": "Q449923",
+      "name": "Pavel Chistyakov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q449923"
+    },
+    {
+      "id": "Q248597",
+      "name": "Pavel Fedotov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q248597"
+    },
+    {
+      "id": "Q155856",
+      "name": "Peter Clodt von J\u00fcrgensburg",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q155856"
+    },
+    {
+      "id": "Q776852",
+      "name": "Rimma Brailovskaya",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q776852"
+    },
+    {
+      "id": "Q938282",
+      "name": "Robert Wilhelm Ekman",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q938282"
+    },
+    {
+      "id": "Q1364258",
+      "name": "Wojciech Gerson",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1364258"
+    },
+    {
+      "id": "Q21263900",
+      "name": "Aleksander Gine",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q21263900"
+    },
+    {
+      "id": "Q945505",
+      "name": "Aleksandr Golovin (artist)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q945505"
+    },
+    {
+      "id": "Q2834352",
+      "name": "Aleksey Kivshenko",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2834352"
+    },
+    {
+      "id": "Q76829",
+      "name": "Alexander Andreyevich Ivanov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q76829"
+    },
+    {
+      "id": "Q1960301",
+      "name": "Alexander Kiselyov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1960301"
+    },
+    {
+      "id": "Q2033053",
+      "name": "Alexei Harlamoff",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2033053"
+    },
+    {
+      "id": "Q156426",
+      "name": "Alexej von Jawlensky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q156426"
+    },
+    {
+      "id": "Q3631988",
+      "name": "Andrei Karelin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3631988"
+    },
+    {
+      "id": "Q4196374",
+      "name": "Anton Ivanov-Goluboy",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4196374"
+    },
+    {
+      "id": "Q11244592",
+      "name": "Berndt Godenhjelm",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q11244592"
+    },
+    {
+      "id": "Q2363284",
+      "name": "Dmitry Kardovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2363284"
+    },
+    {
+      "id": "Q7767",
+      "name": "Eduard Hau",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q7767"
+    },
+    {
+      "id": "Q442658",
+      "name": "Elena Guro",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q442658"
+    },
+    {
+      "id": "Q26331477",
+      "name": "Elena Nikandrovna Klokacheva",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q26331477"
+    },
+    {
+      "id": "Q4152414",
+      "name": "Grigory Gurkin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4152414"
+    },
+    {
+      "id": "Q48953701",
+      "name": "Ivan Kabanov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q48953701"
+    },
+    {
+      "id": "Q544622",
+      "name": "Julie Wilhelmine Hagen-Schwarz",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q544622"
+    },
+    {
+      "id": "Q16666115",
+      "name": "Kandrat Karsalin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q16666115"
+    },
+    {
+      "id": "Q4133128",
+      "name": "Karl Hampeln",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4133128"
+    },
+    {
+      "id": "Q4143705",
+      "name": "Kirill Gorbunov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4143705"
+    },
+    {
+      "id": "Q943854",
+      "name": "Konstantin Gorbatov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q943854"
+    },
+    {
+      "id": "Q4152126",
+      "name": "K\u0101rlis H\u016bns",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4152126"
+    },
+    {
+      "id": "Q21099093",
+      "name": "Lev Igorev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q21099093"
+    },
+    {
+      "id": "Q6982302",
+      "name": "Lev Lvovich Kamenev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q6982302"
+    },
+    {
+      "id": "Q1886542",
+      "name": "Maksymilian Gierymski",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1886542"
+    },
+    {
+      "id": "Q232391",
+      "name": "Natalia Goncharova",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q232391"
+    },
+    {
+      "id": "Q15015281",
+      "name": "Nikolai Grandkovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15015281"
+    },
+    {
+      "id": "Q1976958",
+      "name": "Nikolay Karazin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1976958"
+    },
+    {
+      "id": "Q367120",
+      "name": "Orest Kiprensky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q367120"
+    },
+    {
+      "id": "Q2038793",
+      "name": "Otto Friedrich Ignatius",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2038793"
+    },
+    {
+      "id": "Q4227693",
+      "name": "Pavel Kolendas",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4227693"
+    },
+    {
+      "id": "Q2387613",
+      "name": "Pyotr Nikolayevich Gruzinsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2387613"
+    },
+    {
+      "id": "Q4148890",
+      "name": "Sergei Gribkov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4148890"
+    },
+    {
+      "id": "Q4014874",
+      "name": "Shalom Koboshvili",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4014874"
+    },
+    {
+      "id": "Q4497009",
+      "name": "Sofia Khvoshchinskaya",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4497009"
+    },
+    {
+      "id": "Q4197572",
+      "name": "Vasily Ignatius",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4197572"
+    },
+    {
+      "id": "Q4502204",
+      "name": "Vasily Khudyakov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4502204"
+    },
+    {
+      "id": "Q924605",
+      "name": "Viktor Hartmann",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q924605"
+    },
+    {
+      "id": "Q222372",
+      "name": "Wilhelm August Golicke",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q222372"
+    },
+    {
+      "id": "Q821690",
+      "name": "Woldemar Hau",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q821690"
+    },
+    {
+      "id": "Q3632049",
+      "name": "Aleksandr Makovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3632049"
+    },
+    {
+      "id": "Q4247553",
+      "name": "Aleksandr V. Kuprin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4247553"
+    },
+    {
+      "id": "Q4233075",
+      "name": "Aleksey Korin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4233075"
+    },
+    {
+      "id": "Q2914700",
+      "name": "Alexander Litovchenko",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2914700"
+    },
+    {
+      "id": "Q17749075",
+      "name": "Alexandra Makovskaya",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q17749075"
+    },
+    {
+      "id": "Q2834356",
+      "name": "Alexei Korzukhin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2834356"
+    },
+    {
+      "id": "Q4759956",
+      "name": "Andr\u00e9 Lapine",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4759956"
+    },
+    {
+      "id": "Q4256900",
+      "name": "Anton Legashov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4256900"
+    },
+    {
+      "id": "Q664360",
+      "name": "Aristarkh Lentulov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q664360"
+    },
+    {
+      "id": "Q353628",
+      "name": "Arkhip Kuindzhi",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q353628"
+    },
+    {
+      "id": "Q694914",
+      "name": "Arnold Lakhovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q694914"
+    },
+    {
+      "id": "Q383447",
+      "name": "Constantin Kousnetzoff",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q383447"
+    },
+    {
+      "id": "Q4241935",
+      "name": "Elizaveta Kruglikova",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4241935"
+    },
+    {
+      "id": "Q7239599",
+      "name": "Ernst Friedrich von Liphart",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q7239599"
+    },
+    {
+      "id": "Q1520898",
+      "name": "Eugene Lanceray",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1520898"
+    },
+    {
+      "id": "Q4240215",
+      "name": "Evgraf Fedorovich Krendovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4240215"
+    },
+    {
+      "id": "Q211356",
+      "name": "Isaac Levitan",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q211356"
+    },
+    {
+      "id": "Q207758",
+      "name": "Ivan Kramskoi",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q207758"
+    },
+    {
+      "id": "Q4275370",
+      "name": "Ivan Makarov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4275370"
+    },
+    {
+      "id": "Q457162",
+      "name": "Karl von K\u00fcgelgen",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q457162"
+    },
+    {
+      "id": "Q4257944",
+      "name": "Kirill Lemokh",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4257944"
+    },
+    {
+      "id": "Q460337",
+      "name": "Konstantin Makovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q460337"
+    },
+    {
+      "id": "Q1400810",
+      "name": "Lev Lagorio",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1400810"
+    },
+    {
+      "id": "Q38785",
+      "name": "Mikhail Larionov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q38785"
+    },
+    {
+      "id": "Q344070",
+      "name": "Mikhail Lebedev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q344070"
+    },
+    {
+      "id": "Q2903978",
+      "name": "Moshe Maimon",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2903978"
+    },
+    {
+      "id": "Q4242784",
+      "name": "Nikifor Krylov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4242784"
+    },
+    {
+      "id": "Q3341659",
+      "name": "Nikolai Dmitriyevich Kuznetsov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3341659"
+    },
+    {
+      "id": "Q455975",
+      "name": "Nikolay Koshelev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q455975"
+    },
+    {
+      "id": "Q4242904",
+      "name": "Nikolay Krymov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4242904"
+    },
+    {
+      "id": "Q4266361",
+      "name": "Nikolay Lomtev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4266361"
+    },
+    {
+      "id": "Q4275925",
+      "name": "Nikolay Makovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4275925"
+    },
+    {
+      "id": "Q2626131",
+      "name": "Pyotr Konchalovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2626131"
+    },
+    {
+      "id": "Q1451083",
+      "name": "Sally von K\u00fcgelgen",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1451083"
+    },
+    {
+      "id": "Q2272561",
+      "name": "Sergei Korovin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2272561"
+    },
+    {
+      "id": "Q18907422",
+      "name": "Sofia Kuvshinnikova",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q18907422"
+    },
+    {
+      "id": "Q15060837",
+      "name": "Sophia Ivanovna Kramskaya",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15060837"
+    },
+    {
+      "id": "Q19662673",
+      "name": "Stepan Kolesnikoff",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q19662673"
+    },
+    {
+      "id": "Q4235924",
+      "name": "Wilhelm Kotarbi\u0144ski",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4235924"
+    },
+    {
+      "id": "Q4228275",
+      "name": "Yakov Kolokolnikov-Voronin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4228275"
+    },
+    {
+      "id": "Q2833895",
+      "name": "Aleksandr Morozov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2833895"
+    },
+    {
+      "id": "Q4282009",
+      "name": "Alexey Tarasovich Markov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4282009"
+    },
+    {
+      "id": "Q562945",
+      "name": "Anna Ostroumova-Lebedeva",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q562945"
+    },
+    {
+      "id": "Q4780379",
+      "name": "Apollon Mokritsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4780379"
+    },
+    {
+      "id": "Q4292570",
+      "name": "Arseny Meshchersky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4292570"
+    },
+    {
+      "id": "Q761386",
+      "name": "August Georg Wilhelm Pezold",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q761386"
+    },
+    {
+      "id": "Q478318",
+      "name": "Carl Timoleon von Neff",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q478318"
+    },
+    {
+      "id": "Q4365952",
+      "name": "Eug\u00e8ne Pluchart",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4365952"
+    },
+    {
+      "id": "Q1362444",
+      "name": "Filipp Malyavin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1362444"
+    },
+    {
+      "id": "Q654547",
+      "name": "Grigoriy Myasoyedov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q654547"
+    },
+    {
+      "id": "Q5726252",
+      "name": "Henry Nelson O'Neil",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q5726252"
+    },
+    {
+      "id": "Q2704611",
+      "name": "Ilya Mashkov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2704611"
+    },
+    {
+      "id": "Q4339141",
+      "name": "Ilya Ostroukhov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4339141"
+    },
+    {
+      "id": "Q2026947",
+      "name": "Ivan Pokhitonov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2026947"
+    },
+    {
+      "id": "Q1694914",
+      "name": "Johann Jacob Mettenleiter",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1694914"
+    },
+    {
+      "id": "Q6366765",
+      "name": "Kapiton Pavlov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q6366765"
+    },
+    {
+      "id": "Q130777",
+      "name": "Kazimir Malevich",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q130777"
+    },
+    {
+      "id": "Q4364677",
+      "name": "Khariton Platonov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4364677"
+    },
+    {
+      "id": "Q364226",
+      "name": "Kuzma Petrov-Vodkin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q364226"
+    },
+    {
+      "id": "Q213596",
+      "name": "Leonid Pasternak",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q213596"
+    },
+    {
+      "id": "Q524575",
+      "name": "Maximilian Messmacher",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q524575"
+    },
+    {
+      "id": "Q318427",
+      "name": "Mikhail Nesterov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q318427"
+    },
+    {
+      "id": "Q4359687",
+      "name": "Mikhail Peskov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4359687"
+    },
+    {
+      "id": "Q4307906",
+      "name": "Mykola Murashko",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4307906"
+    },
+    {
+      "id": "Q3650209",
+      "name": "Nikolai Nevrev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3650209"
+    },
+    {
+      "id": "Q3341684",
+      "name": "Nikolai Petrovich Petrov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3341684"
+    },
+    {
+      "id": "Q7036296",
+      "name": "Nikolay Dmitrievich Mylnikov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q7036296"
+    },
+    {
+      "id": "Q4274867",
+      "name": "Nikolay Maykov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4274867"
+    },
+    {
+      "id": "Q4300491",
+      "name": "Otto Friedrich Theodor von M\u00f6ller",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4300491"
+    },
+    {
+      "id": "Q4364973",
+      "name": "Pavel Pleshanov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4364973"
+    },
+    {
+      "id": "Q4336703",
+      "name": "Pimen Orlov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4336703"
+    },
+    {
+      "id": "Q2446744",
+      "name": "Pyotr Nilus",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2446744"
+    },
+    {
+      "id": "Q4293686",
+      "name": "Sergey Miloradovich",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4293686"
+    },
+    {
+      "id": "Q4350779",
+      "name": "Vasily Pereplyotchikov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4350779"
+    },
+    {
+      "id": "Q315237",
+      "name": "Vasily Perov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q315237"
+    },
+    {
+      "id": "Q1350341",
+      "name": "Vassily Maximov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1350341"
+    },
+    {
+      "id": "Q740592",
+      "name": "Vladimir Makovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q740592"
+    },
+    {
+      "id": "Q10392240",
+      "name": "Vladimir Moshkov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q10392240"
+    },
+    {
+      "id": "Q613700",
+      "name": "Vladimir Orlovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q613700"
+    },
+    {
+      "id": "Q15207618",
+      "name": "Yegor Meyer",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15207618"
+    },
+    {
+      "id": "Q4388632",
+      "name": "Afanasy Razmaritsyn",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4388632"
+    },
+    {
+      "id": "Q4170769",
+      "name": "Alexander Postels",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4170769"
+    },
+    {
+      "id": "Q4394943",
+      "name": "Alexander Rizzoni",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4394943"
+    },
+    {
+      "id": "Q2642346",
+      "name": "Alexander Sauerweid",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2642346"
+    },
+    {
+      "id": "Q1255520",
+      "name": "Alfred Izydor Romer",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1255520"
+    },
+    {
+      "id": "Q4381469",
+      "name": "Andreas Roller",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4381469"
+    },
+    {
+      "id": "Q4372384",
+      "name": "Andrei Andreyevich Popov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4372384"
+    },
+    {
+      "id": "Q502406",
+      "name": "Andrei Ryabushkin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q502406"
+    },
+    {
+      "id": "Q11851610",
+      "name": "Anna Sahlst\u00e9n",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q11851610"
+    },
+    {
+      "id": "Q4394206",
+      "name": "Antonina Rzhevskaya",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4394206"
+    },
+    {
+      "id": "Q4406790",
+      "name": "Elena Samokysh-Sudkovskaya",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4406790"
+    },
+    {
+      "id": "Q3433626",
+      "name": "Emily Shanks",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3433626"
+    },
+    {
+      "id": "Q662242",
+      "name": "Franz Roubaud",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q662242"
+    },
+    {
+      "id": "Q23656556",
+      "name": "Fyodor Slavyansky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q23656556"
+    },
+    {
+      "id": "Q27986481",
+      "name": "Georg Friedrich Schlater",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q27986481"
+    },
+    {
+      "id": "Q18635006",
+      "name": "Grigory Sedov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q18635006"
+    },
+    {
+      "id": "Q1350315",
+      "name": "Illarion Pryanishnikov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1350315"
+    },
+    {
+      "id": "Q172911",
+      "name": "Ilya Repin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q172911"
+    },
+    {
+      "id": "Q3156172",
+      "name": "Ivan Pranishnikoff",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3156172"
+    },
+    {
+      "id": "Q193064",
+      "name": "Ivan Shishkin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q193064"
+    },
+    {
+      "id": "Q821116",
+      "name": "Karl August Senff",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q821116"
+    },
+    {
+      "id": "Q15993309",
+      "name": "Karl Rabus",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15993309"
+    },
+    {
+      "id": "Q958052",
+      "name": "Konstantin Savitsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q958052"
+    },
+    {
+      "id": "Q15088608",
+      "name": "Maria Raevska-Ivanova",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15088608"
+    },
+    {
+      "id": "Q1661107",
+      "name": "Mikhail Scotti",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1661107"
+    },
+    {
+      "id": "Q19911091",
+      "name": "Nadezhda Sapozhnikova",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q19911091"
+    },
+    {
+      "id": "Q1072114",
+      "name": "Nikolay Samokish",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1072114"
+    },
+    {
+      "id": "Q4188478",
+      "name": "Nikolay Sauerweid",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4188478"
+    },
+    {
+      "id": "Q4523939",
+      "name": "Nikolay Shilder",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4523939"
+    },
+    {
+      "id": "Q4528029",
+      "name": "Nikolay Shustov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4528029"
+    },
+    {
+      "id": "Q4348414",
+      "name": "Penaty Memorial Estate",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4348414"
+    },
+    {
+      "id": "Q4519988",
+      "name": "Pyotr Shamshin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4519988"
+    },
+    {
+      "id": "Q1861382",
+      "name": "Sylvester Shchedrin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1861382"
+    },
+    {
+      "id": "Q6394591",
+      "name": "Vasili Pukirev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q6394591"
+    },
+    {
+      "id": "Q318393",
+      "name": "Vasily Polenov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q318393"
+    },
+    {
+      "id": "Q4404680",
+      "name": "Vasily Sadovnikov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4404680"
+    },
+    {
+      "id": "Q4405033",
+      "name": "Vasily Sazonov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4405033"
+    },
+    {
+      "id": "Q4424608",
+      "name": "Vasily Sergeyevich Smirnov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4424608"
+    },
+    {
+      "id": "Q4521641",
+      "name": "Vyacheslav Schwarz",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4521641"
+    },
+    {
+      "id": "Q462815",
+      "name": "Yelena Polenova",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q462815"
+    },
+    {
+      "id": "Q2833963",
+      "name": "Aleksandr Sokolov (painter, born 1829)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2833963"
+    },
+    {
+      "id": "Q4103951",
+      "name": "Alexander Varnek",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4103951"
+    },
+    {
+      "id": "Q627347",
+      "name": "Alexey Tyranov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q627347"
+    },
+    {
+      "id": "Q515879",
+      "name": "Alexey Venetsianov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q515879"
+    },
+    {
+      "id": "Q618906",
+      "name": "Apollinary Vasnetsov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q618906"
+    },
+    {
+      "id": "Q15147418",
+      "name": "Dmitry Strukov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15147418"
+    },
+    {
+      "id": "Q325122",
+      "name": "Evgraf Semenovich Sorokin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q325122"
+    },
+    {
+      "id": "Q3755460",
+      "name": "Fedor Solntsev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3755460"
+    },
+    {
+      "id": "Q1422249",
+      "name": "Fyodor Vasilyev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1422249"
+    },
+    {
+      "id": "Q2370524",
+      "name": "Georg Wilhelm Timm",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2370524"
+    },
+    {
+      "id": "Q1546710",
+      "name": "Grigory Soroka",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1546710"
+    },
+    {
+      "id": "Q4452235",
+      "name": "Ivan Tarkhanov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4452235"
+    },
+    {
+      "id": "Q1361961",
+      "name": "Ivan Trutnev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1361961"
+    },
+    {
+      "id": "Q4453346",
+      "name": "Ivan Tvorozhnikov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4453346"
+    },
+    {
+      "id": "Q4464564",
+      "name": "Konstantin Trutovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4464564"
+    },
+    {
+      "id": "Q24351812",
+      "name": "Konstantin Ukhtomsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q24351812"
+    },
+    {
+      "id": "Q4428224",
+      "name": "Leonid Solomatkin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4428224"
+    },
+    {
+      "id": "Q21083963",
+      "name": "Mikhail Terebenyov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q21083963"
+    },
+    {
+      "id": "Q25712573",
+      "name": "Mikhail Tikhanov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q25712573"
+    },
+    {
+      "id": "Q952189",
+      "name": "Nikolai Sverchkov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q952189"
+    },
+    {
+      "id": "Q15631757",
+      "name": "Nikolai Tikhobrazov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15631757"
+    },
+    {
+      "id": "Q4475073",
+      "name": "Nikolai Ulyanov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4475073"
+    },
+    {
+      "id": "Q3372967",
+      "name": "Pavel Sokolov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3372967"
+    },
+    {
+      "id": "Q62595278",
+      "name": "Pavel Sorokin (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q62595278"
+    },
+    {
+      "id": "Q3372981",
+      "name": "Pavel Svedomsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3372981"
+    },
+    {
+      "id": "Q3210067",
+      "name": "Pavel Svinyin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3210067"
+    },
+    {
+      "id": "Q4467638",
+      "name": "Platon Tyurin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4467638"
+    },
+    {
+      "id": "Q3388979",
+      "name": "Pyotr Sokolov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q3388979"
+    },
+    {
+      "id": "Q1994515",
+      "name": "Pyotr Sokolov (portraitist)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1994515"
+    },
+    {
+      "id": "Q2097789",
+      "name": "Pyotr Vereshchagin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2097789"
+    },
+    {
+      "id": "Q4445453",
+      "name": "Rufin Sudkovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4445453"
+    },
+    {
+      "id": "Q16699469",
+      "name": "Sergey Solomko",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q16699469"
+    },
+    {
+      "id": "Q4410548",
+      "name": "Serhiy Svetoslavsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4410548"
+    },
+    {
+      "id": "Q4447156",
+      "name": "Sofia Sukhovo-Kobylina",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4447156"
+    },
+    {
+      "id": "Q4107761",
+      "name": "Vasily Petrovich Vereshchagin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4107761"
+    },
+    {
+      "id": "Q4526852",
+      "name": "Vasily Sternberg",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4526852"
+    },
+    {
+      "id": "Q110228",
+      "name": "Vasily Surikov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q110228"
+    },
+    {
+      "id": "Q127017",
+      "name": "Vasily Vereshchagin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q127017"
+    },
+    {
+      "id": "Q4463914",
+      "name": "Vikentii Trofimov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4463914"
+    },
+    {
+      "id": "Q204138",
+      "name": "Viktor Vasnetsov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q204138"
+    },
+    {
+      "id": "Q21387821",
+      "name": "Alexander Yakovlev (entomologist)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q21387821"
+    },
+    {
+      "id": "Q34674472",
+      "name": "Alexandrine von Wistinghausen",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q34674472"
+    },
+    {
+      "id": "Q16631559",
+      "name": "Alexey Voloskov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q16631559"
+    },
+    {
+      "id": "Q962253",
+      "name": "Bogdan Wenig",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q962253"
+    },
+    {
+      "id": "Q33245",
+      "name": "Bogdan Willewalde",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q33245"
+    },
+    {
+      "id": "Q1041014",
+      "name": "Carl Wenig",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1041014"
+    },
+    {
+      "id": "Q4110314",
+      "name": "Constantin Westchiloff",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4110314"
+    },
+    {
+      "id": "Q4189311",
+      "name": "Elizaveta Zvantseva",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4189311"
+    },
+    {
+      "id": "Q4110860",
+      "name": "Emil Wiesel",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4110860"
+    },
+    {
+      "id": "Q4181784",
+      "name": "Firs Zhuravlev",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4181784"
+    },
+    {
+      "id": "Q4175592",
+      "name": "Ivan Yendogurov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4175592"
+    },
+    {
+      "id": "Q4190435",
+      "name": "Kapiton Zelentsov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4190435"
+    },
+    {
+      "id": "Q1343751",
+      "name": "Konstantin Yuon",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1343751"
+    },
+    {
+      "id": "Q443001",
+      "name": "Maksim Vorobyov (painter)",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q443001"
+    },
+    {
+      "id": "Q464016",
+      "name": "Marianne von Werefkin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q464016"
+    },
+    {
+      "id": "Q215100",
+      "name": "Mikhail Vrubel",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q215100"
+    },
+    {
+      "id": "Q4192828",
+      "name": "Mikhail Znamensky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4192828"
+    },
+    {
+      "id": "Q450949",
+      "name": "Nikolai Yaroshenko",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q450949"
+    },
+    {
+      "id": "Q4182546",
+      "name": "Pyotr Zabolotsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4182546"
+    },
+    {
+      "id": "Q2366448",
+      "name": "Pyotr Zakharov-Chechenets",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2366448"
+    },
+    {
+      "id": "Q4179800",
+      "name": "Semen Zhivago",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4179800"
+    },
+    {
+      "id": "Q4175594",
+      "name": "Sergey Yendogurov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4175594"
+    },
+    {
+      "id": "Q1985660",
+      "name": "Sergey Zaryanko",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q1985660"
+    },
+    {
+      "id": "Q15720743",
+      "name": "Sokrat Vorobyov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15720743"
+    },
+    {
+      "id": "Q2498462",
+      "name": "Stanislav Zhukovsky",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q2498462"
+    },
+    {
+      "id": "Q15065052",
+      "name": "Vasily Volkov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15065052"
+    },
+    {
+      "id": "Q15066871",
+      "name": "Viktor Zarubin",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q15066871"
+    },
+    {
+      "id": "Q4123305",
+      "name": "Yefim Volkov",
+      "school": "russian",
+      "wiki": "https://www.wikidata.org/wiki/Q4123305"
+    }
+  ]
+}

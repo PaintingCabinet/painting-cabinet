@@ -1,0 +1,910 @@
+{
+  "artists": [
+    {
+      "id": "Q12873662",
+      "name": "Andreas Pavias",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12873662"
+    },
+    {
+      "id": "Q330232",
+      "name": "Andreas Ritzos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q330232"
+    },
+    {
+      "id": "Q4762991",
+      "name": "Angelos Akotantos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q4762991"
+    },
+    {
+      "id": "Q4763003",
+      "name": "Angelos Pitzamanos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q4763003"
+    },
+    {
+      "id": "Q108208343",
+      "name": "Antonios Papadopoulos (painter)",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108208343"
+    },
+    {
+      "id": "Q423516",
+      "name": "Belisario Corenzio",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q423516"
+    },
+    {
+      "id": "Q561934",
+      "name": "Constantine Manasses",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q561934"
+    },
+    {
+      "id": "Q98072544",
+      "name": "Donato Bizamano",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q98072544"
+    },
+    {
+      "id": "Q301",
+      "name": "El Greco",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q301"
+    },
+    {
+      "id": "Q107476102",
+      "name": "Emmanuel Lambardos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q107476102"
+    },
+    {
+      "id": "Q107303517",
+      "name": "Emmanuel Tzanfournaris",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q107303517"
+    },
+    {
+      "id": "Q5408742",
+      "name": "Eulalios",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q5408742"
+    },
+    {
+      "id": "Q108422209",
+      "name": "Euphrosynos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108422209"
+    },
+    {
+      "id": "Q3082462",
+      "name": "Frangos Katelanos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q3082462"
+    },
+    {
+      "id": "Q26212528",
+      "name": "Georgios Kalliergis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q26212528"
+    },
+    {
+      "id": "Q23001049",
+      "name": "Georgios Klontzas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q23001049"
+    },
+    {
+      "id": "Q109428064",
+      "name": "Giovanni Kyprios",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q109428064"
+    },
+    {
+      "id": "Q108419496",
+      "name": "Ieremias Palladas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108419496"
+    },
+    {
+      "id": "Q107310844",
+      "name": "Ioannis Apakas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q107310844"
+    },
+    {
+      "id": "Q81678162",
+      "name": "Ioannis Pagomenos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q81678162"
+    },
+    {
+      "id": "Q29016255",
+      "name": "Ioannis Permeniates",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q29016255"
+    },
+    {
+      "id": "Q108528226",
+      "name": "Manuel Fokas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108528226"
+    },
+    {
+      "id": "Q1151590",
+      "name": "Manuel Panselinos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1151590"
+    },
+    {
+      "id": "Q918859",
+      "name": "Marco Basaiti",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q918859"
+    },
+    {
+      "id": "Q107369220",
+      "name": "Markos Bathas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q107369220"
+    },
+    {
+      "id": "Q962216",
+      "name": "Michael Astrapas and Eutychios",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q962216"
+    },
+    {
+      "id": "Q718276",
+      "name": "Michael Damaskinos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q718276"
+    },
+    {
+      "id": "Q113232042",
+      "name": "Michael Fokas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q113232042"
+    },
+    {
+      "id": "Q59296949",
+      "name": "Michele Greco da Valona",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q59296949"
+    },
+    {
+      "id": "Q113184346",
+      "name": "Nikolaos Gripiotis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q113184346"
+    },
+    {
+      "id": "Q108421807",
+      "name": "Nikolaos Lampoudis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108421807"
+    },
+    {
+      "id": "Q108495505",
+      "name": "Nikolaos Philanthropinos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108495505"
+    },
+    {
+      "id": "Q108143520",
+      "name": "Nikolaos Ritzos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108143520"
+    },
+    {
+      "id": "Q18210625",
+      "name": "Nikolaos Tzafouris",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q18210625"
+    },
+    {
+      "id": "Q335617",
+      "name": "Onufri",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q335617"
+    },
+    {
+      "id": "Q108142616",
+      "name": "Petros Lambardos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108142616"
+    },
+    {
+      "id": "Q108041020",
+      "name": "Theodore Apsevdis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108041020"
+    },
+    {
+      "id": "Q1349114",
+      "name": "Theophanes the Cretan",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1349114"
+    },
+    {
+      "id": "Q319403",
+      "name": "Theophanes the Greek",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q319403"
+    },
+    {
+      "id": "Q107344844",
+      "name": "Thomas Bathas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q107344844"
+    },
+    {
+      "id": "Q16330905",
+      "name": "Andreas Karantinos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q16330905"
+    },
+    {
+      "id": "Q1106830",
+      "name": "Antonio Vassilacchi",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1106830"
+    },
+    {
+      "id": "Q108968588",
+      "name": "Antonios Skordilis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108968588"
+    },
+    {
+      "id": "Q108104660",
+      "name": "Christodoulos Kalergis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108104660"
+    },
+    {
+      "id": "Q108909717",
+      "name": "Defterevon Sifnios",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108909717"
+    },
+    {
+      "id": "Q108884600",
+      "name": "Demetrios Nomikos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108884600"
+    },
+    {
+      "id": "Q3562527",
+      "name": "Dionysios of Fourna",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q3562527"
+    },
+    {
+      "id": "Q108839551",
+      "name": "Efstathios Karousos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108839551"
+    },
+    {
+      "id": "Q19569579",
+      "name": "Elias Moskos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q19569579"
+    },
+    {
+      "id": "Q108567805",
+      "name": "Emmanuel Skordilis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108567805"
+    },
+    {
+      "id": "Q1338447",
+      "name": "Emmanuel Tzanes",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1338447"
+    },
+    {
+      "id": "Q12727913",
+      "name": "Eusta\u021bie Altini",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12727913"
+    },
+    {
+      "id": "Q104483225",
+      "name": "Franghias Kavertzas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q104483225"
+    },
+    {
+      "id": "Q108568189",
+      "name": "Georgilas Maroulis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108568189"
+    },
+    {
+      "id": "Q108108930",
+      "name": "Georgios Kastrofylakas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108108930"
+    },
+    {
+      "id": "Q108956607",
+      "name": "Georgios Kortezas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108956607"
+    },
+    {
+      "id": "Q108554316",
+      "name": "Georgios Markazinis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108554316"
+    },
+    {
+      "id": "Q39749469",
+      "name": "Georgios Markou",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q39749469"
+    },
+    {
+      "id": "Q108688787",
+      "name": "Georgios Nomikos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108688787"
+    },
+    {
+      "id": "Q108962551",
+      "name": "Iakovos Moskos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108962551"
+    },
+    {
+      "id": "Q108691429",
+      "name": "Ioanni Korai",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108691429"
+    },
+    {
+      "id": "Q12878377",
+      "name": "Ioannis Moskos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12878377"
+    },
+    {
+      "id": "Q109034214",
+      "name": "Ioannis Skordilis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q109034214"
+    },
+    {
+      "id": "Q109016262",
+      "name": "Ioannis Tzen",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q109016262"
+    },
+    {
+      "id": "Q108861918",
+      "name": "Konstantinos Kontarinis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108861918"
+    },
+    {
+      "id": "Q108553852",
+      "name": "Konstantinos Paleokapas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108553852"
+    },
+    {
+      "id": "Q107308387",
+      "name": "Konstantinos Tzanes",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q107308387"
+    },
+    {
+      "id": "Q107327566",
+      "name": "Leos Moskos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q107327566"
+    },
+    {
+      "id": "Q106427839",
+      "name": "Marinos Tzanes",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q106427839"
+    },
+    {
+      "id": "Q108688900",
+      "name": "Neilos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108688900"
+    },
+    {
+      "id": "Q1651424",
+      "name": "Nikolaos Doxaras",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1651424"
+    },
+    {
+      "id": "Q107986687",
+      "name": "Nikolaos Kallergis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q107986687"
+    },
+    {
+      "id": "Q14183314",
+      "name": "Nikolaos Kantounis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q14183314"
+    },
+    {
+      "id": "Q717701",
+      "name": "Panagiotis Doxaras",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q717701"
+    },
+    {
+      "id": "Q12885789",
+      "name": "Philotheos Skoufos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12885789"
+    },
+    {
+      "id": "Q107985224",
+      "name": "Stephanos Tzangarolas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q107985224"
+    },
+    {
+      "id": "Q108420335",
+      "name": "Theocharis Silvestros",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108420335"
+    },
+    {
+      "id": "Q7781952",
+      "name": "Theodore Poulakis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q7781952"
+    },
+    {
+      "id": "Q109560319",
+      "name": "Venediktos Emporios",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q109560319"
+    },
+    {
+      "id": "Q21996798",
+      "name": "Victor (iconographer)",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q21996798"
+    },
+    {
+      "id": "Q12873646",
+      "name": "Andreas Kriezis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12873646"
+    },
+    {
+      "id": "Q536988",
+      "name": "Angelos Giallinas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q536988"
+    },
+    {
+      "id": "Q983643",
+      "name": "Constantino Brumidi",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q983643"
+    },
+    {
+      "id": "Q330976",
+      "name": "Demetrios Galanis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q330976"
+    },
+    {
+      "id": "Q108897611",
+      "name": "Demetrios Stavrakis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108897611"
+    },
+    {
+      "id": "Q12876392",
+      "name": "Dionysios Kallivokas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12876392"
+    },
+    {
+      "id": "Q12876877",
+      "name": "Eleni Boukoura-Altamoura",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12876877"
+    },
+    {
+      "id": "Q12877067",
+      "name": "Emmanouil Lampakis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12877067"
+    },
+    {
+      "id": "Q12875191",
+      "name": "Georgios Chatzopoulos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12875191"
+    },
+    {
+      "id": "Q510723",
+      "name": "Georgios Jakobides",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q510723"
+    },
+    {
+      "id": "Q12874972",
+      "name": "Gerasimos Pitsamanos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12874972"
+    },
+    {
+      "id": "Q3154048",
+      "name": "Ioannis Altamouras",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q3154048"
+    },
+    {
+      "id": "Q12878327",
+      "name": "Ioannis Doukas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12878327"
+    },
+    {
+      "id": "Q108276378",
+      "name": "Ioannis Korais",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108276378"
+    },
+    {
+      "id": "Q25907348",
+      "name": "Ioannis Kornaros",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q25907348"
+    },
+    {
+      "id": "Q6062084",
+      "name": "Ioannis Koutsis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q6062084"
+    },
+    {
+      "id": "Q20830630",
+      "name": "Iosifina Dimas-Ziller",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q20830630"
+    },
+    {
+      "id": "Q31284279",
+      "name": "Kleoniki Gennadiou",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q31284279"
+    },
+    {
+      "id": "Q6044711",
+      "name": "Konstantin Kap\u0131da\u011fl\u0131",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q6044711"
+    },
+    {
+      "id": "Q737559",
+      "name": "Konstantinos Maleas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q737559"
+    },
+    {
+      "id": "Q108851689",
+      "name": "Makarios (painter)",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108851689"
+    },
+    {
+      "id": "Q108968312",
+      "name": "Michael Prevelis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108968312"
+    },
+    {
+      "id": "Q1383454",
+      "name": "Nikiforos Lytras",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1383454"
+    },
+    {
+      "id": "Q4062082",
+      "name": "Nikolaos Alektoridis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q4062082"
+    },
+    {
+      "id": "Q19924975",
+      "name": "Nikolaos Dragoumis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q19924975"
+    },
+    {
+      "id": "Q472237",
+      "name": "Nikolaos Gyzis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q472237"
+    },
+    {
+      "id": "Q15895598",
+      "name": "Nikolaos Koutouzis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q15895598"
+    },
+    {
+      "id": "Q1991244",
+      "name": "Nikolaos Lytras",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1991244"
+    },
+    {
+      "id": "Q1288115",
+      "name": "Polychronis Lembesis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1288115"
+    },
+    {
+      "id": "Q18019555",
+      "name": "Sophia Laskaridou",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q18019555"
+    },
+    {
+      "id": "Q18716075",
+      "name": "Spiridione Roma",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q18716075"
+    },
+    {
+      "id": "Q107989997",
+      "name": "Spyridon Sperantzas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q107989997"
+    },
+    {
+      "id": "Q16056140",
+      "name": "Spyridon Ventouras",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q16056140"
+    },
+    {
+      "id": "Q108870278",
+      "name": "Stylianos Devaris",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108870278"
+    },
+    {
+      "id": "Q7629485",
+      "name": "Stylianos Miliadis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q7629485"
+    },
+    {
+      "id": "Q108109607",
+      "name": "Stylianos Stavrakis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q108109607"
+    },
+    {
+      "id": "Q3519468",
+      "name": "Thalia Flora-Karavia",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q3519468"
+    },
+    {
+      "id": "Q1371698",
+      "name": "Theophilos Hatzimihail",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1371698"
+    },
+    {
+      "id": "Q3565540",
+      "name": "Vasileios Hatzis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q3565540"
+    },
+    {
+      "id": "Q15916314",
+      "name": "Vikentios Lantsas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q15916314"
+    },
+    {
+      "id": "Q4719842",
+      "name": "Alexander Philadelpheus",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q4719842"
+    },
+    {
+      "id": "Q12886041",
+      "name": "Charalambos Pachis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12886041"
+    },
+    {
+      "id": "Q155272",
+      "name": "Dionysios Tsokos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q155272"
+    },
+    {
+      "id": "Q16863174",
+      "name": "Dionysios Vegias",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q16863174"
+    },
+    {
+      "id": "Q1346370",
+      "name": "Epameinondas Thomopoulos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1346370"
+    },
+    {
+      "id": "Q12875153",
+      "name": "Georgios Prokopiou",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12875153"
+    },
+    {
+      "id": "Q330960",
+      "name": "Georgios Roilos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q330960"
+    },
+    {
+      "id": "Q4676085",
+      "name": "Georgios Samartzis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q4676085"
+    },
+    {
+      "id": "Q5550351",
+      "name": "Gerasimos Vokos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q5550351"
+    },
+    {
+      "id": "Q16744732",
+      "name": "Iakovos Rizos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q16744732"
+    },
+    {
+      "id": "Q15476990",
+      "name": "Ioannis Oikonomou",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q15476990"
+    },
+    {
+      "id": "Q3154052",
+      "name": "Ioannis Zacharias",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q3154052"
+    },
+    {
+      "id": "Q767151",
+      "name": "Konstantinos Volanakis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q767151"
+    },
+    {
+      "id": "Q12881086",
+      "name": "Michalis Oikonomou",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12881086"
+    },
+    {
+      "id": "Q1991291",
+      "name": "Nikolaos Vokos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1991291"
+    },
+    {
+      "id": "Q1991277",
+      "name": "Nikolaos Xydias Typaldos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1991277"
+    },
+    {
+      "id": "Q12882110",
+      "name": "Odysseas Phokas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12882110"
+    },
+    {
+      "id": "Q718474",
+      "name": "Panagiotis Zographos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q718474"
+    },
+    {
+      "id": "Q15409981",
+      "name": "Pavlos Prosalentis (the Younger)",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q15409981"
+    },
+    {
+      "id": "Q12883389",
+      "name": "Periklis Tsirigotis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q12883389"
+    },
+    {
+      "id": "Q4167872",
+      "name": "Petros Roumpos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q4167872"
+    },
+    {
+      "id": "Q717716",
+      "name": "P\u00e9ricl\u00e8s Pantazis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q717716"
+    },
+    {
+      "id": "Q3460484",
+      "name": "Savvas the New of Kalymnos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q3460484"
+    },
+    {
+      "id": "Q15411292",
+      "name": "Spyridon Prosalentis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q15411292"
+    },
+    {
+      "id": "Q1766805",
+      "name": "Spyridon Vikatos",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q1766805"
+    },
+    {
+      "id": "Q7581807",
+      "name": "Spyros Paliouras",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q7581807"
+    },
+    {
+      "id": "Q7597355",
+      "name": "Stamatis Voulgaris",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q7597355"
+    },
+    {
+      "id": "Q2374523",
+      "name": "Symeon Savvidis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q2374523"
+    },
+    {
+      "id": "Q662983",
+      "name": "Theodoros Vryzakis",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q662983"
+    },
+    {
+      "id": "Q2430551",
+      "name": "Th\u00e9odore Ralli",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q2430551"
+    },
+    {
+      "id": "Q8053497",
+      "name": "Yiannis Poulakas",
+      "school": "greek",
+      "wiki": "https://www.wikidata.org/wiki/Q8053497"
+    }
+  ]
+}

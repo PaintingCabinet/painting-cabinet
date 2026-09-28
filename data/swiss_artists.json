@@ -1,0 +1,1504 @@
+{
+  "artists": [
+    {
+      "id": "Q580452",
+      "name": "Albrecht Kauw",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q580452"
+    },
+    {
+      "id": "Q123732",
+      "name": "Ambrosius Holbein",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q123732"
+    },
+    {
+      "id": "Q4767282",
+      "name": "Anna Barbara Abesch",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q4767282"
+    },
+    {
+      "id": "Q119788",
+      "name": "Anna Waser",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q119788"
+    },
+    {
+      "id": "Q1041840",
+      "name": "Carlo Antonio Bussi",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1041840"
+    },
+    {
+      "id": "Q368915",
+      "name": "Carpoforo Tencalla",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q368915"
+    },
+    {
+      "id": "Q5162575",
+      "name": "Conrad Meyer (painter)",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q5162575"
+    },
+    {
+      "id": "Q1403673",
+      "name": "Felix Meyer",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1403673"
+    },
+    {
+      "id": "Q680148",
+      "name": "Francesco Antonio Giorgioli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q680148"
+    },
+    {
+      "id": "Q671596",
+      "name": "Georg Gsell",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q671596"
+    },
+    {
+      "id": "Q3762653",
+      "name": "Giacomo Albertolli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3762653"
+    },
+    {
+      "id": "Q115920",
+      "name": "Giocondo Albertolli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q115920"
+    },
+    {
+      "id": "Q759214",
+      "name": "Giovanni Serodine",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q759214"
+    },
+    {
+      "id": "Q1155244",
+      "name": "Giuseppe Antonio Petrini",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1155244"
+    },
+    {
+      "id": "Q3116302",
+      "name": "Gregor Brandm\u00fcller",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3116302"
+    },
+    {
+      "id": "Q1479482",
+      "name": "Gregorius Sickinger",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1479482"
+    },
+    {
+      "id": "Q115752",
+      "name": "Hans Asper",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q115752"
+    },
+    {
+      "id": "Q115997",
+      "name": "Hans Fries",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q115997"
+    },
+    {
+      "id": "Q682812",
+      "name": "Hans Leu the Elder",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q682812"
+    },
+    {
+      "id": "Q18511864",
+      "name": "Hans Leu the Younger",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q18511864"
+    },
+    {
+      "id": "Q15290562",
+      "name": "Hans Rudolf Manuel Deutsch",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q15290562"
+    },
+    {
+      "id": "Q1582823",
+      "name": "Hans Ulrich Fisch",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1582823"
+    },
+    {
+      "id": "Q1528551",
+      "name": "Heinrich Bichler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1528551"
+    },
+    {
+      "id": "Q1687770",
+      "name": "Jeronimus Spengler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1687770"
+    },
+    {
+      "id": "Q123747",
+      "name": "Johann Jakob Biedermann",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q123747"
+    },
+    {
+      "id": "Q124154",
+      "name": "Johann Ludwig Aberli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q124154"
+    },
+    {
+      "id": "Q1263654",
+      "name": "Johann Martin Veith",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1263654"
+    },
+    {
+      "id": "Q329209",
+      "name": "Johann Rudolf Byss",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q329209"
+    },
+    {
+      "id": "Q124904",
+      "name": "Johann Rudolf Huber",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q124904"
+    },
+    {
+      "id": "Q19772231",
+      "name": "Johann Rudolf Werdm\u00fcller",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q19772231"
+    },
+    {
+      "id": "Q6216560",
+      "name": "Johannes Brandenberg",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q6216560"
+    },
+    {
+      "id": "Q535474",
+      "name": "Joseph Heintz the Elder",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q535474"
+    },
+    {
+      "id": "Q683867",
+      "name": "Joseph Werner",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q683867"
+    },
+    {
+      "id": "Q313183",
+      "name": "Konrad Witz",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q313183"
+    },
+    {
+      "id": "Q6698987",
+      "name": "Ludovico David",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q6698987"
+    },
+    {
+      "id": "Q670805",
+      "name": "Niklaus Manuel Deutsch",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q670805"
+    },
+    {
+      "id": "Q353437",
+      "name": "Peter Birmann",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q353437"
+    },
+    {
+      "id": "Q7411711",
+      "name": "Samuel Hoffmann",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q7411711"
+    },
+    {
+      "id": "Q677071",
+      "name": "Tobias Stimmer",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q677071"
+    },
+    {
+      "id": "Q688304",
+      "name": "Urs Graf",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q688304"
+    },
+    {
+      "id": "Q2821803",
+      "name": "Abraham-Louis-Rodolphe Ducros",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q2821803"
+    },
+    {
+      "id": "Q123098",
+      "name": "Angelica Kauffman",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q123098"
+    },
+    {
+      "id": "Q51442956",
+      "name": "Anna F\u00fcssli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q51442956"
+    },
+    {
+      "id": "Q310213",
+      "name": "Anton Graff",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q310213"
+    },
+    {
+      "id": "Q2437080",
+      "name": "Benjamin Samuel Bolomey",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q2437080"
+    },
+    {
+      "id": "Q1174725",
+      "name": "David Hess (painter)",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1174725"
+    },
+    {
+      "id": "Q15699621",
+      "name": "David Morier",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q15699621"
+    },
+    {
+      "id": "Q117083",
+      "name": "Emanuel B\u00fcchel",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q117083"
+    },
+    {
+      "id": "Q1403642",
+      "name": "Felix Maria Diogg",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1403642"
+    },
+    {
+      "id": "Q124907",
+      "name": "Franz Hegi",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q124907"
+    },
+    {
+      "id": "Q1448404",
+      "name": "Franz Niklaus K\u00f6nig",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1448404"
+    },
+    {
+      "id": "Q3083784",
+      "name": "Fran\u00e7ois Aim\u00e9 Louis Dumoulin",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3083784"
+    },
+    {
+      "id": "Q5506691",
+      "name": "Fr\u00e9d\u00e9ric Fregevize",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q5506691"
+    },
+    {
+      "id": "Q18511605",
+      "name": "Gabriel Lory",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q18511605"
+    },
+    {
+      "id": "Q19518408",
+      "name": "Giovanni Antonio Caldelli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q19518408"
+    },
+    {
+      "id": "Q118677",
+      "name": "Giovanni Battista Innocenzo Colombo",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q118677"
+    },
+    {
+      "id": "Q18603501",
+      "name": "Giovanni Battista Maderni",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q18603501"
+    },
+    {
+      "id": "Q16832428",
+      "name": "Heinrich Freudweiler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q16832428"
+    },
+    {
+      "id": "Q122382",
+      "name": "Henry Fuseli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q122382"
+    },
+    {
+      "id": "Q6120859",
+      "name": "Jacques Sablet",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q6120859"
+    },
+    {
+      "id": "Q360438",
+      "name": "Jakob Emanuel Handmann",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q360438"
+    },
+    {
+      "id": "Q17944523",
+      "name": "Jean-Fran\u00e7ois Sablet",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q17944523"
+    },
+    {
+      "id": "Q3169737",
+      "name": "Jean-Pierre Saint-Ours",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3169737"
+    },
+    {
+      "id": "Q676388",
+      "name": "Jean Preudhomme",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q676388"
+    },
+    {
+      "id": "Q119373",
+      "name": "Johann Balthasar Bullinger",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q119373"
+    },
+    {
+      "id": "Q667640",
+      "name": "Johann Caspar F\u00fcssli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q667640"
+    },
+    {
+      "id": "Q1280556",
+      "name": "Johann Heinrich Bleuler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1280556"
+    },
+    {
+      "id": "Q16854718",
+      "name": "Johann Heinrich Keller",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q16854718"
+    },
+    {
+      "id": "Q118064",
+      "name": "Johann Heinrich Meyer",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q118064"
+    },
+    {
+      "id": "Q124085",
+      "name": "Johann Heinrich M\u00fcntz",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q124085"
+    },
+    {
+      "id": "Q2630485",
+      "name": "Johann Kaspar F\u00fcssli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q2630485"
+    },
+    {
+      "id": "Q36841977",
+      "name": "Louise de Corcelles",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q36841977"
+    },
+    {
+      "id": "Q917118",
+      "name": "Ludwig Hess",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q917118"
+    },
+    {
+      "id": "Q23059231",
+      "name": "Marie-Anne Calame",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q23059231"
+    },
+    {
+      "id": "Q34418920",
+      "name": "Marie Ferrier-Perregaux",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q34418920"
+    },
+    {
+      "id": "Q123765",
+      "name": "Salomon Gessner",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q123765"
+    },
+    {
+      "id": "Q121376",
+      "name": "Salomon Landolt",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q121376"
+    },
+    {
+      "id": "Q2218363",
+      "name": "Samuel Hieronymus Grimm",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q2218363"
+    },
+    {
+      "id": "Q2284963",
+      "name": "Sigmund Freudenberger",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q2284963"
+    },
+    {
+      "id": "Q37705934",
+      "name": "Susette Hirzel",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q37705934"
+    },
+    {
+      "id": "Q321099",
+      "name": "Adrian Zingg",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q321099"
+    },
+    {
+      "id": "Q72510",
+      "name": "Albert Anker",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q72510"
+    },
+    {
+      "id": "Q2836533",
+      "name": "Alice Bailly",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q2836533"
+    },
+    {
+      "id": "Q123071",
+      "name": "Arnold B\u00f6cklin",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q123071"
+    },
+    {
+      "id": "Q116395",
+      "name": "Auguste Baud-Bovy",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q116395"
+    },
+    {
+      "id": "Q3659111",
+      "name": "Carlo Bossoli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3659111"
+    },
+    {
+      "id": "Q40522",
+      "name": "Caspar Wolf",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q40522"
+    },
+    {
+      "id": "Q566797",
+      "name": "Cuno Amiet",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q566797"
+    },
+    {
+      "id": "Q681741",
+      "name": "Edmond Bille",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q681741"
+    },
+    {
+      "id": "Q356894",
+      "name": "Emanuel Witz",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q356894"
+    },
+    {
+      "id": "Q120196",
+      "name": "Emil Beurmann",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q120196"
+    },
+    {
+      "id": "Q669667",
+      "name": "Ernest Bi\u00e9ler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q669667"
+    },
+    {
+      "id": "Q681448",
+      "name": "Eug\u00e8ne Burnand",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q681448"
+    },
+    {
+      "id": "Q329490",
+      "name": "Frank Buchser",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q329490"
+    },
+    {
+      "id": "Q1447696",
+      "name": "Franz Karl Basler-Kopp",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1447696"
+    },
+    {
+      "id": "Q672079",
+      "name": "Fran\u00e7ois Bocion",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q672079"
+    },
+    {
+      "id": "Q120191",
+      "name": "Giuseppe Bernardazzi",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q120191"
+    },
+    {
+      "id": "Q1578629",
+      "name": "Hans Bendel",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1578629"
+    },
+    {
+      "id": "Q118833",
+      "name": "Hans Eduard von Berlepsch-Valendas",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q118833"
+    },
+    {
+      "id": "Q321284",
+      "name": "Heinrich Altherr",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q321284"
+    },
+    {
+      "id": "Q21455145",
+      "name": "Ida Baumann",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q21455145"
+    },
+    {
+      "id": "Q506256",
+      "name": "Jacques-Laurent Agasse",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q506256"
+    },
+    {
+      "id": "Q53499085",
+      "name": "Jacques Burkhardt",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q53499085"
+    },
+    {
+      "id": "Q1687023",
+      "name": "Jenny Burckhardt",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1687023"
+    },
+    {
+      "id": "Q28120356",
+      "name": "Johann Baptist Stuntz",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q28120356"
+    },
+    {
+      "id": "Q1694514",
+      "name": "Johann Heinrich Troll",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1694514"
+    },
+    {
+      "id": "Q1694927",
+      "name": "Johann Jakob Schalch",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1694927"
+    },
+    {
+      "id": "Q30311702",
+      "name": "Johann Jakob Wetzel",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q30311702"
+    },
+    {
+      "id": "Q1695331",
+      "name": "Johann Ludwig Bleuler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1695331"
+    },
+    {
+      "id": "Q270629",
+      "name": "Louise Catherine Breslau",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q270629"
+    },
+    {
+      "id": "Q3287697",
+      "name": "Marc-Louis Arlaud",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3287697"
+    },
+    {
+      "id": "Q3293770",
+      "name": "Marius Borgeaud",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3293770"
+    },
+    {
+      "id": "Q21070100",
+      "name": "Martha Burkhardt",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q21070100"
+    },
+    {
+      "id": "Q177330",
+      "name": "Max Buri",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q177330"
+    },
+    {
+      "id": "Q118462",
+      "name": "Melchior Wyrsch",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q118462"
+    },
+    {
+      "id": "Q23064161",
+      "name": "Pierre-Louis Bouvier",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q23064161"
+    },
+    {
+      "id": "Q683105",
+      "name": "Ren\u00e9 Auberjonois (painter)",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q683105"
+    },
+    {
+      "id": "Q123749",
+      "name": "Samuel Birmann",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q123749"
+    },
+    {
+      "id": "Q2262647",
+      "name": "Sebastian Buff",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q2262647"
+    },
+    {
+      "id": "Q2571824",
+      "name": "Wilhelm Balmer",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q2571824"
+    },
+    {
+      "id": "Q3603772",
+      "name": "Abraham Constantin",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3603772"
+    },
+    {
+      "id": "Q537102",
+      "name": "Ad\u00e8le d'Affry",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q537102"
+    },
+    {
+      "id": "Q621994",
+      "name": "Alexandre Calame",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q621994"
+    },
+    {
+      "id": "Q633803",
+      "name": "Alexandre Cingria",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q633803"
+    },
+    {
+      "id": "Q518448",
+      "name": "Andr\u00e9 Evard",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q518448"
+    },
+    {
+      "id": "Q588597",
+      "name": "Anton B\u00fctler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q588597"
+    },
+    {
+      "id": "Q671236",
+      "name": "Augusto Giacometti",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q671236"
+    },
+    {
+      "id": "Q123743",
+      "name": "Babeli Giezendanner",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q123743"
+    },
+    {
+      "id": "Q1036796",
+      "name": "Carl Arnold Gonzenbach",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1036796"
+    },
+    {
+      "id": "Q452119",
+      "name": "Charles Gleyre",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q452119"
+    },
+    {
+      "id": "Q40672972",
+      "name": "Emil Dill",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q40672972"
+    },
+    {
+      "id": "Q5486577",
+      "name": "Frank Feller",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q5486577"
+    },
+    {
+      "id": "Q686742",
+      "name": "Fran\u00e7ois Diday",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q686742"
+    },
+    {
+      "id": "Q689411",
+      "name": "Giovanni Giacometti",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q689411"
+    },
+    {
+      "id": "Q15809822",
+      "name": "Gustave Florentin Garraux",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q15809822"
+    },
+    {
+      "id": "Q1500100",
+      "name": "Helen Dahm",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1500100"
+    },
+    {
+      "id": "Q18206122",
+      "name": "Helga von Cramm",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q18206122"
+    },
+    {
+      "id": "Q15996418",
+      "name": "Henri Dobler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q15996418"
+    },
+    {
+      "id": "Q688401",
+      "name": "Henri Dufaux",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q688401"
+    },
+    {
+      "id": "Q670319",
+      "name": "Jean Crotti",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q670319"
+    },
+    {
+      "id": "Q1693541",
+      "name": "Johann Friedrich Dietler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1693541"
+    },
+    {
+      "id": "Q1337730",
+      "name": "Johann Jakob Frey",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1337730"
+    },
+    {
+      "id": "Q1033064",
+      "name": "John James Chalon",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1033064"
+    },
+    {
+      "id": "Q121689",
+      "name": "Joseph Caspar",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q121689"
+    },
+    {
+      "id": "Q117261",
+      "name": "Joseph Niklaus B\u00fctler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q117261"
+    },
+    {
+      "id": "Q324021",
+      "name": "Karl Girardet",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q324021"
+    },
+    {
+      "id": "Q29401334",
+      "name": "Konrad Corradi",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q29401334"
+    },
+    {
+      "id": "Q677370",
+      "name": "Konrad Grob",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q677370"
+    },
+    {
+      "id": "Q42711227",
+      "name": "L\u00e9on Gaud",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q42711227"
+    },
+    {
+      "id": "Q22691621",
+      "name": "Marcel de Chollet",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q22691621"
+    },
+    {
+      "id": "Q16059509",
+      "name": "Maria Gugelberg von Moos",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q16059509"
+    },
+    {
+      "id": "Q688681",
+      "name": "Martin Disteli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q688681"
+    },
+    {
+      "id": "Q683169",
+      "name": "Melchior Paul von Deschwanden",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q683169"
+    },
+    {
+      "id": "Q1111144",
+      "name": "Niklaus B\u00fctler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1111144"
+    },
+    {
+      "id": "Q364847",
+      "name": "Otto Fr\u00f6licher",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q364847"
+    },
+    {
+      "id": "Q7150498",
+      "name": "Paul Emmert",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q7150498"
+    },
+    {
+      "id": "Q47494226",
+      "name": "Theodor von Deschwanden",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q47494226"
+    },
+    {
+      "id": "Q2544130",
+      "name": "Walter Enholtz",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q2544130"
+    },
+    {
+      "id": "Q19976545",
+      "name": "Wilhelm F\u00fcssli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q19976545"
+    },
+    {
+      "id": "Q260135",
+      "name": "\u00c9douard Castres",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q260135"
+    },
+    {
+      "id": "Q4684262",
+      "name": "Adolfo M\u00fcller-Ury",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q4684262"
+    },
+    {
+      "id": "Q29877084",
+      "name": "Albert de Meuron",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q29877084"
+    },
+    {
+      "id": "Q567382",
+      "name": "Albert von Keller",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q567382"
+    },
+    {
+      "id": "Q86697173",
+      "name": "Alois Hirschb\u00fchl",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q86697173"
+    },
+    {
+      "id": "Q264295",
+      "name": "Barth\u00e9lemy Menn",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q264295"
+    },
+    {
+      "id": "Q683305",
+      "name": "Carl August Liner",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q683305"
+    },
+    {
+      "id": "Q52146439",
+      "name": "Caroline Mezger",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q52146439"
+    },
+    {
+      "id": "Q117937",
+      "name": "Charles L'\u00c9plattenier",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q117937"
+    },
+    {
+      "id": "Q1337336",
+      "name": "Emilie Linder",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1337336"
+    },
+    {
+      "id": "Q121008",
+      "name": "Ernst Kreidolf",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q121008"
+    },
+    {
+      "id": "Q1359265",
+      "name": "Ernst Linck",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1359265"
+    },
+    {
+      "id": "Q5417382",
+      "name": "Evert van Muyden",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q5417382"
+    },
+    {
+      "id": "Q214564",
+      "name": "Ferdinand Hodler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q214564"
+    },
+    {
+      "id": "Q1419165",
+      "name": "Firmin Massot",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1419165"
+    },
+    {
+      "id": "Q27304476",
+      "name": "Fritz Osswald",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q27304476"
+    },
+    {
+      "id": "Q19963578",
+      "name": "Gabriel Lory the Younger",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q19963578"
+    },
+    {
+      "id": "Q24730020",
+      "name": "Gustave Jeanneret",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q24730020"
+    },
+    {
+      "id": "Q3126967",
+      "name": "Hans Jakob Oeri",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3126967"
+    },
+    {
+      "id": "Q1596580",
+      "name": "Heinrich Anton M\u00fcller",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1596580"
+    },
+    {
+      "id": "Q201903",
+      "name": "Hermann Hirzel",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q201903"
+    },
+    {
+      "id": "Q1330576",
+      "name": "Hieronymus Hess",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1330576"
+    },
+    {
+      "id": "Q18600482",
+      "name": "Jacques Alfred van Muyden",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q18600482"
+    },
+    {
+      "id": "Q37765285",
+      "name": "Jakob Christoph Miville",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q37765285"
+    },
+    {
+      "id": "Q16023245",
+      "name": "Jakob Huwyler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q16023245"
+    },
+    {
+      "id": "Q26933775",
+      "name": "Jeanne Lombard",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q26933775"
+    },
+    {
+      "id": "Q118407",
+      "name": "Johann Baptist Isenring",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q118407"
+    },
+    {
+      "id": "Q20164891",
+      "name": "Johann Daniel Wilhelm Hartmann",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q20164891"
+    },
+    {
+      "id": "Q458811",
+      "name": "Karl Jauslin",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q458811"
+    },
+    {
+      "id": "Q19413932",
+      "name": "Louise-\u00c9milie Leleux-Giraud",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q19413932"
+    },
+    {
+      "id": "Q3302780",
+      "name": "Maximilien de Meuron",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3302780"
+    },
+    {
+      "id": "Q26174216",
+      "name": "Meinrad Iten",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q26174216"
+    },
+    {
+      "id": "Q23782678",
+      "name": "Nancy M\u00e9rienne",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q23782678"
+    },
+    {
+      "id": "Q681154",
+      "name": "Oswald Pilloud",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q681154"
+    },
+    {
+      "id": "Q690169",
+      "name": "Otto Meyer-Amden",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q690169"
+    },
+    {
+      "id": "Q2040157",
+      "name": "Otto Pilny",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q2040157"
+    },
+    {
+      "id": "Q7377189",
+      "name": "Rudolf Friedrich Kurz",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q7377189"
+    },
+    {
+      "id": "Q123734",
+      "name": "Rudolf Koller",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q123734"
+    },
+    {
+      "id": "Q1713599",
+      "name": "Rudolf M\u00fcnger",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1713599"
+    },
+    {
+      "id": "Q568480",
+      "name": "Wilhelm Hummel",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q568480"
+    },
+    {
+      "id": "Q3579883",
+      "name": "\u00c9douard Herzig",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3579883"
+    },
+    {
+      "id": "Q3605437",
+      "name": "Adolfo Feragutti Visconti",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3605437"
+    },
+    {
+      "id": "Q18692616",
+      "name": "Albert Trachsel",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q18692616"
+    },
+    {
+      "id": "Q494937",
+      "name": "Andrea Robbi",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q494937"
+    },
+    {
+      "id": "Q120263",
+      "name": "Auguste Veillon",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q120263"
+    },
+    {
+      "id": "Q817719",
+      "name": "Benjamin Vautier (Swiss artist)",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q817719"
+    },
+    {
+      "id": "Q682688",
+      "name": "Bernhard Studer (painter)",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q682688"
+    },
+    {
+      "id": "Q694113",
+      "name": "Carlos Schwabe",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q694113"
+    },
+    {
+      "id": "Q19974460",
+      "name": "Caroline Sophie Sordet-Boissonnas",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q19974460"
+    },
+    {
+      "id": "Q1067371",
+      "name": "Charlotte Weiss",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1067371"
+    },
+    {
+      "id": "Q14437718",
+      "name": "David Eduard Steiner",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q14437718"
+    },
+    {
+      "id": "Q21288783",
+      "name": "Edmond Jean de Pury",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q21288783"
+    },
+    {
+      "id": "Q5345650",
+      "name": "Edward Troye",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q5345650"
+    },
+    {
+      "id": "Q329974",
+      "name": "Ernst St\u00fcckelberg (painter)",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q329974"
+    },
+    {
+      "id": "Q123740",
+      "name": "F\u00e9lix Vallotton",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q123740"
+    },
+    {
+      "id": "Q1495942",
+      "name": "Gaudenz Taverna",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1495942"
+    },
+    {
+      "id": "Q681084",
+      "name": "Giovanni Antonio Vanoni",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q681084"
+    },
+    {
+      "id": "Q437704",
+      "name": "Hans Sandreuter",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q437704"
+    },
+    {
+      "id": "Q119723",
+      "name": "Hans Sturzenegger",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q119723"
+    },
+    {
+      "id": "Q1593404",
+      "name": "Hedwig Scherrer",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1593404"
+    },
+    {
+      "id": "Q24041609",
+      "name": "Henriette Rath",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q24041609"
+    },
+    {
+      "id": "Q167120",
+      "name": "Hermann R\u00fcdis\u00fchli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q167120"
+    },
+    {
+      "id": "Q26702296",
+      "name": "Jeanne-Pernette Schenker-Massot",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q26702296"
+    },
+    {
+      "id": "Q50134949",
+      "name": "Johann Caspar Weidenmann",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q50134949"
+    },
+    {
+      "id": "Q682744",
+      "name": "Johann Gottfried Steffan",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q682744"
+    },
+    {
+      "id": "Q1694948",
+      "name": "Johann Jakob Ulrich",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1694948"
+    },
+    {
+      "id": "Q117401",
+      "name": "Joseph Simon Volmar",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q117401"
+    },
+    {
+      "id": "Q1313869",
+      "name": "Karl Rauber",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1313869"
+    },
+    {
+      "id": "Q117489",
+      "name": "Karl Stauffer-Bern",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q117489"
+    },
+    {
+      "id": "Q689650",
+      "name": "Louis Soutter",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q689650"
+    },
+    {
+      "id": "Q324629",
+      "name": "Ludwig Vogel",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q324629"
+    },
+    {
+      "id": "Q3840105",
+      "name": "Luigi Rossi (painter)",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3840105"
+    },
+    {
+      "id": "Q16334540",
+      "name": "L\u00e9o-Paul Robert",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q16334540"
+    },
+    {
+      "id": "Q1308686",
+      "name": "Maurice Reymond de Broutelles",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1308686"
+    },
+    {
+      "id": "Q2037804",
+      "name": "Ottilie Roederstein",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q2037804"
+    },
+    {
+      "id": "Q21294799",
+      "name": "Richard Ranft",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q21294799"
+    },
+    {
+      "id": "Q4247",
+      "name": "Rodolphe T\u00f6pffer",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q4247"
+    },
+    {
+      "id": "Q16066484",
+      "name": "Spartaco Vela",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q16066484"
+    },
+    {
+      "id": "Q682490",
+      "name": "Wilhelm Scheuchzer",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q682490"
+    },
+    {
+      "id": "Q3569677",
+      "name": "Wolfgang-Adam T\u00f6pffer",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q3569677"
+    },
+    {
+      "id": "Q21512108",
+      "name": "\u00c9lisabeth Terroux",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q21512108"
+    },
+    {
+      "id": "Q364638",
+      "name": "Adolf W\u00f6lfli",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q364638"
+    },
+    {
+      "id": "Q690693",
+      "name": "Albert Welti",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q690693"
+    },
+    {
+      "id": "Q27749328",
+      "name": "Bertha Z\u00fcricher",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q27749328"
+    },
+    {
+      "id": "Q1468989",
+      "name": "Fritz Wucherer",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q1468989"
+    },
+    {
+      "id": "Q4506097",
+      "name": "Fritz Zuber-Buhler",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q4506097"
+    },
+    {
+      "id": "Q5515913",
+      "name": "Gabriel W\u00fcger",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q5515913"
+    },
+    {
+      "id": "Q983222",
+      "name": "Hans Beat Wieland",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q983222"
+    },
+    {
+      "id": "Q6241603",
+      "name": "John James Wild",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q6241603"
+    },
+    {
+      "id": "Q125633",
+      "name": "Lisa Wenger",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q125633"
+    },
+    {
+      "id": "Q563312",
+      "name": "Robert Z\u00fcnd",
+      "school": "swiss",
+      "wiki": "https://www.wikidata.org/wiki/Q563312"
+    }
+  ]
+}

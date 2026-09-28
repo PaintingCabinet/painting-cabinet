@@ -1,91 +1,98 @@
 import json
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT / "data"
-PLAQUES = DATA / "plaques.json"
-STYLE = DATA / "label-style.json"
-WORKS = DATA / "works.json"
-REJECTED = DATA / "rejected.json"
-
-def read_json(path, fallback):
-    if path.exists():
-        return json.loads(path.read_text(encoding="utf-8"))
-    return fallback
-
-def write_json(path, payload):
-    path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
 
 class Handler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=str(ROOT), **kwargs)
 
-    def _send_json(self, payload, status=200):
+    def _send(self, code, payload):
         body = json.dumps(payload).encode("utf-8")
-        self.send_response(status)
+        self.send_response(code)
         self.send_header("Content-Type", "application/json")
         self.send_header("Content-Length", str(len(body)))
         self.end_headers()
         self.wfile.write(body)
 
+    def _read_json(self):
+        length = int(self.headers.get("Content-Length", 0) or 0)
+        raw = self.rfile.read(length) if length else b"{}"
+        return json.loads(raw.decode("utf-8") or "{}")
+
     def do_POST(self):
-        length = int(self.headers.get("Content-Length", "0"))
-        raw = self.rfile.read(length).decode("utf-8")
+        path = urlparse(self.path).path
         try:
-            data = json.loads(raw) if raw else {}
-        except json.JSONDecodeError:
-            return self._send_json({"ok": False, "error": "bad json"}, 400)
+            body = self._read_json()
+            if path == "/api/plaque":
+                plaques_path = ROOT / "data" / "plaques.json"
+                data = {"plaques": {}}
+                if plaques_path.exists():
+                    data = json.loads(plaques_path.read_text(encoding="utf-8"))
+                    data.setdefault("plaques", {})
+                work_id = body.get("id")
+                if not work_id:
+                    self._send(400, {"ok": False, "error": "Missing id"})
+                    return
+                data["plaques"][work_id] = body.get("text") or ""
+                plaques_path.write_text(json.dumps(data, indent=2), encoding="utf-8")
+                self._send(200, {"ok": True})
+                return
 
-        if self.path == "/api/plaque":
-            work_id = data.get("id", "").strip()
-            text = data.get("text", "")
-            if not work_id:
-                return self._send_json({"ok": False, "error": "missing id"}, 400)
-            store = read_json(PLAQUES, {"plaques": {}})
-            store.setdefault("plaques", {})[work_id] = text
-            write_json(PLAQUES, store)
-            return self._send_json({"ok": True})
+            if path == "/api/label-style":
+                style_path = ROOT / "data" / "label-style.json"
+                style_path.write_text(json.dumps(body, indent=2), encoding="utf-8")
+                self._send(200, {"ok": True})
+                return
 
-        if self.path == "/api/label-style":
-            write_json(STYLE, data)
-            return self._send_json({"ok": True})
+            if path == "/api/set-genre":
+                wiki = body.get("wiki") or ""
+                genre = body.get("genre") or "other"
+                works_path = ROOT / "data" / "works.json"
+                data = json.loads(works_path.read_text(encoding="utf-8"))
+                found = False
+                for work in data.get("works", []):
+                    if work.get("wiki") == wiki:
+                        work["genre"] = genre
+                        found = True
+                        break
+                if not found:
+                    self._send(404, {"ok": False, "error": "Work not found"})
+                    return
+                works_path.write_text(json.dumps(data, indent=2), encoding="utf-8")
+                self._send(200, {"ok": True})
+                return
 
-        if self.path == "/api/remove-work":
-            wiki = (data.get("wiki") or "").strip()
-            qid = (data.get("id") or "").strip()
-            if not wiki and not qid:
-                return self._send_json({"ok": False, "error": "missing id"}, 400)
+            if path == "/api/remove-work":
+                wiki = body.get("wiki") or ""
+                qid = body.get("id") or wiki.rsplit("/", 1)[-1]
+                works_path = ROOT / "data" / "works.json"
+                rejected_path = ROOT / "data" / "rejected.json"
+                plaques_path = ROOT / "data" / "plaques.json"
+                data = json.loads(works_path.read_text(encoding="utf-8"))
+                data["works"] = [w for w in data.get("works", []) if w.get("wiki") != wiki]
+                works_path.write_text(json.dumps(data, indent=2), encoding="utf-8")
+                rejected = {"rejected": []}
+                if rejected_path.exists():
+                    rejected = json.loads(rejected_path.read_text(encoding="utf-8"))
+                    rejected.setdefault("rejected", [])
+                if wiki not in rejected["rejected"]:
+                    rejected["rejected"].append(wiki)
+                if qid not in rejected["rejected"]:
+                    rejected["rejected"].append(qid)
+                rejected_path.write_text(json.dumps(rejected, indent=2), encoding="utf-8")
+                if plaques_path.exists():
+                    plaques = json.loads(plaques_path.read_text(encoding="utf-8"))
+                    plaques.get("plaques", {}).pop(qid, None)
+                    plaques_path.write_text(json.dumps(plaques, indent=2), encoding="utf-8")
+                self._send(200, {"ok": True})
+                return
 
-            catalog = read_json(WORKS, {"works": []})
-            kept = []
-            removed = None
-            for work in catalog.get("works", []):
-                work_qid = (work.get("wiki") or "").rsplit("/", 1)[-1]
-                if work.get("wiki") == wiki or work_qid == qid:
-                    removed = work
-                    continue
-                kept.append(work)
-            catalog["works"] = kept
-            write_json(WORKS, catalog)
-
-            rejected = read_json(REJECTED, {"rejected": []})
-            ids = rejected.setdefault("rejected", [])
-            mark = wiki or ("http://www.wikidata.org/entity/" + qid)
-            if mark not in ids:
-                ids.append(mark)
-            if qid and qid not in ids:
-                ids.append(qid)
-            write_json(REJECTED, rejected)
-
-            plaques = read_json(PLAQUES, {"plaques": {}})
-            if qid and qid in plaques.get("plaques", {}):
-                del plaques["plaques"][qid]
-                write_json(PLAQUES, plaques)
-
-            return self._send_json({"ok": True, "removed": bool(removed)})
-
-        self._send_json({"ok": False, "error": "unknown path"}, 404)
+            self._send(404, {"ok": False, "error": "Unknown API"})
+        except Exception as error:
+            self._send(500, {"ok": False, "error": str(error)})
 
 if __name__ == "__main__":
     server = ThreadingHTTPServer(("127.0.0.1", 8000), Handler)

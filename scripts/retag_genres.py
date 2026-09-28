@@ -2,54 +2,53 @@ import json
 import re
 from pathlib import Path
 
-root = Path(__file__).resolve().parents[1]
-path = root / "data" / "works.json"
-data = json.loads(path.read_text(encoding="utf-8"))
+ROOT = Path(__file__).resolve().parents[1]
+WORKS = ROOT / "data" / "works.json"
 
-BATTLE = re.compile(
-    r"\b(battle|battles|war|wars|combat|assault|siege|skirmish|"
-    r"massacre|bombardment|cavalry charge|naval battle|"
-    r"fight|fighting|conflict|storming|raid)\b",
-    re.I,
-)
+RULES = [
+    ("battle", r"\b(battle|combat|war|siege|assault|cavalry charge|skirmish|massacre|naval battle)\b"),
+    ("animal", r"\b(horse|horses|dog|dogs|cattle|cow|bull|lion|lions|sheep|hunt|hunting|spaniel|stallion)\b"),
+    ("marine", r"\b(seascape|marine|man-of-war|men-o['’]?war|harbour|harbor|fleet|shipping|calm sea|rough sea)\b"),
+    ("still-life", r"\b(still[- ]life|bodegon|breakfast piece|vanitas|flower piece|fruit piece)\b"),
+    ("cityscape", r"\b(view of|cityscape|townscape|piazza|veduta|street in|market square)\b"),
+    ("interior", r"\b(interior|in the studio|church interior)\b"),
+    ("allegory", r"\b(allegory|allegorical)\b"),
+    ("landscape", r"\b(landscape|valley|forest|woodland|river scene|winter scene|coast)\b"),
+    ("portrait", r"\b(portrait|self[- ]portrait|head of|bust of)\b"),
+    ("religious", r"\b(madonna|virgin|annunciation|adoration|crucifixion|nativity|saint\b|st\.|christ\b|last supper|piet|trinity|assumption)\b"),
+    ("mythological", r"\b(venus|apollo|diana|bacchus|hercules|mars\b|minerva|neptune|cupid|nymph)\b"),
+    ("history", r"\b(history painting|coronation|abdication|triumph of)\b"),
+    ("genre-scene", r"\b(tavern|peasant|card players|merry company)\b"),
+]
 
-def map_genre(work):
-    text = " ".join([
-        work.get("title") or "",
-        work.get("genre") or "",
+data = json.loads(WORKS.read_text(encoding="utf-8"))
+works = data.get("works", [])
+counts = {key: 0 for key, _ in RULES}
+untouched = 0
+
+for work in works:
+    current = (work.get("genre") or "other").lower()
+    if current not in ("", "other", "unknown"):
+        continue
+    blob = " ".join([
+        str(work.get("title") or ""),
+        str(work.get("artist_name") or ""),
     ]).lower()
+    matched = None
+    for key, pattern in RULES:
+        if re.search(pattern, blob, re.I):
+            matched = key
+            break
+    if matched:
+        work["genre"] = matched
+        counts[matched] += 1
+    else:
+        work["genre"] = "other"
+        untouched += 1
 
-    if BATTLE.search(text):
-        return "battle"
-    if "portrait" in text:
-        return "portrait"
-    if "landscape" in text or "cityscape" in text:
-        return "landscape"
-    if "still" in text:
-        return "still-life"
-    if "history" in text:
-        return "history"
-    if "religious" in text or "altar" in text:
-        return "religious"
-    if "myth" in text:
-        return "mythological"
-    if "genre" in text:
-        return "genre-scene"
-    if "marine" in text or "seascape" in text:
-        return "landscape"
-    if work.get("genre") in {
-        "portrait", "landscape", "still-life", "history",
-        "religious", "mythological", "genre-scene", "battle",
-    }:
-        return work["genre"]
-    return "other"
-
-counts = {}
-for work in data["works"]:
-    work["genre"] = map_genre(work)
-    counts[work["genre"]] = counts.get(work["genre"], 0) + 1
-
-path.write_text(json.dumps(data, indent=2), encoding="utf-8")
-print("Retagged", len(data["works"]), "works")
-for key, value in sorted(counts.items()):
-    print(f"  {key}: {value}")
+data["works"] = works
+WORKS.write_text(json.dumps(data, indent=2), encoding="utf-8")
+print("Moved from other:")
+for key, n in counts.items():
+    print(" ", key, n)
+print("Still other:", untouched)
