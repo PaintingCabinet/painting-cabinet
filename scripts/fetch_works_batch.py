@@ -13,9 +13,9 @@ ARTISTS_PATH = ROOT / "data" / "artists.json"
 WORKS_PATH = ROOT / "data" / "works.json"
 REJECTED_PATH = ROOT / "data" / "rejected.json"
 
-OFFSET = 8555
+OFFSET = 14998
 BATCH_SIZE = 19000
-LIMIT_EACH = 300
+LIMIT_EACH = 420
 
 SKIP_WORDS = (
     "black and white", "black-and-white", "b&w", "b-w",
