@@ -23,7 +23,7 @@ PICKS = [
     (["Vincent van Gogh"], ["Starry Night", "Sunflowers"]),
     (["Claude Monet"], ["Impression, Sunrise", "Water Lilies"]),
     (["Diego Velázquez"], ["Las Meninas"]),
-    (["Caravaggio"], ["Supper at Emmaus"]),
+    (["Jan Brueghel the Elder"], ["Assault on a Convoy"]),
     (["Sandro Botticelli"], ["Birth of Venus", "Primavera"]),
     (["J. M. W. Turner"], ["Fighting Temeraire"]),
 ]
